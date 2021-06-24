@@ -20,6 +20,7 @@
 #### Autores:✒️
 
 - **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
+- **Daniel Eduardo Sarco Jacinto** - _GitHub Account_ - [Gogetassj999](https://github.com/Gogetassj999)
 
 
 ---
