@@ -23,7 +23,7 @@
 - **Daniel Eduardo Sarco Jacinto** - _GitHub Account_ - [Gogetassj999](https://github.com/Gogetassj999)
 - **Elizon Frank Carcausto Mamani** - _GitHub Account_ - [FrankCM-ia](https://github.com/FrankCM-ia)
 - **Alex Christopher Villafuerte Turpo** - _GitHub Account_ - [SAXPADS](https://github.com/SAXPADS)
-
+- **Mileydy Ninantay Diaz** - _GitHub Account_ - [mile1107](https://github.com/mile1107)
 
 ---
 
