@@ -24,9 +24,7 @@
 - **Elizon Frank Carcausto Mamani** - _GitHub Account_ - [FrankCM-ia](https://github.com/FrankCM-ia)
 - **Alex Christopher Villafuerte Turpo** - _GitHub Account_ - [SAXPADS](https://github.com/SAXPADS)
 - **Mileydy Ninantay Diaz** - _GitHub Account_ - [mile1107](https://github.com/mile1107)
-- ** Richard Mikhael Pereira Chinchero ** - _ Cuenta de GitHub_ - [Richrd-321]_(https:github.com/Richrd-321) 
----
-
+- **Richard Mikhael Pereira Chinchero** - _GitHub Account_ - [Richrd-321](https:github.com/Richrd-321)
 ## GO
 
 
