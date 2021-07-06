@@ -2,15 +2,23 @@ import os
 import json
 import re
 from nltk.corpus import stopwords
+# importing all necessary modules
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+import pandas as pd
 
 # Esta función toma la lista de palabras en una oración como entrada
 # y devuelve un vector de tamaño de filter_vocab. Cuantifica la cantidad de veces que se repite cada palabra del 
 # filter_vocab
 def vectorize(tokens,filtrado): #[hola,mano,que,fue,mano]
     vector=[]
+    txt = ''
     for w in filtrado: #[hola,mano]
-        vector.append(tokens.count(w))
-    return vector #[1,2]
+        Cantidad = tokens.count(w)
+        vector.append(Cantidad)
+        for x in range(Cantidad):
+            txt += (w+" ")
+    return vector,txt #[1,2]
 
 # Esta función devuelve una lista de palabras sin que alguna se repita
 def unique(sequence): #[hola,mano,que,fue,mano]
@@ -73,10 +81,12 @@ for tokens in vocabulario:
             filtered_vocab.append(token)
     vocabulario_filtrado.append(filtered_vocab)
 
+comment_words = ''
 vectores=[]
 for i in range(len(corpus_token)):
-    vector=vectorize(corpus_token[i],vocabulario_filtrado[i])
+    vector,text = vectorize(corpus_token[i],vocabulario_filtrado[i])
     vectores.append(vector)
+    comment_words += (text+" ")
 
 for e in vocabulario_filtrado:
     print(e)
@@ -84,3 +94,15 @@ for e in vocabulario_filtrado:
 for e in vectores:
     print(e)
 
+# NUBE DE PALABRAS
+#print(comment_words)
+wordcloud = WordCloud(width = 700, height = 700,
+                background_color ='white',
+                min_font_size = 10, collocations=False).generate(comment_words)
+ 
+# plot the WordCloud image                      
+plt.figure(figsize = (6, 6), facecolor = None)
+plt.imshow(wordcloud)
+plt.axis("off")
+plt.tight_layout(pad = 0) 
+plt.show()
