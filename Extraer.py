@@ -1,5 +1,6 @@
 import tweepy
 import json
+import os
 from autenticate import get_auth
 
 #Validacion de los Keys
@@ -13,16 +14,19 @@ data = trends1[0]
 trends = data["trends"]
 # Poner los trends en una lista
 names = [trend["name"] for trend in trends]
-# poner todos los nombres juntos con una "" separándolos
-#trendsName = " ".join(names)
 
-#evitar el sueño de la api
-sleep_on_rate_limit=False
+# top 5
+names = names[:6]
+#os.mkdir('tweets')
 
 for key in names:
-    for tweet in tweepy.Cursor(api.search, q = key, tweet_mode = "extended").items(100):
+    # separamos temas por carpetas
+    carpeta = 'tweets/' + str(key)
+    os.mkdir(carpeta)
+
+    for tweet in tweepy.Cursor(api.search, q = key, tweet_mode = "extended", lang = 'es' ).items(5):
         print(tweet._json)
-        name_file = "tweets/" + tweet._json["id_str"] + ".json"
+        name_file = carpeta + '/' + tweet._json["id_str"] + ".json"
         print("============================================================================")
         with open(name_file, 'a') as file:
             json.dump(tweet._json, file, indent=4)
