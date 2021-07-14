@@ -1,0 +1,428 @@
+{
+    "created_at": "Mon Jul 12 04:52:14 +0000 2021",
+    "id": 1414447487499309056,
+    "id_str": "1414447487499309056",
+    "full_text": "RT @vimefa: Tenemos ALCALDE EN LIMA???",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        38
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "vimefa",
+                "name": "Victor Meza",
+                "id": 86143566,
+                "id_str": "86143566",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 970078550022909953,
+        "id_str": "970078550022909953",
+        "name": "Ida Benavente Amado",
+        "screen_name": "IdaAmado",
+        "location": "Arequipa, Peru",
+        "description": "La justicia",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 446,
+        "friends_count": 839,
+        "listed_count": 0,
+        "created_at": "Sat Mar 03 23:28:44 +0000 2018",
+        "favourites_count": 69354,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14022,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381801467456192515/yUglPu1R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381801467456192515/yUglPu1R_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/970078550022909953/1618282115",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 04:45:58 +0000 2021",
+        "id": 1414445907878293505,
+        "id_str": "1414445907878293505",
+        "full_text": "Tenemos ALCALDE EN LIMA??? https://t.co/FYCg5MuUeF",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            26
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/FYCg5MuUeF",
+                    "expanded_url": "https://twitter.com/spookyniner/status/1414210055399002115",
+                    "display_url": "twitter.com/spookyniner/st\u2026",
+                    "indices": [
+                        27,
+                        50
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 86143566,
+            "id_str": "86143566",
+            "name": "Victor Meza",
+            "screen_name": "vimefa",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 675,
+            "friends_count": 1344,
+            "listed_count": 18,
+            "created_at": "Thu Oct 29 19:32:39 +0000 2009",
+            "favourites_count": 45174,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 124450,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1373346054922502155/JvlghFTz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373346054922502155/JvlghFTz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/86143566/1616266420",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414210055399002115,
+        "quoted_status_id_str": "1414210055399002115",
+        "quoted_status": {
+            "created_at": "Sun Jul 11 13:08:46 +0000 2021",
+            "id": 1414210055399002115,
+            "id_str": "1414210055399002115",
+            "full_text": "Mayami? Europa? #Lima. Nadie sin mascarilla, todos amontonados. Se fue el covid al parecer. Lo peor es que anuncian estos eventos PUBLICAMENTE y no fiscalizan nada! lo mismo con los bares que atienden en privados, hasta cuando? @MuniLima @MuniMiraflores @JorgeMunozPe https://t.co/IIhg0Xx5oR",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                267
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Lima",
+                        "indices": [
+                            16,
+                            21
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MuniLima",
+                        "name": "Municipalidad de Lima",
+                        "id": 158871696,
+                        "id_str": "158871696",
+                        "indices": [
+                            228,
+                            237
+                        ]
+                    },
+                    {
+                        "screen_name": "MuniMiraflores",
+                        "name": "Muni de Miraflores",
+                        "id": 234602609,
+                        "id_str": "234602609",
+                        "indices": [
+                            238,
+                            253
+                        ]
+                    },
+                    {
+                        "screen_name": "JorgeMunozPe",
+                        "name": "Jorge Mu\u00f1oz",
+                        "id": 163504378,
+                        "id_str": "163504378",
+                        "indices": [
+                            254,
+                            267
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1414209911303675912,
+                        "id_str": "1414209911303675912",
+                        "indices": [
+                            268,
+                            291
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414209911303675912/pu/img/H_FRaoFZnuvIYNVo.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414209911303675912/pu/img/H_FRaoFZnuvIYNVo.jpg",
+                        "url": "https://t.co/IIhg0Xx5oR",
+                        "display_url": "pic.twitter.com/IIhg0Xx5oR",
+                        "expanded_url": "https://twitter.com/spookyniner/status/1414210055399002115/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 480,
+                                "h": 1014,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 480,
+                                "h": 1014,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 322,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1414209911303675912,
+                        "id_str": "1414209911303675912",
+                        "indices": [
+                            268,
+                            291
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414209911303675912/pu/img/H_FRaoFZnuvIYNVo.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414209911303675912/pu/img/H_FRaoFZnuvIYNVo.jpg",
+                        "url": "https://t.co/IIhg0Xx5oR",
+                        "display_url": "pic.twitter.com/IIhg0Xx5oR",
+                        "expanded_url": "https://twitter.com/spookyniner/status/1414210055399002115/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 480,
+                                "h": 1014,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 480,
+                                "h": 1014,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 322,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                80,
+                                169
+                            ],
+                            "duration_millis": 39478,
+                            "variants": [
+                                {
+                                    "bitrate": 950000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1414209911303675912/pu/vid/480x1014/MPqMHn29OM8L8r6I.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1414209911303675912/pu/vid/320x676/sOd_lAc7qNlp8U1F.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1414209911303675912/pu/pl/KQlv75AL9kuHAuFf.m3u8?tag=12&container=fmp4"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1046019634913300480,
+                "id_str": "1046019634913300480",
+                "name": "caaaaarl",
+                "screen_name": "spookyniner",
+                "location": "East Is Up",
+                "description": "trash, but surprisingly saved by grace",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 150,
+                "friends_count": 238,
+                "listed_count": 1,
+                "created_at": "Sat Sep 29 12:51:29 +0000 2018",
+                "favourites_count": 18582,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11570,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1396073247947558915/TOG3qQ_u_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396073247947558915/TOG3qQ_u_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1046019634913300480/1538614879",
+                "profile_link_color": "279D86",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 207,
+            "favorite_count": 345,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414210055399002115,
+    "quoted_status_id_str": "1414210055399002115",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

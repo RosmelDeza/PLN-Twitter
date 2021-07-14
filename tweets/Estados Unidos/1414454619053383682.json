@@ -1,0 +1,273 @@
+{
+    "created_at": "Mon Jul 12 05:20:35 +0000 2021",
+    "id": 1414454619053383682,
+    "id_str": "1414454619053383682",
+    "full_text": "RT @Mujer_Sinuana77: No la tendr\u00e1 f\u00e1cil Iv\u00e1n Cepeda quien habilidosamente ha borrado los rastros de sus cientos de visitas a las c\u00e1rceles d\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Mujer_Sinuana77",
+                "name": "Aracelis Tirado Perez",
+                "id": 1559286102,
+                "id_str": "1559286102",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1182396363134439424,
+        "id_str": "1182396363134439424",
+        "name": "NICH\u00cdN",
+        "screen_name": "nichin97",
+        "location": "Bucaramanga, Colombia",
+        "description": "DIGO LO QUE ME DA LA GANA, NADA POR LA IZQUIERDA. TODO AF\u00cdN AL SOCIALISMO ES UN H1JU3PU74.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2282,
+        "friends_count": 2275,
+        "listed_count": 2,
+        "created_at": "Thu Oct 10 20:44:14 +0000 2019",
+        "favourites_count": 283,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 62072,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1335350984344788999/b_BX6oEg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1335350984344788999/b_BX6oEg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182396363134439424/1623628755",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 01:03:05 +0000 2021",
+        "id": 1413665041862340608,
+        "id_str": "1413665041862340608",
+        "full_text": "No la tendr\u00e1 f\u00e1cil Iv\u00e1n Cepeda quien habilidosamente ha borrado los rastros de sus cientos de visitas a las c\u00e1rceles de Colombia con el prop\u00f3sito de conseguir falsos testigos contra el expresidente @AlvaroUribeVel maniobra que no podr\u00e1 poner en marcha en los Estados Unidos. https://t.co/pIYmIRo39U",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AlvaroUribeVel",
+                    "name": "\u00c1lvaro Uribe V\u00e9lez",
+                    "id": 61097151,
+                    "id_str": "61097151",
+                    "indices": [
+                        198,
+                        213
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413665039844888581,
+                    "id_str": "1413665039844888581",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55Y3SNX0AUC3Ht.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55Y3SNX0AUC3Ht.jpg",
+                    "url": "https://t.co/pIYmIRo39U",
+                    "display_url": "pic.twitter.com/pIYmIRo39U",
+                    "expanded_url": "https://twitter.com/Mujer_Sinuana77/status/1413665041862340608/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1068,
+                            "h": 973,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 620,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1068,
+                            "h": 973,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413665039844888581,
+                    "id_str": "1413665039844888581",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55Y3SNX0AUC3Ht.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55Y3SNX0AUC3Ht.jpg",
+                    "url": "https://t.co/pIYmIRo39U",
+                    "display_url": "pic.twitter.com/pIYmIRo39U",
+                    "expanded_url": "https://twitter.com/Mujer_Sinuana77/status/1413665041862340608/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1068,
+                            "h": 973,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 620,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1068,
+                            "h": 973,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1559286102,
+            "id_str": "1559286102",
+            "name": "Aracelis Tirado Perez",
+            "screen_name": "Mujer_Sinuana77",
+            "location": "",
+            "description": "\u00a1 Orgullosamente C\u00f3rdobesa!\nPor la derecha \ud83d\udcaf X\ud83d\udcaf\n#MeApellidoUribeVelez\n#YoProtejoMiPais \ud83c\udde8\ud83c\uddf4\n#NoMasParo\n#NoMasBloqueos\n#MasUribustaQueNunca\nNo DM",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6951,
+            "friends_count": 5600,
+            "listed_count": 3,
+            "created_at": "Mon Jul 01 01:10:30 +0000 2013",
+            "favourites_count": 25870,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14654,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414308664278671363/Iu1APTK0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414308664278671363/Iu1APTK0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559286102/1622425715",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 352,
+        "favorite_count": 480,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 352,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

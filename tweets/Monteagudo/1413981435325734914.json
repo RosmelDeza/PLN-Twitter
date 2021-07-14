@@ -1,0 +1,252 @@
+{
+    "created_at": "Sat Jul 10 22:00:19 +0000 2021",
+    "id": 1413981435325734914,
+    "id_str": "1413981435325734914",
+    "full_text": "\u201cYo no renuncio a la esperanza de servir a mi pa\u00eds\u201d.\nBernardo de Monteagudo\n\n\u25b6\ufe0f AVELLANEDA: Difusi\u00f3n de #BuenosAiresVacunate en Pi\u00f1eyro.\nJornada Nacional #LibertadAMilagro https://t.co/aOieUICkPB",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        171
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuenosAiresVacunate",
+                "indices": [
+                    104,
+                    124
+                ]
+            },
+            {
+                "text": "LibertadAMilagro",
+                "indices": [
+                    154,
+                    171
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1413980363207098368,
+                "id_str": "1413980363207098368",
+                "indices": [
+                    172,
+                    195
+                ],
+                "media_url": "http://pbs.twimg.com/media/E593phRWQAAOprS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E593phRWQAAOprS.jpg",
+                "url": "https://t.co/aOieUICkPB",
+                "display_url": "pic.twitter.com/aOieUICkPB",
+                "expanded_url": "https://twitter.com/CM_Lealtad/status/1413981435325734914/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1413980363207098368,
+                "id_str": "1413980363207098368",
+                "indices": [
+                    172,
+                    195
+                ],
+                "media_url": "http://pbs.twimg.com/media/E593phRWQAAOprS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E593phRWQAAOprS.jpg",
+                "url": "https://t.co/aOieUICkPB",
+                "display_url": "pic.twitter.com/aOieUICkPB",
+                "expanded_url": "https://twitter.com/CM_Lealtad/status/1413981435325734914/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1413980363949490176,
+                "id_str": "1413980363949490176",
+                "indices": [
+                    172,
+                    195
+                ],
+                "media_url": "http://pbs.twimg.com/media/E593pkCWQAADEYp.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E593pkCWQAADEYp.jpg",
+                "url": "https://t.co/aOieUICkPB",
+                "display_url": "pic.twitter.com/aOieUICkPB",
+                "expanded_url": "https://twitter.com/CM_Lealtad/status/1413981435325734914/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 1600,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1413980364561960961,
+                "id_str": "1413980364561960961",
+                "indices": [
+                    172,
+                    195
+                ],
+                "media_url": "http://pbs.twimg.com/media/E593pmUX0AEbCly.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E593pmUX0AEbCly.jpg",
+                "url": "https://t.co/aOieUICkPB",
+                "display_url": "pic.twitter.com/aOieUICkPB",
+                "expanded_url": "https://twitter.com/CM_Lealtad/status/1413981435325734914/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1413981429835444228,
+    "in_reply_to_status_id_str": "1413981429835444228",
+    "in_reply_to_user_id": 3374198391,
+    "in_reply_to_user_id_str": "3374198391",
+    "in_reply_to_screen_name": "CM_Lealtad",
+    "user": {
+        "id": 3374198391,
+        "id_str": "3374198391",
+        "name": "Corriente Militante Lealtad",
+        "screen_name": "CM_Lealtad",
+        "location": "Buenos Aires, Argentina",
+        "description": "Compa\u00f1erxs de destino unidxs por la #LEALTAD \u00a1Siempre con Cristina!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4826,
+        "friends_count": 1430,
+        "listed_count": 18,
+        "created_at": "Mon Jul 13 16:43:58 +0000 2015",
+        "favourites_count": 48888,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 42884,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1375255738193444870/SmAWPwua_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375255738193444870/SmAWPwua_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3374198391/1603062074",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

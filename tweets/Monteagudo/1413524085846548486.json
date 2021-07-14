@@ -1,0 +1,183 @@
+{
+    "created_at": "Fri Jul 09 15:42:58 +0000 2021",
+    "id": 1413524085846548486,
+    "id_str": "1413524085846548486",
+    "full_text": "RT @mirisflais: Est\u00e1n haci\u00e9ndole m\u00e1s caso a la mam\u00e1 de Yosstop que a las mam\u00e1s de lxs desaparecidxs, lxs levantadxs, las asesinadas, lxs de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mirisflais",
+                "name": "miris (ella/she/her)",
+                "id": 150108317,
+                "id_str": "150108317",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3060697462,
+        "id_str": "3060697462",
+        "name": "Belli",
+        "screen_name": "Bea_Monteagudo",
+        "location": "San Vicente, El Salvador",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 535,
+        "friends_count": 425,
+        "listed_count": 0,
+        "created_at": "Wed Feb 25 03:20:53 +0000 2015",
+        "favourites_count": 87524,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7877,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397613416257400835/pekilaC9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397613416257400835/pekilaC9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3060697462/1584323805",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 08 18:39:00 +0000 2021",
+        "id": 1413205995933769735,
+        "id_str": "1413205995933769735",
+        "full_text": "Est\u00e1n haci\u00e9ndole m\u00e1s caso a la mam\u00e1 de Yosstop que a las mam\u00e1s de lxs desaparecidxs, lxs levantadxs, las asesinadas, lxs de la l\u00ednea 12\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            136
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 150108317,
+            "id_str": "150108317",
+            "name": "miris (ella/she/her)",
+            "screen_name": "mirisflais",
+            "location": "",
+            "description": "ready to fight god, or become her",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1360,
+            "friends_count": 1088,
+            "listed_count": 6,
+            "created_at": "Mon May 31 03:15:26 +0000 2010",
+            "favourites_count": 132897,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 54819,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412614964955828225/IngxJ3HO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412614964955828225/IngxJ3HO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/150108317/1584121103",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1794,
+        "favorite_count": 10003,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1794,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

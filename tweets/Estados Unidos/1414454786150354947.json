@@ -1,0 +1,196 @@
+{
+    "created_at": "Mon Jul 12 05:21:14 +0000 2021",
+    "id": 1414454786150354947,
+    "id_str": "1414454786150354947",
+    "full_text": "RT @mariaoropeza94: El informe de USAID (Agencia de los Estados Unidos para el Desarrollo Internacional) es sumamente grave.\n\nExpone el rie\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mariaoropeza94",
+                "name": "Mar\u00eda Oropeza",
+                "id": 115174471,
+                "id_str": "115174471",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 108957842,
+        "id_str": "108957842",
+        "name": "alcino de oliveira",
+        "screen_name": "alcinodoliveira",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 657,
+        "friends_count": 2582,
+        "listed_count": 3,
+        "created_at": "Wed Jan 27 14:45:27 +0000 2010",
+        "favourites_count": 21,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 812582,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463705400756285440/4IoJu9z3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463705400756285440/4IoJu9z3_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108957842/1578150624",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 17:57:27 +0000 2021",
+        "id": 1414282704527446018,
+        "id_str": "1414282704527446018",
+        "full_text": "El informe de USAID (Agencia de los Estados Unidos para el Desarrollo Internacional) es sumamente grave.\n\nExpone el riesgo de malversaci\u00f3n y fraude con el dinero de la Ayuda Humanitaria para Vzla.\n\nMillones de d\u00f3lares que fueron entregados a ONG's autorizados por el Interinato \ud83e\uddf5",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 115174471,
+            "id_str": "115174471",
+            "name": "Mar\u00eda Oropeza",
+            "screen_name": "mariaoropeza94",
+            "location": "Guanare-Portuguesa",
+            "description": "Abogado / Dirigente de @ventevenezuela /Fundadora de @ConLibertadDeDecir / Guanare\u00f1a y Libertaria / Cuenta Personal",
+            "url": "https://t.co/UU4GRBVEbs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UU4GRBVEbs",
+                            "expanded_url": "https://youtube.com/channel/UCxwQQD7VX5KTLIK8TdIwoqw",
+                            "display_url": "youtube.com/channel/UCxwQQ\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 20174,
+            "friends_count": 8865,
+            "listed_count": 48,
+            "created_at": "Wed Feb 17 21:15:49 +0000 2010",
+            "favourites_count": 16432,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 27823,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "818485",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1189222950869897217/hTSGjFQd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189222950869897217/hTSGjFQd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/115174471/1550951789",
+            "profile_link_color": "080808",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "454747",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 215,
+        "favorite_count": 189,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 215,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

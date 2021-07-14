@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 12 05:20:48 +0000 2021",
+    "id": 1414454673835241476,
+    "id_str": "1414454673835241476",
+    "full_text": "@abrahamendieta @armoherbertz Cuba no tiene un bloqueo, tiene un embargo. El embargo solo le impide comerciar con 1 pa\u00eds : Estados Unidos. \nDe ah\u00ed, Cuba puede comerciar con el resto de 187 pa\u00edses, que son el 85 % de la econom\u00eda mundial. \nSi Cuba es pobre no es por el embargo, es por su comunismo. HDP",
+    "truncated": false,
+    "display_text_range": [
+        30,
+        301
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "abrahamendieta",
+                "name": "Abraham Mendieta",
+                "id": 347524111,
+                "id_str": "347524111",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "armoherbertz",
+                "name": "Armo Herbertz",
+                "id": 589523569,
+                "id_str": "589523569",
+                "indices": [
+                    16,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414448778073894916,
+    "in_reply_to_status_id_str": "1414448778073894916",
+    "in_reply_to_user_id": 347524111,
+    "in_reply_to_user_id_str": "347524111",
+    "in_reply_to_screen_name": "abrahamendieta",
+    "user": {
+        "id": 195351845,
+        "id_str": "195351845",
+        "name": "daniel",
+        "screen_name": "daniel_escola_1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 194,
+        "friends_count": 230,
+        "listed_count": 0,
+        "created_at": "Sun Sep 26 13:47:10 +0000 2010",
+        "favourites_count": 5511,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7215,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413460441745924103/eHrJJ_YC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413460441745924103/eHrJJ_YC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/195351845/1502467961",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,117 @@
+{
+    "created_at": "Mon Jul 12 05:26:22 +0000 2021",
+    "id": 1414456075470901248,
+    "id_str": "1414456075470901248",
+    "full_text": "@renegarcia900 @CatKei_ jajaja que buena @renegarcia900  ;) Dios te bendiga cuidate mucho saludos desde LIMA PERU",
+    "truncated": false,
+    "display_text_range": [
+        24,
+        113
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "renegarcia900",
+                "name": "Rene Garcia",
+                "id": 348556812,
+                "id_str": "348556812",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "CatKei_",
+                "name": ".",
+                "id": 99938653,
+                "id_str": "99938653",
+                "indices": [
+                    15,
+                    23
+                ]
+            },
+            {
+                "screen_name": "renegarcia900",
+                "name": "Rene Garcia",
+                "id": 348556812,
+                "id_str": "348556812",
+                "indices": [
+                    41,
+                    55
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414304850402168837,
+    "in_reply_to_status_id_str": "1414304850402168837",
+    "in_reply_to_user_id": 348556812,
+    "in_reply_to_user_id_str": "348556812",
+    "in_reply_to_screen_name": "renegarcia900",
+    "user": {
+        "id": 314225259,
+        "id_str": "314225259",
+        "name": "Cindy Le\u00f3n",
+        "screen_name": "Cindyc089",
+        "location": "Callao, Peru",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 23,
+        "friends_count": 82,
+        "listed_count": 0,
+        "created_at": "Thu Jun 09 22:29:01 +0000 2011",
+        "favourites_count": 304,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 327,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239337918948413445/Ip27WG6f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239337918948413445/Ip27WG6f_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/314225259/1625736548",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

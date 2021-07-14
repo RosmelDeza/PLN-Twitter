@@ -1,0 +1,217 @@
+{
+    "created_at": "Sat Jul 10 02:49:52 +0000 2021",
+    "id": 1413691914067525636,
+    "id_str": "1413691914067525636",
+    "full_text": "@Naty_campusano @MaiteOrsini @CamilaRojas_V @erikamartinez_o @giovannaroa @ConySchon @tatiurru @danielstingo @TomasVodanovic @fernando_atria @marcelodiazd @MiguelCrispiS @Duranbaronti En el dia de la bandera...la verdadera bandera.\nSin logia lautarina, sin sangre de tantos chilenos ilustres muertos por ellos y en las manos de Ohiggins, Freire, San Martin, Pueyrredon, Monteagudo, etc...",
+    "truncated": false,
+    "display_text_range": [
+        184,
+        388
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Naty_campusano",
+                "name": "Nataly Campusano",
+                "id": 3230936278,
+                "id_str": "3230936278",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "MaiteOrsini",
+                "name": "Maite Orsini Pascal",
+                "id": 118455518,
+                "id_str": "118455518",
+                "indices": [
+                    16,
+                    28
+                ]
+            },
+            {
+                "screen_name": "CamilaRojas_V",
+                "name": "Camila Rojas Valderrama",
+                "id": 359670144,
+                "id_str": "359670144",
+                "indices": [
+                    29,
+                    43
+                ]
+            },
+            {
+                "screen_name": "erikamartinez_o",
+                "name": "Erika Martinez",
+                "id": 31296716,
+                "id_str": "31296716",
+                "indices": [
+                    44,
+                    60
+                ]
+            },
+            {
+                "screen_name": "giovannaroa",
+                "name": "Giovanna Roa #BoricPresidente",
+                "id": 51845139,
+                "id_str": "51845139",
+                "indices": [
+                    61,
+                    73
+                ]
+            },
+            {
+                "screen_name": "ConySchon",
+                "name": "Constanza Schonhaut Soto #Boric2022",
+                "id": 123224111,
+                "id_str": "123224111",
+                "indices": [
+                    74,
+                    84
+                ]
+            },
+            {
+                "screen_name": "tatiurru",
+                "name": "Tatiana Urrutia Constituyente",
+                "id": 72448878,
+                "id_str": "72448878",
+                "indices": [
+                    85,
+                    94
+                ]
+            },
+            {
+                "screen_name": "danielstingo",
+                "name": "Daniel Stingo Camus",
+                "id": 1126281482,
+                "id_str": "1126281482",
+                "indices": [
+                    95,
+                    108
+                ]
+            },
+            {
+                "screen_name": "TomasVodanovic",
+                "name": "Tom\u00e1s Vodanovic Alcalde Maip\u00fa",
+                "id": 132671287,
+                "id_str": "132671287",
+                "indices": [
+                    109,
+                    124
+                ]
+            },
+            {
+                "screen_name": "fernando_atria",
+                "name": "Fernando Atria",
+                "id": 2764352584,
+                "id_str": "2764352584",
+                "indices": [
+                    125,
+                    140
+                ]
+            },
+            {
+                "screen_name": "marcelodiazd",
+                "name": "Marcelo D\u00edaz",
+                "id": 66854685,
+                "id_str": "66854685",
+                "indices": [
+                    141,
+                    154
+                ]
+            },
+            {
+                "screen_name": "MiguelCrispiS",
+                "name": "Miguel Crispi",
+                "id": 57454967,
+                "id_str": "57454967",
+                "indices": [
+                    155,
+                    169
+                ]
+            },
+            {
+                "screen_name": "Duranbaronti",
+                "name": "Gonzalo Dur\u00e1n",
+                "id": 348702136,
+                "id_str": "348702136",
+                "indices": [
+                    170,
+                    183
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1413664804754034695,
+    "in_reply_to_status_id_str": "1413664804754034695",
+    "in_reply_to_user_id": 3230936278,
+    "in_reply_to_user_id_str": "3230936278",
+    "in_reply_to_screen_name": "Naty_campusano",
+    "user": {
+        "id": 1191374579236769792,
+        "id_str": "1191374579236769792",
+        "name": "Movimiento Federal Chile 2019",
+        "screen_name": "federal_2019",
+        "location": "",
+        "description": "Por un Chile en que el poder y la riqueza se distribuyan, Constituci\u00f3n Federal ahora!!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 14,
+        "friends_count": 52,
+        "listed_count": 0,
+        "created_at": "Mon Nov 04 15:20:24 +0000 2019",
+        "favourites_count": 163,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 379,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1307342420716204035/iwp6I-_Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1307342420716204035/iwp6I-_Y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1191374579236769792/1572886326",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,196 @@
+{
+    "created_at": "Mon Jul 12 04:55:18 +0000 2021",
+    "id": 1414448258349518848,
+    "id_str": "1414448258349518848",
+    "full_text": "RT @cursednanu: perd\u00ed mi tel\u00e9fono por justa lima e hip\u00f3lito yrigoyen, hace aproximadamente una hora o un poco m\u00e1s, entre tanta gente. es un\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cursednanu",
+                "name": "no par\u00e9s",
+                "id": 3623908888,
+                "id_str": "3623908888",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 166202283,
+        "id_str": "166202283",
+        "name": "luli godoy",
+        "screen_name": "luli_godoy17",
+        "location": "",
+        "description": "Mi Amor Eterno \ud83d\udc96\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMi dulce Renata 21-04-20",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 136,
+        "friends_count": 153,
+        "listed_count": 0,
+        "created_at": "Tue Jul 13 15:52:46 +0000 2010",
+        "favourites_count": 11460,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8278,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394152208300744712/vG6NdoYs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394152208300744712/vG6NdoYs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/166202283/1619119615",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 04:04:36 +0000 2021",
+        "id": 1414073109381066759,
+        "id_str": "1414073109381066759",
+        "full_text": "perd\u00ed mi tel\u00e9fono por justa lima e hip\u00f3lito yrigoyen, hace aproximadamente una hora o un poco m\u00e1s, entre tanta gente. es un j7 neo plateado, tiene la pantalla rota y una calco de una calabaza atr\u00e1s, si lo encontraron o alguien se los ofrece por favor av\u00edsenme, agradezco difusi\u00f3n",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3623908888,
+            "id_str": "3623908888",
+            "name": "no par\u00e9s",
+            "screen_name": "cursednanu",
+            "location": "saturn",
+            "description": "voy a olvidarme de m\u00ed",
+            "url": "https://t.co/63ExReqwnM",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/63ExReqwnM",
+                            "expanded_url": "http://instagram.com/nanucabrerax",
+                            "display_url": "instagram.com/nanucabrerax",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1232,
+            "friends_count": 298,
+            "listed_count": 19,
+            "created_at": "Fri Sep 11 20:23:20 +0000 2015",
+            "favourites_count": 84992,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 59618,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411865599345627141/89KQoxDB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411865599345627141/89KQoxDB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3623908888/1609039463",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 77,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 77,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

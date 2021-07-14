@@ -1,0 +1,118 @@
+{
+    "created_at": "Fri Jul 09 11:55:21 +0000 2021",
+    "id": 1413466805230788608,
+    "id_str": "1413466805230788608",
+    "full_text": "\ud83d\udda4 Tras ser velados sus restos mortales durante la tarde del jueves y la ma\u00f1ana del viernes en el tanatorio Virgen del Camino de #Monteagudo, este viernes ha recibido sepultura en esta localidad ribera, despu\u00e9s de celebrarse un responso en la intimidad. https://t.co/OFQL7BD47j",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        276
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Monteagudo",
+                "indices": [
+                    128,
+                    139
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/OFQL7BD47j",
+                "expanded_url": "https://www.navarratelevision.es/Noticia/Z6F269513-A94A-0CB1-58374C5FD264D285/entierran-en-monteagudo-a-maria-pilar-berrio",
+                "display_url": "navarratelevision.es/Noticia/Z6F269\u2026",
+                "indices": [
+                    253,
+                    276
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 177862974,
+        "id_str": "177862974",
+        "name": "Navarra Television",
+        "screen_name": "NavarraTV",
+        "location": "Chartered Community of Navarre",
+        "description": "Incluye nuestro WHATSAPP en tu agenda y env\u00eda la palabra ALTA al 669074559 si quieres recibir nuestras noticias en tu m\u00f3vil",
+        "url": "https://t.co/UfvDFZLvdx",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/UfvDFZLvdx",
+                        "expanded_url": "http://www.navarratelevision.es",
+                        "display_url": "navarratelevision.es",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22024,
+        "friends_count": 1439,
+        "listed_count": 315,
+        "created_at": "Fri Aug 13 07:08:10 +0000 2010",
+        "favourites_count": 17000,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 63717,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1370336381235511302/bN-OT-7i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370336381235511302/bN-OT-7i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/177862974/1573127751",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,288 @@
+{
+    "created_at": "Mon Jul 12 04:49:23 +0000 2021",
+    "id": 1414446768096432128,
+    "id_str": "1414446768096432128",
+    "full_text": "RT @Salud_en_casa1: Fechas del #Vacunaton en Lima y Callao:\n\nS\u00e1b 10: Mayores de 47 a\u00f1os\nS\u00e1b 17: Mayores de 45 a\u00f1os \nS\u00e1b 24: Pendientes de s\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Vacunaton",
+                "indices": [
+                    31,
+                    41
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Salud_en_casa1",
+                "name": "Salud en Casa",
+                "id": 2367472622,
+                "id_str": "2367472622",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1196596692302409728,
+        "id_str": "1196596692302409728",
+        "name": "Arturo Linian",
+        "screen_name": "ArturoLinian",
+        "location": "Lima, Tacna, Per\u00fa",
+        "description": "\u00cdntegro, sincero y honesto",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 66,
+        "friends_count": 130,
+        "listed_count": 1,
+        "created_at": "Tue Nov 19 01:11:12 +0000 2019",
+        "favourites_count": 13053,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18854,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1207663313116684288/I3RD4OPM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207663313116684288/I3RD4OPM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196596692302409728/1576764407",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 08 03:41:28 +0000 2021",
+        "id": 1412980124337774592,
+        "id_str": "1412980124337774592",
+        "full_text": "Fechas del #Vacunaton en Lima y Callao:\n\nS\u00e1b 10: Mayores de 47 a\u00f1os\nS\u00e1b 17: Mayores de 45 a\u00f1os \nS\u00e1b 24: Pendientes de segunda dosis, rezagados de primera dosis y adolescentes con comorbilidades de 12 a 17 a\u00f1os. \n\nSe realizar\u00e1 en 21 centros de vacunaci\u00f3n.\n\n(Difundir por favor). https://t.co/lHSvb4NS42",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Vacunaton",
+                    "indices": [
+                        11,
+                        21
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1412979501827563521,
+                    "id_str": "1412979501827563521",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5vpXuFXIAExLPK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5vpXuFXIAExLPK.jpg",
+                    "url": "https://t.co/lHSvb4NS42",
+                    "display_url": "pic.twitter.com/lHSvb4NS42",
+                    "expanded_url": "https://twitter.com/Salud_en_casa1/status/1412980124337774592/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 554,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 978,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1325,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1412979501827563521,
+                    "id_str": "1412979501827563521",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5vpXuFXIAExLPK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5vpXuFXIAExLPK.jpg",
+                    "url": "https://t.co/lHSvb4NS42",
+                    "display_url": "pic.twitter.com/lHSvb4NS42",
+                    "expanded_url": "https://twitter.com/Salud_en_casa1/status/1412980124337774592/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 554,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 978,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1325,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2367472622,
+            "id_str": "2367472622",
+            "name": "Salud en Casa",
+            "screen_name": "Salud_en_casa1",
+            "location": "Peru",
+            "description": "Somos  un espacio dedicado a la poblaci\u00f3n, mediante consejos de especialistas de salud.. Encuentranos en: https://t.co/Go6ekrNKLX",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Go6ekrNKLX",
+                            "expanded_url": "https://www.facebook.com/pages/Salud-en-Casa/459742357428274?focus_composer=true&ref_type=bookmark",
+                            "display_url": "facebook.com/pages/Salud-en\u2026",
+                            "indices": [
+                                106,
+                                129
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 8067,
+            "friends_count": 3366,
+            "listed_count": 85,
+            "created_at": "Sat Mar 01 18:54:22 +0000 2014",
+            "favourites_count": 77343,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 112042,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409175268682612745/pivFwsPT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409175268682612745/pivFwsPT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2367472622/1622726039",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 240,
+        "favorite_count": 308,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 240,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

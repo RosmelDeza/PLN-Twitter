@@ -1,0 +1,206 @@
+{
+    "created_at": "Mon Jul 12 04:52:32 +0000 2021",
+    "id": 1414447562266918913,
+    "id_str": "1414447562266918913",
+    "full_text": "RT @Marwanmusica: Espa\u00f1a tiene mucho m\u00e1s f\u00fatbol que Italia e Inglaterra de aqu\u00ed a lima. Si hubi\u00e9ramos tenido un buen delantero...",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        129
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Marwanmusica",
+                "name": "Marw\u00e1n",
+                "id": 224261016,
+                "id_str": "224261016",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1952353406,
+        "id_str": "1952353406",
+        "name": "Ce.\ud83d\ude0f\ud83d\udca2",
+        "screen_name": "Crs93_",
+        "location": "",
+        "description": "ARQUITECTA DE SONRISAS SINCE 1993. RMCF \u2665\ufe0f MM93. \u2728Ig: celinars\u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1669,
+        "friends_count": 424,
+        "listed_count": 4,
+        "created_at": "Thu Oct 10 18:31:24 +0000 2013",
+        "favourites_count": 17018,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 63009,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1364260679969083393/2cKZEiG8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1364260679969083393/2cKZEiG8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1952353406/1615517020",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 20:52:25 +0000 2021",
+        "id": 1414326736909737987,
+        "id_str": "1414326736909737987",
+        "full_text": "Espa\u00f1a tiene mucho m\u00e1s f\u00fatbol que Italia e Inglaterra de aqu\u00ed a lima. Si hubi\u00e9ramos tenido un buen delantero...",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            111
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 224261016,
+            "id_str": "224261016",
+            "name": "Marw\u00e1n",
+            "screen_name": "Marwanmusica",
+            "location": "Madrid",
+            "description": "Escucha \u201c5 gramos de resentimiento\u201d junto a Nach: https://t.co/mCCUyg9x8B Contrataci\u00f3n: contratacion@emergeproducciones.com",
+            "url": "https://t.co/mXPbEX0dEU",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mXPbEX0dEU",
+                            "expanded_url": "http://www.marwanweb.com",
+                            "display_url": "marwanweb.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mCCUyg9x8B",
+                            "expanded_url": "https://Marwanmusica.lnk.to/5GramosDeResentimientoftNach",
+                            "display_url": "Marwanmusica.lnk.to/5GramosDeResen\u2026",
+                            "indices": [
+                                50,
+                                73
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 162282,
+            "friends_count": 1146,
+            "listed_count": 665,
+            "created_at": "Wed Dec 08 15:20:16 +0000 2010",
+            "favourites_count": 47214,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 44237,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "524F52",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1386640150067924995/0ZEW2haE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386640150067924995/0ZEW2haE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/224261016/1625831060",
+            "profile_link_color": "0525F5",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 156,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

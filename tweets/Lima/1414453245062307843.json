@@ -1,0 +1,411 @@
+{
+    "created_at": "Mon Jul 12 05:15:07 +0000 2021",
+    "id": 1414453245062307843,
+    "id_str": "1414453245062307843",
+    "full_text": "RT @Minsa_Peru: \u00a1Empez\u00f3 la primera jornada del Vacunat\u00f3n contra la COVID-19 en Lima Metropolitana y Callao! Desde hoy, hasta las 7 p.m. del\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Minsa_Peru",
+                "name": "Ministerio de Salud",
+                "id": 138471254,
+                "id_str": "138471254",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 791556115012214784,
+        "id_str": "791556115012214784",
+        "name": "Susy Morales coz",
+        "screen_name": "Susymoralesc",
+        "location": "",
+        "description": "",
+        "url": "https://t.co/PfCQxqJNSs",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/PfCQxqJNSs",
+                        "expanded_url": "http://www.versoscautivosdesusy.blogspot.com/",
+                        "display_url": "versoscautivosdesusy.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 62,
+        "friends_count": 102,
+        "listed_count": 1,
+        "created_at": "Thu Oct 27 08:24:19 +0000 2016",
+        "favourites_count": 907,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7676,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/805374853100531713/ZQfuO_Em_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/805374853100531713/ZQfuO_Em_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/791556115012214784/1568505607",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 12:34:20 +0000 2021",
+        "id": 1413839003271503877,
+        "id_str": "1413839003271503877",
+        "full_text": "\u00a1Empez\u00f3 la primera jornada del Vacunat\u00f3n contra la COVID-19 en Lima Metropolitana y Callao! Desde hoy, hasta las 7 p.m. del domingo 11 de julio, vacunaremos a los mayores de 47 a\u00f1os de manera ininterrumpida, incluyendo horario madrugada. #JuntosPorElVacunat\u00f3n \ud83d\udcaa\ud83c\udffc #PongoElHombro \ud83c\uddf5\ud83c\uddea https://t.co/aoyV9a2ioB",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JuntosPorElVacunat\u00f3n",
+                    "indices": [
+                        238,
+                        259
+                    ]
+                },
+                {
+                    "text": "PongoElHombro",
+                    "indices": [
+                        263,
+                        277
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413838987119235074,
+                    "id_str": "1413838987119235074",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E573EWTXEAI3bsi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E573EWTXEAI3bsi.jpg",
+                    "url": "https://t.co/aoyV9a2ioB",
+                    "display_url": "pic.twitter.com/aoyV9a2ioB",
+                    "expanded_url": "https://twitter.com/Minsa_Peru/status/1413839003271503877/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 468,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 704,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 704,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413838987119235074,
+                    "id_str": "1413838987119235074",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E573EWTXEAI3bsi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E573EWTXEAI3bsi.jpg",
+                    "url": "https://t.co/aoyV9a2ioB",
+                    "display_url": "pic.twitter.com/aoyV9a2ioB",
+                    "expanded_url": "https://twitter.com/Minsa_Peru/status/1413839003271503877/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 468,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 704,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 704,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1413838991510679555,
+                    "id_str": "1413838991510679555",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E573EmqXMAM0tKB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E573EmqXMAM0tKB.jpg",
+                    "url": "https://t.co/aoyV9a2ioB",
+                    "display_url": "pic.twitter.com/aoyV9a2ioB",
+                    "expanded_url": "https://twitter.com/Minsa_Peru/status/1413839003271503877/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1024,
+                            "h": 682,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 682,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1413838996787146752,
+                    "id_str": "1413838996787146752",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E573E6UXsAArswL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E573E6UXsAArswL.jpg",
+                    "url": "https://t.co/aoyV9a2ioB",
+                    "display_url": "pic.twitter.com/aoyV9a2ioB",
+                    "expanded_url": "https://twitter.com/Minsa_Peru/status/1413839003271503877/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 662,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 440,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 662,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1413839001233068036,
+                    "id_str": "1413839001233068036",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E573FK4XEAQ4Wph.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E573FK4XEAQ4Wph.jpg",
+                    "url": "https://t.co/aoyV9a2ioB",
+                    "display_url": "pic.twitter.com/aoyV9a2ioB",
+                    "expanded_url": "https://twitter.com/Minsa_Peru/status/1413839003271503877/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 538,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 810,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 810,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 138471254,
+            "id_str": "138471254",
+            "name": "Ministerio de Salud",
+            "screen_name": "Minsa_Peru",
+            "location": "Lima, Per\u00fa",
+            "description": "#PongoElHombro\n#NoBajemosLaGuardia",
+            "url": "https://t.co/iW7Uk8VKj8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/iW7Uk8VKj8",
+                            "expanded_url": "http://www.minsa.gob.pe",
+                            "display_url": "minsa.gob.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 965830,
+            "friends_count": 3613,
+            "listed_count": 1293,
+            "created_at": "Thu Apr 29 16:50:55 +0000 2010",
+            "favourites_count": 27461,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 66008,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1289445523313831937/zDkbHW8q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1289445523313831937/zDkbHW8q_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/138471254/1626034082",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 837,
+        "favorite_count": 2963,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 837,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,392 @@
+{
+    "created_at": "Mon Jul 12 00:34:40 +0000 2021",
+    "id": 1414382667496411137,
+    "id_str": "1414382667496411137",
+    "full_text": "RT @AdrianzenEduard: Monteagudo de #ElUltimoBastion ha vuelto!!! \ud83d\ude40\ud83d\ude40\ud83d\ude40\ud83d\ude40\nY en vivo y en directo, desde el 15, en el Paseo de las Aguas (parque\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ElUltimoBastion",
+                "indices": [
+                    35,
+                    51
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AdrianzenEduard",
+                "name": "Eduardo Adrianz\u00e9n",
+                "id": 303521189,
+                "id_str": "303521189",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 170745268,
+        "id_str": "170745268",
+        "name": "Cathy Burga\ud83e\udd8b",
+        "screen_name": "GalugG",
+        "location": "",
+        "description": "Sonr\u00ede...el mundo lo necesita!!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 444,
+        "friends_count": 1214,
+        "listed_count": 0,
+        "created_at": "Sun Jul 25 17:03:58 +0000 2010",
+        "favourites_count": 100265,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23263,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1351015978126237698/bprWzV9W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351015978126237698/bprWzV9W_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/170745268/1610942287",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 00:22:23 +0000 2021",
+        "id": 1414379576378146820,
+        "id_str": "1414379576378146820",
+        "full_text": "Monteagudo de #ElUltimoBastion ha vuelto!!! \ud83d\ude40\ud83d\ude40\ud83d\ude40\ud83d\ude40\nY en vivo y en directo, desde el 15, en el Paseo de las Aguas (parque de  La Reserva) en \"\u00a1SOMOS LIBRES!\" para toda la familia \ud83d\ude3a\ud83d\ude3a\ud83d\udc4f https://t.co/B80o7uUeK6",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            179
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ElUltimoBastion",
+                    "indices": [
+                        14,
+                        30
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/B80o7uUeK6",
+                    "expanded_url": "https://twitter.com/renatomeva/status/1414360028186877955",
+                    "display_url": "twitter.com/renatomeva/sta\u2026",
+                    "indices": [
+                        180,
+                        203
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 303521189,
+            "id_str": "303521189",
+            "name": "Eduardo Adrianz\u00e9n",
+            "screen_name": "AdrianzenEduard",
+            "location": "Lima, Per\u00fa",
+            "description": "Dramaturgo teatral, autor de telenovelas y series. Ateo gat\u00f3filo. Alejarse los fundamentalistas, anti-ciencias, terraplanistas, anti-vacunas y menores de edad",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 322288,
+            "friends_count": 1038,
+            "listed_count": 226,
+            "created_at": "Mon May 23 01:06:21 +0000 2011",
+            "favourites_count": 145825,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 47236,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1348462396378124291/QdjSBrmR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348462396378124291/QdjSBrmR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/303521189/1605599579",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414360028186877955,
+        "quoted_status_id_str": "1414360028186877955",
+        "quoted_status": {
+            "created_at": "Sun Jul 11 23:04:42 +0000 2021",
+            "id": 1414360028186877955,
+            "id_str": "1414360028186877955",
+            "full_text": "Holi \ud83d\ude08 https://t.co/FU7Pjwkw4K",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                6
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1414360010289713154,
+                        "id_str": "1414360010289713154",
+                        "indices": [
+                            7,
+                            30
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6DQ743WEAIQvs1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6DQ743WEAIQvs1.jpg",
+                        "url": "https://t.co/FU7Pjwkw4K",
+                        "display_url": "pic.twitter.com/FU7Pjwkw4K",
+                        "expanded_url": "https://twitter.com/renatomeva/status/1414360028186877955/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1638,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 544,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1414360010289713154,
+                        "id_str": "1414360010289713154",
+                        "indices": [
+                            7,
+                            30
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6DQ743WEAIQvs1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6DQ743WEAIQvs1.jpg",
+                        "url": "https://t.co/FU7Pjwkw4K",
+                        "display_url": "pic.twitter.com/FU7Pjwkw4K",
+                        "expanded_url": "https://twitter.com/renatomeva/status/1414360028186877955/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1638,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 544,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 988129436,
+                "id_str": "988129436",
+                "name": "Renato Medina-Vassallo",
+                "screen_name": "renatomeva",
+                "location": "Lima, Peru",
+                "description": "Actor // \ud83c\udff3\ufe0f\u200d\ud83c\udf08 // Bernardo de Monteagudo en #El\u00daltimoBasti\u00f3n \ud83d\ude08 ahora por #Netflix",
+                "url": "https://t.co/O9XaRhTo2T",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/O9XaRhTo2T",
+                                "expanded_url": "https://linktr.ee/mvrenato",
+                                "display_url": "linktr.ee/mvrenato",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4869,
+                "friends_count": 2668,
+                "listed_count": 12,
+                "created_at": "Tue Dec 04 05:57:11 +0000 2012",
+                "favourites_count": 36366,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 42023,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1368374444213866497/st270Nj4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368374444213866497/st270Nj4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/988129436/1589314664",
+                "profile_link_color": "FA743E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 15,
+            "favorite_count": 725,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 16,
+        "favorite_count": 205,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414360028186877955,
+    "quoted_status_id_str": "1414360028186877955",
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,96 @@
+{
+    "created_at": "Sun Jul 11 00:49:57 +0000 2021",
+    "id": 1414024125979537409,
+    "id_str": "1414024125979537409",
+    "full_text": "@renatomeva Jajajajaja que inestable eres  Monteagudo \ud83d\ude2c\ud83d\ude05",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        56
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "renatomeva",
+                "name": "Renato Medina-Vassallo",
+                "id": 988129436,
+                "id_str": "988129436",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1414017553576386567,
+    "in_reply_to_status_id_str": "1414017553576386567",
+    "in_reply_to_user_id": 988129436,
+    "in_reply_to_user_id_str": "988129436",
+    "in_reply_to_screen_name": "renatomeva",
+    "user": {
+        "id": 1176648798,
+        "id_str": "1176648798",
+        "name": "Yetty",
+        "screen_name": "yettymerinosala",
+        "location": "lima -surco",
+        "description": "contadora \ud83d\udc69\u200d\ud83d\udcbc",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8,
+        "friends_count": 269,
+        "listed_count": 0,
+        "created_at": "Wed Feb 13 19:47:46 +0000 2013",
+        "favourites_count": 1823,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 359,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1356408425618534400/3lGQqvOH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356408425618534400/3lGQqvOH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

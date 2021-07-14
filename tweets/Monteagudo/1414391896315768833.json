@@ -1,0 +1,290 @@
+{
+    "created_at": "Mon Jul 12 01:11:20 +0000 2021",
+    "id": 1414391896315768833,
+    "id_str": "1414391896315768833",
+    "full_text": "\"\u00bfLa capital siempre vivir\u00e1 en una burbuja alejada del resto del pa\u00eds?\"\n\nMonteagudo ha demostrado ser un ser despreciable, pero eso mismo hizo que se vuelva el personaje m\u00e1s impactante de \"El \u00daltimo Basti\u00f3n\".\n\nActorazo! https://t.co/JKVhYn2jOQ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        219
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/JKVhYn2jOQ",
+                "expanded_url": "https://twitter.com/renatomeva/status/1414360028186877955",
+                "display_url": "twitter.com/renatomeva/sta\u2026",
+                "indices": [
+                    220,
+                    243
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3007023609,
+        "id_str": "3007023609",
+        "name": "Diego Mendoza \ud83c\udfae\ud83c\udf7b",
+        "screen_name": "DM_ruta_escape",
+        "location": "Moquegua",
+        "description": "\u2022 Bach. Psicolog\u00eda | UCSM \ud83d\udc68\ud83c\udffb\u200d\ud83c\udf93\n\u2022 Pol\u00edtica peruana: Mi t\u00f3xica \ud83d\udcda\n\u2022 Fiel a  la Literatura Peruana \ud83d\udd16\n\u2022 Rock y Cine, d\u00fao din\u00e1mico \ud83c\udfb8\ud83c\udfac",
+        "url": "https://t.co/bc7anqQebC",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/bc7anqQebC",
+                        "expanded_url": "https://www.youtube.com/channel/UCzycdaaRjAtl0DVtj1m1zUA",
+                        "display_url": "youtube.com/channel/UCzycd\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 185,
+        "friends_count": 245,
+        "listed_count": 1,
+        "created_at": "Sat Jan 31 05:14:41 +0000 2015",
+        "favourites_count": 6546,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3101,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403955564162568195/ok40ZbdX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403955564162568195/ok40ZbdX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3007023609/1621316457",
+        "profile_link_color": "446677",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414360028186877955,
+    "quoted_status_id_str": "1414360028186877955",
+    "quoted_status": {
+        "created_at": "Sun Jul 11 23:04:42 +0000 2021",
+        "id": 1414360028186877955,
+        "id_str": "1414360028186877955",
+        "full_text": "Holi \ud83d\ude08 https://t.co/FU7Pjwkw4K",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            6
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414360010289713154,
+                    "id_str": "1414360010289713154",
+                    "indices": [
+                        7,
+                        30
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6DQ743WEAIQvs1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6DQ743WEAIQvs1.jpg",
+                    "url": "https://t.co/FU7Pjwkw4K",
+                    "display_url": "pic.twitter.com/FU7Pjwkw4K",
+                    "expanded_url": "https://twitter.com/renatomeva/status/1414360028186877955/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1638,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414360010289713154,
+                    "id_str": "1414360010289713154",
+                    "indices": [
+                        7,
+                        30
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6DQ743WEAIQvs1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6DQ743WEAIQvs1.jpg",
+                    "url": "https://t.co/FU7Pjwkw4K",
+                    "display_url": "pic.twitter.com/FU7Pjwkw4K",
+                    "expanded_url": "https://twitter.com/renatomeva/status/1414360028186877955/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1638,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 988129436,
+            "id_str": "988129436",
+            "name": "Renato Medina-Vassallo",
+            "screen_name": "renatomeva",
+            "location": "Lima, Peru",
+            "description": "Actor // \ud83c\udff3\ufe0f\u200d\ud83c\udf08 // Bernardo de Monteagudo en #El\u00daltimoBasti\u00f3n \ud83d\ude08 ahora por #Netflix",
+            "url": "https://t.co/O9XaRhTo2T",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/O9XaRhTo2T",
+                            "expanded_url": "https://linktr.ee/mvrenato",
+                            "display_url": "linktr.ee/mvrenato",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4869,
+            "friends_count": 2668,
+            "listed_count": 12,
+            "created_at": "Tue Dec 04 05:57:11 +0000 2012",
+            "favourites_count": 36366,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 42023,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368374444213866497/st270Nj4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368374444213866497/st270Nj4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/988129436/1589314664",
+            "profile_link_color": "FA743E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 725,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

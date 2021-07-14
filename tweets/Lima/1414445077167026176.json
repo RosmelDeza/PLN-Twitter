@@ -1,0 +1,282 @@
+{
+    "created_at": "Mon Jul 12 04:42:40 +0000 2021",
+    "id": 1414445077167026176,
+    "id_str": "1414445077167026176",
+    "full_text": "RT @pcmperu: \ud83d\udd34 Ahora | La titular de la PCM, @VBermudezV, participa en el cierre de la primera jornada del #Vacunat\u00f3n contra la #COVID\u30fc19 e\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Vacunat\u00f3n",
+                "indices": [
+                    107,
+                    117
+                ]
+            },
+            {
+                "text": "COVID\u30fc19",
+                "indices": [
+                    128,
+                    137
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pcmperu",
+                "name": "Consejo de Ministros",
+                "id": 173020528,
+                "id_str": "173020528",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "VBermudezV",
+                "name": "Violeta Berm\u00fadez",
+                "id": 1330353360877260804,
+                "id_str": "1330353360877260804",
+                "indices": [
+                    45,
+                    56
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 915669001681940481,
+        "id_str": "915669001681940481",
+        "name": "MIDIS PAIS",
+        "screen_name": "MidisPAIS",
+        "location": "Per\u00fa",
+        "description": "#PongoElHombro\n#NoBajemosLaGuardia",
+        "url": "https://t.co/1ytvZaxXu3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1ytvZaxXu3",
+                        "expanded_url": "http://www.pais.gob.pe",
+                        "display_url": "pais.gob.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 13255,
+        "friends_count": 772,
+        "listed_count": 38,
+        "created_at": "Wed Oct 04 20:04:37 +0000 2017",
+        "favourites_count": 3747,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 6619,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413144037511426058/LeGpIePJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413144037511426058/LeGpIePJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/915669001681940481/1625754775",
+        "profile_link_color": "179CA7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 01:17:34 +0000 2021",
+        "id": 1414393463894904838,
+        "id_str": "1414393463894904838",
+        "full_text": "\ud83d\udd34 Ahora | La titular de la PCM, @VBermudezV, participa en el cierre de la primera jornada del #Vacunat\u00f3n contra la #COVID\u30fc19 en Lima y Callao, junto al titular del @Minsa_Peru, \u00d3scar Ugarte, en la Villa Deportiva Nacional (Videna) de San Luis. https://t.co/hfxriIQW8f",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            267
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Vacunat\u00f3n",
+                    "indices": [
+                        94,
+                        104
+                    ]
+                },
+                {
+                    "text": "COVID\u30fc19",
+                    "indices": [
+                        115,
+                        124
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VBermudezV",
+                    "name": "Violeta Berm\u00fadez",
+                    "id": 1330353360877260804,
+                    "id_str": "1330353360877260804",
+                    "indices": [
+                        32,
+                        43
+                    ]
+                },
+                {
+                    "screen_name": "Minsa_Peru",
+                    "name": "Ministerio de Salud",
+                    "id": 138471254,
+                    "id_str": "138471254",
+                    "indices": [
+                        164,
+                        175
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/hfxriIQW8f",
+                    "expanded_url": "https://www.facebook.com/PCMPERU/videos/965853750864022",
+                    "display_url": "facebook.com/PCMPERU/videos\u2026",
+                    "indices": [
+                        244,
+                        267
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 173020528,
+            "id_str": "173020528",
+            "name": "Consejo de Ministros",
+            "screen_name": "pcmperu",
+            "location": "Lima - Per\u00fa",
+            "description": "Promovemos un Estado moderno, articulado y descentralizado, orientado a brindar un servicio de calidad a la ciudadan\u00eda #PongoElHombro #NoBajemosLaGuardia",
+            "url": "https://t.co/3gdIMRxgEe",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/3gdIMRxgEe",
+                            "expanded_url": "http://www.gob.pe/pcm",
+                            "display_url": "gob.pe/pcm",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 727793,
+            "friends_count": 640,
+            "listed_count": 1099,
+            "created_at": "Sat Jul 31 05:50:39 +0000 2010",
+            "favourites_count": 13499,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 55521,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "E8E8E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412996527749013504/J1EslUrX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412996527749013504/J1EslUrX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/173020528/1625719640",
+            "profile_link_color": "22746B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 52,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

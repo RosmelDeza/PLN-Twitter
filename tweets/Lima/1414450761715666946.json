@@ -1,0 +1,293 @@
+{
+    "created_at": "Mon Jul 12 05:05:15 +0000 2021",
+    "id": 1414450761715666946,
+    "id_str": "1414450761715666946",
+    "full_text": "RT @saludconlupa: Si bien Lima Metropolitana y Callao ya vienen vacunando a las personas mayores de 47 a\u00f1os, hay regiones que a\u00fan no termin\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "saludconlupa",
+                "name": "saludconlupa.com",
+                "id": 949474220442116097,
+                "id_str": "949474220442116097",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 67507928,
+        "id_str": "67507928",
+        "name": "Carisa",
+        "screen_name": "IsabelS62459537",
+        "location": "",
+        "description": "CUANDO NO SE ROBA, LA PLATA ALCANZA!!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 205,
+        "friends_count": 357,
+        "listed_count": 0,
+        "created_at": "Fri Aug 21 03:10:08 +0000 2009",
+        "favourites_count": 70489,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 63503,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406075291651432448/GSnsn3wJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406075291651432448/GSnsn3wJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/67507928/1523645646",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 17:17:14 +0000 2021",
+        "id": 1414272581667012612,
+        "id_str": "1414272581667012612",
+        "full_text": "Si bien Lima Metropolitana y Callao ya vienen vacunando a las personas mayores de 47 a\u00f1os, hay regiones que a\u00fan no terminan con los mayores de 60. A prop\u00f3sito de la #Vacunaton, te mostramos c\u00f3mo va el proceso de vacunaci\u00f3n covid en todo el pa\u00eds. \n\n\ud83d\udc49 https://t.co/rIzNk0uFr6 https://t.co/D0uf8XcPRS",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            273
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Vacunaton",
+                    "indices": [
+                        165,
+                        175
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/rIzNk0uFr6",
+                    "expanded_url": "https://bit.ly/2T7DScK",
+                    "display_url": "bit.ly/2T7DScK",
+                    "indices": [
+                        250,
+                        273
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414272573207158793,
+                    "id_str": "1414272573207158793",
+                    "indices": [
+                        274,
+                        297
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6CBaYWXIAkTG4x.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6CBaYWXIAkTG4x.jpg",
+                    "url": "https://t.co/D0uf8XcPRS",
+                    "display_url": "pic.twitter.com/D0uf8XcPRS",
+                    "expanded_url": "https://twitter.com/saludconlupa/status/1414272581667012612/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1669,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 554,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 978,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414272573207158793,
+                    "id_str": "1414272573207158793",
+                    "indices": [
+                        274,
+                        297
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6CBaYWXIAkTG4x.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6CBaYWXIAkTG4x.jpg",
+                    "url": "https://t.co/D0uf8XcPRS",
+                    "display_url": "pic.twitter.com/D0uf8XcPRS",
+                    "expanded_url": "https://twitter.com/saludconlupa/status/1414272581667012612/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1669,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 554,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 978,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 949474220442116097,
+            "id_str": "949474220442116097",
+            "name": "saludconlupa.com",
+            "screen_name": "saludconlupa",
+            "location": "Peru",
+            "description": "Plataforma digital dedicada al periodismo en salud p\u00fablica. Integrante de @GIJN y de la red Latam Chequea.\nEscr\u00edbenos a info@saludconlupa.com",
+            "url": "https://t.co/sdT176o5Pw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sdT176o5Pw",
+                            "expanded_url": "http://saludconlupa.com/",
+                            "display_url": "saludconlupa.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 21115,
+            "friends_count": 511,
+            "listed_count": 161,
+            "created_at": "Sat Jan 06 02:54:29 +0000 2018",
+            "favourites_count": 1368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8529,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1350110577767686145/ZwYd2CRW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350110577767686145/ZwYd2CRW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/949474220442116097/1562297210",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 250,
+        "favorite_count": 385,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 250,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

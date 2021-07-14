@@ -1,0 +1,304 @@
+{
+    "created_at": "Mon Jul 12 04:46:28 +0000 2021",
+    "id": 1414446032868593668,
+    "id_str": "1414446032868593668",
+    "full_text": "RT @CharitoABC: Hoy domingo siguen las manifestaciones en el centro de Lima contra el fraude de Per\u00fa Libre! \n#SOSPeru https://t.co/Ebjp49U3\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSPeru",
+                "indices": [
+                    109,
+                    117
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CharitoABC",
+                "name": "RosarioBenavidesAB \ud83c\uddf5\ud83c\uddea",
+                "id": 2227417610,
+                "id_str": "2227417610",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2801098115,
+        "id_str": "2801098115",
+        "name": "RosEly Sevilla",
+        "screen_name": "RoselySevilla",
+        "location": "Lima, Per\u00fa ",
+        "description": "Pro Life, Pro Family and Free Market!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1578,
+        "friends_count": 1836,
+        "listed_count": 3,
+        "created_at": "Fri Oct 03 00:25:24 +0000 2014",
+        "favourites_count": 52403,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 54726,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1295350026558898177/HJTxLyGX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295350026558898177/HJTxLyGX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2801098115/1604374767",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 22:07:50 +0000 2021",
+        "id": 1414345717028728837,
+        "id_str": "1414345717028728837",
+        "full_text": "Hoy domingo siguen las manifestaciones en el centro de Lima contra el fraude de Per\u00fa Libre! \n#SOSPeru https://t.co/Ebjp49U3NS",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            101
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSPeru",
+                    "indices": [
+                        93,
+                        101
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414345334042550274,
+                    "id_str": "1414345334042550274",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414345334042550274/pu/img/xavciWHVAiY53nI3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414345334042550274/pu/img/xavciWHVAiY53nI3.jpg",
+                    "url": "https://t.co/Ebjp49U3NS",
+                    "display_url": "pic.twitter.com/Ebjp49U3NS",
+                    "expanded_url": "https://twitter.com/CharitoABC/status/1414345717028728837/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414345334042550274,
+                    "id_str": "1414345334042550274",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414345334042550274/pu/img/xavciWHVAiY53nI3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414345334042550274/pu/img/xavciWHVAiY53nI3.jpg",
+                    "url": "https://t.co/Ebjp49U3NS",
+                    "display_url": "pic.twitter.com/Ebjp49U3NS",
+                    "expanded_url": "https://twitter.com/CharitoABC/status/1414345717028728837/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "large": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            11,
+                            20
+                        ],
+                        "duration_millis": 12672,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1414345334042550274/pu/pl/QSJ4cMXomklJPUhQ.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414345334042550274/pu/vid/352x640/q358rZ7J47jsUlq6.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414345334042550274/pu/vid/320x580/YODTPqjB0_0bpikC.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2227417610,
+            "id_str": "2227417610",
+            "name": "RosarioBenavidesAB \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "CharitoABC",
+            "location": "",
+            "description": "Derecha\nCat\u00f3lica \nBloqueo trolles rojos",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 18325,
+            "friends_count": 677,
+            "listed_count": 24,
+            "created_at": "Mon Dec 02 23:30:09 +0000 2013",
+            "favourites_count": 150977,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 47759,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413034491443126272/4dsrKP7s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413034491443126272/4dsrKP7s_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2227417610/1625728805",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 210,
+        "favorite_count": 466,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 210,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

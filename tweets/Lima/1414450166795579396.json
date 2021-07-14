@@ -1,0 +1,298 @@
+{
+    "created_at": "Mon Jul 12 05:02:53 +0000 2021",
+    "id": 1414450166795579396,
+    "id_str": "1414450166795579396",
+    "full_text": "RT @Updateslapadula: \ud83d\udcf2| Gianluca disfruta sus \u00faltimos d\u00edas de vacaciones en lima con su familia. A su prima por parte de mam\u00e1 le regal\u00f3 una\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Updateslapadula",
+                "name": "Gianluca Lapadula Updates",
+                "id": 1412939248785842176,
+                "id_str": "1412939248785842176",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1299076519151755266,
+        "id_str": "1299076519151755266",
+        "name": "Kiomy",
+        "screen_name": "kiomibm",
+        "location": "Trujillo, Peru",
+        "description": "Peruana de \ud83e\udd0d\ud83c\uddf5\ud83c\uddea",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 54,
+        "friends_count": 189,
+        "listed_count": 0,
+        "created_at": "Thu Aug 27 20:09:56 +0000 2020",
+        "favourites_count": 8277,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3450,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412180699159859203/h-Hre9pA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412180699159859203/h-Hre9pA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1299076519151755266/1615434480",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 00:07:27 +0000 2021",
+        "id": 1414375818415980549,
+        "id_str": "1414375818415980549",
+        "full_text": "\ud83d\udcf2| Gianluca disfruta sus \u00faltimos d\u00edas de vacaciones en lima con su familia. A su prima por parte de mam\u00e1 le regal\u00f3 una camiseta firmada. https://t.co/yqePcZdMsN",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            136
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414375811415674883,
+                    "id_str": "1414375811415674883",
+                    "indices": [
+                        137,
+                        160
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6DfTopWEAMh-e3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6DfTopWEAMh-e3.jpg",
+                    "url": "https://t.co/yqePcZdMsN",
+                    "display_url": "pic.twitter.com/yqePcZdMsN",
+                    "expanded_url": "https://twitter.com/Updateslapadula/status/1414375818415980549/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 597,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1231,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1053,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414375811415674883,
+                    "id_str": "1414375811415674883",
+                    "indices": [
+                        137,
+                        160
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6DfTopWEAMh-e3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6DfTopWEAMh-e3.jpg",
+                    "url": "https://t.co/yqePcZdMsN",
+                    "display_url": "pic.twitter.com/yqePcZdMsN",
+                    "expanded_url": "https://twitter.com/Updateslapadula/status/1414375818415980549/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 597,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1231,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1053,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414375816000049153,
+                    "id_str": "1414375816000049153",
+                    "indices": [
+                        137,
+                        160
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6DfT5uWEAEW2pi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6DfT5uWEAEW2pi.jpg",
+                    "url": "https://t.co/yqePcZdMsN",
+                    "display_url": "pic.twitter.com/yqePcZdMsN",
+                    "expanded_url": "https://twitter.com/Updateslapadula/status/1414375818415980549/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1080,
+                            "h": 1312,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 988,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 560,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1412939248785842176,
+            "id_str": "1412939248785842176",
+            "name": "Gianluca Lapadula Updates",
+            "screen_name": "Updateslapadula",
+            "location": "",
+            "description": "Fuente de informaci\u00f3n sobre Gianluca Lapadula \ud83c\uddf5\ud83c\uddea\ud83c\uddee\ud83c\uddf9\n\u00a1Activa las notificaciones!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 435,
+            "friends_count": 35,
+            "listed_count": 0,
+            "created_at": "Thu Jul 08 00:59:16 +0000 2021",
+            "favourites_count": 66,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 54,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414385699910995971/hnY1DdN6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414385699910995971/hnY1DdN6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1412939248785842176/1625787511",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 53,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

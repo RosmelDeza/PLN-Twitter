@@ -1,0 +1,325 @@
+{
+    "created_at": "Mon Jul 12 05:19:51 +0000 2021",
+    "id": 1414454437008003072,
+    "id_str": "1414454437008003072",
+    "full_text": "RT @Alfred__13: Elecciones libres y los estados unidos de Am\u00e9rica eliminan el bloqueo , adem\u00e1s de que pueden comerciar con los demas pa\u00edses\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Alfred__13",
+                "name": "Alfred M \ud83d\udc15\ud83c\uddf2\ud83c\uddfd",
+                "id": 3196523905,
+                "id_str": "3196523905",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2409661472,
+        "id_str": "2409661472",
+        "name": "FERNANDO(M\u00c9XICO)",
+        "screen_name": "FERNANDOMEXIC0",
+        "location": "Mexico",
+        "description": "Quiero democracia y no totalitarismos.defiendo mi postura,respeto los demas.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4219,
+        "friends_count": 3715,
+        "listed_count": 99,
+        "created_at": "Mon Mar 24 22:51:04 +0000 2014",
+        "favourites_count": 131,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 379941,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/522877742132367360/J09wIl8e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/522877742132367360/J09wIl8e_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2409661472/1413498781",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 05:10:35 +0000 2021",
+        "id": 1414452102492037131,
+        "id_str": "1414452102492037131",
+        "full_text": "Elecciones libres y los estados unidos de Am\u00e9rica eliminan el bloqueo , adem\u00e1s de que pueden comerciar con los demas pa\u00edses, si no lo hacen es porque la dictadura castrista no lo permite https://t.co/hkPMm0xQjT",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            186
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/hkPMm0xQjT",
+                    "expanded_url": "https://twitter.com/ferbelaunzaran/status/1414444010203140105",
+                    "display_url": "twitter.com/ferbelaunzaran\u2026",
+                    "indices": [
+                        187,
+                        210
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3196523905,
+            "id_str": "3196523905",
+            "name": "Alfred M \ud83d\udc15\ud83c\uddf2\ud83c\uddfd",
+            "screen_name": "Alfred__13",
+            "location": "San Luis Potos\u00ed, M\u00e9xico",
+            "description": "Lector voraz en tiempo libre |Vida, Propiedad y Libertad | Marketing ventas potencial humano |\ud83e\udd4a\u26bd.  #Team666\ud83d\udc11",
+            "url": "https://t.co/wAQsF8i3Gv",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wAQsF8i3Gv",
+                            "expanded_url": "https://youtu.be/W0yad6o4hng",
+                            "display_url": "youtu.be/W0yad6o4hng",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1513,
+            "friends_count": 1367,
+            "listed_count": 1,
+            "created_at": "Fri May 15 15:45:19 +0000 2015",
+            "favourites_count": 205434,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 59177,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1059243143495737344/RgZ8AANI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059243143495737344/RgZ8AANI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3196523905/1615510466",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414444010203140105,
+        "quoted_status_id_str": "1414444010203140105",
+        "quoted_status": {
+            "created_at": "Mon Jul 12 04:38:25 +0000 2021",
+            "id": 1414444010203140105,
+            "id_str": "1414444010203140105",
+            "full_text": "Se puede estar contra la dictadura y contra el bloqueo.\n\nEso no significa justificar dictadura por bloqueo.\n\nAl contrario, es reconocer lo obvio: el bloqueo le ha servido a la dictadura como propaganda para el control pol\u00edtico y pretexto de las carencias.\n\n#CubaSOS\n\n#PatriaYVida",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "CubaSOS",
+                        "indices": [
+                            257,
+                            265
+                        ]
+                    },
+                    {
+                        "text": "PatriaYVida",
+                        "indices": [
+                            267,
+                            279
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 114346861,
+                "id_str": "114346861",
+                "name": "Fernando Belaunzar\u00e1n",
+                "screen_name": "ferbelaunzaran",
+                "location": "\u00dcT: 19.30017,-99.185582",
+                "description": "Fil\u00f3sofo de formaci\u00f3n, pol\u00edtico de profesi\u00f3n, de izquierda por convicci\u00f3n, irreverente de tradici\u00f3n, hereje por vocaci\u00f3n.. y columnista de Excelsior y Gluc",
+                "url": "https://t.co/6JwnZCs5sV",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/6JwnZCs5sV",
+                                "expanded_url": "https://mx.linkedin.com/in/fernandobelaunzaran",
+                                "display_url": "mx.linkedin.com/in/fernandobel\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 312871,
+                "friends_count": 21202,
+                "listed_count": 1462,
+                "created_at": "Mon Feb 15 03:12:26 +0000 2010",
+                "favourites_count": 146543,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 371330,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "E80E20",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1400293529721655298/PHP1-6fP_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400293529721655298/PHP1-6fP_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/114346861/1622690969",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "FFA812",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 66,
+            "favorite_count": 253,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414444010203140105,
+    "quoted_status_id_str": "1414444010203140105",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

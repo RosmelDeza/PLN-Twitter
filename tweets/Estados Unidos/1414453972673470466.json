@@ -1,0 +1,130 @@
+{
+    "created_at": "Mon Jul 12 05:18:01 +0000 2021",
+    "id": 1414453972673470466,
+    "id_str": "1414453972673470466",
+    "full_text": "@thuggermilly @goldenkachi @YoUsoMiNasobuco Pq te recuerdo que nosotros tuvimos una intervenci\u00f3n militar de los Estados Unidos en 1898 - 1902 !!! Y funcion\u00f3??? A ver si estudiamos un poquito m\u00e1s de historia de cuba \nSaludos cordiales",
+    "truncated": false,
+    "display_text_range": [
+        44,
+        233
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "thuggermilly",
+                "name": "milly, the gemini",
+                "id": 1211485686680846336,
+                "id_str": "1211485686680846336",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "goldenkachi",
+                "name": "Kachi",
+                "id": 1227817401544298497,
+                "id_str": "1227817401544298497",
+                "indices": [
+                    14,
+                    26
+                ]
+            },
+            {
+                "screen_name": "YoUsoMiNasobuco",
+                "name": "Yo Uso Mi Nasobuco #SOSCUBA",
+                "id": 1262863641352851458,
+                "id_str": "1262863641352851458",
+                "indices": [
+                    27,
+                    43
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1414453532879642627,
+    "in_reply_to_status_id_str": "1414453532879642627",
+    "in_reply_to_user_id": 1267559363201417217,
+    "in_reply_to_user_id_str": "1267559363201417217",
+    "in_reply_to_screen_name": "gandaritaaaa",
+    "user": {
+        "id": 1267559363201417217,
+        "id_str": "1267559363201417217",
+        "name": "gandarita\ud83e\ude7a",
+        "screen_name": "gandaritaaaa",
+        "location": "cuba \ud83c\udde8\ud83c\uddfa",
+        "description": "Doctora en progreso,",
+        "url": "https://t.co/2v4S7QkKa0",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/2v4S7QkKa0",
+                        "expanded_url": "https://www.instagram.com/ellizatorre/",
+                        "display_url": "instagram.com/ellizatorre/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 372,
+        "friends_count": 259,
+        "listed_count": 0,
+        "created_at": "Mon Jun 01 20:51:52 +0000 2020",
+        "favourites_count": 17422,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6744,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414385552464523267/7uFlDpa8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414385552464523267/7uFlDpa8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267559363201417217/1610057965",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,223 @@
+{
+    "created_at": "Mon Jul 12 05:21:35 +0000 2021",
+    "id": 1414454873186242562,
+    "id_str": "1414454873186242562",
+    "full_text": "RT @NoticiasUno: #NoticiasUno| Mientras gobierno Duque rechaza informe de la CIDH, congresistas de Estados Unidos apoyan sus conclusiones\nh\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NoticiasUno",
+                "indices": [
+                    17,
+                    29
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NoticiasUno",
+                "name": "Noticias Uno",
+                "id": 79585327,
+                "id_str": "79585327",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 251444731,
+        "id_str": "251444731",
+        "name": "MARIANO",
+        "screen_name": "1999marca",
+        "location": "colombia",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1255,
+        "friends_count": 771,
+        "listed_count": 3,
+        "created_at": "Sun Feb 13 04:24:55 +0000 2011",
+        "favourites_count": 176438,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 112859,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1355330162913665027/rwpq7cep_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1355330162913665027/rwpq7cep_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/251444731/1562135000",
+        "profile_link_color": "131516",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 19:00:01 +0000 2021",
+        "id": 1414298448908718088,
+        "id_str": "1414298448908718088",
+        "full_text": "#NoticiasUno| Mientras gobierno Duque rechaza informe de la CIDH, congresistas de Estados Unidos apoyan sus conclusiones\nhttps://t.co/tCXqwHJLif",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            144
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NoticiasUno",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/tCXqwHJLif",
+                    "expanded_url": "https://bit.ly/3wDOHRC",
+                    "display_url": "bit.ly/3wDOHRC",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 79585327,
+            "id_str": "79585327",
+            "name": "Noticias Uno",
+            "screen_name": "NoticiasUno",
+            "location": "Bogot\u00e1, Colombia.",
+            "description": "#YoSoyLaRedIndependiente. Sinton\u00edcenos en @CABLENOTICIAS a las 8PM todos los s\u00e1bados, domingos y festivos. Noticiero colombiano ganador de India Catalina.",
+            "url": "https://t.co/rHW3EHOjZY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/rHW3EHOjZY",
+                            "expanded_url": "http://www.noticiasuno.com/",
+                            "display_url": "noticiasuno.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2261000,
+            "friends_count": 3583,
+            "listed_count": 5311,
+            "created_at": "Sat Oct 03 22:56:21 +0000 2009",
+            "favourites_count": 3971,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 74787,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1201158486832365570/QeO381wk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201158486832365570/QeO381wk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/79585327/1616867039",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 239,
+        "favorite_count": 478,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 239,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

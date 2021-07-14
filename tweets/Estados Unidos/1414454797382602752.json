@@ -1,0 +1,183 @@
+{
+    "created_at": "Mon Jul 12 05:21:17 +0000 2021",
+    "id": 1414454797382602752,
+    "id_str": "1414454797382602752",
+    "full_text": "RT @omnishambles92: Estar del lado de Estados Unidos no va a hacerte gringo, por si acaso.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        90
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "omnishambles92",
+                "name": "Ana Paola \u5c71\u7530",
+                "id": 1292209563857494018,
+                "id_str": "1292209563857494018",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1027309765,
+        "id_str": "1027309765",
+        "name": "\u1d63\u2091\u209b\u1d64\u1d63\u1d62 \u1d62\u2099 c\u2092\u2099\u209c\u2091\u2093\u209c\ud83c\udf08//\ud835\ude46\ud835\ude5a\ud835\ude5e\ud835\ude60\ud835\ude5e\ud835\ude63\ud835\ude64\u270f\ufe0f",
+        "screen_name": "lieseleslie",
+        "location": "Piura, Per\u00fa ",
+        "description": "S\u00e9 de Derecho y Mangas (+BL). \nAmo cocinar cuando no hace calor. \nAlguien que huye del sol. \nWelcome to my own private Idaho.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 630,
+        "friends_count": 1707,
+        "listed_count": 2,
+        "created_at": "Fri Dec 21 22:45:08 +0000 2012",
+        "favourites_count": 51276,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7962,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410815033798504456/yULhCB6M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410815033798504456/yULhCB6M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1027309765/1625036648",
+        "profile_link_color": "9C1919",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 05:18:35 +0000 2021",
+        "id": 1414454118932955137,
+        "id_str": "1414454118932955137",
+        "full_text": "Estar del lado de Estados Unidos no va a hacerte gringo, por si acaso.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            70
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1292209563857494018,
+            "id_str": "1292209563857494018",
+            "name": "Ana Paola \u5c71\u7530",
+            "screen_name": "omnishambles92",
+            "location": "",
+            "description": "Sol\u00eda creer que entend\u00eda Twitter. Luego cre\u00e9 una cuenta aqu\u00ed.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3800,
+            "friends_count": 158,
+            "listed_count": 10,
+            "created_at": "Sat Aug 08 21:22:31 +0000 2020",
+            "favourites_count": 20825,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 19672,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409521968349646850/Ocv8Gjw5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409521968349646850/Ocv8Gjw5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292209563857494018/1618428309",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 26,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

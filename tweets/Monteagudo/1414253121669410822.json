@@ -1,0 +1,272 @@
+{
+    "created_at": "Sun Jul 11 15:59:54 +0000 2021",
+    "id": 1414253121669410822,
+    "id_str": "1414253121669410822",
+    "full_text": "RT @DESORDEN_MNTL: Si no lo han hecho dense unos minutos para leer este reportaje sobre la contaminaci\u00f3n que sufre el Lago de Coatepeque y\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DESORDEN_MNTL",
+                "name": "Manuel H. Borjas",
+                "id": 2571677814,
+                "id_str": "2571677814",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3060697462,
+        "id_str": "3060697462",
+        "name": "Belli",
+        "screen_name": "Bea_Monteagudo",
+        "location": "San Vicente, El Salvador",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 535,
+        "friends_count": 425,
+        "listed_count": 0,
+        "created_at": "Wed Feb 25 03:20:53 +0000 2015",
+        "favourites_count": 87524,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7877,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397613416257400835/pekilaC9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397613416257400835/pekilaC9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3060697462/1584323805",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 03:22:44 +0000 2021",
+        "id": 1414062575659192322,
+        "id_str": "1414062575659192322",
+        "full_text": "Si no lo han hecho dense unos minutos para leer este reportaje sobre la contaminaci\u00f3n que sufre el Lago de Coatepeque y como las autoridades medioambientales les vale verga que est\u00e9n matando el lago\n\nhttps://t.co/CEo6jpof7I https://t.co/wl4z1OypWe",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            223
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/CEo6jpof7I",
+                    "expanded_url": "https://www.revistafactum.com/coatepeque-fiesta-de-depredadores/",
+                    "display_url": "revistafactum.com/coatepeque-fie\u2026",
+                    "indices": [
+                        200,
+                        223
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414062570684698624,
+                    "id_str": "1414062570684698624",
+                    "indices": [
+                        224,
+                        247
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_Can_WUAABlzg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_Can_WUAABlzg.jpg",
+                    "url": "https://t.co/wl4z1OypWe",
+                    "display_url": "pic.twitter.com/wl4z1OypWe",
+                    "expanded_url": "https://twitter.com/DESORDEN_MNTL/status/1414062575659192322/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1202,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1078,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 611,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414062570684698624,
+                    "id_str": "1414062570684698624",
+                    "indices": [
+                        224,
+                        247
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_Can_WUAABlzg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_Can_WUAABlzg.jpg",
+                    "url": "https://t.co/wl4z1OypWe",
+                    "display_url": "pic.twitter.com/wl4z1OypWe",
+                    "expanded_url": "https://twitter.com/DESORDEN_MNTL/status/1414062575659192322/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1202,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1078,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 611,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2571677814,
+            "id_str": "2571677814",
+            "name": "Manuel H. Borjas",
+            "screen_name": "DESORDEN_MNTL",
+            "location": "Un peque\u00f1o pa\u00eds convulsionado",
+            "description": "Un nerd que le gusta mucho la psicolog\u00eda, leer, ilustrar y escuchar m\u00fasica.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 462,
+            "friends_count": 410,
+            "listed_count": 2,
+            "created_at": "Mon Jun 16 21:47:36 +0000 2014",
+            "favourites_count": 27245,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2525,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411753877540687873/iypmzqPH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411753877540687873/iypmzqPH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2571677814/1597372009",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 127,
+        "favorite_count": 315,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 127,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

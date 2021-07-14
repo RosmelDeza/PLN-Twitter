@@ -1,0 +1,195 @@
+{
+    "created_at": "Mon Jul 12 04:48:41 +0000 2021",
+    "id": 1414446594179620866,
+    "id_str": "1414446594179620866",
+    "full_text": "\ud83d\udcf7 Cuba despert\u00f3! #soscuba #cubasos #cubalibre #cubaporlavida #cubaresiste #CUBANOS #cubaviva #cuba Vamos Cuba s\u00ed s\u00e9 puede! #abajoladictadura #abajoladictaduracastrista #fuerzacuba #fueracomunistasdecuba (en Santa Clara, Lima, Peru)... https://t.co/fYV4oqRTY5",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        258
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "soscuba",
+                "indices": [
+                    17,
+                    25
+                ]
+            },
+            {
+                "text": "cubasos",
+                "indices": [
+                    26,
+                    34
+                ]
+            },
+            {
+                "text": "cubalibre",
+                "indices": [
+                    35,
+                    45
+                ]
+            },
+            {
+                "text": "cubaporlavida",
+                "indices": [
+                    46,
+                    60
+                ]
+            },
+            {
+                "text": "cubaresiste",
+                "indices": [
+                    61,
+                    73
+                ]
+            },
+            {
+                "text": "CUBANOS",
+                "indices": [
+                    74,
+                    82
+                ]
+            },
+            {
+                "text": "cubaviva",
+                "indices": [
+                    83,
+                    92
+                ]
+            },
+            {
+                "text": "cuba",
+                "indices": [
+                    93,
+                    98
+                ]
+            },
+            {
+                "text": "abajoladictadura",
+                "indices": [
+                    123,
+                    140
+                ]
+            },
+            {
+                "text": "abajoladictaduracastrista",
+                "indices": [
+                    141,
+                    167
+                ]
+            },
+            {
+                "text": "fuerzacuba",
+                "indices": [
+                    168,
+                    179
+                ]
+            },
+            {
+                "text": "fueracomunistasdecuba",
+                "indices": [
+                    180,
+                    202
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/fYV4oqRTY5",
+                "expanded_url": "https://tmblr.co/ZU6gmwaSHchkCq00",
+                "display_url": "tmblr.co/ZU6gmwaSHchkCq\u2026",
+                "indices": [
+                    235,
+                    258
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 113476786,
+        "id_str": "113476786",
+        "name": "Jos\u00e9 G. Varela G. \ud83d\udc9b\ud83d\udc99\ud83d\udc94",
+        "screen_name": "jvarelag",
+        "location": "Ate, Peru",
+        "description": "V\u039e\u041b\u039eZU\u039e\u0141\u039b - Per\u00fa Los cambios son para los valientes, los cobardes prefieren quedarse donde est\u00e1n aunque no sean felices!\nAgn\u00f3stico de religi\u00f3n.",
+        "url": "https://t.co/xb8DZI3ng5",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/xb8DZI3ng5",
+                        "expanded_url": "http://jvarelag.tumblr.com/GT",
+                        "display_url": "jvarelag.tumblr.com/GT",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 523,
+        "friends_count": 1240,
+        "listed_count": 26,
+        "created_at": "Thu Feb 11 22:05:41 +0000 2010",
+        "favourites_count": 46,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 51188,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "89C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242687557030129664/odD9lZZe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242687557030129664/odD9lZZe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113476786/1462141055",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

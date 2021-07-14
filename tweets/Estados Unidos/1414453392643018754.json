@@ -1,0 +1,382 @@
+{
+    "created_at": "Mon Jul 12 05:15:42 +0000 2021",
+    "id": 1414453392643018754,
+    "id_str": "1414453392643018754",
+    "full_text": "RT @LaRazon_mx: \ud83c\uddfa\ud83c\uddf8 \ud83c\udde8\ud83c\uddfa Estados Unidos respalda protestas en Cuba https://t.co/eDY6gPIjaU https://t.co/xloiTCYSbK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        111
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LaRazon_mx",
+                "name": "La Raz\u00f3n de M\u00e9xico",
+                "id": 47379940,
+                "id_str": "47379940",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/eDY6gPIjaU",
+                "expanded_url": "http://bit.ly/3xyKNKX",
+                "display_url": "bit.ly/3xyKNKX",
+                "indices": [
+                    64,
+                    87
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1414443467154067457,
+                "id_str": "1414443467154067457",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Ec1t6XEAEliEj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Ec1t6XEAEliEj.jpg",
+                "url": "https://t.co/xloiTCYSbK",
+                "display_url": "pic.twitter.com/xloiTCYSbK",
+                "expanded_url": "https://twitter.com/LaRazon_mx/status/1414444406388584449/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 940,
+                        "h": 470,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 940,
+                        "h": 470,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414444406388584449,
+                "source_status_id_str": "1414444406388584449",
+                "source_user_id": 47379940,
+                "source_user_id_str": "47379940"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414443467154067457,
+                "id_str": "1414443467154067457",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Ec1t6XEAEliEj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Ec1t6XEAEliEj.jpg",
+                "url": "https://t.co/xloiTCYSbK",
+                "display_url": "pic.twitter.com/xloiTCYSbK",
+                "expanded_url": "https://twitter.com/LaRazon_mx/status/1414444406388584449/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 940,
+                        "h": 470,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 940,
+                        "h": 470,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414444406388584449,
+                "source_status_id_str": "1414444406388584449",
+                "source_user_id": 47379940,
+                "source_user_id_str": "47379940"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3406088807,
+        "id_str": "3406088807",
+        "name": "Andres Tovar",
+        "screen_name": "hezfi_ba",
+        "location": "Cd.Victoria Tamaulipas, Mexico",
+        "description": "En el principio cre\u00f3 Dios los cielos y la tierra.......Y el Espirit\u00fa de Dios se movia sobre la faz de las aguas.......Y dijo Dios:sea la luz; y fue la luz......",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 409,
+        "friends_count": 2054,
+        "listed_count": 94,
+        "created_at": "Thu Aug 06 18:58:36 +0000 2015",
+        "favourites_count": 2300,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 403894,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083956885412290560/RPgLmvKI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083956885412290560/RPgLmvKI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3406088807/1438889950",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 04:40:00 +0000 2021",
+        "id": 1414444406388584449,
+        "id_str": "1414444406388584449",
+        "full_text": "\ud83c\uddfa\ud83c\uddf8 \ud83c\udde8\ud83c\uddfa Estados Unidos respalda protestas en Cuba https://t.co/eDY6gPIjaU https://t.co/xloiTCYSbK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            71
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/eDY6gPIjaU",
+                    "expanded_url": "http://bit.ly/3xyKNKX",
+                    "display_url": "bit.ly/3xyKNKX",
+                    "indices": [
+                        48,
+                        71
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414443467154067457,
+                    "id_str": "1414443467154067457",
+                    "indices": [
+                        72,
+                        95
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ec1t6XEAEliEj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ec1t6XEAEliEj.jpg",
+                    "url": "https://t.co/xloiTCYSbK",
+                    "display_url": "pic.twitter.com/xloiTCYSbK",
+                    "expanded_url": "https://twitter.com/LaRazon_mx/status/1414444406388584449/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 940,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 940,
+                            "h": 470,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414443467154067457,
+                    "id_str": "1414443467154067457",
+                    "indices": [
+                        72,
+                        95
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ec1t6XEAEliEj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ec1t6XEAEliEj.jpg",
+                    "url": "https://t.co/xloiTCYSbK",
+                    "display_url": "pic.twitter.com/xloiTCYSbK",
+                    "expanded_url": "https://twitter.com/LaRazon_mx/status/1414444406388584449/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 940,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 940,
+                            "h": 470,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 47379940,
+            "id_str": "47379940",
+            "name": "La Raz\u00f3n de M\u00e9xico",
+            "screen_name": "LaRazon_mx",
+            "location": "M\u00e9xico",
+            "description": "Una persona bien informada siempre tiene La Raz\u00f3n \ud83d\udcf0",
+            "url": "https://t.co/EFSbBMJkay",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EFSbBMJkay",
+                            "expanded_url": "http://www.razon.com.mx/",
+                            "display_url": "razon.com.mx",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 153099,
+            "friends_count": 923,
+            "listed_count": 1879,
+            "created_at": "Mon Jun 15 16:50:35 +0000 2009",
+            "favourites_count": 2567,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 417374,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1369897792534061056/tmDNK4Y0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369897792534061056/tmDNK4Y0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/47379940/1615442811",
+            "profile_link_color": "FA743E",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

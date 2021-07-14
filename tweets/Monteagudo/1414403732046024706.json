@@ -1,0 +1,97 @@
+{
+    "created_at": "Mon Jul 12 01:58:22 +0000 2021",
+    "id": 1414403732046024706,
+    "id_str": "1414403732046024706",
+    "full_text": "@renatomeva La variante Monteagudo???",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        37
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "renatomeva",
+                "name": "Renato Medina-Vassallo",
+                "id": 988129436,
+                "id_str": "988129436",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414360028186877955,
+    "in_reply_to_status_id_str": "1414360028186877955",
+    "in_reply_to_user_id": 988129436,
+    "in_reply_to_user_id_str": "988129436",
+    "in_reply_to_screen_name": "renatomeva",
+    "user": {
+        "id": 1109502762,
+        "id_str": "1109502762",
+        "name": "CriptoRondero Tirapiedra #FUJIMORINOMORE",
+        "screen_name": "SleinNoir",
+        "location": "Mordor",
+        "description": "Chauf\u00f3logo por convicci\u00f3n, Bookworm por vocac\u00edon, ForeverAlone por mayoria de votos",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 80,
+        "friends_count": 137,
+        "listed_count": 1,
+        "created_at": "Mon Jan 21 16:54:33 +0000 2013",
+        "favourites_count": 11525,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11022,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3144504797/bb430fb9f5b53e23a8b023d4b82895f4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3144504797/bb430fb9f5b53e23a8b023d4b82895f4_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109502762/1359001888",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,274 @@
+{
+    "created_at": "Mon Jul 12 05:13:28 +0000 2021",
+    "id": 1414452831042613249,
+    "id_str": "1414452831042613249",
+    "full_text": "RT @mascararoja211: La Cuba que desarroll\u00f3 su propia vacuna contra el Covid-19, la Cuba que debi\u00f3 recibir insumos m\u00e9dicos de China pero que\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mascararoja211",
+                "name": "M\u00e1scara Roja",
+                "id": 842655986875740161,
+                "id_str": "842655986875740161",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1300455674590175232,
+        "id_str": "1300455674590175232",
+        "name": "Tania Reyz",
+        "screen_name": "ReyzTania",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 196,
+        "friends_count": 1368,
+        "listed_count": 1,
+        "created_at": "Mon Aug 31 15:34:41 +0000 2020",
+        "favourites_count": 38507,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15941,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1300457461481168897/MllulryD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300457461481168897/MllulryD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 15:16:15 +0000 2021",
+        "id": 1413879751207362562,
+        "id_str": "1413879751207362562",
+        "full_text": "La Cuba que desarroll\u00f3 su propia vacuna contra el Covid-19, la Cuba que debi\u00f3 recibir insumos m\u00e9dicos de China pero que les fue impedido por Estados Unidos, la Cuba que desde hace d\u00e9cadas sufre un bloqueo criminal, esa Cuba no caer\u00e1 ante su circo en redes sociales, gusanos.\ud83c\udde8\ud83c\uddfa https://t.co/MqrK9ElguY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413879582491480064,
+                    "id_str": "1413879582491480064",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E58b_T2VEAA_7e5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E58b_T2VEAA_7e5.jpg",
+                    "url": "https://t.co/MqrK9ElguY",
+                    "display_url": "pic.twitter.com/MqrK9ElguY",
+                    "expanded_url": "https://twitter.com/mascararoja211/status/1413879751207362562/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413879582491480064,
+                    "id_str": "1413879582491480064",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E58b_T2VEAA_7e5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E58b_T2VEAA_7e5.jpg",
+                    "url": "https://t.co/MqrK9ElguY",
+                    "display_url": "pic.twitter.com/MqrK9ElguY",
+                    "expanded_url": "https://twitter.com/mascararoja211/status/1413879751207362562/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 842655986875740161,
+            "id_str": "842655986875740161",
+            "name": "M\u00e1scara Roja",
+            "screen_name": "mascararoja211",
+            "location": "Holcomb, Kansas.",
+            "description": "Maten a todos los boyardos.",
+            "url": "https://t.co/uZe2OCneOV",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/uZe2OCneOV",
+                            "expanded_url": "https://www.instagram.com/lamascararoja211/",
+                            "display_url": "instagram.com/lamascararoja2\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 21336,
+            "friends_count": 23491,
+            "listed_count": 47,
+            "created_at": "Fri Mar 17 08:36:57 +0000 2017",
+            "favourites_count": 38936,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8564,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408633555631042567/P9DJL-RD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408633555631042567/P9DJL-RD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/842655986875740161/1625945569",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 157,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

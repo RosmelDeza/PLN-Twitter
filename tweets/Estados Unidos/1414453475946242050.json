@@ -1,0 +1,351 @@
+{
+    "created_at": "Mon Jul 12 05:16:02 +0000 2021",
+    "id": 1414453475946242050,
+    "id_str": "1414453475946242050",
+    "full_text": "RT @PLVenezuela: \u2733\ufe0f\ud83e\uddd0 Cu\u00e1l es la posici\u00f3n del @ALBATCP sobre lo acontecido este domingo en Cuba?\n\ud83d\udc49 @SachaLlorenti conden\u00f3 la agenda interven\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PLVenezuela",
+                "name": "PLVenezuela",
+                "id": 1193950067775934474,
+                "id_str": "1193950067775934474",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "ALBATCP",
+                "name": "ALBA-TCP",
+                "id": 132022383,
+                "id_str": "132022383",
+                "indices": [
+                    45,
+                    53
+                ]
+            },
+            {
+                "screen_name": "SachaLlorenti",
+                "name": "Sacha Llorenti",
+                "id": 309752591,
+                "id_str": "309752591",
+                "indices": [
+                    98,
+                    112
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1330889436163436547,
+        "id_str": "1330889436163436547",
+        "name": "William Urquijo",
+        "screen_name": "WilliamUrquijo7",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 32,
+        "friends_count": 38,
+        "listed_count": 0,
+        "created_at": "Mon Nov 23 15:02:37 +0000 2020",
+        "favourites_count": 230,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 639,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330897228274278402/7scOFgP6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330897228274278402/7scOFgP6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330889436163436547/1606145659",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 04:56:08 +0000 2021",
+        "id": 1414448468823773186,
+        "id_str": "1414448468823773186",
+        "full_text": "\u2733\ufe0f\ud83e\uddd0 Cu\u00e1l es la posici\u00f3n del @ALBATCP sobre lo acontecido este domingo en Cuba?\n\ud83d\udc49 @SachaLlorenti conden\u00f3 la agenda intervencionista contra #Cuba promovida desde Estados Unidos.\n\ud83d\udd17https://t.co/DRH70Ox7Uj\n\n#PrensaLatinaActualiza\n@PrensaLatina_cu https://t.co/1LwEYGx7zw",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            241
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        138,
+                        143
+                    ]
+                },
+                {
+                    "text": "PrensaLatinaActualiza",
+                    "indices": [
+                        202,
+                        224
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ALBATCP",
+                    "name": "ALBA-TCP",
+                    "id": 132022383,
+                    "id_str": "132022383",
+                    "indices": [
+                        28,
+                        36
+                    ]
+                },
+                {
+                    "screen_name": "SachaLlorenti",
+                    "name": "Sacha Llorenti",
+                    "id": 309752591,
+                    "id_str": "309752591",
+                    "indices": [
+                        81,
+                        95
+                    ]
+                },
+                {
+                    "screen_name": "PrensaLatina_cu",
+                    "name": "Prensa Latina",
+                    "id": 119881872,
+                    "id_str": "119881872",
+                    "indices": [
+                        225,
+                        241
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/DRH70Ox7Uj",
+                    "expanded_url": "https://bit.ly/3e8fizv",
+                    "display_url": "bit.ly/3e8fizv",
+                    "indices": [
+                        177,
+                        200
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414448464851841024,
+                    "id_str": "1414448464851841024",
+                    "indices": [
+                        242,
+                        265
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6EhYnyXMAAGkZ7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6EhYnyXMAAGkZ7.jpg",
+                    "url": "https://t.co/1LwEYGx7zw",
+                    "display_url": "pic.twitter.com/1LwEYGx7zw",
+                    "expanded_url": "https://twitter.com/PLVenezuela/status/1414448468823773186/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 670,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 422,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 670,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414448464851841024,
+                    "id_str": "1414448464851841024",
+                    "indices": [
+                        242,
+                        265
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6EhYnyXMAAGkZ7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6EhYnyXMAAGkZ7.jpg",
+                    "url": "https://t.co/1LwEYGx7zw",
+                    "display_url": "pic.twitter.com/1LwEYGx7zw",
+                    "expanded_url": "https://twitter.com/PLVenezuela/status/1414448468823773186/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 670,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 422,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 670,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1193950067775934474,
+            "id_str": "1193950067775934474",
+            "name": "PLVenezuela",
+            "screen_name": "PLVenezuela",
+            "location": "Caracas, Venezuela",
+            "description": "Canal Oficial en Venezuela de la Agencia Informativa Latinoamericana Prensa Latina. Cuenta asociada de @PrensaLatina_cu",
+            "url": "https://t.co/caTCfB8p8R",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/caTCfB8p8R",
+                            "expanded_url": "http://www.prensa-latina.cu",
+                            "display_url": "prensa-latina.cu",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 900,
+            "friends_count": 1144,
+            "listed_count": 2,
+            "created_at": "Mon Nov 11 17:54:53 +0000 2019",
+            "favourites_count": 1464,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2823,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354168657388199936/dePUL2Sq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354168657388199936/dePUL2Sq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1193950067775934474/1625204089",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

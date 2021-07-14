@@ -1,0 +1,97 @@
+{
+    "created_at": "Mon Jul 12 05:05:01 +0000 2021",
+    "id": 1414450703100260354,
+    "id_str": "1414450703100260354",
+    "full_text": "@noticiAmerica Naaaaa... eso es cuento fujimorista y ese Sr. Debe ser amigo de la mafia, adem\u00e1s s\u00f3lo en Lima apoyan a esa Sra. K. Por que en todo el pa\u00eds ya nadie le cree nada, s\u00f3lo se espera que ingrese de una buena vez el nuevo gob. Del profesor PC el peruano est\u00e1 m\u00e1s preocupado en el...",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        290
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "noticiAmerica",
+                "name": "Am\u00e9rica Noticias",
+                "id": 65549291,
+                "id_str": "65549291",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414423021683630086,
+    "in_reply_to_status_id_str": "1414423021683630086",
+    "in_reply_to_user_id": 65549291,
+    "in_reply_to_user_id_str": "65549291",
+    "in_reply_to_screen_name": "noticiAmerica",
+    "user": {
+        "id": 427062458,
+        "id_str": "427062458",
+        "name": "huberto adrian",
+        "screen_name": "adrian_huberto",
+        "location": "PERU",
+        "description": "\u00a1El amor en tiempos del colera! \ud83d\ude01",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 71,
+        "friends_count": 196,
+        "listed_count": 0,
+        "created_at": "Sat Dec 03 02:06:12 +0000 2011",
+        "favourites_count": 4872,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13039,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "89C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1351384622010163201/qw3FwXCs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351384622010163201/qw3FwXCs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/427062458/1611031893",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

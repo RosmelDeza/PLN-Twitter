@@ -1,0 +1,183 @@
+{
+    "created_at": "Sat Jul 10 02:35:24 +0000 2021",
+    "id": 1413688277052309504,
+    "id_str": "1413688277052309504",
+    "full_text": "RT @byloremondragon: Quien se merec\u00eda la vacuna Pfizer era el personal de salud y es la verdad.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        95
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "byloremondragon",
+                "name": "M. Lorena Mondrag\u00f3n",
+                "id": 1054405826,
+                "id_str": "1054405826",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3060697462,
+        "id_str": "3060697462",
+        "name": "Belli",
+        "screen_name": "Bea_Monteagudo",
+        "location": "San Vicente, El Salvador",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 535,
+        "friends_count": 425,
+        "listed_count": 0,
+        "created_at": "Wed Feb 25 03:20:53 +0000 2015",
+        "favourites_count": 87524,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7877,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397613416257400835/pekilaC9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397613416257400835/pekilaC9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3060697462/1584323805",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 09 15:46:56 +0000 2021",
+        "id": 1413525081519710208,
+        "id_str": "1413525081519710208",
+        "full_text": "Quien se merec\u00eda la vacuna Pfizer era el personal de salud y es la verdad.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            74
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1054405826,
+            "id_str": "1054405826",
+            "name": "M. Lorena Mondrag\u00f3n",
+            "screen_name": "byloremondragon",
+            "location": "El Salvador",
+            "description": "M\u00e9dico \ud83e\ude7a \ud83d\udc69\ud83c\udffb\u200d\u2695\ufe0f\ud83d\udc84\ud83e\uddde\u200d\u2642\ufe0f \ud83d\udcaa\ud83c\udffc\ud83c\udfcb\ud83c\udffb\u200d\u2640\ufe0f  insta: byloremondragon \ud83c\uddf8\ud83c\uddfb",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2676,
+            "friends_count": 433,
+            "listed_count": 1,
+            "created_at": "Wed Jan 02 06:58:53 +0000 2013",
+            "favourites_count": 26642,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14430,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "E83156",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411806799339130882/KdmgthHj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411806799339130882/KdmgthHj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054405826/1602358773",
+            "profile_link_color": "B3006B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 73,
+        "favorite_count": 776,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 73,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

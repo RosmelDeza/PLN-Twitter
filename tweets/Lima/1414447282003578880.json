@@ -1,0 +1,288 @@
+{
+    "created_at": "Mon Jul 12 04:51:25 +0000 2021",
+    "id": 1414447282003578880,
+    "id_str": "1414447282003578880",
+    "full_text": "RT @MarielaDelSoc17: Sr. Presidente ministerio p\u00fablico necesito que vengan de lima a supervisar el trabajo hecho por la tercera fiscalia. E\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MarielaDelSoc17",
+                "name": "JUSTICIA PARA MARIELLA BACA",
+                "id": 1387482449832288258,
+                "id_str": "1387482449832288258",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2218297674,
+        "id_str": "2218297674",
+        "name": "hector palacios ",
+        "screen_name": "hector10693",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 28,
+        "friends_count": 110,
+        "listed_count": 0,
+        "created_at": "Wed Nov 27 19:11:46 +0000 2013",
+        "favourites_count": 11924,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13664,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463701475789516800/2tmr8F37_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463701475789516800/2tmr8F37_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2218297674/1403404873",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 00:50:29 +0000 2021",
+        "id": 1414386648729665537,
+        "id_str": "1414386648729665537",
+        "full_text": "Sr. Presidente ministerio p\u00fablico necesito que vengan de lima a supervisar el trabajo hecho por la tercera fiscalia. Escuchen el audio de una ni\u00f1a de 10 a\u00f1os y se da cuenta que no hay justicia porq hay dinero x medio. Demuestren lo contrario necesitamos de ustedes x favor. https://t.co/fXte5Vb65M",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            273
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414386472225067009,
+                    "id_str": "1414386472225067009",
+                    "indices": [
+                        274,
+                        297
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414386472225067009/pu/img/QQjStXb40CmaPBJ4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414386472225067009/pu/img/QQjStXb40CmaPBJ4.jpg",
+                    "url": "https://t.co/fXte5Vb65M",
+                    "display_url": "pic.twitter.com/fXte5Vb65M",
+                    "expanded_url": "https://twitter.com/MarielaDelSoc17/status/1414386648729665537/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 385,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414386472225067009,
+                    "id_str": "1414386472225067009",
+                    "indices": [
+                        274,
+                        297
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414386472225067009/pu/img/QQjStXb40CmaPBJ4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414386472225067009/pu/img/QQjStXb40CmaPBJ4.jpg",
+                    "url": "https://t.co/fXte5Vb65M",
+                    "display_url": "pic.twitter.com/fXte5Vb65M",
+                    "expanded_url": "https://twitter.com/MarielaDelSoc17/status/1414386648729665537/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 385,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            30,
+                            53
+                        ],
+                        "duration_millis": 53493,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1414386472225067009/pu/pl/KWup9jtA9tsFu0gN.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414386472225067009/pu/vid/320x564/6UY3qdmCEM-fkCk5.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414386472225067009/pu/vid/480x848/sR-zx4twl2rSYq_o.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1387482449832288258,
+            "id_str": "1387482449832288258",
+            "name": "JUSTICIA PARA MARIELLA BACA",
+            "screen_name": "MarielaDelSoc17",
+            "location": "Chiclayo, Peru",
+            "description": "Me asesinaron el 30 de enero del 2021 mi pareja sentimental impacto el carro en donde hu\u00eda. #justiciaparamariellabaca.\n AY\u00daDENME.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 995,
+            "friends_count": 1151,
+            "listed_count": 1,
+            "created_at": "Wed Apr 28 19:03:08 +0000 2021",
+            "favourites_count": 786,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 514,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1387483083939721218/EzoqKMik_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387483083939721218/EzoqKMik_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387482449832288258/1619637111",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

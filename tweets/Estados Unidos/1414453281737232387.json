@@ -1,0 +1,383 @@
+{
+    "created_at": "Mon Jul 12 05:15:16 +0000 2021",
+    "id": 1414453281737232387,
+    "id_str": "1414453281737232387",
+    "full_text": "RT @stereo100xela: Guatemalteco \ud83c\uddec\ud83c\uddf9 triunfa en Estados Unidos, con el primer lugar en \u201cWild Style Design\u201d y el segundo lugar en \u201cBest Fade a\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "stereo100xela",
+                "name": "Stereo100Noticias",
+                "id": 149595717,
+                "id_str": "149595717",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 970107827363700736,
+        "id_str": "970107827363700736",
+        "name": "liberenalamujer",
+        "screen_name": "Liberenalamujer",
+        "location": "Belize",
+        "description": "Belize roots \ud83c\udde7\ud83c\uddff Ser independiente es ser libre adoro la libertad la raz\u00f3n y la coherencia no creo en vividores defiendo la verdad",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 377,
+        "friends_count": 170,
+        "listed_count": 0,
+        "created_at": "Sun Mar 04 01:25:04 +0000 2018",
+        "favourites_count": 18241,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8851,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362606332512067584/CBWCbGYU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362606332512067584/CBWCbGYU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/970107827363700736/1553277871",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 05:11:24 +0000 2021",
+        "id": 1414452309380288519,
+        "id_str": "1414452309380288519",
+        "full_text": "Guatemalteco \ud83c\uddec\ud83c\uddf9 triunfa en Estados Unidos, con el primer lugar en \u201cWild Style Design\u201d y el segundo lugar en \u201cBest Fade and Style\u201d, competencia de barberos. Andr\u00e9s Mendoza, originario  de Totonicap\u00e1n, de 28 a\u00f1os de edad.\n\nRadica en Estados Unidos desde hace 8 a\u00f1os. https://t.co/1BqrsTBBvL",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            264
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414452304393220096,
+                    "id_str": "1414452304393220096",
+                    "indices": [
+                        265,
+                        288
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ek4HMXMAASCqF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ek4HMXMAASCqF.jpg",
+                    "url": "https://t.co/1BqrsTBBvL",
+                    "display_url": "pic.twitter.com/1BqrsTBBvL",
+                    "expanded_url": "https://twitter.com/stereo100xela/status/1414452309380288519/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414452304393220096,
+                    "id_str": "1414452304393220096",
+                    "indices": [
+                        265,
+                        288
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ek4HMXMAASCqF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ek4HMXMAASCqF.jpg",
+                    "url": "https://t.co/1BqrsTBBvL",
+                    "display_url": "pic.twitter.com/1BqrsTBBvL",
+                    "expanded_url": "https://twitter.com/stereo100xela/status/1414452309380288519/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414452304376475652,
+                    "id_str": "1414452304376475652",
+                    "indices": [
+                        265,
+                        288
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ek4HIXsAQDZ8A.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ek4HIXsAQDZ8A.jpg",
+                    "url": "https://t.co/1BqrsTBBvL",
+                    "display_url": "pic.twitter.com/1BqrsTBBvL",
+                    "expanded_url": "https://twitter.com/stereo100xela/status/1414452309380288519/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1024,
+                            "h": 768,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 768,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414452304384831489,
+                    "id_str": "1414452304384831489",
+                    "indices": [
+                        265,
+                        288
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ek4HKXMAEd8im.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ek4HKXMAEd8im.jpg",
+                    "url": "https://t.co/1BqrsTBBvL",
+                    "display_url": "pic.twitter.com/1BqrsTBBvL",
+                    "expanded_url": "https://twitter.com/stereo100xela/status/1414452309380288519/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414452304389054465,
+                    "id_str": "1414452304389054465",
+                    "indices": [
+                        265,
+                        288
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ek4HLXoAECITO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ek4HLXoAECITO.jpg",
+                    "url": "https://t.co/1BqrsTBBvL",
+                    "display_url": "pic.twitter.com/1BqrsTBBvL",
+                    "expanded_url": "https://twitter.com/stereo100xela/status/1414452309380288519/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 411,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 828,
+                            "h": 1371,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 725,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 149595717,
+            "id_str": "149595717",
+            "name": "Stereo100Noticias",
+            "screen_name": "stereo100xela",
+            "location": "Quetzaltenango, Guatemala",
+            "description": "Stereo 100 es la emisora n\u00famero uno del Suroccidente de Guatemala. Haciendo radio desde 1982. Nos escuchamos al 100 por 100.",
+            "url": "http://t.co/uEc3ZU2y8f",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/uEc3ZU2y8f",
+                            "expanded_url": "http://www.stereo100.com.gt",
+                            "display_url": "stereo100.com.gt",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 78701,
+            "friends_count": 393,
+            "listed_count": 189,
+            "created_at": "Sat May 29 17:59:03 +0000 2010",
+            "favourites_count": 805,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 257483,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1113599768536801280/DfJcQVVY_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113599768536801280/DfJcQVVY_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/149595717/1624818840",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

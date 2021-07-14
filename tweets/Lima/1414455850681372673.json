@@ -1,0 +1,198 @@
+{
+    "created_at": "Mon Jul 12 05:25:28 +0000 2021",
+    "id": 1414455850681372673,
+    "id_str": "1414455850681372673",
+    "full_text": "Reclamas por la Dictadura Cubana ok pero aqu\u00ed en Lima te abrazas con la hija del Dictador Nip\u00f3n que promueve una Dictadura solapada capturando medios TV , Radio y va tras el Tribunal Constitucional. Qu\u00e9 tal cuajo ahhh \ud83d\udc1a\ud83d\udc1a\ud83d\udc1a https://t.co/cwGzvpJlZA",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        221
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/cwGzvpJlZA",
+                "expanded_url": "https://twitter.com/alvarovargasll/status/1414316483878998019",
+                "display_url": "twitter.com/alvarovargasll\u2026",
+                "indices": [
+                    222,
+                    245
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 772693286028992512,
+        "id_str": "772693286028992512",
+        "name": "Manuel Guillermo",
+        "screen_name": "manuelgcv",
+        "location": "Lima, Peru",
+        "description": "M\u00e9dico Internista en emergencia Hospital Alberto SABOGAL gusto Artes Cultura Ciencia y Tecnolog\u00eda Deportes Musica Politica F\u00fatbol",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1570,
+        "friends_count": 469,
+        "listed_count": 9,
+        "created_at": "Mon Sep 05 07:10:10 +0000 2016",
+        "favourites_count": 10746,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15551,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1331601203608899586/d6t-HMIQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331601203608899586/d6t-HMIQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/772693286028992512/1568493954",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414316483878998019,
+    "quoted_status_id_str": "1414316483878998019",
+    "quoted_status": {
+        "created_at": "Sun Jul 11 20:11:41 +0000 2021",
+        "id": 1414316483878998019,
+        "id_str": "1414316483878998019",
+        "full_text": "Los valientes cubanos que se han lanzado hoy a las calles contra la m\u00e1s oprobiosa dictadura de Am\u00e9rica merecen nuestra admiraci\u00f3n, solidaridad y aliento. Millones de amantes de la libertad estamos con ustedes.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            209
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 703206133251645440,
+            "id_str": "703206133251645440",
+            "name": "\u00c1lvaro Vargas Llosa",
+            "screen_name": "AlvaroVargasLl",
+            "location": "District of Columbia, USA",
+            "description": "Political author, speaker, individual investor. Leads CEA at Fundaci\u00f3n Internacional para la Libertad. Senior Fellow, @IndependentInst. Member @gcppporg",
+            "url": "https://t.co/L3lmTnfWgO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/L3lmTnfWgO",
+                            "expanded_url": "http://www.alvarovargasllosa.com",
+                            "display_url": "alvarovargasllosa.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 45685,
+            "friends_count": 599,
+            "listed_count": 109,
+            "created_at": "Fri Feb 26 13:13:01 +0000 2016",
+            "favourites_count": 2257,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 6655,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/703206727106232321/ZKjIvQT__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/703206727106232321/ZKjIvQT__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/703206133251645440/1456496392",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3819,
+        "favorite_count": 10992,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

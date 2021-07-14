@@ -1,0 +1,209 @@
+{
+    "created_at": "Mon Jul 12 05:18:23 +0000 2021",
+    "id": 1414454065904431106,
+    "id_str": "1414454065904431106",
+    "full_text": "RT @neondemonsaq: No es casualidad que quienes hoy piden la \"intervenci\u00f3n\" de Estados Unidos en Cuba sean quienes nunca han dicho algo del\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "neondemonsaq",
+                "name": "Carlos Jair Saq",
+                "id": 2736531787,
+                "id_str": "2736531787",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1129352456,
+        "id_str": "1129352456",
+        "name": "kyomi",
+        "screen_name": "Fuja__",
+        "location": "tu coraz\u00f3n, bb \ud83d\udc96",
+        "description": "Cuando ten\u00eda 8, llor\u00e9 en la ducha despu\u00e9s de ver el video de Silver and Cold de AFI.",
+        "url": "https://t.co/pvQgp9h0CC",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/pvQgp9h0CC",
+                        "expanded_url": "https://instagram.com/kyomi__fujita/",
+                        "display_url": "instagram.com/kyomi__fujita/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 270,
+        "friends_count": 173,
+        "listed_count": 5,
+        "created_at": "Mon Jan 28 22:09:30 +0000 2013",
+        "favourites_count": 27121,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 41332,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF9D9C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/511297299231014912/gG6Q0C3Y_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/511297299231014912/gG6Q0C3Y_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129352456/1368163757",
+        "profile_link_color": "FFCCBD",
+        "profile_sidebar_border_color": "432F38",
+        "profile_sidebar_fill_color": "CCA69D",
+        "profile_text_color": "FFD9C3",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 01:11:33 +0000 2021",
+        "id": 1414391948987797506,
+        "id_str": "1414391948987797506",
+        "full_text": "No es casualidad que quienes hoy piden la \"intervenci\u00f3n\" de Estados Unidos en Cuba sean quienes nunca han dicho algo del bloqueo econ\u00f3mico gringo. Y son aquellos que piensan que en EEUU hay una democracia ejemplar.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            214
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2736531787,
+            "id_str": "2736531787",
+            "name": "Carlos Jair Saq",
+            "screen_name": "neondemonsaq",
+            "location": "Lima - Per\u00fa",
+            "description": "ExPeriodista #Econom\u00eda en @larepublica_pe\nCocinando historias en @mataperrea\nLa juventud no cree en la muerte.  T.C.\nViva el chifita y long island.\nRavenclaw.",
+            "url": "https://t.co/K3LlNQLd67",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/K3LlNQLd67",
+                            "expanded_url": "http://www.mataperrea.com",
+                            "display_url": "mataperrea.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6108,
+            "friends_count": 381,
+            "listed_count": 27,
+            "created_at": "Sat Aug 16 05:04:28 +0000 2014",
+            "favourites_count": 22897,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12899,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1381687740081786880/UoE6ow7L_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381687740081786880/UoE6ow7L_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2736531787/1592667204",
+            "profile_link_color": "04191F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 85,
+        "favorite_count": 348,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 85,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

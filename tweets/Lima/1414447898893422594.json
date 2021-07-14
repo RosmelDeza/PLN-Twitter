@@ -1,0 +1,262 @@
+{
+    "created_at": "Mon Jul 12 04:53:52 +0000 2021",
+    "id": 1414447898893422594,
+    "id_str": "1414447898893422594",
+    "full_text": "RT @MarielaDelSoc17: La justicia en el Per\u00fa es indiferente para las v\u00edctimas pero salen a favor de los delincuentes lo \u00fanico q pido es q mi\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MarielaDelSoc17",
+                "name": "JUSTICIA PARA MARIELLA BACA",
+                "id": 1387482449832288258,
+                "id_str": "1387482449832288258",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2218297674,
+        "id_str": "2218297674",
+        "name": "hector palacios ",
+        "screen_name": "hector10693",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 28,
+        "friends_count": 110,
+        "listed_count": 0,
+        "created_at": "Wed Nov 27 19:11:46 +0000 2013",
+        "favourites_count": 11924,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13664,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463701475789516800/2tmr8F37_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463701475789516800/2tmr8F37_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2218297674/1403404873",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 05:02:21 +0000 2021",
+        "id": 1413725256590766084,
+        "id_str": "1413725256590766084",
+        "full_text": "La justicia en el Per\u00fa es indiferente para las v\u00edctimas pero salen a favor de los delincuentes lo \u00fanico q pido es q mis diligencias sea llevada a Lima que debe hacer uno para hacer escuchado. Este pa\u00eds no va a cambiar. las autoridades son ciegos, mudos y sordos.\nJUSTICIA NO HAY https://t.co/4babj8EWPo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413725251524075521,
+                    "id_str": "1413725251524075521",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E56PoEMXoAEY1a4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E56PoEMXoAEY1a4.jpg",
+                    "url": "https://t.co/4babj8EWPo",
+                    "display_url": "pic.twitter.com/4babj8EWPo",
+                    "expanded_url": "https://twitter.com/MarielaDelSoc17/status/1413725256590766084/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1340,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 645,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 365,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413725251524075521,
+                    "id_str": "1413725251524075521",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E56PoEMXoAEY1a4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E56PoEMXoAEY1a4.jpg",
+                    "url": "https://t.co/4babj8EWPo",
+                    "display_url": "pic.twitter.com/4babj8EWPo",
+                    "expanded_url": "https://twitter.com/MarielaDelSoc17/status/1413725256590766084/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1340,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 645,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 365,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1387482449832288258,
+            "id_str": "1387482449832288258",
+            "name": "JUSTICIA PARA MARIELLA BACA",
+            "screen_name": "MarielaDelSoc17",
+            "location": "Chiclayo, Peru",
+            "description": "Me asesinaron el 30 de enero del 2021 mi pareja sentimental impacto el carro en donde hu\u00eda. #justiciaparamariellabaca.\n AY\u00daDENME.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 995,
+            "friends_count": 1151,
+            "listed_count": 1,
+            "created_at": "Wed Apr 28 19:03:08 +0000 2021",
+            "favourites_count": 786,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 514,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1387483083939721218/EzoqKMik_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387483083939721218/EzoqKMik_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387482449832288258/1619637111",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 136,
+        "favorite_count": 214,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 136,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,458 @@
+{
+    "created_at": "Sun Jul 11 19:52:08 +0000 2021",
+    "id": 1414311567185911814,
+    "id_str": "1414311567185911814",
+    "full_text": "RT @EnriqueYanzon: Le pidi\u00f3 casamiento arriba de una sem\u00e1foro en el obelisco, un campeon https://t.co/sVQgWYftXW",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        112
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EnriqueYanzon",
+                "name": "Enrique Yanzon",
+                "id": 1333791629136728065,
+                "id_str": "1333791629136728065",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414110340003024896,
+                "id_str": "1414110340003024896",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414110340003024896/pu/img/GA9iqdtAco509E1T.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414110340003024896/pu/img/GA9iqdtAco509E1T.jpg",
+                "url": "https://t.co/sVQgWYftXW",
+                "display_url": "pic.twitter.com/sVQgWYftXW",
+                "expanded_url": "https://twitter.com/EnriqueYanzon/status/1414114776645521410/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414114776645521410,
+                "source_status_id_str": "1414114776645521410",
+                "source_user_id": 1333791629136728065,
+                "source_user_id_str": "1333791629136728065"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414110340003024896,
+                "id_str": "1414110340003024896",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414110340003024896/pu/img/GA9iqdtAco509E1T.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414110340003024896/pu/img/GA9iqdtAco509E1T.jpg",
+                "url": "https://t.co/sVQgWYftXW",
+                "display_url": "pic.twitter.com/sVQgWYftXW",
+                "expanded_url": "https://twitter.com/EnriqueYanzon/status/1414114776645521410/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414114776645521410,
+                "source_status_id_str": "1414114776645521410",
+                "source_user_id": 1333791629136728065,
+                "source_user_id_str": "1333791629136728065",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 6900,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414110340003024896/pu/vid/320x568/iJ_WIr35nouNSdab.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414110340003024896/pu/vid/720x1280/W45jWwBNN_H6A4Cn.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 950000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414110340003024896/pu/vid/480x852/I4iBUUjmih9-8wM2.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1414110340003024896/pu/pl/hUg6j89QjdyJcBfq.m3u8?tag=12&container=fmp4"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 1333791629136728065,
+                        "id_str": "1333791629136728065",
+                        "name": "Enrique Yanzon",
+                        "screen_name": "EnriqueYanzon",
+                        "location": "",
+                        "description": "Invente que hab\u00eda una propuesta de matrimonio arriba de un sem\u00e1foro en el obelisco y se la creyeron todos los medios",
+                        "url": null,
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 38,
+                        "friends_count": 41,
+                        "listed_count": 1,
+                        "created_at": "Tue Dec 01 15:14:55 +0000 2020",
+                        "favourites_count": 25,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 51,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1333791799911931911/w2ht-WYY_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333791799911931911/w2ht-WYY_normal.jpg",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3060697462,
+        "id_str": "3060697462",
+        "name": "Belli",
+        "screen_name": "Bea_Monteagudo",
+        "location": "San Vicente, El Salvador",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 535,
+        "friends_count": 425,
+        "listed_count": 0,
+        "created_at": "Wed Feb 25 03:20:53 +0000 2015",
+        "favourites_count": 87524,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7877,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397613416257400835/pekilaC9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397613416257400835/pekilaC9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3060697462/1584323805",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 06:50:10 +0000 2021",
+        "id": 1414114776645521410,
+        "id_str": "1414114776645521410",
+        "full_text": "Le pidi\u00f3 casamiento arriba de una sem\u00e1foro en el obelisco, un campeon https://t.co/sVQgWYftXW",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            69
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414110340003024896,
+                    "id_str": "1414110340003024896",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414110340003024896/pu/img/GA9iqdtAco509E1T.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414110340003024896/pu/img/GA9iqdtAco509E1T.jpg",
+                    "url": "https://t.co/sVQgWYftXW",
+                    "display_url": "pic.twitter.com/sVQgWYftXW",
+                    "expanded_url": "https://twitter.com/EnriqueYanzon/status/1414114776645521410/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414110340003024896,
+                    "id_str": "1414110340003024896",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414110340003024896/pu/img/GA9iqdtAco509E1T.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414110340003024896/pu/img/GA9iqdtAco509E1T.jpg",
+                    "url": "https://t.co/sVQgWYftXW",
+                    "display_url": "pic.twitter.com/sVQgWYftXW",
+                    "expanded_url": "https://twitter.com/EnriqueYanzon/status/1414114776645521410/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 6900,
+                        "variants": [
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414110340003024896/pu/vid/320x568/iJ_WIr35nouNSdab.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414110340003024896/pu/vid/720x1280/W45jWwBNN_H6A4Cn.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414110340003024896/pu/vid/480x852/I4iBUUjmih9-8wM2.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1414110340003024896/pu/pl/hUg6j89QjdyJcBfq.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1333791629136728065,
+            "id_str": "1333791629136728065",
+            "name": "Enrique Yanzon",
+            "screen_name": "EnriqueYanzon",
+            "location": "",
+            "description": "Invente que hab\u00eda una propuesta de matrimonio arriba de un sem\u00e1foro en el obelisco y se la creyeron todos los medios",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 38,
+            "friends_count": 41,
+            "listed_count": 1,
+            "created_at": "Tue Dec 01 15:14:55 +0000 2020",
+            "favourites_count": 25,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 51,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1333791799911931911/w2ht-WYY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333791799911931911/w2ht-WYY_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11308,
+        "favorite_count": 126522,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11308,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,204 @@
+{
+    "created_at": "Mon Jul 12 05:16:30 +0000 2021",
+    "id": 1414453590933098498,
+    "id_str": "1414453590933098498",
+    "full_text": "RT @agusantonetti: El dictador Diaz Canel est\u00e1 hablando por cadena nacional en estos momentos. Le esta echando la culpa a Estados Unidos po\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "agusantonetti",
+                "name": "Agustin Antonetti",
+                "id": 374699026,
+                "id_str": "374699026",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1364927143,
+        "id_str": "1364927143",
+        "name": "eu \ud83c\udde6\ud83c\uddf7",
+        "screen_name": "euledzep",
+        "location": "Argentina",
+        "description": "No nos une el amor, sino el espanto.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1459,
+        "friends_count": 654,
+        "listed_count": 1,
+        "created_at": "Fri Apr 19 17:05:56 +0000 2013",
+        "favourites_count": 383168,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 86135,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397341698729168900/TEUqaF_D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397341698729168900/TEUqaF_D_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1364927143/1622222765",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 20:13:58 +0000 2021",
+        "id": 1414317060960751616,
+        "id_str": "1414317060960751616",
+        "full_text": "El dictador Diaz Canel est\u00e1 hablando por cadena nacional en estos momentos. Le esta echando la culpa a Estados Unidos por las protestas, no esperaba menos. #SOSCuba",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            164
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        156,
+                        164
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 374699026,
+            "id_str": "374699026",
+            "name": "Agustin Antonetti",
+            "screen_name": "agusantonetti",
+            "location": "Rosario, Argentina",
+            "description": "Lic. en Relaciones Internacionales. Geopolitics. Intentando explicar el mundo de una forma m\u00e1s f\u00e1cil. Human Rights Activist. Cuenta secundaria: @aguusantonetti",
+            "url": "https://t.co/sotu73qub1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sotu73qub1",
+                            "expanded_url": "http://instagram.com/agusantonetti",
+                            "display_url": "instagram.com/agusantonetti",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 94348,
+            "friends_count": 992,
+            "listed_count": 176,
+            "created_at": "Fri Sep 16 19:37:17 +0000 2011",
+            "favourites_count": 235825,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 36169,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404663831092240385/3fEpaqhz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404663831092240385/3fEpaqhz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/374699026/1625891786",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1813,
+        "favorite_count": 3890,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1813,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

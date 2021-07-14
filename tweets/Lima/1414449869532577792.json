@@ -1,0 +1,238 @@
+{
+    "created_at": "Mon Jul 12 05:01:42 +0000 2021",
+    "id": 1414449869532577792,
+    "id_str": "1414449869532577792",
+    "full_text": "RT @drhuerta: @noticias_tvperu Es momento que reporte diario de casos, hospitalizados y muertes, informen proporci\u00f3n de vacunados y no vacu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "drhuerta",
+                "name": "Elmer Huerta",
+                "id": 15877664,
+                "id_str": "15877664",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "noticias_tvperu",
+                "name": "TVPer\u00fa Noticias",
+                "id": 63597537,
+                "id_str": "63597537",
+                "indices": [
+                    14,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 883189569801289729,
+        "id_str": "883189569801289729",
+        "name": "Mercedes Mendoza",
+        "screen_name": "mercedesopina",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2036,
+        "friends_count": 983,
+        "listed_count": 0,
+        "created_at": "Fri Jul 07 05:02:57 +0000 2017",
+        "favourites_count": 211409,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 106572,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1386529164329721857/HqRLk1oJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386529164329721857/HqRLk1oJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/883189569801289729/1619409266",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 04:06:56 +0000 2021",
+        "id": 1414436085858553861,
+        "id_str": "1414436085858553861",
+        "full_text": "@noticias_tvperu Es momento que reporte diario de casos, hospitalizados y muertes, informen proporci\u00f3n de vacunados y no vacunados. De 34 pacientes en una UCI en Lima, p.e., 30 son no vacunados y 4 vacunados (3 parcialmente y uno completamente). \nTodos Pfizer @Minsa_Peru \n\nhttps://t.co/mN0y6nEEzs",
+        "truncated": false,
+        "display_text_range": [
+            17,
+            297
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "noticias_tvperu",
+                    "name": "TVPer\u00fa Noticias",
+                    "id": 63597537,
+                    "id_str": "63597537",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "Minsa_Peru",
+                    "name": "Ministerio de Salud",
+                    "id": 138471254,
+                    "id_str": "138471254",
+                    "indices": [
+                        260,
+                        271
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/mN0y6nEEzs",
+                    "expanded_url": "https://www.google.com/amp/s/elcomercio.pe/tecnologia/ciencias/elmer-huerta-pfizer-se-necesita-una-tercera-dosis-de-la-vacuna-noticia/%3FoutputType%3Damp",
+                    "display_url": "google.com/amp/s/elcomerc\u2026",
+                    "indices": [
+                        274,
+                        297
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1414429080167059458,
+        "in_reply_to_status_id_str": "1414429080167059458",
+        "in_reply_to_user_id": 63597537,
+        "in_reply_to_user_id_str": "63597537",
+        "in_reply_to_screen_name": "noticias_tvperu",
+        "user": {
+            "id": 15877664,
+            "id_str": "15877664",
+            "name": "Elmer Huerta",
+            "screen_name": "drhuerta",
+            "location": "Washington DC",
+            "description": "M\u00e9dico y comunicador. Los lugares m\u00e1s oscuros del infierno est\u00e1n reservados para aquellos que mantienen su neutralidad en tiempos de crisis moral. Dante.",
+            "url": "https://t.co/QMecTnUlIU",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/QMecTnUlIU",
+                            "expanded_url": "http://www.prevencion.org",
+                            "display_url": "prevencion.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 160334,
+            "friends_count": 459,
+            "listed_count": 347,
+            "created_at": "Sat Aug 16 23:31:45 +0000 2008",
+            "favourites_count": 9725,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14493,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/58375133/E_Huerta_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/58375133/E_Huerta_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15877664/1437191550",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 71,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

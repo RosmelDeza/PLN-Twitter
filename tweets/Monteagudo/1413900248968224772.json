@@ -1,0 +1,97 @@
+{
+    "created_at": "Sat Jul 10 16:37:43 +0000 2021",
+    "id": 1413900248968224772,
+    "id_str": "1413900248968224772",
+    "full_text": "@Bea_Monteagudo Si que lo es \ud83d\ude21",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        30
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Bea_Monteagudo",
+                "name": "Belli",
+                "id": 3060697462,
+                "id_str": "3060697462",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1413898022543572993,
+    "in_reply_to_status_id_str": "1413898022543572993",
+    "in_reply_to_user_id": 3060697462,
+    "in_reply_to_user_id_str": "3060697462",
+    "in_reply_to_screen_name": "Bea_Monteagudo",
+    "user": {
+        "id": 983025005482082305,
+        "id_str": "983025005482082305",
+        "name": "Wilber Mej\u00eda",
+        "screen_name": "rebliwz",
+        "location": "El Salvador",
+        "description": "Estudiante de Ciencias Jur\u00eddicas",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 996,
+        "friends_count": 1934,
+        "listed_count": 0,
+        "created_at": "Sun Apr 08 16:53:19 +0000 2018",
+        "favourites_count": 25365,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13771,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405710304663805954/o8vPKRO5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405710304663805954/o8vPKRO5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/983025005482082305/1625971126",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

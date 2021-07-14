@@ -1,0 +1,298 @@
+{
+    "created_at": "Sat Jul 10 11:37:33 +0000 2021",
+    "id": 1413824712170475521,
+    "id_str": "1413824712170475521",
+    "full_text": "RT @electo_mania: Cuca Gamarra \ud83d\udca7 pide a S\u00e1nchez \ud83c\udf39 que se vaya y disuelva las Cortes.\n\n\u201cCambiar los gui\u00f1oles no sirve de nada si los indepen\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "electo_mania",
+                "name": "EM - electomania.es",
+                "id": 1361984828,
+                "id_str": "1361984828",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1239309792583266304,
+        "id_str": "1239309792583266304",
+        "name": "Iv\u00e1n Monteagudo \ud83c\uddea\ud83c\uddf8",
+        "screen_name": "Ivan_Monteagudo",
+        "location": "Valencia, Espa\u00f1a",
+        "description": "\ud83c\uddea\ud83c\uddf8 Para ofrendar nuevas glorias a Espa\u00f1a \ud83c\uddea\ud83c\uddf8 Valencia CF\ud83e\udd87",
+        "url": "https://t.co/9FAEizviWk",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/9FAEizviWk",
+                        "expanded_url": "http://www.instagram.com/ivan10monteagudo",
+                        "display_url": "instagram.com/ivan10monteagu\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5355,
+        "friends_count": 365,
+        "listed_count": 1,
+        "created_at": "Sun Mar 15 21:57:53 +0000 2020",
+        "favourites_count": 6442,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 743,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1391552239488151561/-S0S3Xhr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391552239488151561/-S0S3Xhr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239309792583266304/1620384956",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 09:36:59 +0000 2021",
+        "id": 1413794368180346882,
+        "id_str": "1413794368180346882",
+        "full_text": "Cuca Gamarra \ud83d\udca7 pide a S\u00e1nchez \ud83c\udf39 que se vaya y disuelva las Cortes.\n\n\u201cCambiar los gui\u00f1oles no sirve de nada si los independentistas siguen moviendo los hilos. Que no se equivoque el se\u00f1or S\u00e1nchez su tic-tac ha comenzado\u201d.\n\nhttps://t.co/jba6afe5Aa https://t.co/RKhOsHz5it",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            245
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/jba6afe5Aa",
+                    "expanded_url": "http://electomania.es/cuca10jl21",
+                    "display_url": "electomania.es/cuca10jl21",
+                    "indices": [
+                        222,
+                        245
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1413794364288086022,
+                    "id_str": "1413794364288086022",
+                    "indices": [
+                        246,
+                        269
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E57Oe9TXMAYizgQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E57Oe9TXMAYizgQ.jpg",
+                    "url": "https://t.co/RKhOsHz5it",
+                    "display_url": "pic.twitter.com/RKhOsHz5it",
+                    "expanded_url": "https://twitter.com/electo_mania/status/1413794368180346882/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 630,
+                            "h": 406,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 630,
+                            "h": 406,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 630,
+                            "h": 406,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413794364288086022,
+                    "id_str": "1413794364288086022",
+                    "indices": [
+                        246,
+                        269
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E57Oe9TXMAYizgQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E57Oe9TXMAYizgQ.jpg",
+                    "url": "https://t.co/RKhOsHz5it",
+                    "display_url": "pic.twitter.com/RKhOsHz5it",
+                    "expanded_url": "https://twitter.com/electo_mania/status/1413794368180346882/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 630,
+                            "h": 406,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 630,
+                            "h": 406,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 630,
+                            "h": 406,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1361984828,
+            "id_str": "1361984828",
+            "name": "EM - electomania.es",
+            "screen_name": "electo_mania",
+            "location": "Espa\u00f1a, Europa",
+            "description": "Mucho m\u00e1s que encuestas \u2795 \ud83d\udcca. Medio independiente de actualidad y demoscopia. Victory Award 2018 \ud83c\udfc6. Somos nuestros patrones. contactoelectomania@gmail.com",
+            "url": "https://t.co/5jrAOu44lY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/5jrAOu44lY",
+                            "expanded_url": "http://www.electomania.es",
+                            "display_url": "electomania.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 95424,
+            "friends_count": 6028,
+            "listed_count": 935,
+            "created_at": "Thu Apr 18 13:51:14 +0000 2013",
+            "favourites_count": 6922,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 46235,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407865766221914112/KARCV_kI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407865766221914112/KARCV_kI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361984828/1624496331",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 41,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,353 @@
+{
+    "created_at": "Sun Jul 11 19:54:46 +0000 2021",
+    "id": 1414312228455698435,
+    "id_str": "1414312228455698435",
+    "full_text": "RT @Karlicordovaa: La familia ha comenzado a pedir en las redes sociales respuestas a la @FGR_SV @PNCSV @FiscalGeneralSV @Director_PNC @Vi1\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Karlicordovaa",
+                "name": "Karla Cordova",
+                "id": 935045189781151744,
+                "id_str": "935045189781151744",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "FGR_SV",
+                "name": "Fiscal\u00eda General de la Rep\u00fablica El Salvador",
+                "id": 611845716,
+                "id_str": "611845716",
+                "indices": [
+                    89,
+                    96
+                ]
+            },
+            {
+                "screen_name": "PNCSV",
+                "name": "PNC El Salvador",
+                "id": 117157927,
+                "id_str": "117157927",
+                "indices": [
+                    97,
+                    103
+                ]
+            },
+            {
+                "screen_name": "FiscalGeneralSV",
+                "name": "Rodolfo Delgado",
+                "id": 1394354751735799816,
+                "id_str": "1394354751735799816",
+                "indices": [
+                    104,
+                    120
+                ]
+            },
+            {
+                "screen_name": "Director_PNC",
+                "name": "Mauricio Arriaza Chicas",
+                "id": 3298988274,
+                "id_str": "3298988274",
+                "indices": [
+                    121,
+                    134
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3060697462,
+        "id_str": "3060697462",
+        "name": "Belli",
+        "screen_name": "Bea_Monteagudo",
+        "location": "San Vicente, El Salvador",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 535,
+        "friends_count": 425,
+        "listed_count": 0,
+        "created_at": "Wed Feb 25 03:20:53 +0000 2015",
+        "favourites_count": 87524,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7877,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397613416257400835/pekilaC9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397613416257400835/pekilaC9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3060697462/1584323805",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 15:13:12 +0000 2021",
+        "id": 1414241371678969860,
+        "id_str": "1414241371678969860",
+        "full_text": "La familia ha comenzado a pedir en las redes sociales respuestas a la @FGR_SV @PNCSV @FiscalGeneralSV @Director_PNC @Vi11atoro Son 4 meses sin saber de Glenda. https://t.co/jwoAN5vMoc",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            159
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FGR_SV",
+                    "name": "Fiscal\u00eda General de la Rep\u00fablica El Salvador",
+                    "id": 611845716,
+                    "id_str": "611845716",
+                    "indices": [
+                        70,
+                        77
+                    ]
+                },
+                {
+                    "screen_name": "PNCSV",
+                    "name": "PNC El Salvador",
+                    "id": 117157927,
+                    "id_str": "117157927",
+                    "indices": [
+                        78,
+                        84
+                    ]
+                },
+                {
+                    "screen_name": "FiscalGeneralSV",
+                    "name": "Rodolfo Delgado",
+                    "id": 1394354751735799816,
+                    "id_str": "1394354751735799816",
+                    "indices": [
+                        85,
+                        101
+                    ]
+                },
+                {
+                    "screen_name": "Director_PNC",
+                    "name": "Mauricio Arriaza Chicas",
+                    "id": 3298988274,
+                    "id_str": "3298988274",
+                    "indices": [
+                        102,
+                        115
+                    ]
+                },
+                {
+                    "screen_name": "Vi11atoro",
+                    "name": "Gustavo Villatoro",
+                    "id": 279764138,
+                    "id_str": "279764138",
+                    "indices": [
+                        116,
+                        126
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414241370152308737,
+                    "id_str": "1414241370152308737",
+                    "indices": [
+                        160,
+                        183
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6BlCH6XEAEbB5O.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6BlCH6XEAEbB5O.jpg",
+                    "url": "https://t.co/jwoAN5vMoc",
+                    "display_url": "pic.twitter.com/jwoAN5vMoc",
+                    "expanded_url": "https://twitter.com/Karlicordovaa/status/1414241371678969860/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 320,
+                            "h": 320,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 320,
+                            "h": 320,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 320,
+                            "h": 320,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414241370152308737,
+                    "id_str": "1414241370152308737",
+                    "indices": [
+                        160,
+                        183
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6BlCH6XEAEbB5O.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6BlCH6XEAEbB5O.jpg",
+                    "url": "https://t.co/jwoAN5vMoc",
+                    "display_url": "pic.twitter.com/jwoAN5vMoc",
+                    "expanded_url": "https://twitter.com/Karlicordovaa/status/1414241371678969860/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 320,
+                            "h": 320,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 320,
+                            "h": 320,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 320,
+                            "h": 320,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 935045189781151744,
+            "id_str": "935045189781151744",
+            "name": "Karla Cordova",
+            "screen_name": "Karlicordovaa",
+            "location": "El Salvador",
+            "description": "Amante de las cosas simples\u2763||",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 664,
+            "friends_count": 394,
+            "listed_count": 1,
+            "created_at": "Mon Nov 27 07:18:40 +0000 2017",
+            "favourites_count": 12823,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 6560,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414260118926118917/CD-tk_cY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414260118926118917/CD-tk_cY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/935045189781151744/1619700438",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 91,
+        "favorite_count": 55,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 91,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Sat Jul 10 19:12:49 +0000 2021",
+    "id": 1413939281740062725,
+    "id_str": "1413939281740062725",
+    "full_text": "@Bea_Monteagudo Jajajaja f\u00edjate que creo que s\u00ed \ud83e\udd7a, vos pod\u00e9s preguntar ah\u00ed, pero te voy averiguar mejor \ud83e\udd70",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        105
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Bea_Monteagudo",
+                "name": "Belli",
+                "id": 3060697462,
+                "id_str": "3060697462",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1413937387642757122,
+    "in_reply_to_status_id_str": "1413937387642757122",
+    "in_reply_to_user_id": 3060697462,
+    "in_reply_to_user_id_str": "3060697462",
+    "in_reply_to_screen_name": "Bea_Monteagudo",
+    "user": {
+        "id": 1193629309757480960,
+        "id_str": "1193629309757480960",
+        "name": "Glo",
+        "screen_name": "GlooMartinez__",
+        "location": "\ud83c\uddf8\ud83c\uddfb",
+        "description": "22\ud83c\udf19. Me gusta citar muchos tweets. \ud83d\udc9a\ud83d\udc9c",
+        "url": "https://t.co/2rKIVDzURc",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/2rKIVDzURc",
+                        "expanded_url": "http://vsco.co/gloriabarraza",
+                        "display_url": "vsco.co/gloriabarraza",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 697,
+        "friends_count": 606,
+        "listed_count": 0,
+        "created_at": "Sun Nov 10 20:39:48 +0000 2019",
+        "favourites_count": 72832,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9494,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408096885613682688/zfTy_wOv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408096885613682688/zfTy_wOv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1193629309757480960/1625381466",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,362 @@
+{
+    "created_at": "Mon Jul 12 05:21:04 +0000 2021",
+    "id": 1414454741472628737,
+    "id_str": "1414454741472628737",
+    "full_text": "RT @camasuci: \u2728Buenas Noticias\u2728\n\nM\u00e1s de cien (100) camas UCI disponibles en Lima.\n\nLas vacunas salvan vidas. Que pronto todos seamos vacuna\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "camasuci",
+                "name": "camasuci",
+                "id": 1383829764008333312,
+                "id_str": "1383829764008333312",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 285458089,
+        "id_str": "285458089",
+        "name": "SandriL\u00fa \ud83c\udf3b\u2728",
+        "screen_name": "Zandrilu",
+        "location": "Peru",
+        "description": "Tu vives aqu\u00ed \u2764\ufe0fmuy dentro de mi mami \ud83c\udf3b\u2728                                                               \nNo pedir, No juzgar y Vivir \ud83c\udf43\ud83e\udd0d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 357,
+        "friends_count": 910,
+        "listed_count": 4,
+        "created_at": "Thu Apr 21 05:40:41 +0000 2011",
+        "favourites_count": 11265,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6125,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1343371197237653505/gToy6Ka__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1343371197237653505/gToy6Ka__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/285458089/1617411456",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 03:28:36 +0000 2021",
+        "id": 1414064050238103555,
+        "id_str": "1414064050238103555",
+        "full_text": "\u2728Buenas Noticias\u2728\n\nM\u00e1s de cien (100) camas UCI disponibles en Lima.\n\nLas vacunas salvan vidas. Que pronto todos seamos vacunados \ud83d\ude4c\ud83c\udffc\n\n\ud83d\udc49https://t.co/eUkLLtH1GR\n\n@Cholega @AdrianzenEduard @litolobo @patriciov @Rosario_Sasieta @ougarteu @pacofloresc @LalyGoyzueta @jaime_lertora https://t.co/qOujPC4vok",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Cholega",
+                    "name": "Cholega \ud83c\uddf5\ud83c\uddea \ud83e\udda0\ud83e\udd96\u2604\ufe0f\ud83d\uddef\ufe0f",
+                    "id": 75127921,
+                    "id_str": "75127921",
+                    "indices": [
+                        159,
+                        167
+                    ]
+                },
+                {
+                    "screen_name": "AdrianzenEduard",
+                    "name": "Eduardo Adrianz\u00e9n",
+                    "id": 303521189,
+                    "id_str": "303521189",
+                    "indices": [
+                        168,
+                        184
+                    ]
+                },
+                {
+                    "screen_name": "litolobo",
+                    "name": "Manrayx",
+                    "id": 16956668,
+                    "id_str": "16956668",
+                    "indices": [
+                        185,
+                        194
+                    ]
+                },
+                {
+                    "screen_name": "patriciov",
+                    "name": "\ud83c\udf0bPatricio Valderrama",
+                    "id": 10637792,
+                    "id_str": "10637792",
+                    "indices": [
+                        195,
+                        205
+                    ]
+                },
+                {
+                    "screen_name": "Rosario_Sasieta",
+                    "name": "Rosario Sasieta",
+                    "id": 38219767,
+                    "id_str": "38219767",
+                    "indices": [
+                        206,
+                        222
+                    ]
+                },
+                {
+                    "screen_name": "ougarteu",
+                    "name": "Oscar Ugarte Ubilluz",
+                    "id": 3314271281,
+                    "id_str": "3314271281",
+                    "indices": [
+                        223,
+                        232
+                    ]
+                },
+                {
+                    "screen_name": "pacofloresc",
+                    "name": "Paco Flores \ud83c\uddf5\ud83c\uddea \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                    "id": 52605978,
+                    "id_str": "52605978",
+                    "indices": [
+                        233,
+                        245
+                    ]
+                },
+                {
+                    "screen_name": "LalyGoyzueta",
+                    "name": "Laly Goyzueta",
+                    "id": 2425816490,
+                    "id_str": "2425816490",
+                    "indices": [
+                        246,
+                        259
+                    ]
+                },
+                {
+                    "screen_name": "jaime_lertora",
+                    "name": "Jaime Lertora",
+                    "id": 891111703034957825,
+                    "id_str": "891111703034957825",
+                    "indices": [
+                        260,
+                        274
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/eUkLLtH1GR",
+                    "expanded_url": "https://opencovid-peru.com/dashboard",
+                    "display_url": "opencovid-peru.com/dashboard",
+                    "indices": [
+                        134,
+                        157
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414062263326097413,
+                    "id_str": "1414062263326097413",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_CIu_WQAU4drY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_CIu_WQAU4drY.jpg",
+                    "url": "https://t.co/qOujPC4vok",
+                    "display_url": "pic.twitter.com/qOujPC4vok",
+                    "expanded_url": "https://twitter.com/camasuci/status/1414064050238103555/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1357,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 955,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 541,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414062263326097413,
+                    "id_str": "1414062263326097413",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_CIu_WQAU4drY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_CIu_WQAU4drY.jpg",
+                    "url": "https://t.co/qOujPC4vok",
+                    "display_url": "pic.twitter.com/qOujPC4vok",
+                    "expanded_url": "https://twitter.com/camasuci/status/1414064050238103555/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1357,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 955,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 541,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1383829764008333312,
+            "id_str": "1383829764008333312",
+            "name": "camasuci",
+            "screen_name": "camasuci",
+            "location": "Per\u00fa",
+            "description": "Sabemos que pasamos un momento dificil pero estamos juntos en esto. Dale Like y RT para visibilizar cada pedido de cama UCI.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3363,
+            "friends_count": 3,
+            "listed_count": 4,
+            "created_at": "Sun Apr 18 17:08:32 +0000 2021",
+            "favourites_count": 40,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 220,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407758045724151816/aeiqJGw6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407758045724151816/aeiqJGw6_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 475,
+        "favorite_count": 1065,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 475,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

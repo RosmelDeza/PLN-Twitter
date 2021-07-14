@@ -1,0 +1,196 @@
+{
+    "created_at": "Mon Jul 12 05:07:01 +0000 2021",
+    "id": 1414451208337739777,
+    "id_str": "1414451208337739777",
+    "full_text": "RT @ugluis: Solo Willax est\u00e1 trasmitiendo en vivo la espectacular y masiva magacaravana en m\u00faltiples distritos de Lima \"Por la Democracia y\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ugluis",
+                "name": "ugluis",
+                "id": 32136515,
+                "id_str": "32136515",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 314983844,
+        "id_str": "314983844",
+        "name": "\ud83c\udf1e\ud83c\udf0e\u2600\ufe0f\ud83c\udfb6J.A.A.Meza\ud83c\udfb6\uc190\ud6c4\ud83c\udfb6\ud83d\udc26n n \ud83c\udf0e\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "JaysukeMezase",
+        "location": "En algun lugar no se donde",
+        "description": "Imaynatan munanki ch'aynallatataq munasunki, manan \ud83d\ude12             .\nAUTODIDACTUS IN EXTREMUS                          .\n\nwe're going deep,and we're going Hard\ud83d\ude20",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 144,
+        "friends_count": 58,
+        "listed_count": 0,
+        "created_at": "Sat Jun 11 03:42:44 +0000 2011",
+        "favourites_count": 27758,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23013,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1345416038628925441/L8u6Z-jZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345416038628925441/L8u6Z-jZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/314983844/1597341668",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 23:20:00 +0000 2021",
+        "id": 1414001490260340739,
+        "id_str": "1414001490260340739",
+        "full_text": "Solo Willax est\u00e1 trasmitiendo en vivo la espectacular y masiva magacaravana en m\u00faltiples distritos de Lima \"Por la Democracia y contra el fraude comunista\". El resto de medios da verg\u00fcenza.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            189
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 32136515,
+            "id_str": "32136515",
+            "name": "ugluis",
+            "screen_name": "ugluis",
+            "location": "Peru I USA",
+            "description": "Dios, patria, familia y propiedad. \u00a1No a la izquierda de origen marxista!",
+            "url": "https://t.co/P1KqPw5Vgu",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/P1KqPw5Vgu",
+                            "expanded_url": "http://hugoguerra.pe",
+                            "display_url": "hugoguerra.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22281,
+            "friends_count": 3824,
+            "listed_count": 73,
+            "created_at": "Thu Apr 16 20:17:14 +0000 2009",
+            "favourites_count": 21301,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 157267,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1401213121776209923/x73eS45Z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401213121776209923/x73eS45Z_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32136515/1597206698",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 540,
+        "favorite_count": 1718,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 540,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

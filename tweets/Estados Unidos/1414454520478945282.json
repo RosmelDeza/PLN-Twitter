@@ -1,0 +1,199 @@
+{
+    "created_at": "Mon Jul 12 05:20:11 +0000 2021",
+    "id": 1414454520478945282,
+    "id_str": "1414454520478945282",
+    "full_text": "RT @evoespueblo: Reafirmamos que se halla en marcha el #PlanC\u00f3ndor2 y debemos acordar medidas para que los gobiernos de la derecha de Latin\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "PlanC\u00f3ndor2",
+                "indices": [
+                    55,
+                    67
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "evoespueblo",
+                "name": "Evo Morales Ayma",
+                "id": 720786569792253952,
+                "id_str": "720786569792253952",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 119727918,
+        "id_str": "119727918",
+        "name": "JOS\u00c9 G. COLMENARES",
+        "screen_name": "JG_COLMENARES",
+        "location": "Maracay, Aragua",
+        "description": "\ud83d\udccdDiputado a la Asamblea Nacional\n\ud83d\udccdProfesor Universitario  \ud83d\udc68\u200d\ud83c\udfeb\n\ud83d\udccdMilitante de la Justicia, La Verdad y del Tiempo \u2696\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2848,
+        "friends_count": 2117,
+        "listed_count": 6,
+        "created_at": "Thu Mar 04 13:27:01 +0000 2010",
+        "favourites_count": 1795,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 53781,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397343940819525633/T4Wdmy07_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397343940819525633/T4Wdmy07_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/119727918/1610665919",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 15:21:01 +0000 2021",
+        "id": 1414243335330541571,
+        "id_str": "1414243335330541571",
+        "full_text": "Reafirmamos que se halla en marcha el #PlanC\u00f3ndor2 y debemos acordar medidas para que los gobiernos de la derecha de Latinoam\u00e9rica no sigan participando en los golpes de Estado bajo la direcci\u00f3n de Estados Unidos, provocando luto y dolor a nuestros pueblos.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            257
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "PlanC\u00f3ndor2",
+                    "indices": [
+                        38,
+                        50
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 720786569792253952,
+            "id_str": "720786569792253952",
+            "name": "Evo Morales Ayma",
+            "screen_name": "evoespueblo",
+            "location": "",
+            "description": "Primer Presidente del Estado Plurinacional de Bolivia.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1228992,
+            "friends_count": 30,
+            "listed_count": 2261,
+            "created_at": "Fri Apr 15 01:31:24 +0000 2016",
+            "favourites_count": 157,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 17115,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1184815382475038720/xoPGKybX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184815382475038720/xoPGKybX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/720786569792253952/1571328372",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2738,
+        "favorite_count": 5321,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2738,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

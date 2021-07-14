@@ -1,0 +1,261 @@
+{
+    "created_at": "Mon Jul 12 05:09:01 +0000 2021",
+    "id": 1414451710244933633,
+    "id_str": "1414451710244933633",
+    "full_text": "RT @CIDH: #Per\u00fa\ud83c\uddf5\ud83c\uddea #CIDH condena el acto de violencia contra Gahela Cari, defensora #LGBTI y ex-candidata pol\u00edtica, en Lima, #9Julio. Seg\u00fan\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Per\u00fa",
+                "indices": [
+                    10,
+                    15
+                ]
+            },
+            {
+                "text": "CIDH",
+                "indices": [
+                    18,
+                    23
+                ]
+            },
+            {
+                "text": "LGBTI",
+                "indices": [
+                    83,
+                    89
+                ]
+            },
+            {
+                "text": "9Julio",
+                "indices": [
+                    124,
+                    131
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CIDH",
+                "name": "CIDH - IACHR",
+                "id": 60954521,
+                "id_str": "60954521",
+                "indices": [
+                    3,
+                    8
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2293115388,
+        "id_str": "2293115388",
+        "name": "apache",
+        "screen_name": "apachelili",
+        "location": "",
+        "description": "Tan dif\u00edcil es vivir y dejar vivir ?",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 480,
+        "friends_count": 1027,
+        "listed_count": 5,
+        "created_at": "Wed Jan 15 18:46:42 +0000 2014",
+        "favourites_count": 9186,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 74013,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/482238832146784257/NQv_p-La_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/482238832146784257/NQv_p-La_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293115388/1394579847",
+        "profile_link_color": "008FB3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 14:13:33 +0000 2021",
+        "id": 1413863971183120386,
+        "id_str": "1413863971183120386",
+        "full_text": "#Per\u00fa\ud83c\uddf5\ud83c\uddea #CIDH condena el acto de violencia contra Gahela Cari, defensora #LGBTI y ex-candidata pol\u00edtica, en Lima, #9Julio. Seg\u00fan declaraciones preliminares, agentes de seguridad p\u00fablica presentes no le habr\u00edan auxiliado al momento de la agresi\u00f3n f\u00edsica. #DerechosHumanos 1",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Per\u00fa",
+                    "indices": [
+                        0,
+                        5
+                    ]
+                },
+                {
+                    "text": "CIDH",
+                    "indices": [
+                        8,
+                        13
+                    ]
+                },
+                {
+                    "text": "LGBTI",
+                    "indices": [
+                        73,
+                        79
+                    ]
+                },
+                {
+                    "text": "9Julio",
+                    "indices": [
+                        114,
+                        121
+                    ]
+                },
+                {
+                    "text": "DerechosHumanos",
+                    "indices": [
+                        254,
+                        270
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 60954521,
+            "id_str": "60954521",
+            "name": "CIDH - IACHR",
+            "screen_name": "CIDH",
+            "location": "Washington, DC",
+            "description": "Comisi\u00f3n Interamericana de DDHH / Inter-American Commission on Human Rights / Comiss\u00e3o Interamericana de DH / Commission Interam\u00e9ricaine des Droits de l'Homme.",
+            "url": "https://t.co/olb8BWJZp3",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/olb8BWJZp3",
+                            "expanded_url": "http://www.cidh.org",
+                            "display_url": "cidh.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 708742,
+            "friends_count": 2421,
+            "listed_count": 2455,
+            "created_at": "Tue Jul 28 16:49:00 +0000 2009",
+            "favourites_count": 845,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 49708,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412870692752797700/5XTxJ2bp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412870692752797700/5XTxJ2bp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/60954521/1591596857",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 46,
+        "favorite_count": 89,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 46,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

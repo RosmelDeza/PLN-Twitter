@@ -1,0 +1,117 @@
+{
+    "created_at": "Mon Jul 12 05:17:43 +0000 2021",
+    "id": 1414453899541549058,
+    "id_str": "1414453899541549058",
+    "full_text": "@pgtecnol @SimonLevyMx @RamirezClaudia_ China tiene un modelo llamado capitalismo de Estado, que es b\u00e1sicamente el capitalismo priorizando a las empresas estatales. Y es cierto, Estados Unidos est\u00e1 en decadencia, pero no por el capitalismo, sino por sus pol\u00edticas monetarias y b\u00e9licas.",
+    "truncated": false,
+    "display_text_range": [
+        40,
+        285
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pgtecnol",
+                "name": "TigreVacunadoEnMexico",
+                "id": 184666653,
+                "id_str": "184666653",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "SimonLevyMx",
+                "name": "Sim\u00f3n Levy",
+                "id": 998380790,
+                "id_str": "998380790",
+                "indices": [
+                    10,
+                    22
+                ]
+            },
+            {
+                "screen_name": "RamirezClaudia_",
+                "name": "Claudia Ram\u00edrez",
+                "id": 110899094,
+                "id_str": "110899094",
+                "indices": [
+                    23,
+                    39
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414451846098391044,
+    "in_reply_to_status_id_str": "1414451846098391044",
+    "in_reply_to_user_id": 184666653,
+    "in_reply_to_user_id_str": "184666653",
+    "in_reply_to_screen_name": "pgtecnol",
+    "user": {
+        "id": 1401211806,
+        "id_str": "1401211806",
+        "name": "El Value Investor",
+        "screen_name": "Invest_In_Value",
+        "location": "M\u00e9xico",
+        "description": "\u00a1Ya no trabajes por dinero!\n\u00a1Estoy aqu\u00ed para ENSE\u00d1ARTE a hacerlo TRABAJAR para ti!\n\n \ud83d\udcb5 Bolsa \ud83d\udcc8 Ventas y marketing \ud83d\udd25 Finanzas \ud83d\udcb0 Invertir \ud83d\ude80\n\n#ValueIsKing",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 167,
+        "friends_count": 205,
+        "listed_count": 5,
+        "created_at": "Sat May 04 02:33:04 +0000 2013",
+        "favourites_count": 13999,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3560,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1312122736593035265/v7avhSZB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312122736593035265/v7avhSZB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401211806/1611285532",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

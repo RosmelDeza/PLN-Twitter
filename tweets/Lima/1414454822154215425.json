@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 12 05:21:23 +0000 2021",
+    "id": 1414454822154215425,
+    "id_str": "1414454822154215425",
+    "full_text": "@johnalexchuqui Abre este enlace para unirte a mi grupo de WhatsApp: https://t.co/t2caMuvQRg\n\nwhasap grupal de hombres reservados.\ngente de peru lima y callao.\n\nBarberos de lima actualizado.",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        190
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "johnalexchuqui",
+                "name": "Alex barber\ud83d\udc8880k",
+                "id": 1300868503713583104,
+                "id_str": "1300868503713583104",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/t2caMuvQRg",
+                "expanded_url": "https://chat.whatsapp.com/IMyCOGmicG0F3PP8GmwEDa",
+                "display_url": "chat.whatsapp.com/IMyCOGmicG0F3P\u2026",
+                "indices": [
+                    69,
+                    92
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1383209384143171585,
+    "in_reply_to_status_id_str": "1383209384143171585",
+    "in_reply_to_user_id": 1300868503713583104,
+    "in_reply_to_user_id_str": "1300868503713583104",
+    "in_reply_to_screen_name": "johnalexchuqui",
+    "user": {
+        "id": 1400895416959373316,
+        "id_str": "1400895416959373316",
+        "name": "Diego",
+        "screen_name": "Diego59069393",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 346,
+        "listed_count": 0,
+        "created_at": "Fri Jun 04 19:21:24 +0000 2021",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 238,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

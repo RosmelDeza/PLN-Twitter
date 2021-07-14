@@ -1,0 +1,282 @@
+{
+    "created_at": "Mon Jul 12 05:19:57 +0000 2021",
+    "id": 1414454461985087490,
+    "id_str": "1414454461985087490",
+    "full_text": "RT @PleyariIndigo: Ra\u00fal Castro huy\u00f3 como rata a Venezuela por una posible intervenci\u00f3n militar x parte de Estados Unidos en Cuba. \u00bfSer\u00e1 la\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PleyariIndigo",
+                "name": "\ud83c\udf1f\u00a1\u00a1Esp\u00edritu libre!! \ud83c\udf1f\u2b50",
+                "id": 1324193260588437506,
+                "id_str": "1324193260588437506",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3223997077,
+        "id_str": "3223997077",
+        "name": "Luis L\u00f3pez",
+        "screen_name": "ElLobogt",
+        "location": "Guatemala, Guatemala",
+        "description": "Soy complicado...  \n=0)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 74,
+        "friends_count": 1092,
+        "listed_count": 0,
+        "created_at": "Sat May 23 06:09:25 +0000 2015",
+        "favourites_count": 2640,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2586,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 05:14:14 +0000 2021",
+        "id": 1414453023330418689,
+        "id_str": "1414453023330418689",
+        "full_text": "Ra\u00fal Castro huy\u00f3 como rata a Venezuela por una posible intervenci\u00f3n militar x parte de Estados Unidos en Cuba. \u00bfSer\u00e1 la alianza patriotas? \ud83d\udc4c\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\nCuba libre!! https://t.co/PKvqGBHV9x",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            156
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414452846641176578,
+                    "id_str": "1414452846641176578",
+                    "indices": [
+                        157,
+                        180
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414452846641176578/pu/img/h6Sxw5Zx-fCuZ0Hu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414452846641176578/pu/img/h6Sxw5Zx-fCuZ0Hu.jpg",
+                    "url": "https://t.co/PKvqGBHV9x",
+                    "display_url": "pic.twitter.com/PKvqGBHV9x",
+                    "expanded_url": "https://twitter.com/PleyariIndigo/status/1414453023330418689/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414452846641176578,
+                    "id_str": "1414452846641176578",
+                    "indices": [
+                        157,
+                        180
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414452846641176578/pu/img/h6Sxw5Zx-fCuZ0Hu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414452846641176578/pu/img/h6Sxw5Zx-fCuZ0Hu.jpg",
+                    "url": "https://t.co/PKvqGBHV9x",
+                    "display_url": "pic.twitter.com/PKvqGBHV9x",
+                    "expanded_url": "https://twitter.com/PleyariIndigo/status/1414453023330418689/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "medium": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 38531,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414452846641176578/pu/vid/480x270/99mKt109QGqG2Mvm.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1414452846641176578/pu/pl/P1GFCO01snj3yPEe.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1324193260588437506,
+            "id_str": "1324193260588437506",
+            "name": "\ud83c\udf1f\u00a1\u00a1Esp\u00edritu libre!! \ud83c\udf1f\u2b50",
+            "screen_name": "PleyariIndigo",
+            "location": "",
+            "description": "No Plandemia.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1532,
+            "friends_count": 239,
+            "listed_count": 3,
+            "created_at": "Thu Nov 05 03:34:22 +0000 2020",
+            "favourites_count": 3334,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9305,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412082604740857861/Sf7PCuje_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412082604740857861/Sf7PCuje_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324193260588437506/1625074726",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

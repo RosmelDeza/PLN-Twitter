@@ -1,0 +1,199 @@
+{
+    "created_at": "Mon Jul 12 04:46:36 +0000 2021",
+    "id": 1414446067916197890,
+    "id_str": "1414446067916197890",
+    "full_text": "RT @JERCBM: Sebastian Salazar: \"Lima es un pa\u00eds\"  #CuartoPoder",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        62
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CuartoPoder",
+                "indices": [
+                    50,
+                    62
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JERCBM",
+                "name": "CREJ",
+                "id": 440909695,
+                "id_str": "440909695",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 970078550022909953,
+        "id_str": "970078550022909953",
+        "name": "Ida Benavente Amado",
+        "screen_name": "IdaAmado",
+        "location": "Arequipa, Peru",
+        "description": "La justicia",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 446,
+        "friends_count": 839,
+        "listed_count": 0,
+        "created_at": "Sat Mar 03 23:28:44 +0000 2018",
+        "favourites_count": 69354,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14022,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381801467456192515/yUglPu1R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381801467456192515/yUglPu1R_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/970078550022909953/1618282115",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 02:10:38 +0000 2021",
+        "id": 1414406818818924545,
+        "id_str": "1414406818818924545",
+        "full_text": "Sebastian Salazar: \"Lima es un pa\u00eds\"  #CuartoPoder",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            50
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CuartoPoder",
+                    "indices": [
+                        38,
+                        50
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 440909695,
+            "id_str": "440909695",
+            "name": "CREJ",
+            "screen_name": "JERCBM",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4286,
+            "friends_count": 1071,
+            "listed_count": 6,
+            "created_at": "Mon Dec 19 14:57:51 +0000 2011",
+            "favourites_count": 65274,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10259,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399138202938654724/Y-X2weZe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399138202938654724/Y-X2weZe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/440909695/1598538070",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 143,
+        "favorite_count": 790,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 143,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

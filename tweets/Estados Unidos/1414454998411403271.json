@@ -1,0 +1,227 @@
+{
+    "created_at": "Mon Jul 12 05:22:05 +0000 2021",
+    "id": 1414454998411403271,
+    "id_str": "1414454998411403271",
+    "full_text": "RT @filipprl: Escarche a Guaid\u00f3 y dem\u00e1s par\u00e1sitos de la MUD en la calle. Es la mejor manera de contribuir para hacerle saber al mundo que #\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "filipprl",
+                "name": "Filipp Rodriguez Loginova",
+                "id": 147989101,
+                "id_str": "147989101",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1010195506381893633,
+        "id_str": "1010195506381893633",
+        "name": "gerardo regg\u00ede rinc\u00f3n bravo\ud83c\udfc0\ud83d\udc51\ud83d\ude0e\ud83d\ude0f\ud83d\ude01\ud83d\udcb8\ud83d\udcf1\ud83d\ude0a\ud83d\udd95\ud83d\udca3\ud83d\udc50",
+        "screen_name": "p0ch0musk23",
+        "location": "Maracaibo, Venezuela",
+        "description": "boy relax con los pies en la tierra y la mirada hacia el infinito,satirico,polemico,directo,extrovertido;humilde;liberal;defensor de mi pais anticomunist;god\ud83d\ude07",
+        "url": "https://t.co/aqfsv7W6xk",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/aqfsv7W6xk",
+                        "expanded_url": "http://www.genteserialevelvip.com",
+                        "display_url": "genteserialevelvip.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 536,
+        "friends_count": 4968,
+        "listed_count": 0,
+        "created_at": "Fri Jun 22 16:19:12 +0000 2018",
+        "favourites_count": 185142,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 183175,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408964937381187585/zlmji9ga_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408964937381187585/zlmji9ga_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010195506381893633/1566295948",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 17:44:12 +0000 2021",
+        "id": 1414279371079274497,
+        "id_str": "1414279371079274497",
+        "full_text": "Escarche a Guaid\u00f3 y dem\u00e1s par\u00e1sitos de la MUD en la calle. Es la mejor manera de contribuir para hacerle saber al mundo que #Venezuela no tolera corruptos ni terrorismo chavista. Un mensaje para los senadores Gorrin en Estados Unidos q se desviven por el carterista Guaid\u00f3!",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            273
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Venezuela",
+                    "indices": [
+                        124,
+                        134
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 147989101,
+            "id_str": "147989101",
+            "name": "Filipp Rodriguez Loginova",
+            "screen_name": "filipprl",
+            "location": "Washington, DC",
+            "description": "Christian | Exec.Dir. @AfdesOrg | Political Scientist | Global #Geopolitics | Corruption = crime against humanity | https://t.co/iMJQf1YuMq | I was right!",
+            "url": "https://t.co/990XD4jcLd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/990XD4jcLd",
+                            "expanded_url": "http://afdes.org",
+                            "display_url": "afdes.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/iMJQf1YuMq",
+                            "expanded_url": "http://instagram.com/filipprl",
+                            "display_url": "instagram.com/filipprl",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16589,
+            "friends_count": 382,
+            "listed_count": 56,
+            "created_at": "Tue May 25 15:10:08 +0000 2010",
+            "favourites_count": 15617,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 28097,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "020D07",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1398474131595739138/oS9bdhmK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398474131595739138/oS9bdhmK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/147989101/1622080088",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "11E1F0",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 205,
+        "favorite_count": 280,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 205,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

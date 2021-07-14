@@ -1,0 +1,97 @@
+{
+    "created_at": "Sat Jul 10 16:30:23 +0000 2021",
+    "id": 1413898407073230852,
+    "id_str": "1413898407073230852",
+    "full_text": "@Bea_Monteagudo Jajaja chale",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        28
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Bea_Monteagudo",
+                "name": "Belli",
+                "id": 3060697462,
+                "id_str": "3060697462",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1413898022543572993,
+    "in_reply_to_status_id_str": "1413898022543572993",
+    "in_reply_to_user_id": 3060697462,
+    "in_reply_to_user_id_str": "3060697462",
+    "in_reply_to_screen_name": "Bea_Monteagudo",
+    "user": {
+        "id": 1152711448289845250,
+        "id_str": "1152711448289845250",
+        "name": "Alex el Blacky \ud83d\udc4d\ud83c\udffc",
+        "screen_name": "_lexreprie",
+        "location": "Sv",
+        "description": "23 a\u00f1osl \nEl entusiasmo mueve al mundo \ud83c\udf0e\n\nl aqu\u00ed p\u00fablico absolutamente todo lo que pienso en cuanto al amor, pol\u00edtica, la vida, etc.\n\n\u00a1No se claven!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1268,
+        "friends_count": 3585,
+        "listed_count": 0,
+        "created_at": "Sat Jul 20 22:46:40 +0000 2019",
+        "favourites_count": 388347,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31985,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407552584458588160/LMVJDzgj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407552584458588160/LMVJDzgj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152711448289845250/1622568913",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

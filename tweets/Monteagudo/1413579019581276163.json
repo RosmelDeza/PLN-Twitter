@@ -1,0 +1,272 @@
+{
+    "created_at": "Fri Jul 09 19:21:15 +0000 2021",
+    "id": 1413579019581276163,
+    "id_str": "1413579019581276163",
+    "full_text": "RT @LuAmericalatina: En este d\u00eda de la Independencia que amo quiero rescatar la figura de Monteagudo. Adem\u00e1s de ser mulato y tucumano fue u\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LuAmericalatina",
+                "name": "Lu Am\u00e9ricaLatina",
+                "id": 4283235857,
+                "id_str": "4283235857",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2398694809,
+        "id_str": "2398694809",
+        "name": "Lonstoki - \u270c\ud83c\udffe",
+        "screen_name": "IviLangstrump",
+        "location": "Bariloche",
+        "description": "\u270c\ud83c\udffe Agrupaci\u00f3n Alicia Eguren - https://t.co/gynLzDeFHg",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/gynLzDeFHg",
+                        "expanded_url": "https://instagram.com/agrupacionlaeguren?utm_medium=copy_link",
+                        "display_url": "instagram.com/agrupacionlaeg\u2026",
+                        "indices": [
+                            30,
+                            53
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1129,
+        "friends_count": 948,
+        "listed_count": 2,
+        "created_at": "Thu Mar 20 02:05:23 +0000 2014",
+        "favourites_count": 18540,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13984,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F4FA58",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411055584959475716/sv8Gu3W6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411055584959475716/sv8Gu3W6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2398694809/1496212340",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 09 15:06:38 +0000 2021",
+        "id": 1413514942490185732,
+        "id_str": "1413514942490185732",
+        "full_text": "En este d\u00eda de la Independencia que amo quiero rescatar la figura de Monteagudo. Adem\u00e1s de ser mulato y tucumano fue uno de los grandes constructores materiales e intelectuales de la revoluci\u00f3n e independencias de la Patria Grande. https://t.co/B5VeCannS9",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            231
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413514939617222658,
+                    "id_str": "1413514939617222658",
+                    "indices": [
+                        232,
+                        255
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E53QWTSXoAIMrZy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E53QWTSXoAIMrZy.jpg",
+                    "url": "https://t.co/B5VeCannS9",
+                    "display_url": "pic.twitter.com/B5VeCannS9",
+                    "expanded_url": "https://twitter.com/LuAmericalatina/status/1413514942490185732/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 646,
+                            "h": 789,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 646,
+                            "h": 789,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 557,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413514939617222658,
+                    "id_str": "1413514939617222658",
+                    "indices": [
+                        232,
+                        255
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E53QWTSXoAIMrZy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E53QWTSXoAIMrZy.jpg",
+                    "url": "https://t.co/B5VeCannS9",
+                    "display_url": "pic.twitter.com/B5VeCannS9",
+                    "expanded_url": "https://twitter.com/LuAmericalatina/status/1413514942490185732/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 646,
+                            "h": 789,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 646,
+                            "h": 789,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 557,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4283235857,
+            "id_str": "4283235857",
+            "name": "Lu Am\u00e9ricaLatina",
+            "screen_name": "LuAmericalatina",
+            "location": "Santafesina exiliada en SLuis",
+            "description": "El goce, se\u00f1ora Presidenta, el goce! Barthes y Per\u00f3n.\nSinfon\u00eda de un Sentimiento.\nAtiendo boludos.\nSoy intelectual pero lo disimulo para que me sigan.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 689,
+            "friends_count": 432,
+            "listed_count": 0,
+            "created_at": "Thu Nov 26 08:01:19 +0000 2015",
+            "favourites_count": 14312,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7102,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1378418112832364546/-0KbsxI__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378418112832364546/-0KbsxI__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4283235857/1448815632",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

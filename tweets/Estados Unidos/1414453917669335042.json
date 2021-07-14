@@ -1,0 +1,348 @@
+{
+    "created_at": "Mon Jul 12 05:17:47 +0000 2021",
+    "id": 1414453917669335042,
+    "id_str": "1414453917669335042",
+    "full_text": "RT @AFPespanol: @tellka @LageYamil #\u00daLTIMAHORA \"Estados Unidos apoya la libertad de expresi\u00f3n y reuni\u00f3n en Cuba, y condenar\u00eda fuertemente c\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u00daLTIMAHORA",
+                "indices": [
+                    35,
+                    46
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AFPespanol",
+                "name": "Agence France-Presse",
+                "id": 851108442,
+                "id_str": "851108442",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "tellka",
+                "name": "Katell Abiven",
+                "id": 30017640,
+                "id_str": "30017640",
+                "indices": [
+                    16,
+                    23
+                ]
+            },
+            {
+                "screen_name": "LageYamil",
+                "name": "Yamil Lage",
+                "id": 1064926826693312513,
+                "id_str": "1064926826693312513",
+                "indices": [
+                    24,
+                    34
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1205207662583066624,
+        "id_str": "1205207662583066624",
+        "name": "Gladys Fleitas",
+        "screen_name": "GladysFleitas11",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 132,
+        "friends_count": 850,
+        "listed_count": 0,
+        "created_at": "Thu Dec 12 19:28:09 +0000 2019",
+        "favourites_count": 4754,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1693,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1208568496260624384/uulr9Dyy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208568496260624384/uulr9Dyy_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 02:48:15 +0000 2021",
+        "id": 1414416286722011136,
+        "id_str": "1414416286722011136",
+        "full_text": "@tellka @LageYamil #\u00daLTIMAHORA \"Estados Unidos apoya la libertad de expresi\u00f3n y reuni\u00f3n en Cuba, y condenar\u00eda fuertemente cualquier uso de violencia contra manifestantes pac\u00edficos que est\u00e1n ejerciendo sus derechos universales\", se\u00f1al\u00f3 asesor de Seguridad Nacional, Jake Sullivan #AFP https://t.co/BFxu92rkAe",
+        "truncated": false,
+        "display_text_range": [
+            19,
+            283
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u00daLTIMAHORA",
+                    "indices": [
+                        19,
+                        30
+                    ]
+                },
+                {
+                    "text": "AFP",
+                    "indices": [
+                        279,
+                        283
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "tellka",
+                    "name": "Katell Abiven",
+                    "id": 30017640,
+                    "id_str": "30017640",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "LageYamil",
+                    "name": "Yamil Lage",
+                    "id": 1064926826693312513,
+                    "id_str": "1064926826693312513",
+                    "indices": [
+                        8,
+                        18
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414415902515281923,
+                    "id_str": "1414415902515281923",
+                    "indices": [
+                        284,
+                        307
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6EDxPoWQAMApma.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6EDxPoWQAMApma.png",
+                    "url": "https://t.co/BFxu92rkAe",
+                    "display_url": "pic.twitter.com/BFxu92rkAe",
+                    "expanded_url": "https://twitter.com/AFPespanol/status/1414416286722011136/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 507,
+                            "h": 256,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 507,
+                            "h": 256,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 507,
+                            "h": 256,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414415902515281923,
+                    "id_str": "1414415902515281923",
+                    "indices": [
+                        284,
+                        307
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6EDxPoWQAMApma.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6EDxPoWQAMApma.png",
+                    "url": "https://t.co/BFxu92rkAe",
+                    "display_url": "pic.twitter.com/BFxu92rkAe",
+                    "expanded_url": "https://twitter.com/AFPespanol/status/1414416286722011136/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 507,
+                            "h": 256,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 507,
+                            "h": 256,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 507,
+                            "h": 256,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1414394829560291328,
+        "in_reply_to_status_id_str": "1414394829560291328",
+        "in_reply_to_user_id": 851108442,
+        "in_reply_to_user_id_str": "851108442",
+        "in_reply_to_screen_name": "AFPespanol",
+        "user": {
+            "id": 851108442,
+            "id_str": "851108442",
+            "name": "Agence France-Presse",
+            "screen_name": "AFPespanol",
+            "location": "Montevideo, Uruguay",
+            "description": "Las noticias y las historias del mundo con el aporte de los periodistas de la AFP en 150 pa\u00edses. Tambi\u00e9n en Facebook: https://t.co/USg46DHztr",
+            "url": "https://t.co/xUUUHGq0CB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xUUUHGq0CB",
+                            "expanded_url": "http://www.afp.com/es",
+                            "display_url": "afp.com/es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/USg46DHztr",
+                            "expanded_url": "http://u.afp.com/AFPespanol",
+                            "display_url": "u.afp.com/AFPespanol",
+                            "indices": [
+                                118,
+                                141
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 525991,
+            "friends_count": 1007,
+            "listed_count": 4882,
+            "created_at": "Fri Sep 28 14:00:14 +0000 2012",
+            "favourites_count": 348,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 197366,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1272859011474481152/J3eS0fH9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272859011474481152/J3eS0fH9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/851108442/1606670390",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 168,
+        "favorite_count": 314,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 168,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

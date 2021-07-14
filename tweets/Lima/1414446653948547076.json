@@ -1,0 +1,217 @@
+{
+    "created_at": "Mon Jul 12 04:48:56 +0000 2021",
+    "id": 1414446653948547076,
+    "id_str": "1414446653948547076",
+    "full_text": "RT @Caretas: La excongresista fujimorista considera que existe una \u201corganizaci\u00f3n criminal\u201d en el Reniec, la ONPE y el JNE. \nhttps://t.co/1O\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Caretas",
+                "name": "Revista Caretas",
+                "id": 44932117,
+                "id_str": "44932117",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 314983844,
+        "id_str": "314983844",
+        "name": "\ud83c\udf1e\ud83c\udf0e\u2600\ufe0f\ud83c\udfb6J.A.A.Meza\ud83c\udfb6\uc190\ud6c4\ud83c\udfb6\ud83d\udc26n n \ud83c\udf0e\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "JaysukeMezase",
+        "location": "En algun lugar no se donde",
+        "description": "Imaynatan munanki ch'aynallatataq munasunki, manan \ud83d\ude12             .\nAUTODIDACTUS IN EXTREMUS                          .\n\nwe're going deep,and we're going Hard\ud83d\ude20",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 144,
+        "friends_count": 58,
+        "listed_count": 0,
+        "created_at": "Sat Jun 11 03:42:44 +0000 2011",
+        "favourites_count": 27758,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23013,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1345416038628925441/L8u6Z-jZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345416038628925441/L8u6Z-jZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/314983844/1597341668",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 18:45:00 +0000 2021",
+        "id": 1414294669576392710,
+        "id_str": "1414294669576392710",
+        "full_text": "La excongresista fujimorista considera que existe una \u201corganizaci\u00f3n criminal\u201d en el Reniec, la ONPE y el JNE. \nhttps://t.co/1Ogyhqe6CL",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            134
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1Ogyhqe6CL",
+                    "expanded_url": "https://caretas.pe/politica/yeni-vilcatoma-denuncio-a-francisco-sagasti-a-los-miembros-del-jee-lima-centro-i-y-a-todo-el-sistema-electoral/",
+                    "display_url": "caretas.pe/politica/yeni-\u2026",
+                    "indices": [
+                        111,
+                        134
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 44932117,
+            "id_str": "44932117",
+            "name": "Revista Caretas",
+            "screen_name": "Caretas",
+            "location": "Lima, Per\u00fa",
+            "description": "Actualidad candente, investigaci\u00f3n y humor desde 1950. https://t.co/zDAV02WK5G",
+            "url": "http://t.co/5UBM78Qpft",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/5UBM78Qpft",
+                            "expanded_url": "http://www.caretas.com.pe",
+                            "display_url": "caretas.com.pe",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zDAV02WK5G",
+                            "expanded_url": "https://www.facebook.com/revistacaretas",
+                            "display_url": "facebook.com/revistacaretas",
+                            "indices": [
+                                55,
+                                78
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 745230,
+            "friends_count": 1887,
+            "listed_count": 1452,
+            "created_at": "Fri Jun 05 16:35:22 +0000 2009",
+            "favourites_count": 822,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 51449,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1357072433824616448/7xwcjPzW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357072433824616448/7xwcjPzW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/44932117/1623528832",
+            "profile_link_color": "C2001B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 112,
+        "favorite_count": 303,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 112,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

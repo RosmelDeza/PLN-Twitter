@@ -1,0 +1,97 @@
+{
+    "created_at": "Mon Jul 12 05:17:03 +0000 2021",
+    "id": 1414453730838290432,
+    "id_str": "1414453730838290432",
+    "full_text": "Explosi\u00f3n cerca de una base de Estados Unidos en Siria, seg\u00fan una ONG y fuentes locales | Peri\u00f3dicos Viva. Noticias del Mundo https://t.co/F04WuvF9b7",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        149
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/F04WuvF9b7",
+                "expanded_url": "https://vivaconil.es/mundo/984447/explosion-cerca-de-una-base-de-estados-unidos-en-siria-segun-una-ong-y-fuentes-locales/",
+                "display_url": "vivaconil.es/mundo/984447/e\u2026",
+                "indices": [
+                    126,
+                    149
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2673751301,
+        "id_str": "2673751301",
+        "name": "Pardela \ud83e\udd8b\ud83d\udc97\ud83e\udd8b",
+        "screen_name": "DhPardela",
+        "location": "Cosmopolita \ud83c\udf0d",
+        "description": "#NoRacism #NoAlRacismo #GegenRassismus \u270a\ud83c\udffd\u270a\ud83c\udfff\u270a\ud83c\udffb\ud83c\udf39\ud83c\udf08\u262e\ufe0f\u2764\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1817,
+        "friends_count": 1959,
+        "listed_count": 43,
+        "created_at": "Fri Jul 04 23:56:58 +0000 2014",
+        "favourites_count": 51476,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 69401,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413453427523428355/2yYTVXQi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413453427523428355/2yYTVXQi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2673751301/1623831354",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

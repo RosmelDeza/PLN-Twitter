@@ -1,0 +1,110 @@
+{
+    "created_at": "Mon Jul 12 05:20:57 +0000 2021",
+    "id": 1414454711709667331,
+    "id_str": "1414454711709667331",
+    "full_text": "D\u00edaz-Canel menospreci\u00f3 las protestas y llam\u00f3 a defender a la Revoluci\u00f3n https://t.co/aKBOj58yNc",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        95
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/aKBOj58yNc",
+                "expanded_url": "http://www.msn.com/es-us/noticias/estados-unidos/el-presidente-de-cuba-menospreci%C3%B3-las-protestas-y-llam%C3%B3-a-sus-seguidores-a-defender-a-la-revoluci%C3%B3n/vi-AAM2bAS?ocid=ob-tw-esus-683",
+                "display_url": "msn.com/es-us/noticias\u2026",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://oxfordblue.azurewebsites.net\" rel=\"nofollow\">OxfordBlue-Twitter</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 126741060,
+        "id_str": "126741060",
+        "name": "MSN Latino",
+        "screen_name": "msnlatino",
+        "location": "Bellevue, WA",
+        "description": "",
+        "url": "https://t.co/Yo3QzckIzh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Yo3QzckIzh",
+                        "expanded_url": "http://www.msn.com/es-us",
+                        "display_url": "msn.com/es-us",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 14793,
+        "friends_count": 595,
+        "listed_count": 129,
+        "created_at": "Fri Mar 26 21:09:46 +0000 2010",
+        "favourites_count": 39,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 207354,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090294555952349184/adyRwbOa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090294555952349184/adyRwbOa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/126741060/1548781409",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

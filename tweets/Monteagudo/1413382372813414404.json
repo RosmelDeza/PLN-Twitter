@@ -1,0 +1,207 @@
+{
+    "created_at": "Fri Jul 09 06:19:51 +0000 2021",
+    "id": 1413382372813414404,
+    "id_str": "1413382372813414404",
+    "full_text": "RT @CNNEE: \"Me siento culpable\", dice sobreviviente del derrumbe en Miami. La mujer, que apenas tuvo tiempo de salvar su propia vida, dice\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CNNEE",
+                "name": "CNN en Espa\u00f1ol",
+                "id": 33884545,
+                "id_str": "33884545",
+                "indices": [
+                    3,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 113172590,
+        "id_str": "113172590",
+        "name": "\ud83d\udef8\ud83e\udddc\ud83c\udffb\u200d\u2640\ufe0f \ud83d\udc9a",
+        "screen_name": "rominaxr",
+        "location": "Canciones del Hurac\u00e1n\u26a1\ufe0f\ud83d\udc9d",
+        "description": "\ud83d\udcc2\ud83c\udf9f \ud835\ude96\ud835\ude98\ud835\ude98\ud835\ude8d\ud835\ude8b\ud835\ude98\ud835\ude8a\ud835\ude9b\ud835\ude8d\ud835\ude9c \ud835\uddee\ud835\uddf2\ud835\ude00\ud835\ude01\ud835\uddf5\ud835\uddf2\ud835\ude01\ud835\uddf6\ud835\uddf0 \ud83d\udcf8\ud83d\udcbe  | \ud83d\udc41 \u00fanica cuenta en \ud80c\udef9wi\u2670\u2625er \ud83d\udc41 \u270e a L4 g\u00efL\u0101\u0110\u00e3 \u0144\u00ed \u0107\u00e1b\u00ed\u0111\u00e1\ud83d\udc8e$h\u014d L\u00f6\u0161 m\u012b\u2608\u014d \u01113$\u0111\u00ea \u0101RR\u00eeBA\u221e\ud83d\udc30",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3825,
+        "friends_count": 222,
+        "listed_count": 0,
+        "created_at": "Wed Feb 10 23:18:30 +0000 2010",
+        "favourites_count": 2868,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 284757,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/947948802987773952/D2CSxL6e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/947948802987773952/D2CSxL6e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113172590/1607377709",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 06 07:45:04 +0000 2021",
+        "id": 1412316654835585029,
+        "id_str": "1412316654835585029",
+        "full_text": "\"Me siento culpable\", dice sobreviviente del derrumbe en Miami. La mujer, que apenas tuvo tiempo de salvar su propia vida, dice que siente tristeza por no haber tocado la puerta de su vecina, una anciana con sordera que viv\u00eda en el departamento de junto. https://t.co/OigC2Hsqb1",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/OigC2Hsqb1",
+                    "expanded_url": "https://cnn.it/3qMJd5H",
+                    "display_url": "cnn.it/3qMJd5H",
+                    "indices": [
+                        255,
+                        278
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 33884545,
+            "id_str": "33884545",
+            "name": "CNN en Espa\u00f1ol",
+            "screen_name": "CNNEE",
+            "location": "En todas partes",
+            "description": "CNN en Espa\u00f1ol es tu principal fuente de informaci\u00f3n y breaking news. Cubrimos las noticias de Am\u00e9rica Latina y el resto del mundo. Vive la noticia.",
+            "url": "https://t.co/592LYnRFm4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/592LYnRFm4",
+                            "expanded_url": "http://cnnespanol.cnn.com",
+                            "display_url": "cnnespanol.cnn.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 19891539,
+            "friends_count": 583,
+            "listed_count": 51619,
+            "created_at": "Tue Apr 21 12:14:47 +0000 2009",
+            "favourites_count": 1478,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 332697,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/589795319216504832/6a71ZHkx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/589795319216504832/6a71ZHkx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33884545/1411070627",
+            "profile_link_color": "AB1529",
+            "profile_sidebar_border_color": "B5B5B5",
+            "profile_sidebar_fill_color": "B5B5B5",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 28,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

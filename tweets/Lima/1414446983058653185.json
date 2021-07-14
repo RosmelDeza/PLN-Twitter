@@ -1,0 +1,99 @@
+{
+    "created_at": "Mon Jul 12 04:50:14 +0000 2021",
+    "id": 1414446983058653185,
+    "id_str": "1414446983058653185",
+    "full_text": "Y pues como siempre dice Yasnaya: el estado estadea. Y ambos son reg\u00edmenes adem\u00e1s con un fuerte componente militar. Tomar como respuesta \u00fanica el intervencionismo cuando de entrada tenemos estados as\u00ed es renunciar a tener respuestas y m\u00e1s bien buscar ecos ideol\u00f3gicos.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        268
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1414444831791669248,
+    "in_reply_to_status_id_str": "1414444831791669248",
+    "in_reply_to_user_id": 129567730,
+    "in_reply_to_user_id_str": "129567730",
+    "in_reply_to_screen_name": "lalo_lima",
+    "user": {
+        "id": 129567730,
+        "id_str": "129567730",
+        "name": "\ud83e\udd6dEduardo Lima \u00c1guila\ud83e\udd6d",
+        "screen_name": "lalo_lima",
+        "location": "Tlaxcala",
+        "description": "FFyL-UNAM. Gambito de Lima. Piel morena. Admin de @Jaromir_Lit",
+        "url": "https://t.co/ZrEkEQVyZs",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ZrEkEQVyZs",
+                        "expanded_url": "http://instagram.com/lalo_lima",
+                        "display_url": "instagram.com/lalo_lima",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2615,
+        "friends_count": 439,
+        "listed_count": 9,
+        "created_at": "Sun Apr 04 18:46:46 +0000 2010",
+        "favourites_count": 13851,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17591,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408152366096977926/wxsCOuri_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408152366096977926/wxsCOuri_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/129567730/1611069329",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

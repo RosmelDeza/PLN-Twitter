@@ -1,0 +1,313 @@
+{
+    "created_at": "Mon Jul 12 05:08:59 +0000 2021",
+    "id": 1414451701847838720,
+    "id_str": "1414451701847838720",
+    "full_text": "Unas ganas de romperle el orto por Libertadores al macaco fantasma que lo revivimos en Lima y devolverlo al ostracismo para siempre. https://t.co/KQimjEkjip",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        132
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/KQimjEkjip",
+                "expanded_url": "https://twitter.com/Ramonista_/status/1414119886960402433",
+                "display_url": "twitter.com/Ramonista_/sta\u2026",
+                "indices": [
+                    133,
+                    156
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 947989977228509185,
+        "id_str": "947989977228509185",
+        "name": "ML95",
+        "screen_name": "ML9516AR",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 51,
+        "friends_count": 97,
+        "listed_count": 0,
+        "created_at": "Tue Jan 02 00:36:38 +0000 2018",
+        "favourites_count": 32904,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10610,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1000514188568129539/w2yJjTD0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000514188568129539/w2yJjTD0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/947989977228509185/1527376368",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414119886960402433,
+    "quoted_status_id_str": "1414119886960402433",
+    "quoted_status": {
+        "created_at": "Sun Jul 11 07:10:28 +0000 2021",
+        "id": 1414119886960402433,
+        "id_str": "1414119886960402433",
+        "full_text": "Los hinchas de River https://t.co/42YhUi6Wk3",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            20
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414119878835982340,
+                    "id_str": "1414119878835982340",
+                    "indices": [
+                        21,
+                        44
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_2iZfWUAQHSy9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_2iZfWUAQHSy9.jpg",
+                    "url": "https://t.co/42YhUi6Wk3",
+                    "display_url": "pic.twitter.com/42YhUi6Wk3",
+                    "expanded_url": "https://twitter.com/Ramonista_/status/1414119886960402433/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 582,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 816,
+                            "h": 954,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 816,
+                            "h": 954,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414119878835982340,
+                    "id_str": "1414119878835982340",
+                    "indices": [
+                        21,
+                        44
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_2iZfWUAQHSy9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_2iZfWUAQHSy9.jpg",
+                    "url": "https://t.co/42YhUi6Wk3",
+                    "display_url": "pic.twitter.com/42YhUi6Wk3",
+                    "expanded_url": "https://twitter.com/Ramonista_/status/1414119886960402433/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 582,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 816,
+                            "h": 954,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 816,
+                            "h": 954,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414119884468981761,
+                    "id_str": "1414119884468981761",
+                    "indices": [
+                        21,
+                        44
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_2iueXEAEd4fP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_2iueXEAEd4fP.jpg",
+                    "url": "https://t.co/42YhUi6Wk3",
+                    "display_url": "pic.twitter.com/42YhUi6Wk3",
+                    "expanded_url": "https://twitter.com/Ramonista_/status/1414119886960402433/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1229137741839028227,
+            "id_str": "1229137741839028227",
+            "name": "Ramonista",
+            "screen_name": "Ramonista_",
+            "location": "",
+            "description": "Somos las gallinas de los huevos de oro, para todos los bosteros, est\u00e1n muertos.",
+            "url": "https://t.co/wJnhD4mZSM",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wJnhD4mZSM",
+                            "expanded_url": "https://instagram.com/pasionmillonaria_info?igshid=836u9a1nuhsn",
+                            "display_url": "instagram.com/pasionmillonar\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1216,
+            "friends_count": 492,
+            "listed_count": 9,
+            "created_at": "Sun Feb 16 20:18:24 +0000 2020",
+            "favourites_count": 14264,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2101,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409310974021181443/NSHpNWQf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409310974021181443/NSHpNWQf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229137741839028227/1623613301",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 27,
+        "favorite_count": 284,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,196 @@
+{
+    "created_at": "Mon Jul 12 05:13:52 +0000 2021",
+    "id": 1414452930044907520,
+    "id_str": "1414452930044907520",
+    "full_text": "RT @Maestro_May9r: Mi nieta Miranda naci\u00f3 en Estados Unidos, pero lo que m\u00e1s desear\u00eda es que se criara en Venezuela.  Uds. podr\u00edan hacer re\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Maestro_May9r",
+                "name": "R\ud83d\udca3bert Alon2o @Maestro_May\ud83d\udca3R",
+                "id": 1290013004592025607,
+                "id_str": "1290013004592025607",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2553027120,
+        "id_str": "2553027120",
+        "name": "Yaneth",
+        "screen_name": "yanethluz06",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 712,
+        "friends_count": 1350,
+        "listed_count": 16,
+        "created_at": "Sat Jun 07 17:58:58 +0000 2014",
+        "favourites_count": 36713,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 162435,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/475343636607946752/A13ptFnt_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/475343636607946752/A13ptFnt_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2553027120/1402165830",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 01:20:11 +0000 2021",
+        "id": 1414394120492261376,
+        "id_str": "1414394120492261376",
+        "full_text": "Mi nieta Miranda naci\u00f3 en Estados Unidos, pero lo que m\u00e1s desear\u00eda es que se criara en Venezuela.  Uds. podr\u00edan hacer realidad mi sue\u00f1o.  Solo tienen que salir todos a las calles de manera GENERALIZADA y SOSTENIDA.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            214
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1290013004592025607,
+            "id_str": "1290013004592025607",
+            "name": "R\ud83d\udca3bert Alon2o @Maestro_May\ud83d\udca3R",
+            "screen_name": "Maestro_May9r",
+            "location": "El Imperio... por ahora.",
+            "description": "\"M\u00e9dico\" oculista, especialista en Apertura de Ojos venezolanos.  Tambi\u00e9n traumat\u00f3logo, especialista en traumatizar a la FALSA OPOSICI\u00d3N.",
+            "url": "https://t.co/gGBBZXUzJt",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/gGBBZXUzJt",
+                            "expanded_url": "http://www.robertalonsopresenta.com",
+                            "display_url": "robertalonsopresenta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12185,
+            "friends_count": 9947,
+            "listed_count": 27,
+            "created_at": "Sun Aug 02 20:11:04 +0000 2020",
+            "favourites_count": 2140,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 34679,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413147281101000706/AhtbqcNe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413147281101000706/AhtbqcNe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290013004592025607/1596921631",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 45,
+        "favorite_count": 93,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 45,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

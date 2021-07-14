@@ -1,0 +1,97 @@
+{
+    "created_at": "Mon Jul 12 04:58:42 +0000 2021",
+    "id": 1414449113546911748,
+    "id_str": "1414449113546911748",
+    "full_text": "@VicenteFoxQue Fox protege al cartel de Lima, utiliza su red de distribuci\u00f3n y su clientela, es socio del marro, como est\u00e1 grandote le caben m\u00e1s madrazos ahora que llegue al bote, eso nos provocar\u00eda gran jubil\u00f3,,, VIVA AMLO",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        223
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VicenteFoxQue",
+                "name": "Vicente Fox Quesada",
+                "id": 166669818,
+                "id_str": "166669818",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414357596790788106,
+    "in_reply_to_status_id_str": "1414357596790788106",
+    "in_reply_to_user_id": 166669818,
+    "in_reply_to_user_id_str": "166669818",
+    "in_reply_to_screen_name": "VicenteFoxQue",
+    "user": {
+        "id": 576278014,
+        "id_str": "576278014",
+        "name": "salvador escobar rey",
+        "screen_name": "rey_salva",
+        "location": "Atizap\u00e1n de Zaragoza, M\u00e9xico",
+        "description": "seguir\u00e9 apoyando al Presidente Lic. Andr\u00e9s Manuel Lopez Obrador, correspondiendo a Sus importantes logros en beneficio del pueblo de a pie.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 206,
+        "friends_count": 359,
+        "listed_count": 0,
+        "created_at": "Thu May 10 14:25:35 +0000 2012",
+        "favourites_count": 5315,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2130,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1354959887097331728/fLR7-L9w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354959887097331728/fLR7-L9w_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/576278014/1611882711",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

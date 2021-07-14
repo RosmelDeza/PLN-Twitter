@@ -1,0 +1,336 @@
+{
+    "created_at": "Mon Jul 12 05:19:54 +0000 2021",
+    "id": 1414454448894644225,
+    "id_str": "1414454448894644225",
+    "full_text": "RT @RepMariaSalazar: \ud83d\udea8#SOSCuba\ud83c\udde8\ud83c\uddfa\n\nPueblo de Cuba, sepan que desde el Congreso de Estados Unidos apoyamos su lucha por la libertad en contra\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    22,
+                    30
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RepMariaSalazar",
+                "name": "Rep. Mar\u00eda Elvira Salazar",
+                "id": 1325928411689349120,
+                "id_str": "1325928411689349120",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1382484397883068416,
+        "id_str": "1382484397883068416",
+        "name": "Ricardo Laissez faire",
+        "screen_name": "Ricardo67659301",
+        "location": "Venezuela ",
+        "description": "Desregulaci\u00f3n, descentralizaci\u00f3n y libertad!! #BTC",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 25,
+        "friends_count": 121,
+        "listed_count": 0,
+        "created_at": "Thu Apr 15 00:02:30 +0000 2021",
+        "favourites_count": 1634,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 710,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1391797833393651716/C8AVX52K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391797833393651716/C8AVX52K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1382484397883068416/1618446443",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 00:13:33 +0000 2021",
+        "id": 1414377354173075458,
+        "id_str": "1414377354173075458",
+        "full_text": "\ud83d\udea8#SOSCuba\ud83c\udde8\ud83c\uddfa\n\nPueblo de Cuba, sepan que desde el Congreso de Estados Unidos apoyamos su lucha por la libertad en contra de la dictadura Castrista.\n\nPeople of #Cuba, know that #America\ud83c\uddfa\ud83c\uddf8stands with you in your fight for freedom!\n\nThank you @MarioDB @RepCarlos @RepMalliotakis. \ud83d\ude4f\ud83c\udffc https://t.co/HmOlZMnVo4",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        1,
+                        9
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        157,
+                        162
+                    ]
+                },
+                {
+                    "text": "America",
+                    "indices": [
+                        174,
+                        182
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MarioDB",
+                    "name": "Mario Diaz-Balart",
+                    "id": 37094727,
+                    "id_str": "37094727",
+                    "indices": [
+                        238,
+                        246
+                    ]
+                },
+                {
+                    "screen_name": "RepCarlos",
+                    "name": "Congressman Carlos A. Gimenez",
+                    "id": 1343679195034103808,
+                    "id_str": "1343679195034103808",
+                    "indices": [
+                        247,
+                        257
+                    ]
+                },
+                {
+                    "screen_name": "RepMalliotakis",
+                    "name": "Office of Rep. Nicole Malliotakis",
+                    "id": 1344750588026900481,
+                    "id_str": "1344750588026900481",
+                    "indices": [
+                        258,
+                        273
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414376262005579777,
+                    "id_str": "1414376262005579777",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Dft3OWYAEdYS5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Dft3OWYAEdYS5.jpg",
+                    "url": "https://t.co/HmOlZMnVo4",
+                    "display_url": "pic.twitter.com/HmOlZMnVo4",
+                    "expanded_url": "https://twitter.com/RepMariaSalazar/status/1414377354173075458/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414376262005579777,
+                    "id_str": "1414376262005579777",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Dft3OWYAEdYS5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Dft3OWYAEdYS5.jpg",
+                    "url": "https://t.co/HmOlZMnVo4",
+                    "display_url": "pic.twitter.com/HmOlZMnVo4",
+                    "expanded_url": "https://twitter.com/RepMariaSalazar/status/1414377354173075458/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1325928411689349120,
+            "id_str": "1325928411689349120",
+            "name": "Rep. Mar\u00eda Elvira Salazar",
+            "screen_name": "RepMariaSalazar",
+            "location": "Miami, FL",
+            "description": "U.S. Congresswoman | Daughter of Exiles | Emmy Award-Winning Journalist | Serving on @HouseForeignGOP & @HSBCgop | #FL27\u2600\ufe0f\ud83c\udf34\ud83c\uddfa\ud83c\uddf8",
+            "url": "https://t.co/HIhQrWz9Zx",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/HIhQrWz9Zx",
+                            "expanded_url": "http://salazar.house.gov",
+                            "display_url": "salazar.house.gov",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22493,
+            "friends_count": 256,
+            "listed_count": 218,
+            "created_at": "Mon Nov 09 22:29:20 +0000 2020",
+            "favourites_count": 1209,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1037,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407827552098471941/9tvtXe3S_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407827552098471941/9tvtXe3S_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1325928411689349120/1610233447",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1009,
+        "favorite_count": 2327,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1009,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

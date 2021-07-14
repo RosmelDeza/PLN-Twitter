@@ -1,0 +1,194 @@
+{
+    "created_at": "Mon Jul 12 05:13:23 +0000 2021",
+    "id": 1414452807361572867,
+    "id_str": "1414452807361572867",
+    "full_text": "LOS RAYADOS SE LLEVAN LA VICTORIA\n\nEn partido amistoso celebrado en Estados Unidos, Rayados venci\u00f3 con gol de Checo Villarreal 1-0 a Chivas.\n\n#F\u00fatbolMediaPasi\u00f3nFutbolera #LigaBBVAMX #Chivas #Rayados https://t.co/6RXKWIZmgf",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        198
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "F\u00fatbolMediaPasi\u00f3nFutbolera",
+                "indices": [
+                    142,
+                    169
+                ]
+            },
+            {
+                "text": "LigaBBVAMX",
+                "indices": [
+                    170,
+                    181
+                ]
+            },
+            {
+                "text": "Chivas",
+                "indices": [
+                    182,
+                    189
+                ]
+            },
+            {
+                "text": "Rayados",
+                "indices": [
+                    190,
+                    198
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414452804614250497,
+                "id_str": "1414452804614250497",
+                "indices": [
+                    199,
+                    222
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6ElVOqWYAEmlLm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6ElVOqWYAEmlLm.jpg",
+                "url": "https://t.co/6RXKWIZmgf",
+                "display_url": "pic.twitter.com/6RXKWIZmgf",
+                "expanded_url": "https://twitter.com/futbolmediaofi/status/1414452807361572867/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414452804614250497,
+                "id_str": "1414452804614250497",
+                "indices": [
+                    199,
+                    222
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6ElVOqWYAEmlLm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6ElVOqWYAEmlLm.jpg",
+                "url": "https://t.co/6RXKWIZmgf",
+                "display_url": "pic.twitter.com/6RXKWIZmgf",
+                "expanded_url": "https://twitter.com/futbolmediaofi/status/1414452807361572867/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1098228509594406912,
+        "id_str": "1098228509594406912",
+        "name": "Futbol Media Oficial",
+        "screen_name": "futbolmediaofi",
+        "location": "Pachuca de Soto, Hidalgo",
+        "description": "Ent\u00e9rate de todo lo que acontece en las ligas de M\u00e9xico, Mexicanos en el extranjero y selecci\u00f3n nacional. \ud83c\uddf2\ud83c\uddfd \u26bd @LigaBBVAMX @LigaBBVAFemenil @LigaMXExpansion",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 375,
+        "friends_count": 500,
+        "listed_count": 4,
+        "created_at": "Wed Feb 20 14:30:55 +0000 2019",
+        "favourites_count": 59,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8609,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251965669790437381/R7L6wrB-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251965669790437381/R7L6wrB-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098228509594406912/1619059669",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}
