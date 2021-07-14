@@ -1,0 +1,116 @@
+{
+    "created_at": "Wed Jul 14 15:51:33 +0000 2021",
+    "id": 1415338183563284482,
+    "id_str": "1415338183563284482",
+    "full_text": "@M82Richard @drricharruiz @jungla_insider Lo q est\u00e1n haciendo no SIGNIFICA que la Sinopharm no sirva o no tenga eficacia (ah\u00ed radica tu mentira), solo est\u00e1n BUSCANDO una MAYOR protecci\u00f3n ante Delta (como Israel q esta experimentando con Pfizer). Pfizer mismo a dicho que su vacuna requiere 3ra dosis \ud83d\udc81\u200d\u2642\ufe0f\n\nBurr0 comunista.",
+    "truncated": false,
+    "display_text_range": [
+        42,
+        322
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "M82Richard",
+                "name": "Richard M.",
+                "id": 1370960972643450880,
+                "id_str": "1370960972643450880",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "drricharruiz",
+                "name": "Richar Alex Ruiz Moreno",
+                "id": 1172457625,
+                "id_str": "1172457625",
+                "indices": [
+                    12,
+                    25
+                ]
+            },
+            {
+                "screen_name": "jungla_insider",
+                "name": "Lucho",
+                "id": 60176321,
+                "id_str": "60176321",
+                "indices": [
+                    26,
+                    41
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415337640782663681,
+    "in_reply_to_status_id_str": "1415337640782663681",
+    "in_reply_to_user_id": 1349537791118553095,
+    "in_reply_to_user_id_str": "1349537791118553095",
+    "in_reply_to_screen_name": "zerimar_aav",
+    "user": {
+        "id": 1349537791118553095,
+        "id_str": "1349537791118553095",
+        "name": "Mr. Browstone",
+        "screen_name": "zerimar_aav",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 19,
+        "friends_count": 142,
+        "listed_count": 0,
+        "created_at": "Thu Jan 14 02:04:54 +0000 2021",
+        "favourites_count": 6655,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2401,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357851336960856064/VXUw8nZj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357851336960856064/VXUw8nZj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

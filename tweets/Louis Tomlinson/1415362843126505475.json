@@ -1,0 +1,234 @@
+{
+    "created_at": "Wed Jul 14 17:29:32 +0000 2021",
+    "id": 1415362843126505475,
+    "id_str": "1415362843126505475",
+    "full_text": "RT @castylen: perd\u00f3name por ser pobre y no poder ayudarte en nada m\u00e1s que hacer stream y votar desde lejos @Harry_Styles @Louis_Tomlinson @\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "castylen",
+                "name": "Eri llorando por lhl",
+                "id": 1375835904980492292,
+                "id_str": "1375835904980492292",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "Harry_Styles",
+                "name": "Harry Styles.",
+                "id": 181561712,
+                "id_str": "181561712",
+                "indices": [
+                    107,
+                    120
+                ]
+            },
+            {
+                "screen_name": "Louis_Tomlinson",
+                "name": "Louis Tomlinson",
+                "id": 84279963,
+                "id_str": "84279963",
+                "indices": [
+                    121,
+                    137
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1408529843491332099,
+        "id_str": "1408529843491332099",
+        "name": "Vy\u00b2\u2078",
+        "screen_name": "Vyyy_28",
+        "location": "\ud83c\udfe0",
+        "description": "Louis no sonr\u00edas que me enamoras m\u00e1s \u00d7\u035c\u00d7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 181,
+        "friends_count": 389,
+        "listed_count": 0,
+        "created_at": "Fri Jun 25 20:57:58 +0000 2021",
+        "favourites_count": 2982,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1676,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413242391495073793/PcVGY5P4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413242391495073793/PcVGY5P4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408529843491332099/1625175316",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:06:42 +0000 2021",
+        "id": 1415357096149852164,
+        "id_str": "1415357096149852164",
+        "full_text": "perd\u00f3name por ser pobre y no poder ayudarte en nada m\u00e1s que hacer stream y votar desde lejos @Harry_Styles @Louis_Tomlinson @zaynmalik",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            134
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Harry_Styles",
+                    "name": "Harry Styles.",
+                    "id": 181561712,
+                    "id_str": "181561712",
+                    "indices": [
+                        93,
+                        106
+                    ]
+                },
+                {
+                    "screen_name": "Louis_Tomlinson",
+                    "name": "Louis Tomlinson",
+                    "id": 84279963,
+                    "id_str": "84279963",
+                    "indices": [
+                        107,
+                        123
+                    ]
+                },
+                {
+                    "screen_name": "zaynmalik",
+                    "name": "zayn",
+                    "id": 176566242,
+                    "id_str": "176566242",
+                    "indices": [
+                        124,
+                        134
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1375835904980492292,
+            "id_str": "1375835904980492292",
+            "name": "Eri llorando por lhl",
+            "screen_name": "castylen",
+            "location": "she/her",
+            "description": "haci\u00e9ndole un chonguito a long hair louis, pintandole las u\u00f1as a harry y fumando con zayn.\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1615,
+            "friends_count": 1604,
+            "listed_count": 7,
+            "created_at": "Sat Mar 27 15:43:49 +0000 2021",
+            "favourites_count": 2326,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10771,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414356539922649091/xUx4_-Tj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414356539922649091/xUx4_-Tj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1375835904980492292/1624312427",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,223 @@
+{
+    "created_at": "Wed Jul 14 16:14:28 +0000 2021",
+    "id": 1415343953042362370,
+    "id_str": "1415343953042362370",
+    "full_text": "RT @BluRadioCo: En julio faltan por llegar 500.000 vacunas de AstraZeneca, 200.000 de Moderna y un mill\u00f3n de Pfizer #Ma\u00f1anasBLU https://t.c\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Ma\u00f1anasBLU",
+                "indices": [
+                    116,
+                    127
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BluRadioCo",
+                "name": "BluRadio Colombia",
+                "id": 622082899,
+                "id_str": "622082899",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2928997169,
+        "id_str": "2928997169",
+        "name": "BLU Santanderes",
+        "screen_name": "BLUSantanderes",
+        "location": "Bucaramanga, Colombia",
+        "description": "#LaNuevaAlternativa en Bucaramanga en los #960AM. Servicio informativo. Contacto: (037) 6476363 y bluradiobucaramanga@hotmail.com. Tambi\u00e9n en @BluRadioCo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 53307,
+        "friends_count": 1916,
+        "listed_count": 146,
+        "created_at": "Thu Dec 18 04:51:42 +0000 2014",
+        "favourites_count": 4102,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 129477,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152305102998388742/tcc-KFtf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152305102998388742/tcc-KFtf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2928997169/1563932189",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:43:42 +0000 2021",
+        "id": 1415321108870426625,
+        "id_str": "1415321108870426625",
+        "full_text": "En julio faltan por llegar 500.000 vacunas de AstraZeneca, 200.000 de Moderna y un mill\u00f3n de Pfizer #Ma\u00f1anasBLU https://t.co/2C5tRMnKUN",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            135
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Ma\u00f1anasBLU",
+                    "indices": [
+                        100,
+                        111
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/2C5tRMnKUN",
+                    "expanded_url": "https://www.bluradio.com/salud/vacunacion-contra-el-covid-19/en-julio-faltan-por-llegar-500-000-vacunas-de-astrazeneca-200-000-de-moderna-y-un-millon-de-pfizer",
+                    "display_url": "bluradio.com/salud/vacunaci\u2026",
+                    "indices": [
+                        112,
+                        135
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://cms.caracolnext.com/cms\" rel=\"nofollow\">Social Sharing Brightspot</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 622082899,
+            "id_str": "622082899",
+            "name": "BluRadio Colombia",
+            "screen_name": "BluRadioCo",
+            "location": "Bogot\u00e1, D.C., Colombia",
+            "description": "FM Bogot\u00e1 89.9, Barranquilla 100.1, Medell\u00edn 97.9, Cali 91.5, Villavicencio 96.3, Neiva 103.1, Eje Cafetero 94.1, Boyac\u00e1 103.1, Cartagena 93.5 Bucaramanga 960AM",
+            "url": "http://t.co/y5yI69a7C4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/y5yI69a7C4",
+                            "expanded_url": "http://www.bluradio.com",
+                            "display_url": "bluradio.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2964613,
+            "friends_count": 2116,
+            "listed_count": 4370,
+            "created_at": "Fri Jun 29 17:20:34 +0000 2012",
+            "favourites_count": 5314,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 881387,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1400178661727297544/6N7F5Enp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400178661727297544/6N7F5Enp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/622082899/1626010356",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

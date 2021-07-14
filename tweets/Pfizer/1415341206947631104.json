@@ -1,0 +1,309 @@
+{
+    "created_at": "Wed Jul 14 16:03:34 +0000 2021",
+    "id": 1415341206947631104,
+    "id_str": "1415341206947631104",
+    "full_text": "RT @radiohcjb: \"Gal\u00e1pagos es un ejemplo de lo que se puede hacer en especial de unas islas. Se lograron tras varias gestiones la entrega de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "radiohcjb",
+                "name": "Radio HCJB",
+                "id": 123569703,
+                "id_str": "123569703",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 21829044,
+        "id_str": "21829044",
+        "name": "Nicolas Norton",
+        "screen_name": "nicolasnorton",
+        "location": "\u00dcT: -0.210697,-78.494382",
+        "description": "Marketer, Biohacker, and family man",
+        "url": "https://t.co/XgVTGLc3aL",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/XgVTGLc3aL",
+                        "expanded_url": "http://advancedwebsitestrategies.com",
+                        "display_url": "advancedwebsitestrategies.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 214,
+        "friends_count": 432,
+        "listed_count": 2,
+        "created_at": "Wed Feb 25 03:01:52 +0000 2009",
+        "favourites_count": 2954,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1098,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1392138677829124101/gUGE781I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392138677829124101/gUGE781I_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21829044/1514527923",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:24:27 +0000 2021",
+        "id": 1415286064588201989,
+        "id_str": "1415286064588201989",
+        "full_text": "\"Gal\u00e1pagos es un ejemplo de lo que se puede hacer en especial de unas islas. Se lograron tras varias gestiones la entrega de 40 mil dosis de Pfizer. Llevamos 4 semanas sin un solo caso de infecci\u00f3n en las Islas Gal\u00e1pagos \". @SevillaRoque en di\u00e1logo directo con @edchamorro75 https://t.co/zJXQxTvmp2",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SevillaRoque",
+                    "name": "Roque Sevilla",
+                    "id": 301505535,
+                    "id_str": "301505535",
+                    "indices": [
+                        224,
+                        237
+                    ]
+                },
+                {
+                    "screen_name": "edchamorro75",
+                    "name": "Edwin Chamorro Erazo",
+                    "id": 333480946,
+                    "id_str": "333480946",
+                    "indices": [
+                        261,
+                        274
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415286062449139713,
+                    "id_str": "1415286062449139713",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QbLN_XoAEo48k.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QbLN_XoAEo48k.jpg",
+                    "url": "https://t.co/zJXQxTvmp2",
+                    "display_url": "pic.twitter.com/zJXQxTvmp2",
+                    "expanded_url": "https://twitter.com/radiohcjb/status/1415286064588201989/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 719,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415286062449139713,
+                    "id_str": "1415286062449139713",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QbLN_XoAEo48k.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QbLN_XoAEo48k.jpg",
+                    "url": "https://t.co/zJXQxTvmp2",
+                    "display_url": "pic.twitter.com/zJXQxTvmp2",
+                    "expanded_url": "https://twitter.com/radiohcjb/status/1415286064588201989/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 719,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 123569703,
+            "id_str": "123569703",
+            "name": "Radio HCJB",
+            "screen_name": "radiohcjb",
+            "location": "Quito, Ecuador",
+            "description": "Bienvenidos a nuestro Canal de Informaci\u00f3n Nacional e Internacional. HCJB-Esperanza Para la Familia\n89.3Pichincha, 92.5Manab\u00ed, 98.3Esmeraldas, 96.1Tungurahua.",
+            "url": "http://t.co/S1PaFKeTy4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/S1PaFKeTy4",
+                            "expanded_url": "http://www.radiohcjb.org",
+                            "display_url": "radiohcjb.org",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6950,
+            "friends_count": 1197,
+            "listed_count": 71,
+            "created_at": "Tue Mar 16 14:09:17 +0000 2010",
+            "favourites_count": 1924,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17954,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/851512786605756417/3Ai6ERIe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851512786605756417/3Ai6ERIe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/123569703/1484243234",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 48,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

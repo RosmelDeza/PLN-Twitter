@@ -1,0 +1,129 @@
+{
+    "created_at": "Wed Jul 14 16:17:57 +0000 2021",
+    "id": 1415344830109081601,
+    "id_str": "1415344830109081601",
+    "full_text": "@willaxtv Que la rechace o no, no borra los hechos que los m\u00e9dicos vacunados con chistopharm siguen enfermando y muriendo. \n\nNo sirve de nada su indignaci\u00f3n, lo que debe hacer es autorizar la Pfizer para los m\u00e9dicos.",
+    "truncated": false,
+    "display_text_range": [
+        10,
+        216
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "willaxtv",
+                "name": "Willax Televisi\u00f3n",
+                "id": 38512990,
+                "id_str": "38512990",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415308727222251522,
+    "in_reply_to_status_id_str": "1415308727222251522",
+    "in_reply_to_user_id": 38512990,
+    "in_reply_to_user_id_str": "38512990",
+    "in_reply_to_screen_name": "willaxtv",
+    "user": {
+        "id": 733975964,
+        "id_str": "733975964",
+        "name": "MASB",
+        "screen_name": "malsaba06",
+        "location": "Lima, Per\u00fa",
+        "description": "Autoproclamado Presidente del Per\u00fa 2021, si el PROSOR puede porque yo no?",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 185,
+        "friends_count": 937,
+        "listed_count": 1,
+        "created_at": "Fri Aug 03 02:22:28 +0000 2012",
+        "favourites_count": 48661,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 46995,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1391543463045382146/vFJUPbK4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391543463045382146/vFJUPbK4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "003aa1d3152e364a",
+        "url": "https://api.twitter.com/1.1/geo/id/003aa1d3152e364a.json",
+        "place_type": "city",
+        "name": "Magdalena del Mar",
+        "full_name": "Magdalena del Mar, Peru",
+        "country_code": "PE",
+        "country": "Peru",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.0747580024681,
+                        -12.1052750389948
+                    ],
+                    [
+                        -77.0549619625459,
+                        -12.1052750389948
+                    ],
+                    [
+                        -77.0549619625459,
+                        -12.085316011708
+                    ],
+                    [
+                        -77.0747580024681,
+                        -12.085316011708
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

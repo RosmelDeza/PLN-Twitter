@@ -1,0 +1,334 @@
+{
+    "created_at": "Wed Jul 14 17:23:38 +0000 2021",
+    "id": 1415361357004820487,
+    "id_str": "1415361357004820487",
+    "full_text": "RT @HBenitez_: HABEAS DATA CONTRA ONPE ...\nFuerza Popular (K) pide copia certificada de la lista de electores por mesa de sufragio ...\n\u00bfPJ\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HBenitez_",
+                "name": "Heriberto BEN\u00cdTEZ",
+                "id": 3429225185,
+                "id_str": "3429225185",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3429225185,
+        "id_str": "3429225185",
+        "name": "Heriberto BEN\u00cdTEZ",
+        "screen_name": "HBenitez_",
+        "location": "Lima, Peru",
+        "description": "ABOGADO, defensor de los derechos humanos; Congresista (2001-2006), (2011-2016), pol\u00edtico de amplia trayectoria democr\u00e1tica y tenaz lucha contra la corrupci\u00f3n.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4585,
+        "friends_count": 438,
+        "listed_count": 16,
+        "created_at": "Tue Aug 18 01:36:37 +0000 2015",
+        "favourites_count": 16834,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 80500,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1270034609460436994/NGtTIZrJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270034609460436994/NGtTIZrJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3429225185/1591118564",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 04:00:01 +0000 2021",
+        "id": 1415159119452020744,
+        "id_str": "1415159119452020744",
+        "full_text": "HABEAS DATA CONTRA ONPE ...\nFuerza Popular (K) pide copia certificada de la lista de electores por mesa de sufragio ...\n\u00bfPJ admiti\u00f3 la demanda? https://t.co/XaEaq7SxuB",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            143
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415159093082341378,
+                    "id_str": "1415159093082341378",
+                    "indices": [
+                        144,
+                        167
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OnsoPWQAIJkhr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OnsoPWQAIJkhr.jpg",
+                    "url": "https://t.co/XaEaq7SxuB",
+                    "display_url": "pic.twitter.com/XaEaq7SxuB",
+                    "expanded_url": "https://twitter.com/HBenitez_/status/1415159119452020744/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 506,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 1668,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 894,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415159093082341378,
+                    "id_str": "1415159093082341378",
+                    "indices": [
+                        144,
+                        167
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OnsoPWQAIJkhr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OnsoPWQAIJkhr.jpg",
+                    "url": "https://t.co/XaEaq7SxuB",
+                    "display_url": "pic.twitter.com/XaEaq7SxuB",
+                    "expanded_url": "https://twitter.com/HBenitez_/status/1415159119452020744/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 506,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 1668,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 894,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415159103408807937,
+                    "id_str": "1415159103408807937",
+                    "indices": [
+                        144,
+                        167
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OntOtXoAEY9Dv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OntOtXoAEY9Dv.jpg",
+                    "url": "https://t.co/XaEaq7SxuB",
+                    "display_url": "pic.twitter.com/XaEaq7SxuB",
+                    "expanded_url": "https://twitter.com/HBenitez_/status/1415159119452020744/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 796,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 1873,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 451,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415159111960997895,
+                    "id_str": "1415159111960997895",
+                    "indices": [
+                        144,
+                        167
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OntukXsAc39G0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OntukXsAc39G0.jpg",
+                    "url": "https://t.co/XaEaq7SxuB",
+                    "display_url": "pic.twitter.com/XaEaq7SxuB",
+                    "expanded_url": "https://twitter.com/HBenitez_/status/1415159119452020744/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 473,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1099,
+                            "h": 764,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1099,
+                            "h": 764,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3429225185,
+            "id_str": "3429225185",
+            "name": "Heriberto BEN\u00cdTEZ",
+            "screen_name": "HBenitez_",
+            "location": "Lima, Peru",
+            "description": "ABOGADO, defensor de los derechos humanos; Congresista (2001-2006), (2011-2016), pol\u00edtico de amplia trayectoria democr\u00e1tica y tenaz lucha contra la corrupci\u00f3n.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4585,
+            "friends_count": 438,
+            "listed_count": 16,
+            "created_at": "Tue Aug 18 01:36:37 +0000 2015",
+            "favourites_count": 16834,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 80500,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1270034609460436994/NGtTIZrJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270034609460436994/NGtTIZrJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3429225185/1591118564",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

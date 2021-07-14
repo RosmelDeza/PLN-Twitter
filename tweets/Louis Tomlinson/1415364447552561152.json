@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 17:35:55 +0000 2021",
+    "id": 1415364447552561152,
+    "id_str": "1415364447552561152",
+    "full_text": "RT @andyzt91: Yo jam\u00e1s har\u00eda eso exclam\u00f3 la princesa y ahora est\u00e1 viendo una final de Inglaterra s\u00f3lo por Louis Tomlinson",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        121
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "andyzt91",
+                "name": "andrea \u25df\u033d\u25de\u033d\ud83c\uddf2\ud83c\uddfd",
+                "id": 819732604794667008,
+                "id_str": "819732604794667008",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1371589543275663364,
+        "id_str": "1371589543275663364",
+        "name": "~Mia\u2602~",
+        "screen_name": "MiaTischler2",
+        "location": "",
+        "description": "simplemente me registre por Harry Styles \uff5e(^\u0437^)-\u2661",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 62,
+        "listed_count": 0,
+        "created_at": "Mon Mar 15 22:30:20 +0000 2021",
+        "favourites_count": 236,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411998345237762051/ZBsA2vbZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411998345237762051/ZBsA2vbZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1371589543275663364/1625481613",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 19:16:41 +0000 2021",
+        "id": 1414302645771194377,
+        "id_str": "1414302645771194377",
+        "full_text": "Yo jam\u00e1s har\u00eda eso exclam\u00f3 la princesa y ahora est\u00e1 viendo una final de Inglaterra s\u00f3lo por Louis Tomlinson",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            107
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 819732604794667008,
+            "id_str": "819732604794667008",
+            "name": "andrea \u25df\u033d\u25de\u033d\ud83c\uddf2\ud83c\uddfd",
+            "screen_name": "andyzt91",
+            "location": "1D",
+            "description": "mi foto de perfil es mi mood:)",
+            "url": "https://t.co/OapGqGIzdm",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/OapGqGIzdm",
+                            "expanded_url": "https://youtu.be/hAuEcErUAmg",
+                            "display_url": "youtu.be/hAuEcErUAmg",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 885,
+            "friends_count": 1113,
+            "listed_count": 1,
+            "created_at": "Fri Jan 13 02:27:37 +0000 2017",
+            "favourites_count": 2388,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 657,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414707235935211522/xGzVYZCw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414707235935211522/xGzVYZCw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/819732604794667008/1625657306",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 93,
+        "favorite_count": 421,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 93,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

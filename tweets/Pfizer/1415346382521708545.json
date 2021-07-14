@@ -1,0 +1,105 @@
+{
+    "created_at": "Wed Jul 14 16:24:08 +0000 2021",
+    "id": 1415346382521708545,
+    "id_str": "1415346382521708545",
+    "full_text": "@SaludEdomex Cu\u00e1ndo tocar\u00e1 la segunda dosis a los de 40-49 en Cuautitl\u00e1n Izcalli????? Ya pasaron m\u00e1s de 28 d\u00edas #Pfizer",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        119
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Pfizer",
+                "indices": [
+                    112,
+                    119
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SaludEdomex",
+                "name": "Secretar\u00eda de Salud del Estado de M\u00e9xico",
+                "id": 493516226,
+                "id_str": "493516226",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415346014949502978,
+    "in_reply_to_status_id_str": "1415346014949502978",
+    "in_reply_to_user_id": 493516226,
+    "in_reply_to_user_id_str": "493516226",
+    "in_reply_to_screen_name": "SaludEdomex",
+    "user": {
+        "id": 66444284,
+        "id_str": "66444284",
+        "name": "yosoytanucha37",
+        "screen_name": "yosoytanucha37",
+        "location": "M\u00e9xico",
+        "description": "Nac\u00ed un 23 de Marzo. Lic. en Dise\u00f1o Gr\u00e1fico, de la UNAM. Amo a The Beatles \u00a1Vamos PUMAS!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1306,
+        "friends_count": 3903,
+        "listed_count": 2,
+        "created_at": "Mon Aug 17 18:40:01 +0000 2009",
+        "favourites_count": 20754,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4825,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1017433180779905025/Nf_aB9CC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017433180779905025/Nf_aB9CC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66444284/1530224565",
+        "profile_link_color": "B40B44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

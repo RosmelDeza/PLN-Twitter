@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 14 16:01:40 +0000 2021",
+    "id": 1415340732118757382,
+    "id_str": "1415340732118757382",
+    "full_text": "@willaxtv @Michi97728413 Pongales Pfizer, tanto cuesta entender eso?! Vuelvan a cacunarlos. Los m\u00e9dicos est\u00e1n en primera l\u00ednea, tienen que darles todo lo que pidan.",
+    "truncated": false,
+    "display_text_range": [
+        25,
+        164
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "willaxtv",
+                "name": "Willax Televisi\u00f3n",
+                "id": 38512990,
+                "id_str": "38512990",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "Michi97728413",
+                "name": "Michi",
+                "id": 1405042189776736259,
+                "id_str": "1405042189776736259",
+                "indices": [
+                    10,
+                    24
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415141499663179776,
+    "in_reply_to_status_id_str": "1415141499663179776",
+    "in_reply_to_user_id": 38512990,
+    "in_reply_to_user_id_str": "38512990",
+    "in_reply_to_screen_name": "willaxtv",
+    "user": {
+        "id": 1414565545010110466,
+        "id_str": "1414565545010110466",
+        "name": "Minerva",
+        "screen_name": "Minerva65924943",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1,
+        "friends_count": 20,
+        "listed_count": 0,
+        "created_at": "Mon Jul 12 12:41:36 +0000 2021",
+        "favourites_count": 69,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 61,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414566299519229964/XoHxnKkR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414566299519229964/XoHxnKkR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

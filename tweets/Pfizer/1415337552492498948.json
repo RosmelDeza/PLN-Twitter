@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 15:49:02 +0000 2021",
+    "id": 1415337552492498948,
+    "id_str": "1415337552492498948",
+    "full_text": "@alfredocorell Podr\u00edamos entonces,  tener 2 pautas de Pfizer y la 3,recomendada, de Janssen? Porque entiendo que de AZ no se compran m\u00e1s...Y la espa\u00f1ola, \u00bfcu\u00e1ndo?",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        162
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alfredocorell",
+                "name": "Alfredo Corell",
+                "id": 196124212,
+                "id_str": "196124212",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415308028132446211,
+    "in_reply_to_status_id_str": "1415308028132446211",
+    "in_reply_to_user_id": 196124212,
+    "in_reply_to_user_id_str": "196124212",
+    "in_reply_to_screen_name": "alfredocorell",
+    "user": {
+        "id": 2388706491,
+        "id_str": "2388706491",
+        "name": "...",
+        "screen_name": "cvpvard",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 330,
+        "friends_count": 1098,
+        "listed_count": 3,
+        "created_at": "Thu Mar 06 16:33:25 +0000 2014",
+        "favourites_count": 55261,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38254,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1305245936592003074/oyMFTyCz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305245936592003074/oyMFTyCz_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,339 @@
+{
+    "created_at": "Wed Jul 14 16:16:04 +0000 2021",
+    "id": 1415344352545607686,
+    "id_str": "1415344352545607686",
+    "full_text": "RT @gemvep_usach: Reporte diario #14Julio de #Covid_19 en Chile:\nCasos nuevos: 1.227\nCasos totales: 1.592.130\nFallecidos informados hoy(PCR\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "14Julio",
+                "indices": [
+                    33,
+                    41
+                ]
+            },
+            {
+                "text": "Covid_19",
+                "indices": [
+                    45,
+                    54
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gemvep_usach",
+                "name": "Grupo Epidemiologico Matematico USACH",
+                "id": 1268970839078289408,
+                "id_str": "1268970839078289408",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 864861839540310016,
+        "id_str": "864861839540310016",
+        "name": "Jaime A. Verdugo Rojas",
+        "screen_name": "JVeR_CL",
+        "location": "Santiago, Chile",
+        "description": "Just a man \ud83d\udd0b\u2699\ufe0f\ud83d\udd2c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 785,
+        "friends_count": 4675,
+        "listed_count": 10,
+        "created_at": "Wed May 17 15:15:05 +0000 2017",
+        "favourites_count": 33535,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15340,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1347225761569255427/mYAcO_Ly_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347225761569255427/mYAcO_Ly_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:16:33 +0000 2021",
+        "id": 1415329378137956357,
+        "id_str": "1415329378137956357",
+        "full_text": "Reporte diario #14Julio de #Covid_19 en Chile:\nCasos nuevos: 1.227\nCasos totales: 1.592.130\nFallecidos informados hoy(PCR+): 33\nFallecidos totales (PCR+) : 34.049\nPacientes UCI: 2.241\nTasa de positividad: 3,58%\nEx\u00e1menes PCR 26.369\n#USACH #YoMeVacuno #Pfizer #AstraZeneca #Loki https://t.co/yQDGRKz9t7",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "14Julio",
+                    "indices": [
+                        15,
+                        23
+                    ]
+                },
+                {
+                    "text": "Covid_19",
+                    "indices": [
+                        27,
+                        36
+                    ]
+                },
+                {
+                    "text": "USACH",
+                    "indices": [
+                        231,
+                        237
+                    ]
+                },
+                {
+                    "text": "YoMeVacuno",
+                    "indices": [
+                        238,
+                        249
+                    ]
+                },
+                {
+                    "text": "Pfizer",
+                    "indices": [
+                        250,
+                        257
+                    ]
+                },
+                {
+                    "text": "AstraZeneca",
+                    "indices": [
+                        258,
+                        270
+                    ]
+                },
+                {
+                    "text": "Loki",
+                    "indices": [
+                        271,
+                        276
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415329241302962178,
+                    "id_str": "1415329241302962178",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RCcjwWEAIk_2c.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RCcjwWEAIk_2c.jpg",
+                    "url": "https://t.co/yQDGRKz9t7",
+                    "display_url": "pic.twitter.com/yQDGRKz9t7",
+                    "expanded_url": "https://twitter.com/gemvep_usach/status/1415329378137956357/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415329241302962178,
+                    "id_str": "1415329241302962178",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RCcjwWEAIk_2c.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RCcjwWEAIk_2c.jpg",
+                    "url": "https://t.co/yQDGRKz9t7",
+                    "display_url": "pic.twitter.com/yQDGRKz9t7",
+                    "expanded_url": "https://twitter.com/gemvep_usach/status/1415329378137956357/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1268970839078289408,
+            "id_str": "1268970839078289408",
+            "name": "Grupo Epidemiologico Matematico USACH",
+            "screen_name": "gemvep_usach",
+            "location": "",
+            "description": "Cuenta Oficial del Grupo Epidemiol\u00f3gico Matem\u00e1tico para la Vigilancia de Epidemias y Pandemias de @Ciencia_Usach.Creado Gracias al #FondoVime2020 de @vimeusach",
+            "url": "https://t.co/GtKLkgfX06",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/GtKLkgfX06",
+                            "expanded_url": "https://sites.google.com/view/gemvep",
+                            "display_url": "sites.google.com/view/gemvep",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7937,
+            "friends_count": 141,
+            "listed_count": 43,
+            "created_at": "Fri Jun 05 18:20:11 +0000 2020",
+            "favourites_count": 3468,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3663,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275450454458036228/FoUKpVXu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275450454458036228/FoUKpVXu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268970839078289408/1591391522",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

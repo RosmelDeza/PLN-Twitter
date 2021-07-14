@@ -1,0 +1,206 @@
+{
+    "created_at": "Wed Jul 14 17:15:05 +0000 2021",
+    "id": 1415359205880614919,
+    "id_str": "1415359205880614919",
+    "full_text": "RT @AnalisisUrbano: En la recta final del dilatado proceso electoral peruano, el abogado Julio C\u00e9sar Castiglioni, miembro del equipo legal\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AnalisisUrbano",
+                "name": "An\u00e1lisis Urbano",
+                "id": 2853492725,
+                "id_str": "2853492725",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2338464925,
+        "id_str": "2338464925",
+        "name": "Carlos Sanchez",
+        "screen_name": "carlosjsanchezm",
+        "location": "Ibagu\u00e9, Colombia",
+        "description": "\u201cLa vida de algunos hombres es demasiado grande y noble como para descender al bajo nivel de un simple \u00e9xito\u201d LU. Ingeniero Agr\u00f3nomo - Universidad Nacional.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2411,
+        "friends_count": 4967,
+        "listed_count": 1,
+        "created_at": "Tue Feb 11 14:21:50 +0000 2014",
+        "favourites_count": 538174,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 82552,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979879877880045568/J8clZnw4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979879877880045568/J8clZnw4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:09:45 +0000 2021",
+        "id": 1415357863678169093,
+        "id_str": "1415357863678169093",
+        "full_text": "En la recta final del dilatado proceso electoral peruano, el abogado Julio C\u00e9sar Castiglioni, miembro del equipo legal de Fuerza Popular, declar\u00f3 al diario El Comercio que la agrupaci\u00f3n fujimorista apelar\u00e1 al menos 15 actas... https://t.co/YWz2I7Nn1G",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            250
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/YWz2I7Nn1G",
+                    "expanded_url": "https://analisisurbano.org/fujimori-lanza-una-nueva-ofensiva-al-cierre-de-la-proclamacion-de-las-actas-electorales/150267/",
+                    "display_url": "analisisurbano.org/fujimori-lanza\u2026",
+                    "indices": [
+                        227,
+                        250
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2853492725,
+            "id_str": "2853492725",
+            "name": "An\u00e1lisis Urbano",
+            "screen_name": "AnalisisUrbano",
+            "location": "Medellin Antioquia",
+            "description": "Noticias de Colombia y el mundo.\nDenuncia, an\u00e1lisis e investigaci\u00f3n  del crimen urbano-rural y el crimen trasnacional.\nDarle rostro al crimen es la tarea.",
+            "url": "https://t.co/wxIn4IDHA3",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wxIn4IDHA3",
+                            "expanded_url": "http://analisisurbano.org",
+                            "display_url": "analisisurbano.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15635,
+            "friends_count": 13075,
+            "listed_count": 49,
+            "created_at": "Fri Oct 31 17:37:18 +0000 2014",
+            "favourites_count": 11719,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 58438,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1402288480928022528/knas59Kf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402288480928022528/knas59Kf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2853492725/1593224490",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,105 @@
+{
+    "created_at": "Wed Jul 14 16:10:05 +0000 2021",
+    "id": 1415342849491709958,
+    "id_str": "1415342849491709958",
+    "full_text": "@pica_nieto Pfizer, Nieto y\u2026 Cruzcampo. \n\n#LaCuadraturaDelCirculo",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        65
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaCuadraturaDelCirculo",
+                "indices": [
+                    42,
+                    65
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pica_nieto",
+                "name": "Jes\u00fas Nieto Jurado",
+                "id": 1223335218813292544,
+                "id_str": "1223335218813292544",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415339496556666882,
+    "in_reply_to_status_id_str": "1415339496556666882",
+    "in_reply_to_user_id": 1223335218813292544,
+    "in_reply_to_user_id_str": "1223335218813292544",
+    "in_reply_to_screen_name": "pica_nieto",
+    "user": {
+        "id": 269493429,
+        "id_str": "269493429",
+        "name": "Juan Ant\u00ba",
+        "screen_name": "JuanHCD",
+        "location": "UCI / \ud83c\udfe5 G\u00f3mez Ulla de Madrid.",
+        "description": "La libertad es, en la filosof\u00eda, la raz\u00f3n; en el arte, la inspiraci\u00f3n; en la pol\u00edtica, el derecho.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 53,
+        "friends_count": 120,
+        "listed_count": 6,
+        "created_at": "Sun Mar 20 22:12:35 +0000 2011",
+        "favourites_count": 79349,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "95E653",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1327248496316067840/jJ6eKgub_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327248496316067840/jJ6eKgub_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/269493429/1605041713",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

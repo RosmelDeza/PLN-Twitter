@@ -1,0 +1,147 @@
+{
+    "created_at": "Wed Jul 14 16:18:21 +0000 2021",
+    "id": 1415344929082052611,
+    "id_str": "1415344929082052611",
+    "full_text": "@alfonsodg @Monicavildosoc @Carlosliberal28 @TatianaAstengoB @ougarteu Tan inservible es la vacuna que siguen muriendo gente aun estando con 2 dosis. A llorar al r\u00edo, esa vacuna no sirve. Que compren la Pfizer, en vez de malgastar el dinero de todos los peruanos.",
+    "truncated": false,
+    "display_text_range": [
+        71,
+        263
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alfonsodg",
+                "name": "Alfonso de la Guarda",
+                "id": 6647862,
+                "id_str": "6647862",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "Monicavildosoc",
+                "name": "Monica Vildoso",
+                "id": 65709286,
+                "id_str": "65709286",
+                "indices": [
+                    11,
+                    26
+                ]
+            },
+            {
+                "screen_name": "Carlosliberal28",
+                "name": "ANTICAVIAR",
+                "id": 1411431025134157828,
+                "id_str": "1411431025134157828",
+                "indices": [
+                    27,
+                    43
+                ]
+            },
+            {
+                "screen_name": "TatianaAstengoB",
+                "name": "Tatiana Astengo",
+                "id": 840548023,
+                "id_str": "840548023",
+                "indices": [
+                    44,
+                    60
+                ]
+            },
+            {
+                "screen_name": "ougarteu",
+                "name": "Oscar Ugarte Ubilluz",
+                "id": 3314271281,
+                "id_str": "3314271281",
+                "indices": [
+                    61,
+                    70
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415343575521431555,
+    "in_reply_to_status_id_str": "1415343575521431555",
+    "in_reply_to_user_id": 6647862,
+    "in_reply_to_user_id_str": "6647862",
+    "in_reply_to_screen_name": "alfonsodg",
+    "user": {
+        "id": 2496732859,
+        "id_str": "2496732859",
+        "name": "Gabriel3arboza",
+        "screen_name": "Gabriel3arboza1",
+        "location": "San Luis, Peru",
+        "description": "Comunicador I Pol\u00edtico I Conservador\nhttps://t.co/GUgxqHgmxD\u2026",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/GUgxqHgmxD",
+                        "expanded_url": "http://facebook.com/pages/Gabriel3",
+                        "display_url": "facebook.com/pages/Gabriel3",
+                        "indices": [
+                            37,
+                            60
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 97,
+        "friends_count": 313,
+        "listed_count": 0,
+        "created_at": "Thu May 15 16:45:41 +0000 2014",
+        "favourites_count": 5412,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1899,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083400173429100544/EkdC1Tpx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083400173429100544/EkdC1Tpx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2496732859/1547137792",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,370 @@
+{
+    "created_at": "Wed Jul 14 15:55:55 +0000 2021",
+    "id": 1415339281250463754,
+    "id_str": "1415339281250463754",
+    "full_text": "RT @quijoote: @Ljr16015824 @perebotere \u2705M\u00c1XIMA UNI\u00d3N \u2705\n#Clemente tu SI que vales!! \ud83c\uddea\ud83c\uddf8  #ICOgob #Congreso_ES #Cristina_Pardo  #lasextanoche\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Clemente",
+                "indices": [
+                    55,
+                    64
+                ]
+            },
+            {
+                "text": "ICOgob",
+                "indices": [
+                    87,
+                    94
+                ]
+            },
+            {
+                "text": "Congreso_ES",
+                "indices": [
+                    95,
+                    107
+                ]
+            },
+            {
+                "text": "Cristina_Pardo",
+                "indices": [
+                    108,
+                    123
+                ]
+            },
+            {
+                "text": "lasextanoche",
+                "indices": [
+                    125,
+                    138
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "quijoote",
+                "name": "Citr\ud83c\udf4anio",
+                "id": 597292429,
+                "id_str": "597292429",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "Ljr16015824",
+                "name": "Ljr",
+                "id": 875353214861938688,
+                "id_str": "875353214861938688",
+                "indices": [
+                    14,
+                    26
+                ]
+            },
+            {
+                "screen_name": "perebotere",
+                "name": "perebotere",
+                "id": 3685329623,
+                "id_str": "3685329623",
+                "indices": [
+                    27,
+                    38
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1301427730702045184,
+        "id_str": "1301427730702045184",
+        "name": "J.Enrique H.",
+        "screen_name": "JEnriqueH2",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 123,
+        "friends_count": 510,
+        "listed_count": 0,
+        "created_at": "Thu Sep 03 07:52:23 +0000 2020",
+        "favourites_count": 8847,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9152,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 21:55:27 +0000 2021",
+        "id": 1415067376324907008,
+        "id_str": "1415067376324907008",
+        "full_text": "@Ljr16015824 @perebotere \u2705M\u00c1XIMA UNI\u00d3N \u2705\n#Clemente tu SI que vales!! \ud83c\uddea\ud83c\uddf8  #ICOgob #Congreso_ES #Cristina_Pardo  #lasextanoche #vicentevallesTV #Abengoa  #hola \n #a_grimaldi #Espa\u00f1a #pfizer #SIrescateABENGOA\n\u26a0\ufe0f\u26a0\ufe0fNO+TRAMPAS  #TERRAMAR #EY_Spain \ud83d\udc4e\ud83c\udffb\u26d4Si no hay JUNTA no se puede aprobar NADA!!\n\u26a0\ufe0f\u26a0\ufe0f",
+        "truncated": false,
+        "display_text_range": [
+            25,
+            292
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Clemente",
+                    "indices": [
+                        41,
+                        50
+                    ]
+                },
+                {
+                    "text": "ICOgob",
+                    "indices": [
+                        73,
+                        80
+                    ]
+                },
+                {
+                    "text": "Congreso_ES",
+                    "indices": [
+                        81,
+                        93
+                    ]
+                },
+                {
+                    "text": "Cristina_Pardo",
+                    "indices": [
+                        94,
+                        109
+                    ]
+                },
+                {
+                    "text": "lasextanoche",
+                    "indices": [
+                        111,
+                        124
+                    ]
+                },
+                {
+                    "text": "vicentevallesTV",
+                    "indices": [
+                        125,
+                        141
+                    ]
+                },
+                {
+                    "text": "Abengoa",
+                    "indices": [
+                        142,
+                        150
+                    ]
+                },
+                {
+                    "text": "hola",
+                    "indices": [
+                        152,
+                        157
+                    ]
+                },
+                {
+                    "text": "a_grimaldi",
+                    "indices": [
+                        160,
+                        171
+                    ]
+                },
+                {
+                    "text": "Espa\u00f1a",
+                    "indices": [
+                        172,
+                        179
+                    ]
+                },
+                {
+                    "text": "pfizer",
+                    "indices": [
+                        180,
+                        187
+                    ]
+                },
+                {
+                    "text": "SIrescateABENGOA",
+                    "indices": [
+                        188,
+                        205
+                    ]
+                },
+                {
+                    "text": "TERRAMAR",
+                    "indices": [
+                        222,
+                        231
+                    ]
+                },
+                {
+                    "text": "EY_Spain",
+                    "indices": [
+                        232,
+                        241
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Ljr16015824",
+                    "name": "Ljr",
+                    "id": 875353214861938688,
+                    "id_str": "875353214861938688",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "perebotere",
+                    "name": "perebotere",
+                    "id": 3685329623,
+                    "id_str": "3685329623",
+                    "indices": [
+                        13,
+                        24
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1415022393672802306,
+        "in_reply_to_status_id_str": "1415022393672802306",
+        "in_reply_to_user_id": 875353214861938688,
+        "in_reply_to_user_id_str": "875353214861938688",
+        "in_reply_to_screen_name": "Ljr16015824",
+        "user": {
+            "id": 597292429,
+            "id_str": "597292429",
+            "name": "Citr\ud83c\udf4anio",
+            "screen_name": "quijoote",
+            "location": "",
+            "description": "Clemente Fern\u00e1ndez eres un fen\u00f3meno",
+            "url": "https://t.co/CZzu9QXYRD",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/CZzu9QXYRD",
+                            "expanded_url": "http://www.clementenumber1.es",
+                            "display_url": "clementenumber1.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 130,
+            "friends_count": 228,
+            "listed_count": 0,
+            "created_at": "Sat Jun 02 10:28:44 +0000 2012",
+            "favourites_count": 1975,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3837,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3196852562/e014b305a7e47fb4b6bd89633edf08a8_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3196852562/e014b305a7e47fb4b6bd89633edf08a8_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

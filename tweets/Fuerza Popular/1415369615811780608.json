@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:56:27 +0000 2021",
+    "id": 1415369615811780608,
+    "id_str": "1415369615811780608",
+    "full_text": "FUERZA POPULAR TENDR\u00c1 TUS DATOS PERSONALES https://t.co/HM1Cz4Vkth  . Lo vamos a permitir ?",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        91
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/HM1Cz4Vkth",
+                "expanded_url": "https://youtu.be/2UCcVglRBKg",
+                "display_url": "youtu.be/2UCcVglRBKg",
+                "indices": [
+                    43,
+                    66
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1106696669335293962,
+        "id_str": "1106696669335293962",
+        "name": "Leona de dos mundos / Ghostwriter",
+        "screen_name": "idiotas_para",
+        "location": "",
+        "description": "\u201dCualquiera que odie algo, es que se siente amenazado por ello \u201c(Neil Strauss)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 597,
+        "friends_count": 509,
+        "listed_count": 1,
+        "created_at": "Fri Mar 15 23:20:22 +0000 2019",
+        "favourites_count": 27116,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24188,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408172083943718913/XtpceH68_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408172083943718913/XtpceH68_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106696669335293962/1608269486",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

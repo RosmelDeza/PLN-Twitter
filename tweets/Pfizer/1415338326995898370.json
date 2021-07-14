@@ -1,0 +1,331 @@
+{
+    "created_at": "Wed Jul 14 15:52:07 +0000 2021",
+    "id": 1415338326995898370,
+    "id_str": "1415338326995898370",
+    "full_text": "RT @VirtudesSanchez: \u00a1Vacunada! Pauta completa con Pfizer \u2705 Seg\u00fan el protocolo de la Comunidad de Madrid, quien ha tenido COVID-19  solo ne\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VirtudesSanchez",
+                "name": "Virtudes S\u00e1nchez",
+                "id": 207709088,
+                "id_str": "207709088",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1350296321144614915,
+        "id_str": "1350296321144614915",
+        "name": "\ud835\udcd9\ud835\udcea\ud835\udced\ud835\udcee \ud835\udcd6\ud835\udcf8\ud835\udd00\ud835\udcea\ud835\udcf7\ud835\udcf7 \ud83e\udd8b",
+        "screen_name": "JadeGowann_",
+        "location": "",
+        "description": "\ud835\udce2\ud835\udcf8\ud835\udcfe \ud835\udcfe\ud835\udcf6\ud835\udcea \ud835\udcf6\ud835\udcfe\ud835\udcf5\ud835\udcf1\ud835\udcee\ud835\udcfb \ud835\udcfd\ud835\udcfb\ud835\udcea\ud835\udcf7\ud835\udcfc.\n\ud835\udcd0\ud835\udcfd\ud835\udcf2\ud835\udcff\ud835\udcf2\ud835\udcfc\ud835\udcfd\ud835\udcea.\n\ud835\udcd5\ud835\udcee\ud835\udcf6\ud835\udcf2\ud835\udcf7\ud835\udcf2\ud835\udcfc\ud835\udcfd\ud835\udcea.\n18 \ud835\udcea\ud835\udcf7\ud835\udcf8\ud835\udcfc.\n\ud835\udcdf\ud835\udcf2\ud835\udcfc\ud835\udcec\ud835\udcf2\ud835\udcea\ud835\udcf7\ud835\udcea \ud835\udcd8\ud835\udcf7\ud835\udcfd\ud835\udcee\ud835\udcf7\ud835\udcfc\ud835\udcea \n#\ud835\udcd5\ud835\udcf8\ud835\udcfb\ud835\udcea\ud835\udcd1\ud835\udcf8\ud835\udcf5\ud835\udcfc\ud835\udcf8\ud835\udcf7\ud835\udcea\ud835\udcfb\ud835\udcf8",
+        "url": "https://t.co/Hn7rDElMAv",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Hn7rDElMAv",
+                        "expanded_url": "https://www.instagram.com/_benitezg/",
+                        "display_url": "instagram.com/_benitezg/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 910,
+        "friends_count": 887,
+        "listed_count": 0,
+        "created_at": "Sat Jan 16 04:18:33 +0000 2021",
+        "favourites_count": 7469,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3731,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415338758644326403/20W8dKJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415338758644326403/20W8dKJ__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350296321144614915/1625283587",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:50:17 +0000 2021",
+        "id": 1415337864997527559,
+        "id_str": "1415337864997527559",
+        "full_text": "\u00a1Vacunada! Pauta completa con Pfizer \u2705 Seg\u00fan el protocolo de la Comunidad de Madrid, quien ha tenido COVID-19  solo necesita una dosis \ud83d\ude4f https://t.co/lqZdRIjnTM",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            136
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415337852318126087,
+                    "id_str": "1415337852318126087",
+                    "indices": [
+                        137,
+                        160
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RKRySWEAc96aK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RKRySWEAc96aK.jpg",
+                    "url": "https://t.co/lqZdRIjnTM",
+                    "display_url": "pic.twitter.com/lqZdRIjnTM",
+                    "expanded_url": "https://twitter.com/VirtudesSanchez/status/1415337864997527559/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1638,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415337852318126087,
+                    "id_str": "1415337852318126087",
+                    "indices": [
+                        137,
+                        160
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RKRySWEAc96aK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RKRySWEAc96aK.jpg",
+                    "url": "https://t.co/lqZdRIjnTM",
+                    "display_url": "pic.twitter.com/lqZdRIjnTM",
+                    "expanded_url": "https://twitter.com/VirtudesSanchez/status/1415337864997527559/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1638,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 207709088,
+            "id_str": "207709088",
+            "name": "Virtudes S\u00e1nchez",
+            "screen_name": "VirtudesSanchez",
+            "location": "Madrid-Rio de Janeiro",
+            "description": "Periodista. Espa\u00f1ola. Doctora por @unicomplutense F\u00fatbol en @marca \ud83c\uddea\ud83c\uddf8\ud83c\udde7\ud83c\uddf7 Blog: @Brasilmasfutbol \ud83d\udc49 https://t.co/MookAw02IN \ud83d\udc48",
+            "url": "https://t.co/b4okvGIZjZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/b4okvGIZjZ",
+                            "expanded_url": "http://brasilmasquefutbol.com/",
+                            "display_url": "brasilmasquefutbol.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/MookAw02IN",
+                            "expanded_url": "http://instagram.com/viir_sanchez",
+                            "display_url": "instagram.com/viir_sanchez",
+                            "indices": [
+                                97,
+                                120
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 11269,
+            "friends_count": 971,
+            "listed_count": 107,
+            "created_at": "Mon Oct 25 21:59:48 +0000 2010",
+            "favourites_count": 11840,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9342,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1289417026247831553/tGMAAgnh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1289417026247831553/tGMAAgnh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/207709088/1603163114",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "206c436ce43a43a3",
+            "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json",
+            "place_type": "city",
+            "name": "Madrid",
+            "full_name": "Madrid, Spain",
+            "country_code": "ES",
+            "country": "Spain",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.8890049,
+                            40.3120713
+                        ],
+                        [
+                            -3.5180102,
+                            40.3120713
+                        ],
+                        [
+                            -3.5180102,
+                            40.6435181
+                        ],
+                        [
+                            -3.8890049,
+                            40.6435181
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 43,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

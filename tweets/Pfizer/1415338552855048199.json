@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 14 15:53:01 +0000 2021",
+    "id": 1415338552855048199,
+    "id_str": "1415338552855048199",
+    "full_text": "@dariopalencia1 @Fredwill85 @alcaldiabquilla @SecSaludBAQ 100 personas en 11 millones de dosis aplicadas, muy bajo el riesgo,  que entre tras cosas todos las vacunas la tienen, la de pfizer ha dado miocarditis que es peor. \nLa mejor vacuna es la que est\u00e9.",
+    "truncated": false,
+    "display_text_range": [
+        58,
+        255
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dariopalencia1",
+                "name": "Valentine Miller",
+                "id": 1012173277,
+                "id_str": "1012173277",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "Fredwill85",
+                "name": "Fred Williams \u2122",
+                "id": 510313328,
+                "id_str": "510313328",
+                "indices": [
+                    16,
+                    27
+                ]
+            },
+            {
+                "screen_name": "alcaldiabquilla",
+                "name": "Alcald\u00eda de Barranquilla",
+                "id": 105309776,
+                "id_str": "105309776",
+                "indices": [
+                    28,
+                    44
+                ]
+            },
+            {
+                "screen_name": "SecSaludBAQ",
+                "name": "Secretar\u00eda Distrital de Salud",
+                "id": 727899725563826176,
+                "id_str": "727899725563826176",
+                "indices": [
+                    45,
+                    57
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415317805566730241,
+    "in_reply_to_status_id_str": "1415317805566730241",
+    "in_reply_to_user_id": 1012173277,
+    "in_reply_to_user_id_str": "1012173277",
+    "in_reply_to_screen_name": "dariopalencia1",
+    "user": {
+        "id": 3426508205,
+        "id_str": "3426508205",
+        "name": "Gibran",
+        "screen_name": "Gkgibrank",
+        "location": "Barranquilla, Colombia",
+        "description": "Abogado. Especializado en ciencias econ\u00f3micas. Mis opiniones reflejan lo que pienso.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1074,
+        "friends_count": 1098,
+        "listed_count": 0,
+        "created_at": "Sun Aug 16 19:19:17 +0000 2015",
+        "favourites_count": 9471,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4653,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1325842970709463048/lVQ-7NBC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1325842970709463048/lVQ-7NBC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3426508205/1587400534",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

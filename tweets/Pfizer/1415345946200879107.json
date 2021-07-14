@@ -1,0 +1,337 @@
+{
+    "created_at": "Wed Jul 14 16:22:24 +0000 2021",
+    "id": 1415345946200879107,
+    "id_str": "1415345946200879107",
+    "full_text": "RT @JS4SONORA: Buen d\u00eda, les informamos el programa de vacunaci\u00f3n contra #covid en el Municipio de #Empalme para personas de 40 a 49 a\u00f1os,\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "covid",
+                "indices": [
+                    73,
+                    79
+                ]
+            },
+            {
+                "text": "Empalme",
+                "indices": [
+                    99,
+                    107
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JS4SONORA",
+                "name": "JURISDICCI\u00d3N SANITARIA IV SONORA",
+                "id": 705007424642506753,
+                "id_str": "705007424642506753",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2798337769,
+        "id_str": "2798337769",
+        "name": "Blanca D\u00edaz",
+        "screen_name": "BlancaDiaz73",
+        "location": " M\u00e9xico",
+        "description": "Mujer Sonorense. \u25b6opini\u00f3n personal.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1011,
+        "friends_count": 3206,
+        "listed_count": 3,
+        "created_at": "Mon Sep 08 17:28:10 +0000 2014",
+        "favourites_count": 12255,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7865,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1310193076615303169/iIUw6Rwg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310193076615303169/iIUw6Rwg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2798337769/1590303969",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:26:46 +0000 2021",
+        "id": 1415316848715829260,
+        "id_str": "1415316848715829260",
+        "full_text": "Buen d\u00eda, les informamos el programa de vacunaci\u00f3n contra #covid en el Municipio de #Empalme para personas de 40 a 49 a\u00f1os, primera dosis de #pfizer. Todos contra el #Covid-19.\n@ClaudiaPavlovic @Enrique_Clausen @DrAlvidrez https://t.co/uwTrsfA51F",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            222
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "covid",
+                    "indices": [
+                        58,
+                        64
+                    ]
+                },
+                {
+                    "text": "Empalme",
+                    "indices": [
+                        84,
+                        92
+                    ]
+                },
+                {
+                    "text": "pfizer",
+                    "indices": [
+                        141,
+                        148
+                    ]
+                },
+                {
+                    "text": "Covid",
+                    "indices": [
+                        166,
+                        172
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ClaudiaPavlovic",
+                    "name": "Claudia Pavlovich A.",
+                    "id": 189687426,
+                    "id_str": "189687426",
+                    "indices": [
+                        177,
+                        193
+                    ]
+                },
+                {
+                    "screen_name": "Enrique_Clausen",
+                    "name": "Enrique Clausen",
+                    "id": 722125382254600192,
+                    "id_str": "722125382254600192",
+                    "indices": [
+                        194,
+                        210
+                    ]
+                },
+                {
+                    "screen_name": "DrAlvidrez",
+                    "name": "Dr. Antonio Alvidrez",
+                    "id": 414065463,
+                    "id_str": "414065463",
+                    "indices": [
+                        211,
+                        222
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415316846857818113,
+                    "id_str": "1415316846857818113",
+                    "indices": [
+                        223,
+                        246
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q3LG2WEAEhbpo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q3LG2WEAEhbpo.jpg",
+                    "url": "https://t.co/uwTrsfA51F",
+                    "display_url": "pic.twitter.com/uwTrsfA51F",
+                    "expanded_url": "https://twitter.com/JS4SONORA/status/1415316848715829260/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415316846857818113,
+                    "id_str": "1415316846857818113",
+                    "indices": [
+                        223,
+                        246
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q3LG2WEAEhbpo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q3LG2WEAEhbpo.jpg",
+                    "url": "https://t.co/uwTrsfA51F",
+                    "display_url": "pic.twitter.com/uwTrsfA51F",
+                    "expanded_url": "https://twitter.com/JS4SONORA/status/1415316848715829260/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 705007424642506753,
+            "id_str": "705007424642506753",
+            "name": "JURISDICCI\u00d3N SANITARIA IV SONORA",
+            "screen_name": "JS4SONORA",
+            "location": "Cajeme, Sonora",
+            "description": "Las Jurisdicciones Sanitarias tienen por objeto planear, coordinar, supervisar y evaluar la prestaci\u00f3n de los servicios de atenci\u00f3n m\u00e9dica en el Estado.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 593,
+            "friends_count": 244,
+            "listed_count": 7,
+            "created_at": "Wed Mar 02 12:30:43 +0000 2016",
+            "favourites_count": 3687,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4739,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/931390549017235459/JHjfe3sl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/931390549017235459/JHjfe3sl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/705007424642506753/1617035034",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,324 @@
+{
+    "created_at": "Wed Jul 14 16:22:02 +0000 2021",
+    "id": 1415345856715186179,
+    "id_str": "1415345856715186179",
+    "full_text": "RT @CPoderNTN24: La farmac\u00e9utica @pfizer recomienda una tercera dosis de su vacuna como refuerzo ante las nuevas variantes del coronavirus\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CPoderNTN24",
+                "name": "Cuesti\u00f3n de Poder",
+                "id": 4573732999,
+                "id_str": "4573732999",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "pfizer",
+                "name": "Pfizer Inc.",
+                "id": 56488059,
+                "id_str": "56488059",
+                "indices": [
+                    33,
+                    40
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 77304403,
+        "id_str": "77304403",
+        "name": "Doctora de Jade \u2764\ud83c\udfbe\ud83c\udfca\u200d\u2640\ufe0f\ud83e\uddd8\u200d\u2640\ufe0f\ud83c\udfc3\u200d\u2640\ufe0f\ud83d\udeb4\u200d\u2640\ufe0f\u262f\ufe0f\ud83d\udc9a",
+        "screen_name": "titabmr",
+        "location": "M\u00e9xico",
+        "description": "M\u00e9dico Tradicional Chino \u262f\ufe0f \nMaestra de Qi Gong \nAstrof\u00edsica\nDoula Postparto\nMujer Medicina\nMoon Mother\u00ae   \nEx-ITAM \ny FIFI de \ud83d\udc9f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 679,
+        "friends_count": 3080,
+        "listed_count": 11,
+        "created_at": "Fri Sep 25 20:34:26 +0000 2009",
+        "favourites_count": 33602,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31024,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401047236419543046/dHlryQ3__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401047236419543046/dHlryQ3__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77304403/1554618463",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 22:30:12 +0000 2021",
+        "id": 1414713732702289923,
+        "id_str": "1414713732702289923",
+        "full_text": "La farmac\u00e9utica @pfizer recomienda una tercera dosis de su vacuna como refuerzo ante las nuevas variantes del coronavirus m\u00e1s contagiosas, como la #Delta. \u00bfEstamos seguros los vacunados con la pauta de dos dosis? Hablamos con la investigadora @roslemusmartin\n\n\ud83d\udd34 Hoy 9pm ET @NTN24 https://t.co/daxRNFMGhG",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Delta",
+                    "indices": [
+                        147,
+                        153
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "pfizer",
+                    "name": "Pfizer Inc.",
+                    "id": 56488059,
+                    "id_str": "56488059",
+                    "indices": [
+                        16,
+                        23
+                    ]
+                },
+                {
+                    "screen_name": "roslemusmartin",
+                    "name": "Roselyn Lemus-Martin",
+                    "id": 34061973,
+                    "id_str": "34061973",
+                    "indices": [
+                        243,
+                        258
+                    ]
+                },
+                {
+                    "screen_name": "NTN24",
+                    "name": "NTN24",
+                    "id": 133945128,
+                    "id_str": "133945128",
+                    "indices": [
+                        273,
+                        279
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414713730554900481,
+                    "id_str": "1414713730554900481",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ISpHiXsAEeXBm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ISpHiXsAEeXBm.jpg",
+                    "url": "https://t.co/daxRNFMGhG",
+                    "display_url": "pic.twitter.com/daxRNFMGhG",
+                    "expanded_url": "https://twitter.com/CPoderNTN24/status/1414713732702289923/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414713730554900481,
+                    "id_str": "1414713730554900481",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ISpHiXsAEeXBm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ISpHiXsAEeXBm.jpg",
+                    "url": "https://t.co/daxRNFMGhG",
+                    "display_url": "pic.twitter.com/daxRNFMGhG",
+                    "expanded_url": "https://twitter.com/CPoderNTN24/status/1414713732702289923/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4573732999,
+            "id_str": "4573732999",
+            "name": "Cuesti\u00f3n de Poder",
+            "screen_name": "CPoderNTN24",
+            "location": "Washington, DC",
+            "description": "An\u00e1lisis de las principales noticias del d\u00eda\u2014interesados en los porqu\u00e9s | Dirigido y presentado por @GustauAlegret | 7pm MX;8pm COL;9pm ET;10pm ARG,CH en @NTN24",
+            "url": "https://t.co/i9Msq1d5J5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/i9Msq1d5J5",
+                            "expanded_url": "https://www.ntn24america.com/programas/cuestion-de-poder",
+                            "display_url": "ntn24america.com/programas/cues\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4683,
+            "friends_count": 624,
+            "listed_count": 37,
+            "created_at": "Wed Dec 16 08:59:08 +0000 2015",
+            "favourites_count": 1358,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5955,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1204178890043854849/IcMAw2kZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204178890043854849/IcMAw2kZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4573732999/1610388343",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

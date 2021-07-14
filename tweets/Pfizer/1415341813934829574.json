@@ -1,0 +1,130 @@
+{
+    "created_at": "Wed Jul 14 16:05:58 +0000 2021",
+    "id": 1415341813934829574,
+    "id_str": "1415341813934829574",
+    "full_text": "@Monicavildosoc @CesarImperatore @ougarteu No, eso es mentira.  Las terceras dosis se est\u00e1n evaluando por pa\u00edses y en base a estudios. Por otro lado, Pfizer es m\u00e1s eficiente por su tecnolog\u00eda nueva pero Sinopharm usa la misma que usamos en todas nuestras vacunas con mayor efectividad y sin gran cadena de frio",
+    "truncated": false,
+    "display_text_range": [
+        43,
+        310
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Monicavildosoc",
+                "name": "Monica Vildoso",
+                "id": 65709286,
+                "id_str": "65709286",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "CesarImperatore",
+                "name": "Cesare",
+                "id": 624832833,
+                "id_str": "624832833",
+                "indices": [
+                    16,
+                    32
+                ]
+            },
+            {
+                "screen_name": "ougarteu",
+                "name": "Oscar Ugarte Ubilluz",
+                "id": 3314271281,
+                "id_str": "3314271281",
+                "indices": [
+                    33,
+                    42
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415340538048430087,
+    "in_reply_to_status_id_str": "1415340538048430087",
+    "in_reply_to_user_id": 65709286,
+    "in_reply_to_user_id_str": "65709286",
+    "in_reply_to_screen_name": "Monicavildosoc",
+    "user": {
+        "id": 6647862,
+        "id_str": "6647862",
+        "name": "Alfonso de la Guarda",
+        "screen_name": "alfonsodg",
+        "location": "Lima, Per\u00fa",
+        "description": "Aputek / Prixtips / Veo365 CTO. Old school Hacker and Geek.  Linux and FLOSS activist. Communications, Anthropologist, Computer Science and R(I)+D. Socioliberal",
+        "url": "https://t.co/i5zJyPQ6tT",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/i5zJyPQ6tT",
+                        "expanded_url": "https://alfonsodg.blogspot.com",
+                        "display_url": "alfonsodg.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 765,
+        "friends_count": 108,
+        "listed_count": 73,
+        "created_at": "Thu Jun 07 19:04:01 +0000 2007",
+        "favourites_count": 9413,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 35326,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328331848074866691/P4WfH-hM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328331848074866691/P4WfH-hM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6647862/1550161803",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

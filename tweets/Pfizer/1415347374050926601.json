@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 14 16:28:04 +0000 2021",
+    "id": 1415347374050926601,
+    "id_str": "1415347374050926601",
+    "full_text": "@quiquepeinado @margarita_sainz Nosotros en nuestro hospital dec\u00edamos que si no les llegaba la cita fuesen en la fecha que les correspond\u00eda (21 d\u00edas despu\u00e9s de la primera por ser Pfizer)",
+    "truncated": false,
+    "display_text_range": [
+        32,
+        186
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "quiquepeinado",
+                "name": "Quique Peinado",
+                "id": 189906799,
+                "id_str": "189906799",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "margarita_sainz",
+                "name": "Margarita Sainz",
+                "id": 2527318628,
+                "id_str": "2527318628",
+                "indices": [
+                    15,
+                    31
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415249758080360448,
+    "in_reply_to_status_id_str": "1415249758080360448",
+    "in_reply_to_user_id": 189906799,
+    "in_reply_to_user_id_str": "189906799",
+    "in_reply_to_screen_name": "quiquepeinado",
+    "user": {
+        "id": 460331605,
+        "id_str": "460331605",
+        "name": "Brub\u2019",
+        "screen_name": "Brub81",
+        "location": "Madrid",
+        "description": "Comunista, enfermera,runner aficionado y padre en formaci\u00f3n constante",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 442,
+        "friends_count": 1658,
+        "listed_count": 3,
+        "created_at": "Tue Jan 10 16:59:09 +0000 2012",
+        "favourites_count": 9949,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12032,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2936840153/47ca195ffc65c56ae6b81bd77e1dd826_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2936840153/47ca195ffc65c56ae6b81bd77e1dd826_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

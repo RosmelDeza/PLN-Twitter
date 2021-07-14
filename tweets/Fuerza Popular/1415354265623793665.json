@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 16:55:27 +0000 2021",
+    "id": 1415354265623793665,
+    "id_str": "1415354265623793665",
+    "full_text": "@JaimeChincha @RPPNoticias Bueno en realidad los primeros en cuestionar Actas fue el personero de Per\u00fa Libre, si en la norma est\u00e1 establecido el derecho de Fuerza Popular a apelar las \u00faltimas decisiones puede hacerlo, nos guste o no",
+    "truncated": false,
+    "display_text_range": [
+        27,
+        232
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JaimeChincha",
+                "name": "Jaime Chincha",
+                "id": 36477202,
+                "id_str": "36477202",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "RPPNoticias",
+                "name": "RPP Noticias",
+                "id": 9075022,
+                "id_str": "9075022",
+                "indices": [
+                    14,
+                    26
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415256611162054656,
+    "in_reply_to_status_id_str": "1415256611162054656",
+    "in_reply_to_user_id": 36477202,
+    "in_reply_to_user_id_str": "36477202",
+    "in_reply_to_screen_name": "JaimeChincha",
+    "user": {
+        "id": 180168428,
+        "id_str": "180168428",
+        "name": "C\u00e9sar Candela",
+        "screen_name": "opinioncandela",
+        "location": "Lima - Peru",
+        "description": "Abogado, Cat\u00f3lico, aliancista, apuesto siempre por un Per\u00fa Mejor \ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea si vas a insultar u ofender d\u00e9jame tus datos completos y DNI no te escondas \ud83d\ude09",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3805,
+        "friends_count": 1647,
+        "listed_count": 23,
+        "created_at": "Thu Aug 19 00:16:18 +0000 2010",
+        "favourites_count": 14247,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28070,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E9EBDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1329564751605739520/eGeAu-Cr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329564751605739520/eGeAu-Cr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/180168428/1613590048",
+        "profile_link_color": "D64274",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F7F1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

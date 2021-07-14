@@ -1,0 +1,300 @@
+{
+    "created_at": "Wed Jul 14 17:26:41 +0000 2021",
+    "id": 1415362125166436352,
+    "id_str": "1415362125166436352",
+    "full_text": "RT @bs_daax9_9: Bueno, ahora voy a votar por mi nene mientras le hago stream a mi otro nene\nLouis Tomlinson (@Louis_Tomlinson) for #ArtistO\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bs_daax9_9",
+                "name": "\u2730\ud835\udcf6\ud835\udcf8\ud835\udcf8\ud835\udcf7\ud835\udcf5\ud835\udcf2\ud835\udcf0\ud835\udcf1\ud835\udcfd \u263d\ufe0e",
+                "id": 1085315418158493696,
+                "id_str": "1085315418158493696",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "Louis_Tomlinson",
+                "name": "Louis Tomlinson",
+                "id": 84279963,
+                "id_str": "84279963",
+                "indices": [
+                    109,
+                    125
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1395173696067837957,
+        "id_str": "1395173696067837957",
+        "name": "Louis 1",
+        "screen_name": "Louis145630889",
+        "location": "",
+        "description": "vota por Louis y te gasto gomitas",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 24,
+        "friends_count": 30,
+        "listed_count": 0,
+        "created_at": "Thu May 20 00:25:20 +0000 2021",
+        "favourites_count": 51,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 84,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1395175076971044866/m1C8jzt8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395175076971044866/m1C8jzt8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:07:50 +0000 2021",
+        "id": 1415357379991023617,
+        "id_str": "1415357379991023617",
+        "full_text": "Bueno, ahora voy a votar por mi nene mientras le hago stream a mi otro nene\nLouis Tomlinson (@Louis_Tomlinson) for #ArtistOfTheSummer @965TDY \nAqu\u00ed estaban tan chikitos ajldkfuquweolwq lloro https://t.co/CI0fYGN0Td",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            190
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ArtistOfTheSummer",
+                    "indices": [
+                        115,
+                        133
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Louis_Tomlinson",
+                    "name": "Louis Tomlinson",
+                    "id": 84279963,
+                    "id_str": "84279963",
+                    "indices": [
+                        93,
+                        109
+                    ]
+                },
+                {
+                    "screen_name": "965TDY",
+                    "name": "96.5 TDY",
+                    "id": 40099803,
+                    "id_str": "40099803",
+                    "indices": [
+                        134,
+                        141
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415357378111868937,
+                    "id_str": "1415357378111868937",
+                    "indices": [
+                        191,
+                        214
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RcCViWEAkj6F5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RcCViWEAkj6F5.jpg",
+                    "url": "https://t.co/CI0fYGN0Td",
+                    "display_url": "pic.twitter.com/CI0fYGN0Td",
+                    "expanded_url": "https://twitter.com/bs_daax9_9/status/1415357379991023617/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 485,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 898,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 898,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415357378111868937,
+                    "id_str": "1415357378111868937",
+                    "indices": [
+                        191,
+                        214
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RcCViWEAkj6F5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RcCViWEAkj6F5.jpg",
+                    "url": "https://t.co/CI0fYGN0Td",
+                    "display_url": "pic.twitter.com/CI0fYGN0Td",
+                    "expanded_url": "https://twitter.com/bs_daax9_9/status/1415357379991023617/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 485,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 898,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 898,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1085315418158493696,
+            "id_str": "1085315418158493696",
+            "name": "\u2730\ud835\udcf6\ud835\udcf8\ud835\udcf8\ud835\udcf7\ud835\udcf5\ud835\udcf2\ud835\udcf0\ud835\udcf1\ud835\udcfd \u263d\ufe0e",
+            "screen_name": "bs_daax9_9",
+            "location": "",
+            "description": "\u14aaI\u028c\u15f4 \u0250 l\u1d09\u15b4\u15f4 YOu \u028dI\u1d09\u14aa\u14aa \u1587\u01dd\u026f\u15f4\u15f0\u15f7\u01dd\u0279\ud83c\udf08\n\ud835\udc46\ud835\udc4e\ud835\udc5a\ud835\udc52 \ud835\udc5c\ud835\udc59\ud835\udc51 \ud835\udc60\u210e\ud835\udc56\ud835\udc61 \ud835\udc4f\ud835\udc62\ud835\udc61 \ud835\udc4e \ud835\udc51\ud835\udc56\ud835\udc53\ud835\udc53\ud835\udc52\ud835\udc5f\ud835\udc52\ud835\udc5b\ud835\udc61 \ud835\udc51\ud835\udc4e\ud835\udc66.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 358,
+            "friends_count": 351,
+            "listed_count": 0,
+            "created_at": "Tue Jan 15 23:18:54 +0000 2019",
+            "favourites_count": 8445,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3171,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413995320183304197/wNbwsVz1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413995320183304197/wNbwsVz1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085315418158493696/1608295699",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

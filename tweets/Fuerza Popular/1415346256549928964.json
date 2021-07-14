@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Jul 14 16:23:38 +0000 2021",
+    "id": 1415346256549928964,
+    "id_str": "1415346256549928964",
+    "full_text": "El Juez q admiti\u00f3 esta demanda HD esta perdido y le caer\u00e1 (o debe) una sanci\u00f3n. VER comentario.\n\nAtte.: @FiscaliaPeru @Poder_Judicial_ @KeikoFujimori \n\nhttps://t.co/547rmNrBfn\u00e1mite%20h\u00e1beas%20data%20de%20Fuerza%20Popular&amp;utm_term=Correo_Newsletter--7--none--30-40--ENVIO%20SIMPLE",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        283
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FiscaliaPeru",
+                "name": "Ministerio P\u00fablico",
+                "id": 302151609,
+                "id_str": "302151609",
+                "indices": [
+                    104,
+                    117
+                ]
+            },
+            {
+                "screen_name": "Poder_Judicial_",
+                "name": "Poder Judicial Per\u00fa",
+                "id": 271439668,
+                "id_str": "271439668",
+                "indices": [
+                    118,
+                    134
+                ]
+            },
+            {
+                "screen_name": "KeikoFujimori",
+                "name": "Keiko Fujimori",
+                "id": 53189543,
+                "id_str": "53189543",
+                "indices": [
+                    135,
+                    149
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/547rmNrBfn",
+                "expanded_url": "https://diariocorreo.pe/politica/keiko-fujimori-pj-admite-tramite-habeas-data-presentado-fuerza-popular-acceder-padron-electores-onpe-elecciones-peru-2021-segunda-vuelta-nndc-noticia/?utm_source=emBlue&utm_medium=email&utm_campaign=Correo%20NL&utm_content=NL_General_202107141053--PJ%20admite%20a%20tr",
+                "display_url": "diariocorreo.pe/politica/keiko\u2026",
+                "indices": [
+                    152,
+                    175
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1166721085146095622,
+        "id_str": "1166721085146095622",
+        "name": "Seza Khort-Brljevic",
+        "screen_name": "SezaKhort",
+        "location": "Zagreb, Croatia (PIMENTEL-CIX)",
+        "description": "Computer & Systems Eng. Master in Strategic IT Management. DON'T EXPLAIN: friends don't need it, enemies don't believe it, & stupid don't understand it. JOIN ME",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 292,
+        "friends_count": 736,
+        "listed_count": 0,
+        "created_at": "Wed Aug 28 14:36:23 +0000 2019",
+        "favourites_count": 41220,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22328,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404817803811639297/iscsf2Qa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404817803811639297/iscsf2Qa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166721085146095622/1623726825",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

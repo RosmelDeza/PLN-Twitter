@@ -1,0 +1,344 @@
+{
+    "created_at": "Wed Jul 14 16:11:44 +0000 2021",
+    "id": 1415343265163923456,
+    "id_str": "1415343265163923456",
+    "full_text": "RT @luisybarrave: Las \u00fanicas armas que tenemos los activistas de Voluntad Popular son el voto, la fuerza y la Fe para lograr la construcci\u00f3\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "luisybarrave",
+                "name": "LUIS YBARRA",
+                "id": 1014498679,
+                "id_str": "1014498679",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1069717694650425344,
+        "id_str": "1069717694650425344",
+        "name": "Carlos L Lopez R",
+        "screen_name": "CarlosLLopezR1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 57,
+        "friends_count": 330,
+        "listed_count": 0,
+        "created_at": "Mon Dec 03 22:19:07 +0000 2018",
+        "favourites_count": 3322,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 854,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1165980299622342656/LdBKZUF7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165980299622342656/LdBKZUF7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069717694650425344/1566826306",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:42:08 +0000 2021",
+        "id": 1415320715537043458,
+        "id_str": "1415320715537043458",
+        "full_text": "Las \u00fanicas armas que tenemos los activistas de Voluntad Popular son el voto, la fuerza y la Fe para lograr la construcci\u00f3n de la mejor venezuela. \n\nVamos todos a inscribirnos en el #RE\ud83d\uddf3\n\n#VamosAEncontarnos \n#JuventudVPSiVota \n@VPnacional \n@GoyoNoriega https://t.co/w7nMA396Pa",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            251
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "RE",
+                    "indices": [
+                        181,
+                        184
+                    ]
+                },
+                {
+                    "text": "VamosAEncontarnos",
+                    "indices": [
+                        187,
+                        205
+                    ]
+                },
+                {
+                    "text": "JuventudVPSiVota",
+                    "indices": [
+                        207,
+                        224
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VPnacional",
+                    "name": "Voluntad Popular",
+                    "id": 1245272979048718337,
+                    "id_str": "1245272979048718337",
+                    "indices": [
+                        226,
+                        237
+                    ]
+                },
+                {
+                    "screen_name": "GoyoNoriega",
+                    "name": "Goyo Noriega",
+                    "id": 48525049,
+                    "id_str": "48525049",
+                    "indices": [
+                        239,
+                        251
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415320628555653122,
+                    "id_str": "1415320628555653122",
+                    "indices": [
+                        252,
+                        275
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415320628555653122/pu/img/uBgT1P34-imPgbkK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415320628555653122/pu/img/uBgT1P34-imPgbkK.jpg",
+                    "url": "https://t.co/w7nMA396Pa",
+                    "display_url": "pic.twitter.com/w7nMA396Pa",
+                    "expanded_url": "https://twitter.com/luisybarrave/status/1415320715537043458/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415320628555653122,
+                    "id_str": "1415320628555653122",
+                    "indices": [
+                        252,
+                        275
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415320628555653122/pu/img/uBgT1P34-imPgbkK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415320628555653122/pu/img/uBgT1P34-imPgbkK.jpg",
+                    "url": "https://t.co/w7nMA396Pa",
+                    "display_url": "pic.twitter.com/w7nMA396Pa",
+                    "expanded_url": "https://twitter.com/luisybarrave/status/1415320715537043458/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            3,
+                            4
+                        ],
+                        "duration_millis": 16269,
+                        "variants": [
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415320628555653122/pu/vid/320x426/3sWH99pLymR1ACt6.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415320628555653122/pu/vid/480x640/_Vq2r6tuH84BkuG6.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415320628555653122/pu/pl/_cFRYGED2BAiIj2l.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1014498679,
+            "id_str": "1014498679",
+            "name": "LUIS YBARRA",
+            "screen_name": "luisybarrave",
+            "location": "Venezuela",
+            "description": "Diputado a la AN (2021-2026) \ud83c\uddfb\ud83c\uddea Miembro de la Comisi\u00f3n de Ambiente AN. Abogado USM. Jefe de Fracci\u00f3n VPA. Responsable Nacional de @juventudes_vpa.",
+            "url": "https://t.co/Vrjp0Rv9bR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Vrjp0Rv9bR",
+                            "expanded_url": "http://www.instagram.com/luisybarrave",
+                            "display_url": "instagram.com/luisybarrave",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1463,
+            "friends_count": 2647,
+            "listed_count": 3,
+            "created_at": "Sun Dec 16 04:40:17 +0000 2012",
+            "favourites_count": 547,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3203,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1402833019107430404/gy45cgg1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402833019107430404/gy45cgg1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1014498679/1623949530",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

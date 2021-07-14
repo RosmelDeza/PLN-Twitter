@@ -1,0 +1,207 @@
+{
+    "created_at": "Wed Jul 14 16:13:39 +0000 2021",
+    "id": 1415343745571119118,
+    "id_str": "1415343745571119118",
+    "full_text": "RT @grupoeldeber: Una tiktoker fue la primera en comentarlo. Dijo que sus pechos comenzaron a crecer 15 d\u00edas despu\u00e9s de vacunarse. https://\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "grupoeldeber",
+                "name": "EL DEBER",
+                "id": 65444625,
+                "id_str": "65444625",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1318692793783623682,
+        "id_str": "1318692793783623682",
+        "name": "RJVADEN 3.0 \u26a1\u26a1\u26a1",
+        "screen_name": "Dcbpatriota_007",
+        "location": "",
+        "description": "COMO YO\nNO HAY 2 .\ud83d\ude09\ud83d\ude01",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 225,
+        "friends_count": 365,
+        "listed_count": 0,
+        "created_at": "Tue Oct 20 23:17:27 +0000 2020",
+        "favourites_count": 20151,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15817,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414382250351792130/A-6xg87U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414382250351792130/A-6xg87U_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1318692793783623682/1624325042",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:55:49 +0000 2021",
+        "id": 1415112766290006017,
+        "id_str": "1415112766290006017",
+        "full_text": "Una tiktoker fue la primera en comentarlo. Dijo que sus pechos comenzaron a crecer 15 d\u00edas despu\u00e9s de vacunarse. https://t.co/2AKLRWcWSP",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            136
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/2AKLRWcWSP",
+                    "expanded_url": "https://eldeber.com.bo/mundo/en-noruega-las-mujeres-dicen-que-la-vacuna-pfizer-les-aumento-el-tamano-de-los-senos_238952?utm_medium=Social&utm_source=Twitter#Echobox=1626223240-1",
+                    "display_url": "eldeber.com.bo/mundo/en-norue\u2026",
+                    "indices": [
+                        113,
+                        136
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 65444625,
+            "id_str": "65444625",
+            "name": "EL DEBER",
+            "screen_name": "grupoeldeber",
+            "location": "Bolivia",
+            "description": "68 a\u00f1os informando sobre Bolivia y el mundo. Estamos conectados las 24 horas, todos los d\u00edas del a\u00f1o.",
+            "url": "https://t.co/YTqhJWauup",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/YTqhJWauup",
+                            "expanded_url": "https://eldeber.com.bo",
+                            "display_url": "eldeber.com.bo",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 698201,
+            "friends_count": 120,
+            "listed_count": 1440,
+            "created_at": "Thu Aug 13 19:27:12 +0000 2009",
+            "favourites_count": 1331,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 234268,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "4A913C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1367606797243215874/794Lxskw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367606797243215874/794Lxskw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/65444625/1584969220",
+            "profile_link_color": "088A2A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

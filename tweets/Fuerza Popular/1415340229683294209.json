@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 15:59:41 +0000 2021",
+    "id": 1415340229683294209,
+    "id_str": "1415340229683294209",
+    "full_text": "Fuerza Popular | Ning\u00fan pa\u00eds o persona puede presentar una denuncia directamente ante la CIDH, explica Delia\u00a0Mu\u00f1oz https://t.co/l9LFMP3KJn",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/l9LFMP3KJn",
+                "expanded_url": "https://news.qorilab.com/fuerza-popular-ningun-pais-o-persona-puede-presentar-una-denuncia-directamente-ante-la-cidh-explica-delia-munoz/",
+                "display_url": "news.qorilab.com/fuerza-popular\u2026",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 216174831,
+        "id_str": "216174831",
+        "name": "News Qorilab",
+        "screen_name": "NewsQorilab",
+        "location": "Per\u00fa",
+        "description": "Todo lo que buscas en una sola web.",
+        "url": "https://t.co/sZXWliomda",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/sZXWliomda",
+                        "expanded_url": "https://news.qorilab.com/",
+                        "display_url": "news.qorilab.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 75,
+        "friends_count": 104,
+        "listed_count": 3,
+        "created_at": "Mon Nov 15 23:50:55 +0000 2010",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10869,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1341473299331772419/Fi1ELexd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341473299331772419/Fi1ELexd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216174831/1608667134",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

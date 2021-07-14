@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 16:45:46 +0000 2021",
+    "id": 1415351826724147201,
+    "id_str": "1415351826724147201",
+    "full_text": "Fuerza Popular apelar\u00e1 15 actas de proclamaci\u00f3n de resultados de los JEE | Julio C\u00e9sar Castiglioni | Per\u00fa Libre | Keiko Fujimori | Pedro Castillo | | ELECCIONES-2021 | EL COMERCIO PER\u00da https://t.co/vy2xpo41Z1",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        208
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/vy2xpo41Z1",
+                "expanded_url": "https://elcomercio.pe/elecciones-2021/fuerza-popular-apelara-15-actas-de-proclamacion-de-resultados-de-los-jee-julio-cesar-castiglioni-peru-libre-keiko-fujimori-pedro-castillo-noticia/",
+                "display_url": "elcomercio.pe/elecciones-202\u2026",
+                "indices": [
+                    185,
+                    208
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 37340960,
+        "id_str": "37340960",
+        "name": "GrecoEspartano",
+        "screen_name": "GrecoEspartano",
+        "location": "WI-USA",
+        "description": "Tarata: El mejor terrorista es el terrorista muerto",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2773,
+        "friends_count": 1859,
+        "listed_count": 18,
+        "created_at": "Sun May 03 02:18:37 +0000 2009",
+        "favourites_count": 38264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 99912,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "94D487",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1197681827940569088/cpbvRTXR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197681827940569088/cpbvRTXR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37340960/1365298646",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

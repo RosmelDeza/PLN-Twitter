@@ -1,0 +1,219 @@
+{
+    "created_at": "Wed Jul 14 15:53:35 +0000 2021",
+    "id": 1415338694945525769,
+    "id_str": "1415338694945525769",
+    "full_text": "RT @JOSEESCAURIZA: A nadie, pero cuento mi experiencia de la vacunaci\u00f3n de primera dosis anti-covid-19 de Pfizer, solo an\u00e9cdota. Ning\u00fan efe\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JOSEESCAURIZA",
+                "name": "Jos\u00e9",
+                "id": 90415857,
+                "id_str": "90415857",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 197249244,
+        "id_str": "197249244",
+        "name": "LetiDu",
+        "screen_name": "Letii_Duarte",
+        "location": "Villarrica, Paraguay",
+        "description": "\ud83d\udccdBioquimica UCV\n- Algun dia descifraremos la melancolia, valdra la pena la espera \u2728",
+        "url": "https://t.co/PXeIoFgMMj",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/PXeIoFgMMj",
+                        "expanded_url": "http://instagram.com/letiduarte96",
+                        "display_url": "instagram.com/letiduarte96",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6067,
+        "friends_count": 6172,
+        "listed_count": 3,
+        "created_at": "Fri Oct 01 00:45:55 +0000 2010",
+        "favourites_count": 73130,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 89180,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394842314858766338/epaSPQe0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394842314858766338/epaSPQe0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/197249244/1621391235",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 03:36:25 +0000 2021",
+        "id": 1415153180049035267,
+        "id_str": "1415153180049035267",
+        "full_text": "A nadie, pero cuento mi experiencia de la vacunaci\u00f3n de primera dosis anti-covid-19 de Pfizer, solo an\u00e9cdota. Ning\u00fan efecto secundario hasta ahora. S\u00ed estoy cansado por no haber dormido anoche y haber entrenado 2 veces hoy. \ud83d\ude05",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            225
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 90415857,
+            "id_str": "90415857",
+            "name": "Jos\u00e9",
+            "screen_name": "JOSEESCAURIZA",
+            "location": "Asunci\u00f3n, Paraguay",
+            "description": "Biograf\u00eda: La estoy viviendo, te cuento despu\u00e9s.\n#Ecologista \n- Nac\u00ed un 27 de agosto (creo) -\n\nhttps://t.co/4307mkNRSg\n     \nNo todo lo que digo es en joda.",
+            "url": "https://t.co/xihUbv6csw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xihUbv6csw",
+                            "expanded_url": "https://www.facebook.com/profile.php?id=874780163",
+                            "display_url": "facebook.com/profile.php?id\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4307mkNRSg",
+                            "expanded_url": "http://instagram.com/joseescauriza",
+                            "display_url": "instagram.com/joseescauriza",
+                            "indices": [
+                                95,
+                                118
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 38329,
+            "friends_count": 24313,
+            "listed_count": 13,
+            "created_at": "Mon Nov 16 15:33:16 +0000 2009",
+            "favourites_count": 51077,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 32887,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/943298053913694208/6YiJMHK4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/943298053913694208/6YiJMHK4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/90415857/1513735227",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 188,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

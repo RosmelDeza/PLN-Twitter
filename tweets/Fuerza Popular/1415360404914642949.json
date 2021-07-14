@@ -1,0 +1,266 @@
+{
+    "created_at": "Wed Jul 14 17:19:51 +0000 2021",
+    "id": 1415360404914642949,
+    "id_str": "1415360404914642949",
+    "full_text": "RT @LuchoLuchez: @KillaPunchay @KeikoFujimori @JaimeChincha Amanece en Madrid, suena mi despertador, sigo con algo de sue\u00f1o, abro YouTube y\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LuchoLuchez",
+                "name": "Lucho Luchez \ud83c\uddf5\ud83c\uddea",
+                "id": 1393950780374331398,
+                "id_str": "1393950780374331398",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "KillaPunchay",
+                "name": "\ud835\ude81\ud835\ude98\ud835\ude9e\ud835\ude9c\ud835\ude9c\ud835\ude8e \ud83d\udef8",
+                "id": 2832377181,
+                "id_str": "2832377181",
+                "indices": [
+                    17,
+                    30
+                ]
+            },
+            {
+                "screen_name": "KeikoFujimori",
+                "name": "Keiko Fujimori",
+                "id": 53189543,
+                "id_str": "53189543",
+                "indices": [
+                    31,
+                    45
+                ]
+            },
+            {
+                "screen_name": "JaimeChincha",
+                "name": "Jaime Chincha",
+                "id": 36477202,
+                "id_str": "36477202",
+                "indices": [
+                    46,
+                    59
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1356142351,
+        "id_str": "1356142351",
+        "name": "Raul Chuchon Sanchez",
+        "screen_name": "Raul_Chuchon",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 70,
+        "friends_count": 781,
+        "listed_count": 0,
+        "created_at": "Tue Apr 16 05:43:57 +0000 2013",
+        "favourites_count": 12758,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29732,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 07:05:37 +0000 2021",
+        "id": 1415205828408315907,
+        "id_str": "1415205828408315907",
+        "full_text": "@KillaPunchay @KeikoFujimori @JaimeChincha Amanece en Madrid, suena mi despertador, sigo con algo de sue\u00f1o, abro YouTube y veo la entrevista de @JaimeChincha a Castiglioni y pienso: \u201choy va a ser un gran d\u00eda\u201d\n\n\u00a1Qu\u00e9 grande el se\u00f1or Chincha! Gracias por esos momentos. \n\nCongresistas elecci\u00f3n TC: KO\nFuerza Popular: KO",
+        "truncated": false,
+        "display_text_range": [
+            43,
+            316
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KillaPunchay",
+                    "name": "\ud835\ude81\ud835\ude98\ud835\ude9e\ud835\ude9c\ud835\ude9c\ud835\ude8e \ud83d\udef8",
+                    "id": 2832377181,
+                    "id_str": "2832377181",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "KeikoFujimori",
+                    "name": "Keiko Fujimori",
+                    "id": 53189543,
+                    "id_str": "53189543",
+                    "indices": [
+                        14,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "JaimeChincha",
+                    "name": "Jaime Chincha",
+                    "id": 36477202,
+                    "id_str": "36477202",
+                    "indices": [
+                        29,
+                        42
+                    ]
+                },
+                {
+                    "screen_name": "JaimeChincha",
+                    "name": "Jaime Chincha",
+                    "id": 36477202,
+                    "id_str": "36477202",
+                    "indices": [
+                        144,
+                        157
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415134933685780480,
+        "in_reply_to_status_id_str": "1415134933685780480",
+        "in_reply_to_user_id": 2832377181,
+        "in_reply_to_user_id_str": "2832377181",
+        "in_reply_to_screen_name": "KillaPunchay",
+        "user": {
+            "id": 1393950780374331398,
+            "id_str": "1393950780374331398",
+            "name": "Lucho Luchez \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "LuchoLuchez",
+            "location": "Madrid, Espa\u00f1a",
+            "description": "Peruano exiliado en Madrid desde 1994 | M\u00e1ster en Criptoan\u00e1lisis y Ciencias Pol\u00edticas en Twitter University | Dise\u00f1ador Digital terruqueado por ser de izquierda",
+            "url": "https://t.co/KatWRcrBjQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/KatWRcrBjQ",
+                            "expanded_url": "http://instagram.com/oviedoperu",
+                            "display_url": "instagram.com/oviedoperu",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 35,
+            "friends_count": 144,
+            "listed_count": 1,
+            "created_at": "Sun May 16 15:26:09 +0000 2021",
+            "favourites_count": 825,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 724,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1403355838669000708/xxUTgzsu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403355838669000708/xxUTgzsu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393950780374331398/1623419240",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

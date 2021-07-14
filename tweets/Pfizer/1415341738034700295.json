@@ -1,0 +1,241 @@
+{
+    "created_at": "Wed Jul 14 16:05:40 +0000 2021",
+    "id": 1415341738034700295,
+    "id_str": "1415341738034700295",
+    "full_text": "Estoy negociando con Pfizer a ver si comprando Viagra, me manda las vacunas https://t.co/B376WyJCc2",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        75
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/B376WyJCc2",
+                "expanded_url": "https://twitter.com/lunabenito14/status/1415340781364207617",
+                "display_url": "twitter.com/lunabenito14/s\u2026",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 923256364008435712,
+        "id_str": "923256364008435712",
+        "name": "Nicolas del \u00d1oca",
+        "screen_name": "zurdoinutil",
+        "location": "Miami Beach, FL",
+        "description": "PIQUETERO NACIONAL Luchamos por nuestros derechos de piquetear sin l\u00edmites, luchamos tambi\u00e9n por mas planes a cambio de nada! Por un patriarcado modelo YA! \u270c\ud83c\udfff",
+        "url": "https://t.co/7SfhUK2QCR",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/7SfhUK2QCR",
+                        "expanded_url": "http://instagram.com/nicolasdeltubo",
+                        "display_url": "instagram.com/nicolasdeltubo",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 21329,
+        "friends_count": 21194,
+        "listed_count": 3,
+        "created_at": "Wed Oct 25 18:34:05 +0000 2017",
+        "favourites_count": 114231,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37131,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1000879082379374592/uwN09C1h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000879082379374592/uwN09C1h_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/923256364008435712/1514061738",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00b19b974fd465ae",
+        "url": "https://api.twitter.com/1.1/geo/id/00b19b974fd465ae.json",
+        "place_type": "city",
+        "name": "Los Polvorines",
+        "full_name": "Los Polvorines, Argentina",
+        "country_code": "AR",
+        "country": "Argentina",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -58.784651,
+                        -34.5326171
+                    ],
+                    [
+                        -58.6455162,
+                        -34.5326171
+                    ],
+                    [
+                        -58.6455162,
+                        -34.439062
+                    ],
+                    [
+                        -58.784651,
+                        -34.439062
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415340781364207617,
+    "quoted_status_id_str": "1415340781364207617",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 16:01:52 +0000 2021",
+        "id": 1415340781364207617,
+        "id_str": "1415340781364207617",
+        "full_text": "@zurdoinutil El gobierno  kaka compr\u00f3  20 millones de 1era dosis de vacunas ,y hoy tiene  6 millones argentinos esperando la segunda dosis,c\u00f3mo  har\u00e1n  para sonseguir 26 millones m\u00e1s???",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            185
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "zurdoinutil",
+                    "name": "Nicolas del \u00d1oca",
+                    "id": 923256364008435712,
+                    "id_str": "923256364008435712",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 923256364008435712,
+        "in_reply_to_user_id_str": "923256364008435712",
+        "in_reply_to_screen_name": "zurdoinutil",
+        "user": {
+            "id": 1402760936843354118,
+            "id_str": "1402760936843354118",
+            "name": "Luna Benito",
+            "screen_name": "LunaBenito14",
+            "location": "",
+            "description": "DT A,de pilar",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 536,
+            "friends_count": 1095,
+            "listed_count": 0,
+            "created_at": "Wed Jun 09 22:54:24 +0000 2021",
+            "favourites_count": 1574,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1092,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1402761188048527366/9pc22lTc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402761188048527366/9pc22lTc_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

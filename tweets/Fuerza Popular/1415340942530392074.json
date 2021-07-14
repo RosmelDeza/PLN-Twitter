@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 14 16:02:31 +0000 2021",
+    "id": 1415340942530392074,
+    "id_str": "1415340942530392074",
+    "full_text": "@JARICAWAS @jorgevillenal @KeikoFujimori Oe eres o te haces el idiota? adivina quien dijo que son de fuerza popular? el mismo Cerr\u00f3n y estas repitiendo lo mismo que dice ah y no me crees? Como te dejas manipular tu solo das l\u00e1stima, ni siquiera buscas la verdad por ti mismo y te dejas guiar\nhttps://t.co/thjJ4cRdaO",
+    "truncated": false,
+    "display_text_range": [
+        41,
+        315
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JARICAWAS",
+                "name": "JAIME CASTILLA W",
+                "id": 242850600,
+                "id_str": "242850600",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "jorgevillenal",
+                "name": "Jorge Villena \ud83c\uddf5\ud83c\uddea",
+                "id": 82882622,
+                "id_str": "82882622",
+                "indices": [
+                    11,
+                    25
+                ]
+            },
+            {
+                "screen_name": "KeikoFujimori",
+                "name": "Keiko Fujimori",
+                "id": 53189543,
+                "id_str": "53189543",
+                "indices": [
+                    26,
+                    40
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/thjJ4cRdaO",
+                "expanded_url": "https://elcomercio.pe/politica/justicia/fact-checking-vladimir-cerron-y-sus-afirmaciones-falsas-sobre-los-investigados-por-los-dinamicos-del-centro-peru-libre-noticia/",
+                "display_url": "elcomercio.pe/politica/justi\u2026",
+                "indices": [
+                    292,
+                    315
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415336966397304836,
+    "in_reply_to_status_id_str": "1415336966397304836",
+    "in_reply_to_user_id": 242850600,
+    "in_reply_to_user_id_str": "242850600",
+    "in_reply_to_screen_name": "JARICAWAS",
+    "user": {
+        "id": 714933542480977922,
+        "id_str": "714933542480977922",
+        "name": "Rodrigo15100",
+        "screen_name": "Play28Rodri",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 28,
+        "listed_count": 0,
+        "created_at": "Tue Mar 29 21:53:34 +0000 2016",
+        "favourites_count": 75,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 365,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

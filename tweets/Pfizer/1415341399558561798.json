@@ -1,0 +1,293 @@
+{
+    "created_at": "Wed Jul 14 16:04:20 +0000 2021",
+    "id": 1415341399558561798,
+    "id_str": "1415341399558561798",
+    "full_text": "RT @waleman64: La  \u00fanica combinaci\u00f3n aprobada en vacunas en 1 dosis con Astra y la 2 dosis con Pfizer, si puede colocarse Pfizer en buena h\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "waleman64",
+                "name": "Dr. W. Aleman",
+                "id": 221921977,
+                "id_str": "221921977",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 140708043,
+        "id_str": "140708043",
+        "name": "ValeriaDuranHz",
+        "screen_name": "ValikaDHz",
+        "location": "Guayaquil - Ecuador",
+        "description": "Pesimista por la inteligencia y optimista por el deseo. - Antonio Gramsci || M\u00e9dico \ud83d\udc69\u200d\u2695\ufe0f || Espero que el tiempo escriba un mejor gui\u00f3n.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 250,
+        "friends_count": 376,
+        "listed_count": 9,
+        "created_at": "Thu May 06 06:02:14 +0000 2010",
+        "favourites_count": 4828,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 48560,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353514159460282369/zo4WbAQ9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353514159460282369/zo4WbAQ9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140708043/1611538171",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 18:19:24 +0000 2021",
+        "id": 1415013004203134986,
+        "id_str": "1415013004203134986",
+        "full_text": "La  \u00fanica combinaci\u00f3n aprobada en vacunas en 1 dosis con Astra y la 2 dosis con Pfizer, si puede colocarse Pfizer en buena hora , lo hacen en Espa\u00f1a https://t.co/6M61WeTyIu",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            148
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/6M61WeTyIu",
+                    "expanded_url": "https://twitter.com/bosscec/status/1415007991774986242",
+                    "display_url": "twitter.com/bosscec/status\u2026",
+                    "indices": [
+                        149,
+                        172
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 221921977,
+            "id_str": "221921977",
+            "name": "Dr. W. Aleman",
+            "screen_name": "waleman64",
+            "location": "Guayaquil Ecuador",
+            "description": "M\u00e9dico Infect\u00f3logo. Humanista. Dem\u00f3crata. La lealtad ante todo",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12199,
+            "friends_count": 1039,
+            "listed_count": 10,
+            "created_at": "Thu Dec 02 00:11:09 +0000 2010",
+            "favourites_count": 48,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 6054,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1406252030218407938/IBcXpIXR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406252030218407938/IBcXpIXR_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415007991774986242,
+        "quoted_status_id_str": "1415007991774986242",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 17:59:29 +0000 2021",
+            "id": 1415007991774986242,
+            "id_str": "1415007991774986242",
+            "full_text": "Una pregunta Dr. @waleman64, el 21 viajo a Estados Unidos, el 18 de Julio me vacun\u00e9 aqui con Astra Zeneca, tengo q esperar 84 d\u00edas para la 2da.dosis , o que me vacune con Pfizer all\u00e1. Cu\u00e1l es la mas efectiva; porque seg\u00fan la OMS es mejor no mezclar dosis de distintos fabricantes",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "waleman64",
+                        "name": "Dr. W. Aleman",
+                        "id": 221921977,
+                        "id_str": "221921977",
+                        "indices": [
+                            17,
+                            27
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 72434076,
+                "id_str": "72434076",
+                "name": "Cecilia Bossano",
+                "screen_name": "bosscec",
+                "location": "",
+                "description": "Luchadora,capaz d enfrentar grandes injusticias, no me doy x vencida ni a\u00fan vencida. Defiendo a los clientes del sistema Financiero y a los Deudores de Buena Fe",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3004,
+                "friends_count": 3219,
+                "listed_count": 6,
+                "created_at": "Tue Sep 08 01:07:35 +0000 2009",
+                "favourites_count": 23314,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 41067,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1328191647591649281/kNPzrq3Q_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328191647591649281/kNPzrq3Q_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 8,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 9,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415007991774986242,
+    "quoted_status_id_str": "1415007991774986242",
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

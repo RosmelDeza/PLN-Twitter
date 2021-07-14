@@ -1,0 +1,206 @@
+{
+    "created_at": "Wed Jul 14 16:08:28 +0000 2021",
+    "id": 1415342439506841607,
+    "id_str": "1415342439506841607",
+    "full_text": "RT @WolffWaldo: Mandas material antidisturbios para cuidar embajada, te denuncian. \nVolas pueblo para tapar faltante de munici\u00f3n pesada, te\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "WolffWaldo",
+                "name": "WW",
+                "id": 1864835456,
+                "id_str": "1864835456",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2540636528,
+        "id_str": "2540636528",
+        "name": "Pincho-PONETE BIEN EL BARBIJO \ud83c\udde6\ud83c\uddf7\ud83c\udde9\ud83c\uddea\ud83c\udde8\ud83c\uddf4",
+        "screen_name": "Primoilluminati",
+        "location": "",
+        "description": "Yo ya los odiaba antes de que mataran a 98.781 compatriotas. Ser\u00e1n juzgados.\nLes duele que Macri haya sido lo m\u00e1s parecido a lo que Per\u00f3n promet\u00eda.\nNo MD.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3034,
+        "friends_count": 3112,
+        "listed_count": 2,
+        "created_at": "Mon Jun 02 02:57:24 +0000 2014",
+        "favourites_count": 77279,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 43490,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408117769988620293/JprKOw2I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408117769988620293/JprKOw2I_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2540636528/1625332867",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 23:40:31 +0000 2021",
+        "id": 1414731425857867783,
+        "id_str": "1414731425857867783",
+        "full_text": "Mandas material antidisturbios para cuidar embajada, te denuncian. \nVolas pueblo para tapar faltante de munici\u00f3n pesada, te dan lugar en el Senado. \nTodo esto en la semana donde se cumplen lamentablemente 100.000 muertos x COVID y se comprueba que no trajeron Pfizer por ideolog\u00eda",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1864835456,
+            "id_str": "1864835456",
+            "name": "WW",
+            "screen_name": "WolffWaldo",
+            "location": "Buenos Aires, Argentina",
+            "description": "Diputado de la Naci\u00f3n Argentina. Debato, discuto y celebro las diferencias. Falta de respeto y/o agresiones=bloqueo https://t.co/Wx2SC9qpJb #EspaldaConEspalda",
+            "url": "https://t.co/4m3W7qQuHB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4m3W7qQuHB",
+                            "expanded_url": "https://www.hcdn.gob.ar/diputados/wwolff",
+                            "display_url": "hcdn.gob.ar/diputados/wwol\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Wx2SC9qpJb",
+                            "expanded_url": "http://www.reunidos.tv",
+                            "display_url": "reunidos.tv",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 256083,
+            "friends_count": 3372,
+            "listed_count": 387,
+            "created_at": "Sat Sep 14 20:06:13 +0000 2013",
+            "favourites_count": 29919,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 21029,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1385400738625503236/BcEMXO9q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385400738625503236/BcEMXO9q_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864835456/1529593452",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2593,
+        "favorite_count": 5875,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2593,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

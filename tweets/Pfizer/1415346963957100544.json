@@ -1,0 +1,275 @@
+{
+    "created_at": "Wed Jul 14 16:26:26 +0000 2021",
+    "id": 1415346963957100544,
+    "id_str": "1415346963957100544",
+    "full_text": "RT @MuniLaFlorida: Atenci\u00f3n vecinos, estamos con bajo stock de vacunas Pfizer, tanto para primeras como segunda dosis. Situaci\u00f3n que nos fu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MuniLaFlorida",
+                "name": "munilaflorida",
+                "id": 4150366348,
+                "id_str": "4150366348",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 304573952,
+        "id_str": "304573952",
+        "name": "Benicio V",
+        "screen_name": "Blacks_All",
+        "location": "Ori\u00f3n",
+        "description": "Trabajar\u00eda en la NASA, pero la lesi\u00f3n de mi rodilla lo impidi\u00f3 \ud83d\ude1d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 164,
+        "friends_count": 879,
+        "listed_count": 0,
+        "created_at": "Tue May 24 19:00:43 +0000 2011",
+        "favourites_count": 15864,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 19309,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2236123064/Linux_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2236123064/Linux_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/304573952/1545770130",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:39:06 +0000 2021",
+        "id": 1415335053081694215,
+        "id_str": "1415335053081694215",
+        "full_text": "Atenci\u00f3n vecinos, estamos con bajo stock de vacunas Pfizer, tanto para primeras como segunda dosis. Situaci\u00f3n que nos fue comunicada desde la Seremi de Salud RM.\n\nLes pedimos que est\u00e9n atentos a nuestros canales oficiales para conocer el funcionamiento de los pr\u00f3ximos d\u00edas. https://t.co/xWKOhLjn2r",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415333188721946635,
+                    "id_str": "1415333188721946635",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RGCVCXsAsJnvY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RGCVCXsAsJnvY.jpg",
+                    "url": "https://t.co/xWKOhLjn2r",
+                    "display_url": "pic.twitter.com/xWKOhLjn2r",
+                    "expanded_url": "https://twitter.com/MuniLaFlorida/status/1415335053081694215/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1023,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 543,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 959,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415333188721946635,
+                    "id_str": "1415333188721946635",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RGCVCXsAsJnvY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RGCVCXsAsJnvY.jpg",
+                    "url": "https://t.co/xWKOhLjn2r",
+                    "display_url": "pic.twitter.com/xWKOhLjn2r",
+                    "expanded_url": "https://twitter.com/MuniLaFlorida/status/1415335053081694215/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1023,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 543,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 959,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4150366348,
+            "id_str": "4150366348",
+            "name": "munilaflorida",
+            "screen_name": "MuniLaFlorida",
+            "location": "La Florida",
+            "description": "Una comuna bac\u00e1n, bonita y buena onda. En esta cuenta te orientaremos y resolveremos tus dudas \ud83c\udf3a\ud83c\udf3a \u00a1Te invitamos a seguirnos!",
+            "url": "https://t.co/6D0CzXtKZ2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6D0CzXtKZ2",
+                            "expanded_url": "https://www.laflorida.cl/",
+                            "display_url": "laflorida.cl",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 32091,
+            "friends_count": 7579,
+            "listed_count": 91,
+            "created_at": "Mon Nov 09 16:25:20 +0000 2015",
+            "favourites_count": 3171,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 12170,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1348686317010493441/ZSOr4Ugn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348686317010493441/ZSOr4Ugn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4150366348/1623851151",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

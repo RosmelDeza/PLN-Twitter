@@ -1,0 +1,816 @@
+{
+    "created_at": "Wed Jul 14 16:06:32 +0000 2021",
+    "id": 1415341955320631297,
+    "id_str": "1415341955320631297",
+    "full_text": "RT @marialves53: @MOCarballeira @albertopetro2 @CristianeGLima @ceconomou56 @1Atsuhimerose2 @dianadep1 @ejlazar @angelicadisogno @alleosa @\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "marialves53",
+                "name": "Maria Alves #Live \ud83c\udf08",
+                "id": 3862475835,
+                "id_str": "3862475835",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "MOCarballeira",
+                "name": "mariaofelia",
+                "id": 2239616394,
+                "id_str": "2239616394",
+                "indices": [
+                    17,
+                    31
+                ]
+            },
+            {
+                "screen_name": "albertopetro2",
+                "name": "Alberto Petroccione",
+                "id": 1644683106,
+                "id_str": "1644683106",
+                "indices": [
+                    32,
+                    46
+                ]
+            },
+            {
+                "screen_name": "CristianeGLima",
+                "name": "Cris\ud83d\udc97Art",
+                "id": 106068828,
+                "id_str": "106068828",
+                "indices": [
+                    47,
+                    62
+                ]
+            },
+            {
+                "screen_name": "ceconomou56",
+                "name": "Chris Economou",
+                "id": 2337490808,
+                "id_str": "2337490808",
+                "indices": [
+                    63,
+                    75
+                ]
+            },
+            {
+                "screen_name": "1Atsuhimerose2",
+                "name": "Erika Babazoe",
+                "id": 235173460,
+                "id_str": "235173460",
+                "indices": [
+                    76,
+                    91
+                ]
+            },
+            {
+                "screen_name": "dianadep1",
+                "name": "Diana\u2600\ufe0f",
+                "id": 258834617,
+                "id_str": "258834617",
+                "indices": [
+                    92,
+                    102
+                ]
+            },
+            {
+                "screen_name": "ejlazar",
+                "name": "Retweet\ud83d\udd01R\ud83d\udd01Us",
+                "id": 3158451439,
+                "id_str": "3158451439",
+                "indices": [
+                    103,
+                    111
+                ]
+            },
+            {
+                "screen_name": "angelicadisogno",
+                "name": "Lucia",
+                "id": 4019476093,
+                "id_str": "4019476093",
+                "indices": [
+                    112,
+                    128
+                ]
+            },
+            {
+                "screen_name": "alleosa",
+                "name": "Nas",
+                "id": 995351204875132930,
+                "id_str": "995351204875132930",
+                "indices": [
+                    129,
+                    137
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2337490808,
+        "id_str": "2337490808",
+        "name": "Chris Economou",
+        "screen_name": "ceconomou56",
+        "location": "United States",
+        "description": "Interested in art, music, literature, politics, law, scripture, history, languages, and culture. No lists! All my poetry is (c).",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7051,
+        "friends_count": 2886,
+        "listed_count": 42,
+        "created_at": "Tue Feb 11 00:56:45 +0000 2014",
+        "favourites_count": 271581,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 273800,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/433065730116829185/VLKmaZRk_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/433065730116829185/VLKmaZRk_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2337490808/1610068669",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 11:26:32 +0000 2021",
+        "id": 1415271492154273796,
+        "id_str": "1415271492154273796",
+        "full_text": "@MOCarballeira @albertopetro2 @CristianeGLima @ceconomou56 @1Atsuhimerose2 @dianadep1 @ejlazar @angelicadisogno @alleosa @marmelyr @neblaruz @ampomata @BrindusaB1 @Spiros209 @djolavarrieta @scastaldi9 @artmajcar @cristob45 @peac4love @DavLucia @maluisa_3 @vvgcabras @ritamay1 @Rebeka80721106 @BaroneZaza70 @CaterinaCategio @karmendida @kamabi @famartinez2001 @Make_u2_happy @AnnaCountessK @paulbar59067209 @JohnLee90252472 @Pontifex @EmmanuelMacron @sugawitter @moderna_tx @pfizer @piero_agnello @agustin_gut @mariatontini1 @AhmetDuranHergn @LunaLeso @Flavio51840161 @NadiaZanelli1 Tang Wei Min.\n\nBuenos dias Maria Of\u00e9lia y todos \ud83d\udd06\ud83d\udc90\ud83c\udf39 https://t.co/e0EN515Ke3",
+        "truncated": false,
+        "display_text_range": [
+            582,
+            633
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MOCarballeira",
+                    "name": "mariaofelia",
+                    "id": 2239616394,
+                    "id_str": "2239616394",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "albertopetro2",
+                    "name": "Alberto Petroccione",
+                    "id": 1644683106,
+                    "id_str": "1644683106",
+                    "indices": [
+                        15,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "CristianeGLima",
+                    "name": "Cris\ud83d\udc97Art",
+                    "id": 106068828,
+                    "id_str": "106068828",
+                    "indices": [
+                        30,
+                        45
+                    ]
+                },
+                {
+                    "screen_name": "ceconomou56",
+                    "name": "Chris Economou",
+                    "id": 2337490808,
+                    "id_str": "2337490808",
+                    "indices": [
+                        46,
+                        58
+                    ]
+                },
+                {
+                    "screen_name": "1Atsuhimerose2",
+                    "name": "Erika Babazoe",
+                    "id": 235173460,
+                    "id_str": "235173460",
+                    "indices": [
+                        59,
+                        74
+                    ]
+                },
+                {
+                    "screen_name": "dianadep1",
+                    "name": "Diana\u2600\ufe0f",
+                    "id": 258834617,
+                    "id_str": "258834617",
+                    "indices": [
+                        75,
+                        85
+                    ]
+                },
+                {
+                    "screen_name": "ejlazar",
+                    "name": "Retweet\ud83d\udd01R\ud83d\udd01Us",
+                    "id": 3158451439,
+                    "id_str": "3158451439",
+                    "indices": [
+                        86,
+                        94
+                    ]
+                },
+                {
+                    "screen_name": "angelicadisogno",
+                    "name": "Lucia",
+                    "id": 4019476093,
+                    "id_str": "4019476093",
+                    "indices": [
+                        95,
+                        111
+                    ]
+                },
+                {
+                    "screen_name": "alleosa",
+                    "name": "Nas",
+                    "id": 995351204875132930,
+                    "id_str": "995351204875132930",
+                    "indices": [
+                        112,
+                        120
+                    ]
+                },
+                {
+                    "screen_name": "marmelyr",
+                    "name": "Marmely Ramos",
+                    "id": 131272764,
+                    "id_str": "131272764",
+                    "indices": [
+                        121,
+                        130
+                    ]
+                },
+                {
+                    "screen_name": "neblaruz",
+                    "name": "Roc\u00edo Blay",
+                    "id": 262258254,
+                    "id_str": "262258254",
+                    "indices": [
+                        131,
+                        140
+                    ]
+                },
+                {
+                    "screen_name": "ampomata",
+                    "name": "\u00c1ngeles M. Pomata",
+                    "id": 952599899782164480,
+                    "id_str": "952599899782164480",
+                    "indices": [
+                        141,
+                        150
+                    ]
+                },
+                {
+                    "screen_name": "BrindusaB1",
+                    "name": "BrindusaB",
+                    "id": 827801822,
+                    "id_str": "827801822",
+                    "indices": [
+                        151,
+                        162
+                    ]
+                },
+                {
+                    "screen_name": "Spiros209",
+                    "name": "Helecon",
+                    "id": 3341198241,
+                    "id_str": "3341198241",
+                    "indices": [
+                        163,
+                        173
+                    ]
+                },
+                {
+                    "screen_name": "djolavarrieta",
+                    "name": "Dionisio Olavarrieta",
+                    "id": 741730393154453504,
+                    "id_str": "741730393154453504",
+                    "indices": [
+                        174,
+                        188
+                    ]
+                },
+                {
+                    "screen_name": "scastaldi9",
+                    "name": "67Kalika",
+                    "id": 4633772304,
+                    "id_str": "4633772304",
+                    "indices": [
+                        189,
+                        200
+                    ]
+                },
+                {
+                    "screen_name": "artmajcar",
+                    "name": "BluAstro",
+                    "id": 1648213129,
+                    "id_str": "1648213129",
+                    "indices": [
+                        201,
+                        211
+                    ]
+                },
+                {
+                    "screen_name": "cristob45",
+                    "name": "\ud83c\uddfb\ud83c\uddeaCrist\u00f3b@l R@ngel \ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\u26f3",
+                    "id": 254807262,
+                    "id_str": "254807262",
+                    "indices": [
+                        212,
+                        222
+                    ]
+                },
+                {
+                    "screen_name": "peac4love",
+                    "name": "Ceni",
+                    "id": 3357277319,
+                    "id_str": "3357277319",
+                    "indices": [
+                        223,
+                        233
+                    ]
+                },
+                {
+                    "screen_name": "DavLucia",
+                    "name": "lucia davi",
+                    "id": 804190579,
+                    "id_str": "804190579",
+                    "indices": [
+                        234,
+                        243
+                    ]
+                },
+                {
+                    "screen_name": "maluisa_3",
+                    "name": "Mar\u00eda Luisa C.",
+                    "id": 321033413,
+                    "id_str": "321033413",
+                    "indices": [
+                        244,
+                        254
+                    ]
+                },
+                {
+                    "screen_name": "vvgcabras",
+                    "name": "giovanni cabras",
+                    "id": 2156304210,
+                    "id_str": "2156304210",
+                    "indices": [
+                        255,
+                        265
+                    ]
+                },
+                {
+                    "screen_name": "ritamay1",
+                    "name": "Rita Hunter",
+                    "id": 240260928,
+                    "id_str": "240260928",
+                    "indices": [
+                        266,
+                        275
+                    ]
+                },
+                {
+                    "screen_name": "Rebeka80721106",
+                    "name": "Rebeka",
+                    "id": 810476391674290177,
+                    "id_str": "810476391674290177",
+                    "indices": [
+                        276,
+                        291
+                    ]
+                },
+                {
+                    "screen_name": "BaroneZaza70",
+                    "name": "Luigi",
+                    "id": 488864885,
+                    "id_str": "488864885",
+                    "indices": [
+                        292,
+                        305
+                    ]
+                },
+                {
+                    "screen_name": "CaterinaCategio",
+                    "name": "Caterina Giovanardi",
+                    "id": 2273338778,
+                    "id_str": "2273338778",
+                    "indices": [
+                        306,
+                        322
+                    ]
+                },
+                {
+                    "screen_name": "karmendida",
+                    "name": "KarmenDida",
+                    "id": 2174264578,
+                    "id_str": "2174264578",
+                    "indices": [
+                        323,
+                        334
+                    ]
+                },
+                {
+                    "screen_name": "kamabi",
+                    "name": "Kate Birrell",
+                    "id": 100223606,
+                    "id_str": "100223606",
+                    "indices": [
+                        335,
+                        342
+                    ]
+                },
+                {
+                    "screen_name": "famartinez2001",
+                    "name": "Francisca Mart\u00ednez",
+                    "id": 2847906743,
+                    "id_str": "2847906743",
+                    "indices": [
+                        343,
+                        358
+                    ]
+                },
+                {
+                    "screen_name": "Make_u2_happy",
+                    "name": "\ud83c\udf3f\ud83c\udfdd\ufe0fDevi Pic's&Paintings\ud83c\udfa8",
+                    "id": 1575700986,
+                    "id_str": "1575700986",
+                    "indices": [
+                        359,
+                        373
+                    ]
+                },
+                {
+                    "screen_name": "AnnaCountessK",
+                    "name": "Countess Anna",
+                    "id": 797818065215860736,
+                    "id_str": "797818065215860736",
+                    "indices": [
+                        374,
+                        388
+                    ]
+                },
+                {
+                    "screen_name": "paulbar59067209",
+                    "name": "paul b",
+                    "id": 1177165827667308544,
+                    "id_str": "1177165827667308544",
+                    "indices": [
+                        389,
+                        405
+                    ]
+                },
+                {
+                    "screen_name": "JohnLee90252472",
+                    "name": "John Lee",
+                    "id": 1314849550486704135,
+                    "id_str": "1314849550486704135",
+                    "indices": [
+                        406,
+                        422
+                    ]
+                },
+                {
+                    "screen_name": "Pontifex",
+                    "name": "Pope Francis",
+                    "id": 500704345,
+                    "id_str": "500704345",
+                    "indices": [
+                        423,
+                        432
+                    ]
+                },
+                {
+                    "screen_name": "EmmanuelMacron",
+                    "name": "Emmanuel Macron",
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        433,
+                        448
+                    ]
+                },
+                {
+                    "screen_name": "sugawitter",
+                    "name": "\u83c5 \u7fa9\u5049",
+                    "id": 903338594,
+                    "id_str": "903338594",
+                    "indices": [
+                        449,
+                        460
+                    ]
+                },
+                {
+                    "screen_name": "moderna_tx",
+                    "name": "Moderna",
+                    "id": 2227355222,
+                    "id_str": "2227355222",
+                    "indices": [
+                        461,
+                        472
+                    ]
+                },
+                {
+                    "screen_name": "pfizer",
+                    "name": "Pfizer Inc.",
+                    "id": 56488059,
+                    "id_str": "56488059",
+                    "indices": [
+                        473,
+                        480
+                    ]
+                },
+                {
+                    "screen_name": "piero_agnello",
+                    "name": "Piero Agnello",
+                    "id": 732496822501920774,
+                    "id_str": "732496822501920774",
+                    "indices": [
+                        481,
+                        495
+                    ]
+                },
+                {
+                    "screen_name": "agustin_gut",
+                    "name": "Agust\u00edn Gonz\u00e1lez Gut",
+                    "id": 3346433337,
+                    "id_str": "3346433337",
+                    "indices": [
+                        496,
+                        508
+                    ]
+                },
+                {
+                    "screen_name": "mariatontini1",
+                    "name": "maria tontini",
+                    "id": 3181053575,
+                    "id_str": "3181053575",
+                    "indices": [
+                        509,
+                        523
+                    ]
+                },
+                {
+                    "screen_name": "AhmetDuranHergn",
+                    "name": "Ahmet Duran Herg\u00fcn",
+                    "id": 1497768374,
+                    "id_str": "1497768374",
+                    "indices": [
+                        524,
+                        540
+                    ]
+                },
+                {
+                    "screen_name": "LunaLeso",
+                    "name": "Luna Eventi Speciali",
+                    "id": 1101600720,
+                    "id_str": "1101600720",
+                    "indices": [
+                        541,
+                        550
+                    ]
+                },
+                {
+                    "screen_name": "Flavio51840161",
+                    "name": "Flavio",
+                    "id": 3418495593,
+                    "id_str": "3418495593",
+                    "indices": [
+                        551,
+                        566
+                    ]
+                },
+                {
+                    "screen_name": "NadiaZanelli1",
+                    "name": "Nadia Zanelli",
+                    "id": 764164503860903936,
+                    "id_str": "764164503860903936",
+                    "indices": [
+                        567,
+                        581
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415271489805422594,
+                    "id_str": "1415271489805422594",
+                    "indices": [
+                        634,
+                        657
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QN6-qXEAIaYMA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QN6-qXEAIaYMA.jpg",
+                    "url": "https://t.co/e0EN515Ke3",
+                    "display_url": "pic.twitter.com/e0EN515Ke3",
+                    "expanded_url": "https://twitter.com/marialves53/status/1415271492154273796/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 595,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 506,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 595,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415271489805422594,
+                    "id_str": "1415271489805422594",
+                    "indices": [
+                        634,
+                        657
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QN6-qXEAIaYMA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QN6-qXEAIaYMA.jpg",
+                    "url": "https://t.co/e0EN515Ke3",
+                    "display_url": "pic.twitter.com/e0EN515Ke3",
+                    "expanded_url": "https://twitter.com/marialves53/status/1415271492154273796/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 595,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 506,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 595,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415158432378855427,
+        "in_reply_to_status_id_str": "1415158432378855427",
+        "in_reply_to_user_id": 2239616394,
+        "in_reply_to_user_id_str": "2239616394",
+        "in_reply_to_screen_name": "MOCarballeira",
+        "user": {
+            "id": 3862475835,
+            "id_str": "3862475835",
+            "name": "Maria Alves #Live \ud83c\udf08",
+            "screen_name": "marialves53",
+            "location": "Porto, Portugal",
+            "description": "S\u00f3 h\u00e1 liberdade a s\u00e9rio quando houver\na paz o p\u00e3o\nhabita\u00e7\u00e3o\nsa\u00fade educa\u00e7\u00e3o\ns\u00f3 h\u00e1 liberdade a s\u00e9rio quando houver\nliberdade de mudar e decidir\n\n\nS\u00e9rgio Godinho",
+            "url": "https://t.co/JCy1u03a0N",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/JCy1u03a0N",
+                            "expanded_url": "http://page.is/marialves53",
+                            "display_url": "page.is/marialves53",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 17236,
+            "friends_count": 3488,
+            "listed_count": 472,
+            "created_at": "Sun Oct 04 14:41:54 +0000 2015",
+            "favourites_count": 782168,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 948074,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412455402906718217/T7CT2vh0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412455402906718217/T7CT2vh0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3862475835/1625590585",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

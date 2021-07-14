@@ -1,0 +1,220 @@
+{
+    "created_at": "Wed Jul 14 16:26:50 +0000 2021",
+    "id": 1415347062099562502,
+    "id_str": "1415347062099562502",
+    "full_text": "RT @w3myrem: Bueno pues ya tenemos un hospitalizado #COVID19 positivo vacunado con pauta #Pfizer completa. Pendiente de tipificar variante.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID19",
+                "indices": [
+                    52,
+                    60
+                ]
+            },
+            {
+                "text": "Pfizer",
+                "indices": [
+                    89,
+                    96
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "w3myrem",
+                "name": "Mar\u00eda Fern\u00e1ndez #TheSunWillShineAgain",
+                "id": 1180314416,
+                "id_str": "1180314416",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1240586911531651072,
+        "id_str": "1240586911531651072",
+        "name": "\u00d3scar Quiroga",
+        "screen_name": "quirogautor",
+        "location": "Murcia",
+        "description": "Ya no callo ante lo que no me gusta. Autor de novela, poes\u00eda y relato. Un universo humilde y personal que, ahora, tambi\u00e9n te pertenece.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 871,
+        "friends_count": 2041,
+        "listed_count": 8,
+        "created_at": "Thu Mar 19 10:32:40 +0000 2020",
+        "favourites_count": 27829,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8943,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1388064225084547074/U_BXLs1V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388064225084547074/U_BXLs1V_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240586911531651072/1584614742",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 19:45:08 +0000 2021",
+        "id": 1415034579459641350,
+        "id_str": "1415034579459641350",
+        "full_text": "Bueno pues ya tenemos un hospitalizado #COVID19 positivo vacunado con pauta #Pfizer completa. Pendiente de tipificar variante.\nContagio a trav\u00e9s de nietas. \nQuien dijo que los contagios en j\u00f3venes no eran importantes porque la mayor\u00eda son asintomaticos?\n#VueltaLaBurraAlTrigo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            275
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        39,
+                        47
+                    ]
+                },
+                {
+                    "text": "Pfizer",
+                    "indices": [
+                        76,
+                        83
+                    ]
+                },
+                {
+                    "text": "VueltaLaBurraAlTrigo",
+                    "indices": [
+                        254,
+                        275
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1180314416,
+            "id_str": "1180314416",
+            "name": "Mar\u00eda Fern\u00e1ndez #TheSunWillShineAgain",
+            "screen_name": "w3myrem",
+            "location": "",
+            "description": "M\u00e9dico \ud83c\udfe5#GeriatricEmergencyMedicine            \nLo demand\u00f3 el honor y obedecieron \ud83c\uddea\ud83c\uddf8\n                Los requiri\u00f3 el deber y lo acataron",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2019,
+            "friends_count": 1819,
+            "listed_count": 29,
+            "created_at": "Thu Feb 14 21:03:36 +0000 2013",
+            "favourites_count": 41989,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 20423,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1296849892586008582/MrC4r_Nr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296849892586008582/MrC4r_Nr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1180314416/1618348813",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 146,
+        "favorite_count": 281,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 146,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

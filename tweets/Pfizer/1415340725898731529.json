@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 16:01:39 +0000 2021",
+    "id": 1415340725898731529,
+    "id_str": "1415340725898731529",
+    "full_text": "RT @Carlos88FUKU: Los m\u00e1s listos de la clase se pondr\u00e1n hasta una 4 dosis. Ya que si 3 dosis multiplican la efectividad por 10, dos ser\u00eda p\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Carlos88FUKU",
+                "name": "Carlos8.8",
+                "id": 1402250418885959688,
+                "id_str": "1402250418885959688",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 483849142,
+        "id_str": "483849142",
+        "name": "\ud83d\udc9a\ud83c\uddea\ud83c\uddf8\ud83d\udc9aDestinoFacha\ud83d\udc9a\ud83c\uddea\ud83c\udde6\ud83d\udc9a",
+        "screen_name": "destinofacha",
+        "location": "",
+        "description": "Nadie puede escapar de su destino y Espa\u00f1a no va a ser menos...VIVA ESPA\u00d1A \ud83c\uddea\ud83c\udde6 VIVA VOX \ud83d\udc9a VIVA el rey \ud83d\udc51 Stop comunistas y socialistas.. Isle\u00f1o",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1174,
+        "friends_count": 1868,
+        "listed_count": 0,
+        "created_at": "Sun Feb 05 13:16:24 +0000 2012",
+        "favourites_count": 17866,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10039,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1370301686342897664/EN_bKOxq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370301686342897664/EN_bKOxq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/483849142/1607207002",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:23:20 +0000 2021",
+        "id": 1415331081935638534,
+        "id_str": "1415331081935638534",
+        "full_text": "Los m\u00e1s listos de la clase se pondr\u00e1n hasta una 4 dosis. Ya que si 3 dosis multiplican la efectividad por 10, dos ser\u00eda por 20 o 30 por lo menos.\nPero y si es media de Sputnik y media de Pfizer?!?\nEse cocktail ni Carballo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            221
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1402250418885959688,
+            "id_str": "1402250418885959688",
+            "name": "Carlos8.8",
+            "screen_name": "Carlos88FUKU",
+            "location": "Cerca del Cielo",
+            "description": "Ca\u00eddo, pero jam\u00e1s derrotado. A menos que Dios as\u00ed lo quiera.\nSuccess is the pass from defeat to another without loosing enthusiasm\nSi Vis Pacem Para Belum",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1439,
+            "friends_count": 1746,
+            "listed_count": 0,
+            "created_at": "Tue Jun 08 13:05:36 +0000 2021",
+            "favourites_count": 4584,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3140,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408115805582200842/h2rppTS4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408115805582200842/h2rppTS4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402250418885959688/1623347545",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

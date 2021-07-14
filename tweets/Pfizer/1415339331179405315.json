@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 15:56:06 +0000 2021",
+    "id": 1415339331179405315,
+    "id_str": "1415339331179405315",
+    "full_text": "RT @alnahir79: Feliz mi\u00e9rcoles mis gomitas azucaradas \u2764\u2615\n\nHoy me dieron mi segunda dosis de Pfizer.\ud83d\ude4f\n\nEspero que mi cuerpito la reciba con\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alnahir79",
+                "name": "Tarrito de Pecas",
+                "id": 1265242794,
+                "id_str": "1265242794",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 620045316,
+        "id_str": "620045316",
+        "name": "\u269b\ufe0f\u264dJavier Francisco",
+        "screen_name": "VinoyCarnes_64",
+        "location": "\ud83c\udf10",
+        "description": "Vino, carnes, caf\u00e9 y cacao ..\u264d\ud83c\uddea\ud83c\uddf8\ud83c\uddfb\ud83c\uddea\ud83e\udd42\ud83c\udf7e\ud83d\udd4e\u26e9\ufe0f\ud83d\udd2d\u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 184,
+        "friends_count": 745,
+        "listed_count": 2,
+        "created_at": "Wed Jun 27 12:48:38 +0000 2012",
+        "favourites_count": 1617,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1040,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414345082170392578/HQ91bLTb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414345082170392578/HQ91bLTb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/620045316/1626091547",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:22:38 +0000 2021",
+        "id": 1415285607115407363,
+        "id_str": "1415285607115407363",
+        "full_text": "Feliz mi\u00e9rcoles mis gomitas azucaradas \u2764\u2615\n\nHoy me dieron mi segunda dosis de Pfizer.\ud83d\ude4f\n\nEspero que mi cuerpito la reciba con amor y no me d\u00e9 tan duro.\ud83d\ude0f\ud83e\udd2d\n\nLos abrazo con recost\u00f3n de tetas. \ud83e\udd17",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            188
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1265242794,
+            "id_str": "1265242794",
+            "name": "Tarrito de Pecas",
+            "screen_name": "alnahir79",
+            "location": "Culiquitaca. ",
+            "description": "Sin pecas no hay para\u00edso.\n\nCuarentona premenopausica.\n\nTengo un romance con el dulce de leche.\n \nSoy feliz con, sin y a pesar de.\ud83d\udcab",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 28689,
+            "friends_count": 1239,
+            "listed_count": 25,
+            "created_at": "Wed Mar 13 19:30:41 +0000 2013",
+            "favourites_count": 84930,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 25184,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1302879206175576064/Zxihu2Mv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1302879206175576064/Zxihu2Mv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265242794/1600355757",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 344,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

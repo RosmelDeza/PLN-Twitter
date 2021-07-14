@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 16:06:28 +0000 2021",
+    "id": 1415341938300100612,
+    "id_str": "1415341938300100612",
+    "full_text": "El plan \"3ra dosis\" en Republica Dominicana es \"si tenes 2 de Sinovac, te damos 1 de Pfizer\"\n\nTengo 2 de Sinovac. Necesito asesoramiento de @ernestorr o @rquiroga777 o alguien que haya hecho un posteo en Facebook de un video en el que un se\u00f1or dice que...Ah, no, eso no",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        269
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ernestorr",
+                "name": "Ernesto Resnik",
+                "id": 73102744,
+                "id_str": "73102744",
+                "indices": [
+                    140,
+                    150
+                ]
+            },
+            {
+                "screen_name": "rquiroga777",
+                "name": "Rodrigo Quiroga",
+                "id": 367933714,
+                "id_str": "367933714",
+                "indices": [
+                    153,
+                    165
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4275617080,
+        "id_str": "4275617080",
+        "name": "Barbijo\u00b4s Man - Revisited",
+        "screen_name": "carlosdebolson",
+        "location": "R\u00edo Negro, Argentina",
+        "description": "Rush, Yes, Ac Dc, John Scofield, Pat Metheny, Lemmy, Maiden, Nestor, Cristina & Per\u00f3n; CASLA, profesor de historia; ex bolsonense",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1483,
+        "friends_count": 707,
+        "listed_count": 14,
+        "created_at": "Wed Nov 25 15:05:29 +0000 2015",
+        "favourites_count": 114553,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 71878,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1347583938814947328/SYKBQnH4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347583938814947328/SYKBQnH4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4275617080/1584742037",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

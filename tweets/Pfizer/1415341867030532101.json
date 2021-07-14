@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 16:06:11 +0000 2021",
+    "id": 1415341867030532101,
+    "id_str": "1415341867030532101",
+    "full_text": "@yonmacklein o pfizer, que parezco disl\u00e9xico \ud83d\ude02",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        46
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "yonmacklein",
+                "name": "yonmacklein",
+                "id": 2260881,
+                "id_str": "2260881",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415341672268025859,
+    "in_reply_to_status_id_str": "1415341672268025859",
+    "in_reply_to_user_id": 13382912,
+    "in_reply_to_user_id_str": "13382912",
+    "in_reply_to_screen_name": "BaronDandy",
+    "user": {
+        "id": 13382912,
+        "id_str": "13382912",
+        "name": "Jorge",
+        "screen_name": "BaronDandy",
+        "location": "Madrid, Guadalajara",
+        "description": "Hasta los tontos tenemos tope",
+        "url": "https://t.co/aGu9VYlnqb",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/aGu9VYlnqb",
+                        "expanded_url": "http://www.last.fm/user/BaronDandy",
+                        "display_url": "last.fm/user/BaronDandy",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 372,
+        "friends_count": 2202,
+        "listed_count": 28,
+        "created_at": "Tue Feb 12 09:42:02 +0000 2008",
+        "favourites_count": 28165,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 42003,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000802499768/369606e432c020b55d1a20c2ffe1f7d0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000802499768/369606e432c020b55d1a20c2ffe1f7d0_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13382912/1462477760",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

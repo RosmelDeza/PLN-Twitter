@@ -1,0 +1,240 @@
+{
+    "created_at": "Wed Jul 14 17:25:29 +0000 2021",
+    "id": 1415361822257991686,
+    "id_str": "1415361822257991686",
+    "full_text": "RT @CitlallyHerrer8: Report\u00e1ndome de nuevo \nLouis Tomlinson (@Louis_Tomlinson) #ArtistoftheSummer @965TDY",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        105
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ArtistoftheSummer",
+                "indices": [
+                    79,
+                    97
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CitlallyHerrer8",
+                "name": "Ally_Is_A_Penguin \ud83d\udc27\ud83d\udc95",
+                "id": 1267179010544537603,
+                "id_str": "1267179010544537603",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "Louis_Tomlinson",
+                "name": "Louis Tomlinson",
+                "id": 84279963,
+                "id_str": "84279963",
+                "indices": [
+                    61,
+                    77
+                ]
+            },
+            {
+                "screen_name": "965TDY",
+                "name": "96.5 TDY",
+                "id": 40099803,
+                "id_str": "40099803",
+                "indices": [
+                    98,
+                    105
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1411912741409992706,
+        "id_str": "1411912741409992706",
+        "name": "Keny",
+        "screen_name": "_clouds_18",
+        "location": "",
+        "description": "Always and forever\u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9,
+        "friends_count": 19,
+        "listed_count": 0,
+        "created_at": "Mon Jul 05 05:02:17 +0000 2021",
+        "favourites_count": 48,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 78,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412995588879159299/In-VN9Gu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412995588879159299/In-VN9Gu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1411912741409992706/1625719368",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:05:16 +0000 2021",
+        "id": 1415326536694210561,
+        "id_str": "1415326536694210561",
+        "full_text": "Report\u00e1ndome de nuevo \nLouis Tomlinson (@Louis_Tomlinson) #ArtistoftheSummer @965TDY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            84
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ArtistoftheSummer",
+                    "indices": [
+                        58,
+                        76
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Louis_Tomlinson",
+                    "name": "Louis Tomlinson",
+                    "id": 84279963,
+                    "id_str": "84279963",
+                    "indices": [
+                        40,
+                        56
+                    ]
+                },
+                {
+                    "screen_name": "965TDY",
+                    "name": "96.5 TDY",
+                    "id": 40099803,
+                    "id_str": "40099803",
+                    "indices": [
+                        77,
+                        84
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1267179010544537603,
+            "id_str": "1267179010544537603",
+            "name": "Ally_Is_A_Penguin \ud83d\udc27\ud83d\udc95",
+            "screen_name": "CitlallyHerrer8",
+            "location": "",
+            "description": "Young blood say you want me \u2728\u2764\n11/07/2020  \u2600\ufe0f\ud83d\udc96",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 38,
+            "friends_count": 222,
+            "listed_count": 1,
+            "created_at": "Sun May 31 19:40:05 +0000 2020",
+            "favourites_count": 2093,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1483,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414609739728789504/PvpOE6Mc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414609739728789504/PvpOE6Mc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267179010544537603/1612907750",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

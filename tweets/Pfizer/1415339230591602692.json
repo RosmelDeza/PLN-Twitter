@@ -1,0 +1,294 @@
+{
+    "created_at": "Wed Jul 14 15:55:42 +0000 2021",
+    "id": 1415339230591602692,
+    "id_str": "1415339230591602692",
+    "full_text": "RT @SILVYTA27: Pero es tan f\u00e1cil desmentir esto, empecemos,  cu\u00e1l te has puesto? Tu familia, cu\u00e1l se puso? Ahora, xq dejaste que el desgrac\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SILVYTA27",
+                "name": "SILVIA",
+                "id": 447616428,
+                "id_str": "447616428",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1078638535148752903,
+        "id_str": "1078638535148752903",
+        "name": "Guillermo Ubaldo",
+        "screen_name": "GuillermoUbald1",
+        "location": "Peru",
+        "description": "Al comunismo se lo combate en todos los Frentes, y demostrando que la Libertad es el bien m\u00e1s preciado, Por un Per\u00fa sin Comunismo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 583,
+        "friends_count": 944,
+        "listed_count": 0,
+        "created_at": "Fri Dec 28 13:07:21 +0000 2018",
+        "favourites_count": 25056,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20527,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1384668753078726657/wzqwHjrQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384668753078726657/wzqwHjrQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078638535148752903/1626250346",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:25:44 +0000 2021",
+        "id": 1415316587389898760,
+        "id_str": "1415316587389898760",
+        "full_text": "Pero es tan f\u00e1cil desmentir esto, empecemos,  cu\u00e1l te has puesto? Tu familia, cu\u00e1l se puso? Ahora, xq dejaste que el desgraciado de @MartinVizcarraC y su parentela se coloque otra dosis de Pfizer??\nLos m\u00e9dicos tienen todo el derecho de exigir una vacuna que si los proteja. https://t.co/SPwjwncRnZ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            273
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MartinVizcarraC",
+                    "name": "Mart\u00edn Vizcarra",
+                    "id": 4825296327,
+                    "id_str": "4825296327",
+                    "indices": [
+                        132,
+                        148
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/SPwjwncRnZ",
+                    "expanded_url": "https://twitter.com/ougarteu/status/1415271150796648449",
+                    "display_url": "twitter.com/ougarteu/statu\u2026",
+                    "indices": [
+                        274,
+                        297
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 447616428,
+            "id_str": "447616428",
+            "name": "SILVIA",
+            "screen_name": "SILVYTA27",
+            "location": "Peruzuela",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1808,
+            "friends_count": 1123,
+            "listed_count": 2,
+            "created_at": "Tue Dec 27 03:01:41 +0000 2011",
+            "favourites_count": 275709,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 99422,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021968580731170816/3bbLdasU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021968580731170816/3bbLdasU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415271150796648449,
+        "quoted_status_id_str": "1415271150796648449",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 11:25:11 +0000 2021",
+            "id": 1415271150796648449,
+            "id_str": "1415271150796648449",
+            "full_text": "Rechazamos las expresiones del se\u00f1or L\u00f3pez Aliaga quien afirma que la vacuna Sinopharm no protege contra la Covid-19. Estudios realizados por el INS y CDC  demuestran que esta vacuna es efectiva en 90% contra el riesgo d muerte, al igual que estudios de otros pa\u00edses y de la OMS.",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3314271281,
+                "id_str": "3314271281",
+                "name": "Oscar Ugarte Ubilluz",
+                "screen_name": "ougarteu",
+                "location": "Lima, Peru",
+                "description": "Ministro de Salud. Trabajo para priorizar la atenci\u00f3n en el primer nivel  incorporando la salud mental.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 28922,
+                "friends_count": 5410,
+                "listed_count": 45,
+                "created_at": "Tue Jun 09 01:20:29 +0000 2015",
+                "favourites_count": 4730,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1481,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1361894382526492679/4_Qxbs8I_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361894382526492679/4_Qxbs8I_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3314271281/1578003037",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2129,
+            "favorite_count": 7402,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 4,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415271150796648449,
+    "quoted_status_id_str": "1415271150796648449",
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

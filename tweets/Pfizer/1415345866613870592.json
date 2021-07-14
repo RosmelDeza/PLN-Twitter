@@ -1,0 +1,207 @@
+{
+    "created_at": "Wed Jul 14 16:22:05 +0000 2021",
+    "id": 1415345866613870592,
+    "id_str": "1415345866613870592",
+    "full_text": "@ougarteu Sigue bailando nomas zurdo de mierda, tan buena es la basura china que compr\u00f3 Vizcarra que hasta el mismo fue a ponerse la pfizer a\u00fan teniendo las 2 dosis de sinopharm. https://t.co/h4O2nJr2MF",
+    "truncated": false,
+    "display_text_range": [
+        10,
+        178
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ougarteu",
+                "name": "Oscar Ugarte Ubilluz",
+                "id": 3314271281,
+                "id_str": "3314271281",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415345681510944768,
+                "id_str": "1415345681510944768",
+                "indices": [
+                    179,
+                    202
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415345681510944768/pu/img/ZM7foa_BAtkijZM0.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415345681510944768/pu/img/ZM7foa_BAtkijZM0.jpg",
+                "url": "https://t.co/h4O2nJr2MF",
+                "display_url": "pic.twitter.com/h4O2nJr2MF",
+                "expanded_url": "https://twitter.com/Tyler12788436/status/1415345866613870592/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415345681510944768,
+                "id_str": "1415345681510944768",
+                "indices": [
+                    179,
+                    202
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415345681510944768/pu/img/ZM7foa_BAtkijZM0.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415345681510944768/pu/img/ZM7foa_BAtkijZM0.jpg",
+                "url": "https://t.co/h4O2nJr2MF",
+                "display_url": "pic.twitter.com/h4O2nJr2MF",
+                "expanded_url": "https://twitter.com/Tyler12788436/status/1415345866613870592/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 25859,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415345681510944768/pu/pl/r7ZbAYeQp6m1dsP0.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415345681510944768/pu/vid/320x568/rh8HGvRKhT3POIyJ.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415345681510944768/pu/vid/720x1280/kF7UuZshxYnb6szy.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 950000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415345681510944768/pu/vid/480x852/FztNkHtZJsb73NtA.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415271150796648449,
+    "in_reply_to_status_id_str": "1415271150796648449",
+    "in_reply_to_user_id": 3314271281,
+    "in_reply_to_user_id_str": "3314271281",
+    "in_reply_to_screen_name": "ougarteu",
+    "user": {
+        "id": 1137026982208778246,
+        "id_str": "1137026982208778246",
+        "name": "Tyler",
+        "screen_name": "Tyler12788436",
+        "location": "",
+        "description": "Human",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 98,
+        "friends_count": 160,
+        "listed_count": 0,
+        "created_at": "Fri Jun 07 16:02:12 +0000 2019",
+        "favourites_count": 32088,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14144,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137027853101543425/01oMf-kb_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137027853101543425/01oMf-kb_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1137026982208778246/1615169351",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

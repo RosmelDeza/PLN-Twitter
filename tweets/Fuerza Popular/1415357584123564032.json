@@ -1,0 +1,379 @@
+{
+    "created_at": "Wed Jul 14 17:08:38 +0000 2021",
+    "id": 1415357584123564032,
+    "id_str": "1415357584123564032",
+    "full_text": "RT @FracardTv: #ULTIMO Poder Judicial admite HABEAS DATA de Fuerza Popular!! Se habr\u00e9 un camino para q la verdad salga a la luz\n@Patriota20\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ULTIMO",
+                "indices": [
+                    15,
+                    22
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FracardTv",
+                "name": "Fr@card TV \ud83d\udd25\ud83c\uddf5\ud83c\uddea\ud83d\udd25",
+                "id": 706868505,
+                "id_str": "706868505",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 360384939,
+        "id_str": "360384939",
+        "name": "EDUMESIASDELACRUZ",
+        "screen_name": "EDUMESIAS23",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 165,
+        "friends_count": 495,
+        "listed_count": 0,
+        "created_at": "Tue Aug 23 03:47:54 +0000 2011",
+        "favourites_count": 55822,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10186,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1384014900494684160/MToZcaqB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384014900494684160/MToZcaqB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/360384939/1402902617",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:01:31 +0000 2021",
+        "id": 1415099102111612935,
+        "id_str": "1415099102111612935",
+        "full_text": "#ULTIMO Poder Judicial admite HABEAS DATA de Fuerza Popular!! Se habr\u00e9 un camino para q la verdad salga a la luz\n@Patriota200Peru\n@justicierope\n@PolloFarsantePe\n@alejandrosuazov\n@Lulumensajes\n@AnaCeciliaCal15\n@Brisartt_Art\n@RicaLiberta\n@my_sweetvenom\n@FracardTv https://t.co/ocVNyGDx4H",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            261
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ULTIMO",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Patriota200Peru",
+                    "name": "PATRIOTAS DEL BICENTENARIO",
+                    "id": 1409194483225399299,
+                    "id_str": "1409194483225399299",
+                    "indices": [
+                        113,
+                        129
+                    ]
+                },
+                {
+                    "screen_name": "justicierope",
+                    "name": "\ud83e\udd87 El Justiciero\u2122",
+                    "id": 1359043155937669126,
+                    "id_str": "1359043155937669126",
+                    "indices": [
+                        130,
+                        143
+                    ]
+                },
+                {
+                    "screen_name": "PolloFarsantePe",
+                    "name": "ElPolloFarsante",
+                    "id": 1409887097838841857,
+                    "id_str": "1409887097838841857",
+                    "indices": [
+                        144,
+                        160
+                    ]
+                },
+                {
+                    "screen_name": "alejandrosuazov",
+                    "name": "S.O.S.PERU",
+                    "id": 1560586704,
+                    "id_str": "1560586704",
+                    "indices": [
+                        161,
+                        177
+                    ]
+                },
+                {
+                    "screen_name": "Lulumensajes",
+                    "name": "\ud835\udc3f\ud835\udc62\ud835\udc59\u00fa \ud83d\udd25\ud83c\uddf5\ud83c\uddea",
+                    "id": 282671488,
+                    "id_str": "282671488",
+                    "indices": [
+                        178,
+                        191
+                    ]
+                },
+                {
+                    "screen_name": "AnaCeciliaCal15",
+                    "name": "Ana Ceci",
+                    "id": 1362654959125360655,
+                    "id_str": "1362654959125360655",
+                    "indices": [
+                        192,
+                        208
+                    ]
+                },
+                {
+                    "screen_name": "Brisartt_Art",
+                    "name": "Brisartt by Pilar C.",
+                    "id": 977619025651003398,
+                    "id_str": "977619025651003398",
+                    "indices": [
+                        209,
+                        222
+                    ]
+                },
+                {
+                    "screen_name": "RicaLiberta",
+                    "name": "BORJA \ud83d\udc99\ud83c\udf10\ud83c\uddf5\ud83c\uddea",
+                    "id": 1276317684804849664,
+                    "id_str": "1276317684804849664",
+                    "indices": [
+                        223,
+                        235
+                    ]
+                },
+                {
+                    "screen_name": "my_sweetvenom",
+                    "name": "milimily",
+                    "id": 3313788532,
+                    "id_str": "3313788532",
+                    "indices": [
+                        236,
+                        250
+                    ]
+                },
+                {
+                    "screen_name": "FracardTv",
+                    "name": "Fr@card TV \ud83d\udd25\ud83c\uddf5\ud83c\uddea\ud83d\udd25",
+                    "id": 706868505,
+                    "id_str": "706868505",
+                    "indices": [
+                        251,
+                        261
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415099099746119694,
+                    "id_str": "1415099099746119694",
+                    "indices": [
+                        262,
+                        285
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NxIjpXsA41aN0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NxIjpXsA41aN0.jpg",
+                    "url": "https://t.co/ocVNyGDx4H",
+                    "display_url": "pic.twitter.com/ocVNyGDx4H",
+                    "expanded_url": "https://twitter.com/FracardTv/status/1415099102111612935/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 540,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 306,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 922,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415099099746119694,
+                    "id_str": "1415099099746119694",
+                    "indices": [
+                        262,
+                        285
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NxIjpXsA41aN0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NxIjpXsA41aN0.jpg",
+                    "url": "https://t.co/ocVNyGDx4H",
+                    "display_url": "pic.twitter.com/ocVNyGDx4H",
+                    "expanded_url": "https://twitter.com/FracardTv/status/1415099102111612935/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 540,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 306,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 922,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 706868505,
+            "id_str": "706868505",
+            "name": "Fr@card TV \ud83d\udd25\ud83c\uddf5\ud83c\uddea\ud83d\udd25",
+            "screen_name": "FracardTv",
+            "location": "lima - Per\u00fa",
+            "description": "Docente de Secundaria y Comunicador Social! Y ahora PATRIOTA DEL BICENTENARIO! \ud83c\uddf5\ud83c\uddea.....\n\nPresidente Electo de la Rep\u00fablica del  Per\u00fa (2021-2026) \ud83c\uddf5\ud83c\uddea\ud83d\ude05",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1274,
+            "friends_count": 1785,
+            "listed_count": 1,
+            "created_at": "Wed Oct 09 20:19:54 +0000 2013",
+            "favourites_count": 6445,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 11913,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1328908048165900289/i5pHUIBl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328908048165900289/i5pHUIBl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/706868505/1625517790",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 31,
+        "favorite_count": 95,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

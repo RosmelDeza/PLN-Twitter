@@ -1,0 +1,121 @@
+{
+    "created_at": "Wed Jul 14 15:59:51 +0000 2021",
+    "id": 1415340273425596417,
+    "id_str": "1415340273425596417",
+    "full_text": "FUERZA POPULAR TENDR\u00c1 TUS DATOS PERSONALES https://t.co/gTHwaqhpCQ a trav\u00e9s de @YouTube",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        87
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "YouTube",
+                "name": "YouTube",
+                "id": 10228272,
+                "id_str": "10228272",
+                "indices": [
+                    79,
+                    87
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/gTHwaqhpCQ",
+                "expanded_url": "https://youtu.be/2UCcVglRBKg",
+                "display_url": "youtu.be/2UCcVglRBKg",
+                "indices": [
+                    43,
+                    66
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3018992907,
+        "id_str": "3018992907",
+        "name": "Robert Bruno A.",
+        "screen_name": "RobertBCoach",
+        "location": "Lima",
+        "description": "Me dedico a la consultor\u00eda de Desarrollo Personal, en esta labor comparto los beneficios de la Consciencia del Ser y la Auto-Sanaci\u00f3n.",
+        "url": "https://t.co/r7Y8JsJPiF",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/r7Y8JsJPiF",
+                        "expanded_url": "http://facebook.com/RobertBCoach",
+                        "display_url": "facebook.com/RobertBCoach",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 279,
+        "friends_count": 798,
+        "listed_count": 2,
+        "created_at": "Thu Feb 05 00:10:36 +0000 2015",
+        "favourites_count": 2512,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2934,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1370911660647587844/57urzQ8e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370911660647587844/57urzQ8e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3018992907/1605658409",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

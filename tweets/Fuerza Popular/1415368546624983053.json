@@ -1,0 +1,109 @@
+{
+    "created_at": "Wed Jul 14 17:52:12 +0000 2021",
+    "id": 1415368546624983053,
+    "id_str": "1415368546624983053",
+    "full_text": "@PCaterianoB Jajajajjajajaa Verg\u00fcenza deber\u00edas tener, para lo que quedaste despu\u00e9s de ponerte de TRAPEADOR de la Organizaci\u00f3n Criminal Fuerza Popular, ya lo dijo el t\u00edo Vlady eres el \"Abrazo de Oso\" \ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        203
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PCaterianoB",
+                "name": "Pedro Cateriano B",
+                "id": 1975354388,
+                "id_str": "1975354388",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415250529144512523,
+    "in_reply_to_status_id_str": "1415250529144512523",
+    "in_reply_to_user_id": 1975354388,
+    "in_reply_to_user_id_str": "1975354388",
+    "in_reply_to_screen_name": "PCaterianoB",
+    "user": {
+        "id": 1052387661233700882,
+        "id_str": "1052387661233700882",
+        "name": "Altamirano",
+        "screen_name": "Alberto36626116",
+        "location": "Trujillo, Peru",
+        "description": "Abogado",
+        "url": "https://t.co/k6boVvh7ib",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/k6boVvh7ib",
+                        "expanded_url": "https://www.linkedin.com/in/luis-altamirano-7a640118a",
+                        "display_url": "linkedin.com/in/luis-altami\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 64,
+        "friends_count": 167,
+        "listed_count": 0,
+        "created_at": "Wed Oct 17 02:35:45 +0000 2018",
+        "favourites_count": 7731,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5313,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1203682621701660674/DJ8vdb2A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203682621701660674/DJ8vdb2A_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

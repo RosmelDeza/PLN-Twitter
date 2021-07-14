@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 15:56:57 +0000 2021",
+    "id": 1415339541402161159,
+    "id_str": "1415339541402161159",
+    "full_text": "@alfredodelmazo Cu\u00e1ndo se pondr\u00e1 en Toluca la segunda dosis de Pfizer a los de 40/49???",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        87
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alfredodelmazo",
+                "name": "Alfredo Del Mazo",
+                "id": 39860797,
+                "id_str": "39860797",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414398958751846403,
+    "in_reply_to_status_id_str": "1414398958751846403",
+    "in_reply_to_user_id": 39860797,
+    "in_reply_to_user_id_str": "39860797",
+    "in_reply_to_screen_name": "alfredodelmazo",
+    "user": {
+        "id": 4104809772,
+        "id_str": "4104809772",
+        "name": "Carmen Ri\u00f3n @Caryrio",
+        "screen_name": "caryrion55",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 23,
+        "friends_count": 56,
+        "listed_count": 0,
+        "created_at": "Mon Nov 02 19:17:31 +0000 2015",
+        "favourites_count": 4161,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2844,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705976019962859521/-298dBci_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705976019962859521/-298dBci_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4104809772/1457152773",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

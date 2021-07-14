@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 16:56:30 +0000 2021",
+    "id": 1415354527864160258,
+    "id_str": "1415354527864160258",
+    "full_text": "@MartinTanakaG Es una pena que un japon\u00e9s sea caviar,y vivan de la asesor\u00eda al estado,\nNunca escuch\u00e9 hablar una sola frase a favor de fuerza popular,ser\u00e1 que tienes temor que los caviares te se\u00f1alen indicando tu origen?\nLa cobard\u00eda y el temor te llevar\u00e1n a la desgracia",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        269
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MartinTanakaG",
+                "name": "Mart\u00edn Tanaka",
+                "id": 1076554555448610816,
+                "id_str": "1076554555448610816",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": 1414990993154363399,
+    "in_reply_to_status_id_str": "1414990993154363399",
+    "in_reply_to_user_id": 1076554555448610816,
+    "in_reply_to_user_id_str": "1076554555448610816",
+    "in_reply_to_screen_name": "MartinTanakaG",
+    "user": {
+        "id": 1388114003310694402,
+        "id_str": "1388114003310694402",
+        "name": "Soto",
+        "screen_name": "Soto47851021",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 19,
+        "listed_count": 0,
+        "created_at": "Fri Apr 30 12:52:41 +0000 2021",
+        "favourites_count": 46,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 71,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1388114507306733568/3C65lyvS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388114507306733568/3C65lyvS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

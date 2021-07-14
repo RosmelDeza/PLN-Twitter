@@ -1,0 +1,203 @@
+{
+    "created_at": "Wed Jul 14 16:22:39 +0000 2021",
+    "id": 1415346009316728834,
+    "id_str": "1415346009316728834",
+    "full_text": "RT @Jorgeli38545460: @DrCKambourian Y los chicos que NO TIENEN LA POSIBILIDAD DE RECIBUR LA UNICA VACUNA APROBADA PARA ELLOS, Pfizer, y tod\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Jorgeli38545460",
+                "name": "Jorgelina",
+                "id": 1176327725457584130,
+                "id_str": "1176327725457584130",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "DrCKambourian",
+                "name": "Carlos Kambourian",
+                "id": 927770778,
+                "id_str": "927770778",
+                "indices": [
+                    21,
+                    35
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 769332620752740352,
+        "id_str": "769332620752740352",
+        "name": "Gra Soler",
+        "screen_name": "gradepacheco",
+        "location": "Tigre, Argentina",
+        "description": "del 41%....\norgullosa de Mi Presidente Mauricio Macri!\nDIGNIDAD/LIBERTAD/EDUCACION/TRABAJO/RESPETO/",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1839,
+        "friends_count": 2568,
+        "listed_count": 1,
+        "created_at": "Sat Aug 27 00:36:05 +0000 2016",
+        "favourites_count": 119993,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 53049,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1366047646507499524/x6iHryth_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366047646507499524/x6iHryth_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:35:55 +0000 2021",
+        "id": 1415304049122021383,
+        "id_str": "1415304049122021383",
+        "full_text": "@DrCKambourian Y los chicos que NO TIENEN LA POSIBILIDAD DE RECIBUR LA UNICA VACUNA APROBADA PARA ELLOS, Pfizer, y todo por no \"Claudicar ante los laboratorios\" PORQUE TENEMOS QUE TENER AUTOESTIMA\"??( SEG\u00daN NOS DIJO m\u00ednimo k)",
+        "truncated": false,
+        "display_text_range": [
+            15,
+            225
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DrCKambourian",
+                    "name": "Carlos Kambourian",
+                    "id": 927770778,
+                    "id_str": "927770778",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415284294243819527,
+        "in_reply_to_status_id_str": "1415284294243819527",
+        "in_reply_to_user_id": 927770778,
+        "in_reply_to_user_id_str": "927770778",
+        "in_reply_to_screen_name": "DrCKambourian",
+        "user": {
+            "id": 1176327725457584130,
+            "id_str": "1176327725457584130",
+            "name": "Jorgelina",
+            "screen_name": "Jorgeli38545460",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 437,
+            "friends_count": 267,
+            "listed_count": 1,
+            "created_at": "Tue Sep 24 02:49:43 +0000 2019",
+            "favourites_count": 52590,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 47172,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1186830247578259456/9jKOeHr__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186830247578259456/9jKOeHr__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176327725457584130/1571797575",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

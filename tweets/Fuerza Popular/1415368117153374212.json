@@ -1,0 +1,281 @@
+{
+    "created_at": "Wed Jul 14 17:50:30 +0000 2021",
+    "id": 1415368117153374212,
+    "id_str": "1415368117153374212",
+    "full_text": "RT @IrmaMR3: Eso no es impedimento el pueblo tiene voluntad unimos  debilidades, grupos minoritarios y demostremos fuerza y resistencia.\n\nC\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "IrmaMR3",
+                "name": "\ud835\udc70\ud835\udc93\ud835\udc8e\ud835\udc82",
+                "id": 1221283852175450112,
+                "id_str": "1221283852175450112",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 185061916,
+        "id_str": "185061916",
+        "name": "RICHARD",
+        "screen_name": "forevet51",
+        "location": "",
+        "description": "#RedAmlover\n#FuerzaAmlovers\n#YoConAMLOYLa4T",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 13827,
+        "friends_count": 8678,
+        "listed_count": 8,
+        "created_at": "Tue Aug 31 03:47:37 +0000 2010",
+        "favourites_count": 77336,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 78031,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412733062291599363/YWuc1B5P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412733062291599363/YWuc1B5P_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/185061916/1617326066",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 05:14:04 +0000 2021",
+        "id": 1415177756720209926,
+        "id_str": "1415177756720209926",
+        "full_text": "Eso no es impedimento el pueblo tiene voluntad unimos  debilidades, grupos minoritarios y demostremos fuerza y resistencia.\n\nCONSULTA POPULAR\n       1-AGO-2021.\n\n#JuicioSiImpunidadNo\n\n \u203c\ufe0fVOTEMOS S\u00cd \u2716\ufe0f\u203c\ufe0f\n@Jeefras https://t.co/OTORIPzGzY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            211
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JuicioSiImpunidadNo",
+                    "indices": [
+                        162,
+                        182
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Jeefras",
+                    "name": "Efra inn \ud83c\uddf2\ud83c\uddfd\ud83e\udde2 \ud83c\udfc3\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udfc7\ud83d\udd7a\ud83c\udffb\ud83c\udfcc\ud83c\udffc\u26f9\ud83c\udffb\ud83d\udeb5\u200d\u2640\ufe0f\ud83c\udfce\ud83d\ude99\ud83d\ude9a",
+                    "id": 1200848951798202375,
+                    "id_str": "1200848951798202375",
+                    "indices": [
+                        203,
+                        211
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415177754950131715,
+                    "id_str": "1415177754950131715",
+                    "indices": [
+                        212,
+                        235
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6O4q5HWYAMg-dB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6O4q5HWYAMg-dB.jpg",
+                    "url": "https://t.co/OTORIPzGzY",
+                    "display_url": "pic.twitter.com/OTORIPzGzY",
+                    "expanded_url": "https://twitter.com/IrmaMR3/status/1415177756720209926/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 969,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 505,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 969,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415177754950131715,
+                    "id_str": "1415177754950131715",
+                    "indices": [
+                        212,
+                        235
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6O4q5HWYAMg-dB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6O4q5HWYAMg-dB.jpg",
+                    "url": "https://t.co/OTORIPzGzY",
+                    "display_url": "pic.twitter.com/OTORIPzGzY",
+                    "expanded_url": "https://twitter.com/IrmaMR3/status/1415177756720209926/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 969,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 505,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 969,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1221283852175450112,
+            "id_str": "1221283852175450112",
+            "name": "\ud835\udc70\ud835\udc93\ud835\udc8e\ud835\udc82",
+            "screen_name": "IrmaMR3",
+            "location": "",
+            "description": "\ud83c\uddf2\ud83c\uddfd OBRADORISTA \ud83d\udcaf \ud83c\uddf2\ud83c\uddfd\n\nAPOYO A LA 4T.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8012,
+            "friends_count": 7572,
+            "listed_count": 3,
+            "created_at": "Sun Jan 26 04:09:40 +0000 2020",
+            "favourites_count": 45850,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 33601,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1393697559382790150/0cyzAq35_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393697559382790150/0cyzAq35_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221283852175450112/1621828557",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 76,
+        "favorite_count": 89,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 76,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

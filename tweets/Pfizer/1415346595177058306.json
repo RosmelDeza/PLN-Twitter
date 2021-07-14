@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 16:24:58 +0000 2021",
+    "id": 1415346595177058306,
+    "id_str": "1415346595177058306",
+    "full_text": "@QuinteroCalle Donde hay segunda dosis de Pfizer en Medell\u00edn ?",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        62
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "QuinteroCalle",
+                "name": "Daniel Quintero Calle",
+                "id": 36276135,
+                "id_str": "36276135",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415272901645852672,
+    "in_reply_to_status_id_str": "1415272901645852672",
+    "in_reply_to_user_id": 36276135,
+    "in_reply_to_user_id_str": "36276135",
+    "in_reply_to_screen_name": "QuinteroCalle",
+    "user": {
+        "id": 360642960,
+        "id_str": "360642960",
+        "name": "Jenn Ca\u00f1\u00f3n",
+        "screen_name": "jekacanon",
+        "location": "Medellin.",
+        "description": "Seguidora de Jes\u00fas . Negociadora Internacional. Deut 31:8  Yo \ud83d\udc9c RRHH",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 471,
+        "friends_count": 717,
+        "listed_count": 0,
+        "created_at": "Tue Aug 23 14:49:57 +0000 2011",
+        "favourites_count": 703,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3876,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "702B58",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1366180149675311107/Jj3MvPpC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366180149675311107/Jj3MvPpC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/360642960/1551490867",
+        "profile_link_color": "E36DB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B319E6",
+        "profile_text_color": "ED07A4",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 17:28:21 +0000 2021",
+    "id": 1415362545297276934,
+    "id_str": "1415362545297276934",
+    "full_text": "RT @NLtbsl: wey, c\u00f3mo ser\u00eda la vida de los que no stanean a harry styles o a louis tomlinson??????",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        98
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NLtbsl",
+                "name": "L i z \ud83d\udc23",
+                "id": 1351217032713400321,
+                "id_str": "1351217032713400321",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1272901222761185281,
+        "id_str": "1272901222761185281",
+        "name": "Gema \u2600\ufe0f",
+        "screen_name": "GemiFray",
+        "location": "",
+        "description": "1D tiene mi coraz\u00f3n \ud83d\udc98|\nLectora 24/7 \ud83c\udf3b|\nLarry \ud83d\udde1\ufe0f\ud83c\udf39\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n~Algunas veces solo tienes que desconectar para sentirte bien~",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 59,
+        "friends_count": 111,
+        "listed_count": 0,
+        "created_at": "Tue Jun 16 14:38:05 +0000 2020",
+        "favourites_count": 4497,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2310,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413509662859833346/Zk_FMBoi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413509662859833346/Zk_FMBoi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1272901222761185281/1625875354",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 22:55:18 +0000 2021",
+        "id": 1415082436724154375,
+        "id_str": "1415082436724154375",
+        "full_text": "wey, c\u00f3mo ser\u00eda la vida de los que no stanean a harry styles o a louis tomlinson??????",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            86
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1351217032713400321,
+            "id_str": "1351217032713400321",
+            "name": "L i z \ud83d\udc23",
+            "screen_name": "NLtbsl",
+            "location": "lhl, lhh mi home \ud83c\udfe0|| she/her",
+            "description": "#harry y #louis: te regalamos fearless y sott, todas tuyas",
+            "url": "https://t.co/LvFUrpDL7B",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LvFUrpDL7B",
+                            "expanded_url": "https://nlfearless2.carrd.co/",
+                            "display_url": "nlfearless2.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15318,
+            "friends_count": 13680,
+            "listed_count": 7,
+            "created_at": "Mon Jan 18 17:17:15 +0000 2021",
+            "favourites_count": 22935,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 22957,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415103895739801610/DeY0PPaQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415103895739801610/DeY0PPaQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1351217032713400321/1626222785",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 505,
+        "favorite_count": 4380,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 505,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

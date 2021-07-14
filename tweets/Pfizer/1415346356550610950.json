@@ -1,0 +1,195 @@
+{
+    "created_at": "Wed Jul 14 16:24:01 +0000 2021",
+    "id": 1415346356550610950,
+    "id_str": "1415346356550610950",
+    "full_text": "RT @cingolani_oscar: AZ+Pfizer mejor que AZ + AZ. Estudio con mayor\u00eda de pacientes j\u00f3venes y sanos. Buena inmunidad de anticuerpos y tambi\u00e9\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cingolani_oscar",
+                "name": "Dr. Oscar Cingolani",
+                "id": 1240079361480499202,
+                "id_str": "1240079361480499202",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 885696924447383553,
+        "id_str": "885696924447383553",
+        "name": "pati oliver",
+        "screen_name": "olipatice",
+        "location": "",
+        "description": "Curiosa por naturaleza,adicta a las noticias,tengo alma de periodista.\nAmo el cine franc\u00e9s y mis caminatas diarias.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 152,
+        "friends_count": 149,
+        "listed_count": 2,
+        "created_at": "Fri Jul 14 03:06:17 +0000 2017",
+        "favourites_count": 21699,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 29742,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404520132102209538/YPrAMNDK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404520132102209538/YPrAMNDK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/885696924447383553/1608439918",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:02:05 +0000 2021",
+        "id": 1415310634246356994,
+        "id_str": "1415310634246356994",
+        "full_text": "AZ+Pfizer mejor que AZ + AZ. Estudio con mayor\u00eda de pacientes j\u00f3venes y sanos. Buena inmunidad de anticuerpos y tambi\u00e9n celular.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            128
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415310168787673091,
+        "in_reply_to_status_id_str": "1415310168787673091",
+        "in_reply_to_user_id": 1240079361480499202,
+        "in_reply_to_user_id_str": "1240079361480499202",
+        "in_reply_to_screen_name": "cingolani_oscar",
+        "user": {
+            "id": 1240079361480499202,
+            "id_str": "1240079361480499202",
+            "name": "Dr. Oscar Cingolani",
+            "screen_name": "cingolani_oscar",
+            "location": "Maryland, USA",
+            "description": "Associate Professor of Medicine. Hypertension Program. Division of Cardiology. Johns Hopkins University Hospital.",
+            "url": "https://t.co/vwW2UJ75qT",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/vwW2UJ75qT",
+                            "expanded_url": "https://m.youtube.com/watch?v=fwhwh1ONLhk",
+                            "display_url": "m.youtube.com/watch?v=fwhwh1\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 14716,
+            "friends_count": 443,
+            "listed_count": 47,
+            "created_at": "Wed Mar 18 00:55:53 +0000 2020",
+            "favourites_count": 6318,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 5155,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1249675739122872320/gqChkmmQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249675739122872320/gqChkmmQ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 73,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

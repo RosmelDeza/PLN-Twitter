@@ -1,0 +1,295 @@
+{
+    "created_at": "Wed Jul 14 16:01:26 +0000 2021",
+    "id": 1415340671192424455,
+    "id_str": "1415340671192424455",
+    "full_text": "RT @eerafaelp: Si hay gente que no quiere vacunarse, entonces que apliquen una dosis de Pfizer al personal de salud",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        115
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "eerafaelp",
+                "name": "Edwin",
+                "id": 739303472928063488,
+                "id_str": "739303472928063488",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 333890790,
+        "id_str": "333890790",
+        "name": "V\u00edctor Cadenillas",
+        "screen_name": "1ai23l",
+        "location": "El Masnou ",
+        "description": "20\u2764\ufe0f amant del saber. crec en la disciplina i la const\u00e0ncia. El mot rendici\u00f3 no apareix al meu diccionari! Masnov\u00ed amb orgull",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 270,
+        "friends_count": 1061,
+        "listed_count": 4,
+        "created_at": "Tue Jul 12 07:29:52 +0000 2011",
+        "favourites_count": 7455,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 48746,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:44:50 +0000 2021",
+        "id": 1415336491912503297,
+        "id_str": "1415336491912503297",
+        "full_text": "Si hay gente que no quiere vacunarse, entonces que apliquen una dosis de Pfizer al personal de salud https://t.co/CyZxjSoLzw",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            100
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/CyZxjSoLzw",
+                    "expanded_url": "https://twitter.com/jorgevillenal/status/1415308926401273857",
+                    "display_url": "twitter.com/jorgevillenal/\u2026",
+                    "indices": [
+                        101,
+                        124
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 739303472928063488,
+            "id_str": "739303472928063488",
+            "name": "Edwin",
+            "screen_name": "eerafaelp",
+            "location": "Trujillo, Peru",
+            "description": "Espero que la verdad y la justicia sean reales en el Per\u00fa al margen de la politiquer\u00eda barata",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 36,
+            "friends_count": 66,
+            "listed_count": 0,
+            "created_at": "Sun Jun 05 03:50:58 +0000 2016",
+            "favourites_count": 3362,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1995,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1363972703171072012/i_5vV_Xh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1363972703171072012/i_5vV_Xh_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415308926401273857,
+        "quoted_status_id_str": "1415308926401273857",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 13:55:17 +0000 2021",
+            "id": 1415308926401273857,
+            "id_str": "1415308926401273857",
+            "full_text": "Dirigentes del Colegio M\u00e9dico se reunieron con MINSA, sinceraron cifras:\n60 m\u00e9dicos han muerto entre febrero y junio 2021: 39 sin vacuna, 14 ten\u00edan solo 1 dosis de sinopharm, 7 ten\u00edan 2 dosis de sinopharm\nA pesar de esto, MINSA pide \u201csustento cient\u00edfico\u201d para una tercera dosis",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 82882622,
+                "id_str": "82882622",
+                "name": "Jorge Villena \ud83c\uddf5\ud83c\uddea",
+                "screen_name": "jorgevillenal",
+                "location": "Lima - Peru",
+                "description": "Este perfil contiene opiniones personales que pueden herir su susceptibilidad",
+                "url": "https://t.co/OhWx5agWiU",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/OhWx5agWiU",
+                                "expanded_url": "https://www.facebook.com/jorgevillenaoficial/",
+                                "display_url": "facebook.com/jorgevillenaof\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 38750,
+                "friends_count": 369,
+                "listed_count": 106,
+                "created_at": "Fri Oct 16 13:48:34 +0000 2009",
+                "favourites_count": 16773,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 67980,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1413305351563321345/CPrlJM7Y_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413305351563321345/CPrlJM7Y_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/82882622/1555013853",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 128,
+            "favorite_count": 324,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415308926401273857,
+    "quoted_status_id_str": "1415308926401273857",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

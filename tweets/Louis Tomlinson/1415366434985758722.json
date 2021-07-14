@@ -1,0 +1,262 @@
+{
+    "created_at": "Wed Jul 14 17:43:48 +0000 2021",
+    "id": 1415366434985758722,
+    "id_str": "1415366434985758722",
+    "full_text": "RT @ani_ferz: Louis tomlinson es tan hermoso,canta s\u00faper lindo y sus canciones son s\u00faper lindas,me encanta perfect Now,es una canci\u00f3n hermo\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ani_ferz",
+                "name": "STREAM KILL MY MIND",
+                "id": 1371231882076110849,
+                "id_str": "1371231882076110849",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1379187776197902343,
+        "id_str": "1379187776197902343",
+        "name": "cuenta para votar etc",
+        "screen_name": "91copy_",
+        "location": "",
+        "description": "louis y maggie @kmind91",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 50,
+        "listed_count": 0,
+        "created_at": "Mon Apr 05 21:42:56 +0000 2021",
+        "favourites_count": 130,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1356,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1385362273716379649/laBTrzPK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385362273716379649/laBTrzPK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1379187776197902343/1619131039",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 06 14:57:52 +0000 2021",
+        "id": 1412425570751766540,
+        "id_str": "1412425570751766540",
+        "full_text": "Louis tomlinson es tan hermoso,canta s\u00faper lindo y sus canciones son s\u00faper lindas,me encanta perfect Now,es una canci\u00f3n hermosa\ud83d\udc98 https://t.co/k8WWObvdft",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            128
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1412425566020636685,
+                    "id_str": "1412425566020636685",
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5nxkaZXEA0ttaZ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5nxkaZXEA0ttaZ.jpg",
+                    "url": "https://t.co/k8WWObvdft",
+                    "display_url": "pic.twitter.com/k8WWObvdft",
+                    "expanded_url": "https://twitter.com/ani_ferz/status/1412425570751766540/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 752,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 434,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 752,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1412425566020636685,
+                    "id_str": "1412425566020636685",
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5nxkaZXEA0ttaZ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5nxkaZXEA0ttaZ.jpg",
+                    "url": "https://t.co/k8WWObvdft",
+                    "display_url": "pic.twitter.com/k8WWObvdft",
+                    "expanded_url": "https://twitter.com/ani_ferz/status/1412425570751766540/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 752,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 434,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 752,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1371231882076110849,
+            "id_str": "1371231882076110849",
+            "name": "STREAM KILL MY MIND",
+            "screen_name": "ani_ferz",
+            "location": "",
+            "description": "\ud835\udcdb\ud835\udcf8\ud835\udcff\ud835\udcee \ud835\udcd8\ud835\udcfc \ud835\udcf8\ud835\udcf7\ud835\udcf5\ud835\udd02 \ud835\udcef\ud835\udcf8\ud835\udcfb \ud835\udcfd\ud835\udcf1\ud835\udcee \ud835\udceb\ud835\udcfb\ud835\udcea\ud835\udcff\ud835\udcee",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 807,
+            "friends_count": 331,
+            "listed_count": 0,
+            "created_at": "Sun Mar 14 22:49:01 +0000 2021",
+            "favourites_count": 811,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 391,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412074719613009925/T0EuiBxl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412074719613009925/T0EuiBxl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1371231882076110849/1625345972",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 23,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

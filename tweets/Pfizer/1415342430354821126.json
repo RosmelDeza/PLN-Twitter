@@ -1,0 +1,214 @@
+{
+    "created_at": "Wed Jul 14 16:08:25 +0000 2021",
+    "id": 1415342430354821126,
+    "id_str": "1415342430354821126",
+    "full_text": "RT @combatiente1960: @ougarteu Tiene raz\u00f3n el rojete de Ugarte, es tan buena esa vacuna, que la UE no permite el ingreso a sus pa\u00edses, a la\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "combatiente1960",
+                "name": "Marco Armando",
+                "id": 2955884481,
+                "id_str": "2955884481",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "ougarteu",
+                "name": "Oscar Ugarte Ubilluz",
+                "id": 3314271281,
+                "id_str": "3314271281",
+                "indices": [
+                    21,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 245622502,
+        "id_str": "245622502",
+        "name": "|| R ||",
+        "screen_name": "FRAGAVOS",
+        "location": "Lima",
+        "description": "Medico, extrovertido, y muy curioso. Aprendo todos los d\u00edas algo nuevo. Presidente de la Rep\u00fablica del Per\u00fa (2021-2026)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 310,
+        "friends_count": 331,
+        "listed_count": 2,
+        "created_at": "Tue Feb 01 03:12:13 +0000 2011",
+        "favourites_count": 89516,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19528,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/840658224806219776/d890b-w__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/840658224806219776/d890b-w__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/245622502/1439501466",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:56:55 +0000 2021",
+        "id": 1415294237940330501,
+        "id_str": "1415294237940330501",
+        "full_text": "@ougarteu Tiene raz\u00f3n el rojete de Ugarte, es tan buena esa vacuna, que la UE no permite el ingreso a sus pa\u00edses, a las personas vacunadas con sinopharm o sinovac. Porqu\u00e9 ser\u00e1, @ougarteu ; c\u00f3mo ser\u00e1n de malas, que los del vacunagate se han revacunado con la Pfizer. A huevear a otra parte.",
+        "truncated": false,
+        "display_text_range": [
+            10,
+            289
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ougarteu",
+                    "name": "Oscar Ugarte Ubilluz",
+                    "id": 3314271281,
+                    "id_str": "3314271281",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "ougarteu",
+                    "name": "Oscar Ugarte Ubilluz",
+                    "id": 3314271281,
+                    "id_str": "3314271281",
+                    "indices": [
+                        177,
+                        186
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415271150796648449,
+        "in_reply_to_status_id_str": "1415271150796648449",
+        "in_reply_to_user_id": 3314271281,
+        "in_reply_to_user_id_str": "3314271281",
+        "in_reply_to_screen_name": "ougarteu",
+        "user": {
+            "id": 2955884481,
+            "id_str": "2955884481",
+            "name": "Marco Armando",
+            "screen_name": "combatiente1960",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 345,
+            "friends_count": 486,
+            "listed_count": 2,
+            "created_at": "Fri Jan 02 02:19:25 +0000 2015",
+            "favourites_count": 11990,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 33467,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1403738575745736704/nNgVXdkF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403738575745736704/nNgVXdkF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2955884481/1609964256",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 110,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

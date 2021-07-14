@@ -1,0 +1,284 @@
+{
+    "created_at": "Wed Jul 14 16:14:37 +0000 2021",
+    "id": 1415343989620871173,
+    "id_str": "1415343989620871173",
+    "full_text": "RT @pfizer_spain: 2\ufe0f\u20e30\ufe0f\u20e32\ufe0f\u20e30\ufe0f\u20e3 fue uno de los a\u00f1os m\u00e1s complejos y a la vez m\u00e1s apasionantes de la historia de Pfizer, marcado por el reto\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pfizer_spain",
+                "name": "Pfizer Espa\u00f1a",
+                "id": 123278276,
+                "id_str": "123278276",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1277633670942208001,
+        "id_str": "1277633670942208001",
+        "name": "Rosa M. Sanchez",
+        "screen_name": "RosaMSanchez14",
+        "location": "",
+        "description": "Trabajo en Pfizer Mis opiniones son mias y no representan a Pfizer.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 78,
+        "listed_count": 0,
+        "created_at": "Mon Jun 29 16:03:08 +0000 2020",
+        "favourites_count": 986,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 631,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1277634186652893184/t8C8T-q1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277634186652893184/t8C8T-q1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 11:17:42 +0000 2021",
+        "id": 1414544493563494403,
+        "id_str": "1414544493563494403",
+        "full_text": "2\ufe0f\u20e30\ufe0f\u20e32\ufe0f\u20e30\ufe0f\u20e3 fue uno de los a\u00f1os m\u00e1s complejos y a la vez m\u00e1s apasionantes de la historia de Pfizer, marcado por el reto de la pandemia\n\nResumimos todas las acciones, hitos y proyectos que realizamos en nuestra Memoria anual de Sostenibilidad que presentamos hoy\n\nDentro hilo \u2b07\ufe0f https://t.co/Q7lccXUPvR",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414542781645828096,
+                    "id_str": "1414542781645828096",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6F3KlOXsAACLEF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6F3KlOXsAACLEF.jpg",
+                    "url": "https://t.co/Q7lccXUPvR",
+                    "display_url": "pic.twitter.com/Q7lccXUPvR",
+                    "expanded_url": "https://twitter.com/pfizer_spain/status/1414544493563494403/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 381,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1148,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 673,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414542781645828096,
+                    "id_str": "1414542781645828096",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6F3KlOXsAACLEF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6F3KlOXsAACLEF.jpg",
+                    "url": "https://t.co/Q7lccXUPvR",
+                    "display_url": "pic.twitter.com/Q7lccXUPvR",
+                    "expanded_url": "https://twitter.com/pfizer_spain/status/1414544493563494403/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 381,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1148,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 673,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 123278276,
+            "id_str": "123278276",
+            "name": "Pfizer Espa\u00f1a",
+            "screen_name": "pfizer_spain",
+            "location": "Espa\u00f1a",
+            "description": "Twitter oficial de Pfizer Espa\u00f1a. Innovaciones que cambian la vida de los pacientes. Aqu\u00ed tienes nuestras normas para la comunidad: https://t.co/6B8OjERmET",
+            "url": "http://t.co/A5FM4Ks1f2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/A5FM4Ks1f2",
+                            "expanded_url": "http://www.pfizer.es",
+                            "display_url": "pfizer.es",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6B8OjERmET",
+                            "expanded_url": "http://bit.ly/2LlyJIU",
+                            "display_url": "bit.ly/2LlyJIU",
+                            "indices": [
+                                132,
+                                155
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 28921,
+            "friends_count": 1581,
+            "listed_count": 594,
+            "created_at": "Mon Mar 15 15:34:14 +0000 2010",
+            "favourites_count": 2979,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 12490,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FCFCFC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411971441290059778/Yekrqf9I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411971441290059778/Yekrqf9I_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/123278276/1610355854",
+            "profile_link_color": "0087CD",
+            "profile_sidebar_border_color": "37A837",
+            "profile_sidebar_fill_color": "F2F2F7",
+            "profile_text_color": "3D3C3D",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

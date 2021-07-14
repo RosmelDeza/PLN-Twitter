@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 15:58:12 +0000 2021",
+    "id": 1415339856545394691,
+    "id_str": "1415339856545394691",
+    "full_text": "@Albisonte @luishrUD A mi mientras no me digan que tengo que ir dos veces m\u00e1s pq Pfizer dice tres dosis yo contento",
+    "truncated": false,
+    "display_text_range": [
+        21,
+        115
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Albisonte",
+                "name": "Alba\ud83c\uddee\ud83c\udde8\ud83d\udd3b",
+                "id": 1499179442,
+                "id_str": "1499179442",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "luishrUD",
+                "name": "\ud83c\udd54\ud83c\udd5b \u2119\ud835\udd3c\u211d\u211d\ud835\udd3c\ud835\udd4b\ud835\udd38",
+                "id": 3082592437,
+                "id_str": "3082592437",
+                "indices": [
+                    11,
+                    20
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415339631533559812,
+    "in_reply_to_status_id_str": "1415339631533559812",
+    "in_reply_to_user_id": 1499179442,
+    "in_reply_to_user_id_str": "1499179442",
+    "in_reply_to_screen_name": "Albisonte",
+    "user": {
+        "id": 3213409467,
+        "id_str": "3213409467",
+        "name": "Canario de ciudad \ud83c\uddee\ud83c\udde8",
+        "screen_name": "CiudadCanaria",
+        "location": "Canarias, \u00c1frica",
+        "description": "He/him | Historiador y comunista canario. EN/CA/ES",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1883,
+        "friends_count": 464,
+        "listed_count": 9,
+        "created_at": "Mon Apr 27 14:32:43 +0000 2015",
+        "favourites_count": 30945,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9862,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414396049473646596/626LZC-f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414396049473646596/626LZC-f_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3213409467/1624697005",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

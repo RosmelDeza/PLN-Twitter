@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 17:20:52 +0000 2021",
+    "id": 1415360660087640068,
+    "id_str": "1415360660087640068",
+    "full_text": "@BanderaDelPeru1 @AccidentalSutep Cojudos los naranjas para ir con tres facciones como Fuerza Popular, Porkylovers y el vientre de alquiler de Avanza Pa\u00eds, hasta para eso fueron cojudos y no hacer fuerza com\u00fan de fachos e ir en un solo partido pol\u00edtico.",
+    "truncated": false,
+    "display_text_range": [
+        34,
+        253
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BanderaDelPeru1",
+                "name": "La blanquirroja \ud83c\uddf5\ud83c\uddea",
+                "id": 1370592675112566791,
+                "id_str": "1370592675112566791",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "AccidentalSutep",
+                "name": "Derechistas Que Le Hacen Campa\u00f1a A Pedro Castillo",
+                "id": 1382141681177395200,
+                "id_str": "1382141681177395200",
+                "indices": [
+                    17,
+                    33
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415359290135699458,
+    "in_reply_to_status_id_str": "1415359290135699458",
+    "in_reply_to_user_id": 1370592675112566791,
+    "in_reply_to_user_id_str": "1370592675112566791",
+    "in_reply_to_screen_name": "BanderaDelPeru1",
+    "user": {
+        "id": 205896381,
+        "id_str": "205896381",
+        "name": "Diego Asencios",
+        "screen_name": "UnSocialConfuso",
+        "location": "Lima, Peru",
+        "description": "Comunicador SocialMente Responsable.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 228,
+        "friends_count": 478,
+        "listed_count": 2,
+        "created_at": "Thu Oct 21 21:03:43 +0000 2010",
+        "favourites_count": 1416,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12517,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "273325",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1370106066684547072/8VTwlUDM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370106066684547072/8VTwlUDM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/205896381/1599135304",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

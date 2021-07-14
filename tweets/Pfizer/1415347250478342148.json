@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 16:27:35 +0000 2021",
+    "id": 1415347250478342148,
+    "id_str": "1415347250478342148",
+    "full_text": "@ougarteu Payasos y los medicos muertos y su planton para que los vacunen con PFIZER qu\u00e9? No pasa nada est\u00e1n locos el personal de salud que protesta!!!",
+    "truncated": false,
+    "display_text_range": [
+        10,
+        151
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ougarteu",
+                "name": "Oscar Ugarte Ubilluz",
+                "id": 3314271281,
+                "id_str": "3314271281",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415271150796648449,
+    "in_reply_to_status_id_str": "1415271150796648449",
+    "in_reply_to_user_id": 3314271281,
+    "in_reply_to_user_id_str": "3314271281",
+    "in_reply_to_screen_name": "ougarteu",
+    "user": {
+        "id": 714786869993672704,
+        "id_str": "714786869993672704",
+        "name": "Luis Coronel",
+        "screen_name": "Coronel_luis_07",
+        "location": "Gen\u00e8ve, Suisse",
+        "description": "Luis Coronel Perez, Ingeniero Civil - Graduado en la Alta Escuela de Ingenieros de Ginebra-Suiza",
+        "url": "https://t.co/bQA7z0OOsD",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/bQA7z0OOsD",
+                        "expanded_url": "http://www.eurobethel.org",
+                        "display_url": "eurobethel.org",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 72,
+        "friends_count": 153,
+        "listed_count": 1,
+        "created_at": "Tue Mar 29 12:10:44 +0000 2016",
+        "favourites_count": 5566,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5775,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/743209080123179008/hgIPoSgr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/743209080123179008/hgIPoSgr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/714786869993672704/1620506574",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

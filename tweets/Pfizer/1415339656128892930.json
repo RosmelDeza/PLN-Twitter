@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 14 15:57:24 +0000 2021",
+    "id": 1415339656128892930,
+    "id_str": "1415339656128892930",
+    "full_text": "@RafaelQuirozVit @NegroCruz En Chile inocularon con Sinovac, es como confundir Pfizer con Moderna o Astrazeneca.",
+    "truncated": false,
+    "display_text_range": [
+        28,
+        112
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RafaelQuirozVit",
+                "name": "Rafael Quiroz Vitteri",
+                "id": 1404620605467545600,
+                "id_str": "1404620605467545600",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "NegroCruz",
+                "name": "Jorge Luis Cruz",
+                "id": 106297256,
+                "id_str": "106297256",
+                "indices": [
+                    17,
+                    27
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415276624539443203,
+    "in_reply_to_status_id_str": "1415276624539443203",
+    "in_reply_to_user_id": 1404620605467545600,
+    "in_reply_to_user_id_str": "1404620605467545600",
+    "in_reply_to_screen_name": "RafaelQuirozVit",
+    "user": {
+        "id": 120586403,
+        "id_str": "120586403",
+        "name": "Victor Farfan",
+        "screen_name": "macafixhz",
+        "location": "Arequipa",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 206,
+        "listed_count": 0,
+        "created_at": "Sat Mar 06 22:41:52 +0000 2010",
+        "favourites_count": 1563,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 539,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3394000773/ede2df8c27d9951ff9f1ae19825d4e2d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3394000773/ede2df8c27d9951ff9f1ae19825d4e2d_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

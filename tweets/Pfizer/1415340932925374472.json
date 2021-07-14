@@ -1,0 +1,362 @@
+{
+    "created_at": "Wed Jul 14 16:02:28 +0000 2021",
+    "id": 1415340932925374472,
+    "id_str": "1415340932925374472",
+    "full_text": "RT @GIPEIT: As\u00ed funciona. Quieres otra dosis? Presenta datos + concluyentes.\nEl @CMP_PERU debe exigir una investigaci\u00f3n o presentar datos.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GIPEIT",
+                "name": "DrJuanCelis",
+                "id": 54307299,
+                "id_str": "54307299",
+                "indices": [
+                    3,
+                    10
+                ]
+            },
+            {
+                "screen_name": "CMP_PERU",
+                "name": "Colegio M\u00e9dico Per\u00fa",
+                "id": 735178289598210049,
+                "id_str": "735178289598210049",
+                "indices": [
+                    80,
+                    89
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 282332747,
+        "id_str": "282332747",
+        "name": "\ud83d\udc09 Andy Livise",
+        "screen_name": "Elcholaco",
+        "location": "Per\u00fa",
+        "description": "Tomo Twitter tan en serio como al \u00c1gora de la plaza San Mart\u00edn. Periodismo. Por ahora en https://t.co/e7dfppVh3t",
+        "url": "https://t.co/hxtnMCzm8m",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/hxtnMCzm8m",
+                        "expanded_url": "http://utero.pe/author/andy-livise/",
+                        "display_url": "utero.pe/author/andy-li\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/e7dfppVh3t",
+                        "expanded_url": "http://utero.pe",
+                        "display_url": "utero.pe",
+                        "indices": [
+                            89,
+                            112
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 5171,
+        "friends_count": 1309,
+        "listed_count": 26,
+        "created_at": "Fri Apr 15 00:49:57 +0000 2011",
+        "favourites_count": 11134,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18705,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236175530895998976/TqaYvm5o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236175530895998976/TqaYvm5o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/282332747/1611031518",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 02:04:34 +0000 2021",
+        "id": 1415130068435836931,
+        "id_str": "1415130068435836931",
+        "full_text": "As\u00ed funciona. Quieres otra dosis? Presenta datos + concluyentes.\nEl @CMP_PERU debe exigir una investigaci\u00f3n o presentar datos. No agarrar datos period\u00edsticos o datos de poca calidad y exigir dosis con pfizer.\nHabr\u00e1 pedido opini\u00f3n de sus sociedades cient\u00edficas? https://t.co/IceHRORlee",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            260
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CMP_PERU",
+                    "name": "Colegio M\u00e9dico Per\u00fa",
+                    "id": 735178289598210049,
+                    "id_str": "735178289598210049",
+                    "indices": [
+                        68,
+                        77
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/IceHRORlee",
+                    "expanded_url": "https://twitter.com/NYTHealth/status/1415122956330704896",
+                    "display_url": "twitter.com/NYTHealth/stat\u2026",
+                    "indices": [
+                        261,
+                        284
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 54307299,
+            "id_str": "54307299",
+            "name": "DrJuanCelis",
+            "screen_name": "GIPEIT",
+            "location": "Iquitos, Peru",
+            "description": "M\u00e9dico Infect\u00f3logo/Tropicalista; Medicina del Viajero en la Amazon\u00eda Peruana. Infectious & Tropical Disease Physician.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 14009,
+            "friends_count": 2302,
+            "listed_count": 98,
+            "created_at": "Mon Jul 06 19:35:49 +0000 2009",
+            "favourites_count": 10896,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 6862,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1264558857969434625/tY7bjHlz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1264558857969434625/tY7bjHlz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54307299/1591550723",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415122956330704896,
+        "quoted_status_id_str": "1415122956330704896",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 01:36:19 +0000 2021",
+            "id": 1415122956330704896,
+            "id_str": "1415122956330704896",
+            "full_text": "Pfizer's chief scientific officer made the case\u00a0for coronavirus booster vaccines in a meeting with top federal health officials Monday. But the officials said they needed more data, including on breakthrough infections, before making a decision.\u00a0 https://t.co/6XzSCaThbK",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                270
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/6XzSCaThbK",
+                        "expanded_url": "https://nyti.ms/3iaKzD4",
+                        "display_url": "nyti.ms/3iaKzD4",
+                        "indices": [
+                            247,
+                            270
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1769551,
+                "id_str": "1769551",
+                "name": "NYT Health",
+                "screen_name": "NYTHealth",
+                "location": "New York, NY",
+                "description": "Health and medical news from The NYT's Health & Science desk. Sign up for the Science Times email, in your inbox every Tuesday: https://t.co/kpdN2C1hDy",
+                "url": "http://t.co/0tRURWh5Jl",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/0tRURWh5Jl",
+                                "expanded_url": "http://www.nytimes.com/health",
+                                "display_url": "nytimes.com/health",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/kpdN2C1hDy",
+                                "expanded_url": "https://nyti.ms/2EKZcNt",
+                                "display_url": "nyti.ms/2EKZcNt",
+                                "indices": [
+                                    128,
+                                    151
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1184332,
+                "friends_count": 124,
+                "listed_count": 13487,
+                "created_at": "Wed Mar 21 17:03:40 +0000 2007",
+                "favourites_count": 1958,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 76251,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/963808360045854721/LOqp5i2R_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/963808360045854721/LOqp5i2R_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769551/1518629223",
+                "profile_link_color": "004276",
+                "profile_sidebar_border_color": "323232",
+                "profile_sidebar_fill_color": "E7EFF8",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 21,
+            "favorite_count": 55,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 136,
+        "favorite_count": 357,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415122956330704896,
+    "quoted_status_id_str": "1415122956330704896",
+    "retweet_count": 136,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

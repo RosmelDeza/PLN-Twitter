@@ -1,0 +1,217 @@
+{
+    "created_at": "Wed Jul 14 15:59:25 +0000 2021",
+    "id": 1415340165141237765,
+    "id_str": "1415340165141237765",
+    "full_text": "RT @euskalnewsmedia: Varios m\u00e9dicos y una abogada presentan una demanda ante la UE para frenar el uso de la vacuna de Pfizer en ni\u00f1os. http\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "euskalnewsmedia",
+                "name": "euskalnews.com",
+                "id": 2922065008,
+                "id_str": "2922065008",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1276214311673835521,
+        "id_str": "1276214311673835521",
+        "name": "SomosCosteros #MiVidaMiOxigeno",
+        "screen_name": "somoscosteros4",
+        "location": "",
+        "description": "siguiendo el camino de las #BaldosasAmarillas",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2413,
+        "friends_count": 279,
+        "listed_count": 20,
+        "created_at": "Thu Jun 25 18:03:15 +0000 2020",
+        "favourites_count": 18154,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 58489,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1309992738788716545/uT7_uL_a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1309992738788716545/uT7_uL_a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276214311673835521/1610796333",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:06:36 +0000 2021",
+        "id": 1415311773423620098,
+        "id_str": "1415311773423620098",
+        "full_text": "Varios m\u00e9dicos y una abogada presentan una demanda ante la UE para frenar el uso de la vacuna de Pfizer en ni\u00f1os. https://t.co/7zYVamfSul",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            137
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/7zYVamfSul",
+                    "expanded_url": "http://euskalnews.com/2021/07/varios-medicos-y-una-abogada-presentan-una-demanda-ante-la-ue-para-frenar-el-uso-de-la-vacuna-de-pfizer-en-ninos/",
+                    "display_url": "euskalnews.com/2021/07/varios\u2026",
+                    "indices": [
+                        114,
+                        137
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2922065008,
+            "id_str": "2922065008",
+            "name": "euskalnews.com",
+            "screen_name": "euskalnewsmedia",
+            "location": "Basque Country, Spain",
+            "description": "La actualidad sin la censura del establishment. No somos imparciales: Freedom not negotiable.\nS\u00edguenos en Telegram:\nhttps://t.co/GrqKzqEkoB #euskalnews",
+            "url": "https://t.co/eGQAfSj6Cc",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/eGQAfSj6Cc",
+                            "expanded_url": "http://www.euskalnews.com",
+                            "display_url": "euskalnews.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/GrqKzqEkoB",
+                            "expanded_url": "https://t.me/euskalnews",
+                            "display_url": "t.me/euskalnews",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 7468,
+            "friends_count": 97,
+            "listed_count": 46,
+            "created_at": "Sun Dec 14 21:40:35 +0000 2014",
+            "favourites_count": 4689,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 11071,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1153969207895367680/IiJFz6Gi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153969207895367680/IiJFz6Gi_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2922065008/1563962640",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 27,
+        "favorite_count": 40,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

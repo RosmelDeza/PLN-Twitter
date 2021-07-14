@@ -1,0 +1,114 @@
+{
+    "created_at": "Wed Jul 14 16:40:49 +0000 2021",
+    "id": 1415350581321949190,
+    "id_str": "1415350581321949190",
+    "full_text": "@PBOPeru @congresoperu Siguen con el cuento con que los que acampan son simpatizantes de Fuerza Popular. Algunos s\u00ed, pero la mayor\u00eda que marchamos y que acampan somos Peruanos Dem\u00f3cratas  que repudiamos el #MegaFraudeElectoralComunista",
+    "truncated": false,
+    "display_text_range": [
+        23,
+        235
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MegaFraudeElectoralComunista",
+                "indices": [
+                    206,
+                    235
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PBOPeru",
+                "name": "PBO",
+                "id": 2401702404,
+                "id_str": "2401702404",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "congresoperu",
+                "name": "Congreso del Per\u00fa",
+                "id": 78889373,
+                "id_str": "78889373",
+                "indices": [
+                    9,
+                    22
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415337241853976576,
+    "in_reply_to_status_id_str": "1415337241853976576",
+    "in_reply_to_user_id": 2401702404,
+    "in_reply_to_user_id_str": "2401702404",
+    "in_reply_to_screen_name": "PBOPeru",
+    "user": {
+        "id": 3725050097,
+        "id_str": "3725050097",
+        "name": "Carlonchoperu",
+        "screen_name": "Carlonchoperu1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 139,
+        "friends_count": 65,
+        "listed_count": 1,
+        "created_at": "Mon Sep 21 05:25:16 +0000 2015",
+        "favourites_count": 33696,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37930,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

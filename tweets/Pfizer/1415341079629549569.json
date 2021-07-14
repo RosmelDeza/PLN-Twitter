@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Jul 14 16:03:03 +0000 2021",
+    "id": 1415341079629549569,
+    "id_str": "1415341079629549569",
+    "full_text": "@RDRGRDRG_ @RyanJacobs159 @canalN_ Yo? que importa mi opini\u00f3n, yo creo que la importante es la opini\u00f3n de los paises que la est\u00e1n usando y viendo que no sirve, optando por vacunar a los de sinopharm con pfizer, como Bahrain (si donde se hizo el estudio de 79%)\n\nhttps://t.co/mWHCGpQwWw",
+    "truncated": false,
+    "display_text_range": [
+        35,
+        285
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RDRGRDRG_",
+                "name": "Just Me",
+                "id": 1348275800,
+                "id_str": "1348275800",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "RyanJacobs159",
+                "name": "Ryan Jacobs Ugarte",
+                "id": 1187944284684730368,
+                "id_str": "1187944284684730368",
+                "indices": [
+                    11,
+                    25
+                ]
+            },
+            {
+                "screen_name": "canalN_",
+                "name": "Canal N",
+                "id": 248692867,
+                "id_str": "248692867",
+                "indices": [
+                    26,
+                    34
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/mWHCGpQwWw",
+                "expanded_url": "https://www.nytimes.com/es/2021/06/23/espanol/sinovac-efectividad-vacuna.html",
+                "display_url": "nytimes.com/es/2021/06/23/\u2026",
+                "indices": [
+                    262,
+                    285
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415339451736264705,
+    "in_reply_to_status_id_str": "1415339451736264705",
+    "in_reply_to_user_id": 1348275800,
+    "in_reply_to_user_id_str": "1348275800",
+    "in_reply_to_screen_name": "RDRGRDRG_",
+    "user": {
+        "id": 1370960972643450880,
+        "id_str": "1370960972643450880",
+        "name": "Richard M.",
+        "screen_name": "M82Richard",
+        "location": "Per\u00fa, Brazil.",
+        "description": "Cat\u00f3lico, Conservador, Derechista, Anti-comunista, Anti-progresista.\n\nObergruppenf\u00fchrer en Fuerza Popular (camisas naranjas)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 32,
+        "friends_count": 221,
+        "listed_count": 1,
+        "created_at": "Sun Mar 14 04:53:01 +0000 2021",
+        "favourites_count": 3355,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2168,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1370961349250023425/WwaWwhgU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370961349250023425/WwaWwhgU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370960972643450880/1615698140",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

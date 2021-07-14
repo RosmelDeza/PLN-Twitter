@@ -1,0 +1,245 @@
+{
+    "created_at": "Wed Jul 14 16:10:37 +0000 2021",
+    "id": 1415342983235489798,
+    "id_str": "1415342983235489798",
+    "full_text": "RT @leahsacin: La entrevista que me ped\u00edan hoy\nAqu\u00ed completa\n#NEDenelBicentenario con @JaimeChincha\nJulio C\u00e9sar Castiglioni, abogado de Fue\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NEDenelBicentenario",
+                "indices": [
+                    61,
+                    81
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "leahsacin",
+                "name": "Leah Sac\u00edn Gavancho",
+                "id": 111406245,
+                "id_str": "111406245",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "JaimeChincha",
+                "name": "Jaime Chincha",
+                "id": 36477202,
+                "id_str": "36477202",
+                "indices": [
+                    86,
+                    99
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 728155849,
+        "id_str": "728155849",
+        "name": "ASIRITV",
+        "screen_name": "Asiritelevision",
+        "location": "Lima, Peru",
+        "description": "ASIRI TV el canal que crece contigo. Un canal a su servicio.\nFacebook: ASIRI TV\nTel\u00e9fono: (1) 304 1620",
+        "url": "https://t.co/ta3OMwmEQs",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ta3OMwmEQs",
+                        "expanded_url": "http://www.asiritv.pe",
+                        "display_url": "asiritv.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1666,
+        "friends_count": 1253,
+        "listed_count": 3,
+        "created_at": "Tue Jul 31 11:12:49 +0000 2012",
+        "favourites_count": 1088,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4399,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1356256216826183682/Qou0bUnd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356256216826183682/Qou0bUnd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/728155849/1546015798",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 04:30:39 +0000 2021",
+        "id": 1415166828695986183,
+        "id_str": "1415166828695986183",
+        "full_text": "La entrevista que me ped\u00edan hoy\nAqu\u00ed completa\n#NEDenelBicentenario con @JaimeChincha\nJulio C\u00e9sar Castiglioni, abogado de Fuerza Popular \nhttps://t.co/7Ejes3iGCs",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            160
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NEDenelBicentenario",
+                    "indices": [
+                        46,
+                        66
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JaimeChincha",
+                    "name": "Jaime Chincha",
+                    "id": 36477202,
+                    "id_str": "36477202",
+                    "indices": [
+                        71,
+                        84
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/7Ejes3iGCs",
+                    "expanded_url": "https://youtu.be/pAbNVa7o__I",
+                    "display_url": "youtu.be/pAbNVa7o__I",
+                    "indices": [
+                        137,
+                        160
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 111406245,
+            "id_str": "111406245",
+            "name": "Leah Sac\u00edn Gavancho",
+            "screen_name": "leahsacin",
+            "location": "Lima",
+            "description": "Periodista \nSocia Fundadora en @ProyectoVoceras\nAve de paso. Soy del mar.\nTodo lo que diga lo firmo a t\u00edtulo personal.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12796,
+            "friends_count": 2067,
+            "listed_count": 85,
+            "created_at": "Thu Feb 04 20:31:48 +0000 2010",
+            "favourites_count": 58839,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 99304,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1341990962436956162/GCoFo0e2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341990962436956162/GCoFo0e2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/111406245/1552501604",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 85,
+        "favorite_count": 197,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 85,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

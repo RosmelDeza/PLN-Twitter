@@ -1,0 +1,324 @@
+{
+    "created_at": "Wed Jul 14 16:01:24 +0000 2021",
+    "id": 1415340665173684227,
+    "id_str": "1415340665173684227",
+    "full_text": "RT @Andavac_: \ud83d\udce2\ud83c\udd95Novedades #Vacunaci\u00f3nCOVID19: grupos espec\u00edficos:\n\n\ud83d\udc49Se incluyen personas de 12 a 17 a\u00f1os que viajen fuera de Espa\u00f1a por est\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Vacunaci\u00f3nCOVID19",
+                "indices": [
+                    26,
+                    44
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Andavac_",
+                "name": "Andavac",
+                "id": 1269982083344195587,
+                "id_str": "1269982083344195587",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2490070531,
+        "id_str": "2490070531",
+        "name": "PiCuida",
+        "screen_name": "PiCuida",
+        "location": "Andaluc\u00eda, Espa\u00f1a",
+        "description": "#PiCuida, es la Red de la Estrategia de Cuidados de Andaluc\u00eda. \u2139\ufe0f para profesionales y pacientes https://t.co/6ZDG2lJxY8 Un lugar para aprender y compartir.",
+        "url": "https://t.co/6ZDG2lJxY8",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6ZDG2lJxY8",
+                        "expanded_url": "http://www.picuida.es",
+                        "display_url": "picuida.es",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6ZDG2lJxY8",
+                        "expanded_url": "http://www.picuida.es",
+                        "display_url": "picuida.es",
+                        "indices": [
+                            97,
+                            120
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 9850,
+        "friends_count": 972,
+        "listed_count": 175,
+        "created_at": "Sun May 11 15:54:31 +0000 2014",
+        "favourites_count": 3284,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16562,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/608015152953311232/xWw1QDHT_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/608015152953311232/xWw1QDHT_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2490070531/1583842389",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 08:58:57 +0000 2021",
+        "id": 1415234349671321601,
+        "id_str": "1415234349671321601",
+        "full_text": "\ud83d\udce2\ud83c\udd95Novedades #Vacunaci\u00f3nCOVID19: grupos espec\u00edficos:\n\n\ud83d\udc49Se incluyen personas de 12 a 17 a\u00f1os que viajen fuera de Espa\u00f1a por estudios antes del 30 sept.\n\n\u25aa\ufe0f Se vacunar\u00e1n con Pfizer durante el verano\n\u25aa\ufe0f La 2\u00aa dosis se puede adelantar como m\u00e1x. a 19 d\u00edas\n\n\u2139\ufe0fhttps://t.co/U0R3oAFokO https://t.co/w4KDfSIgTb",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Vacunaci\u00f3nCOVID19",
+                    "indices": [
+                        12,
+                        30
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/U0R3oAFokO",
+                    "expanded_url": "https://www.andavac.es/campanas/covid/ciudadania-covid-19/vacunacion-covid-19-de-colectivos-especificos/",
+                    "display_url": "andavac.es/campanas/covid\u2026",
+                    "indices": [
+                        253,
+                        276
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415223600928395267,
+                    "id_str": "1415223600928395267",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6PiXesWEAMkuHE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6PiXesWEAMkuHE.jpg",
+                    "url": "https://t.co/w4KDfSIgTb",
+                    "display_url": "pic.twitter.com/w4KDfSIgTb",
+                    "expanded_url": "https://twitter.com/Andavac_/status/1415234349671321601/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1500,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415223600928395267,
+                    "id_str": "1415223600928395267",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6PiXesWEAMkuHE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6PiXesWEAMkuHE.jpg",
+                    "url": "https://t.co/w4KDfSIgTb",
+                    "display_url": "pic.twitter.com/w4KDfSIgTb",
+                    "expanded_url": "https://twitter.com/Andavac_/status/1415234349671321601/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1500,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1269982083344195587,
+            "id_str": "1269982083344195587",
+            "name": "Andavac",
+            "screen_name": "Andavac_",
+            "location": "",
+            "description": "Formaci\u00f3n e informaci\u00f3n sobre vacunas. Plan Estrat\u00e9gico de Vacunaci\u00f3n de la Consejer\u00eda de Salud y Familias de la Junta de Andaluc\u00eda.",
+            "url": "https://t.co/6fTi98oQHK",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6fTi98oQHK",
+                            "expanded_url": "https://www.andavac.es/",
+                            "display_url": "andavac.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4099,
+            "friends_count": 425,
+            "listed_count": 20,
+            "created_at": "Mon Jun 08 13:18:55 +0000 2020",
+            "favourites_count": 403,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 736,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1272844708801392640/WEM_dLHH_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272844708801392640/WEM_dLHH_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1269982083344195587/1591622651",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

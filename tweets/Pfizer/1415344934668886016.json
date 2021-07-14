@@ -1,0 +1,180 @@
+{
+    "created_at": "Wed Jul 14 16:18:22 +0000 2021",
+    "id": 1415344934668886016,
+    "id_str": "1415344934668886016",
+    "full_text": "Fui a pescar a rio revuelto a ESPOL para ver si me vacunaban y respetando la fila me dejaron entrar y pum dicen que #Pfizer\n#LaSuerteDelQueNoSeBa\u00f1a https://t.co/Tqr3tyzK9q",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        147
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Pfizer",
+                "indices": [
+                    116,
+                    123
+                ]
+            },
+            {
+                "text": "LaSuerteDelQueNoSeBa\u00f1a",
+                "indices": [
+                    124,
+                    147
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415344932483645444,
+                "id_str": "1415344932483645444",
+                "indices": [
+                    148,
+                    171
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RQt59WQAQP3Z5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RQt59WQAQP3Z5.jpg",
+                "url": "https://t.co/Tqr3tyzK9q",
+                "display_url": "pic.twitter.com/Tqr3tyzK9q",
+                "expanded_url": "https://twitter.com/Jolurami23/status/1415344934668886016/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 349,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 349,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 349,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415344932483645444,
+                "id_str": "1415344932483645444",
+                "indices": [
+                    148,
+                    171
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RQt59WQAQP3Z5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RQt59WQAQP3Z5.jpg",
+                "url": "https://t.co/Tqr3tyzK9q",
+                "display_url": "pic.twitter.com/Tqr3tyzK9q",
+                "expanded_url": "https://twitter.com/Jolurami23/status/1415344934668886016/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 349,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 349,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 349,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 271708446,
+        "id_str": "271708446",
+        "name": "Jorgelu Ram\u00edrez",
+        "screen_name": "Jolurami23",
+        "location": "Guayaquil",
+        "description": "Ing. en Electr\u00f3nica y Telecomunicaciones! \u2665\nMagister en Telecomunicaciones! \u2665\n#Barcelona \ud83d\udc9b #BeChef the dream! Camino a ser maestro Pokemon!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 351,
+        "friends_count": 841,
+        "listed_count": 1,
+        "created_at": "Fri Mar 25 01:30:06 +0000 2011",
+        "favourites_count": 5223,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26662,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/937559338511724545/R7k5PylN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/937559338511724545/R7k5PylN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/271708446/1503906417",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

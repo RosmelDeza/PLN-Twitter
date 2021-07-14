@@ -1,0 +1,217 @@
+{
+    "created_at": "Wed Jul 14 16:13:11 +0000 2021",
+    "id": 1415343629934206982,
+    "id_str": "1415343629934206982",
+    "full_text": "RT @cielo_rusinque: Es muy grave que no se tenga garant\u00eda de segunda dosis de Pfizer en Colombia, miles de personas le estan dando la vuelt\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cielo_rusinque",
+                "name": "Cielo Rusinque Urrego\ud83c\udde8\ud83c\uddf4\ud83c\uddeb\ud83c\uddf7",
+                "id": 1656162516,
+                "id_str": "1656162516",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1941166255,
+        "id_str": "1941166255",
+        "name": "osvaldo bertel",
+        "screen_name": "osvaldo_bertel",
+        "location": "",
+        "description": "la vida es una sola aprovechala de esta no hay 2",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 102,
+        "friends_count": 515,
+        "listed_count": 0,
+        "created_at": "Sun Oct 06 14:32:40 +0000 2013",
+        "favourites_count": 3909,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4771,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/478872243771310081/2s6QLwzJ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/478872243771310081/2s6QLwzJ_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1941166255/1403006999",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 11:00:07 +0000 2021",
+        "id": 1414540067746557955,
+        "id_str": "1414540067746557955",
+        "full_text": "Es muy grave que no se tenga garant\u00eda de segunda dosis de Pfizer en Colombia, miles de personas le estan dando la vuelta a todo Bogot\u00e1 buscando su 2da dosis y se encuentran agotadas, con el agravante de que no han vuelto a comprar, que piensan hacer @IvanDuque y @ClaudiaLopez?",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "IvanDuque",
+                    "name": "Iv\u00e1n Duque \ud83c\udde8\ud83c\uddf4",
+                    "id": 77653794,
+                    "id_str": "77653794",
+                    "indices": [
+                        250,
+                        260
+                    ]
+                },
+                {
+                    "screen_name": "ClaudiaLopez",
+                    "name": "Claudia L\u00f3pez \ud83d\udc4d",
+                    "id": 137908875,
+                    "id_str": "137908875",
+                    "indices": [
+                        263,
+                        276
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1656162516,
+            "id_str": "1656162516",
+            "name": "Cielo Rusinque Urrego\ud83c\udde8\ud83c\uddf4\ud83c\uddeb\ud83c\uddf7",
+            "screen_name": "cielo_rusinque",
+            "location": "",
+            "description": "Constitucionalista, Latinoamericanista, Progresista, Master en Estudios Pol\u00edticos, Par\u00eds II -Panth\u00e9on Assas, Presidenta @CPPL_oficial   #SoyDeLaResistencia",
+            "url": "https://t.co/drQ7KVkuGr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/drQ7KVkuGr",
+                            "expanded_url": "https://centrodepensamientoprogresista.com",
+                            "display_url": "centrodepensamientoprogresista.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 75271,
+            "friends_count": 6497,
+            "listed_count": 92,
+            "created_at": "Thu Aug 08 21:01:25 +0000 2013",
+            "favourites_count": 42010,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 49219,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415083961374621700/D2JIves4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415083961374621700/D2JIves4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1656162516/1625068330",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 865,
+        "favorite_count": 1766,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 865,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

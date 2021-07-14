@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 17:42:08 +0000 2021",
+    "id": 1415366012837535747,
+    "id_str": "1415366012837535747",
+    "full_text": "RT @vodkaskys: Estar obsesionada con ver fotos random de Louis Tomlinson en pinterest es parte de lo que soy duh!",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        113
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "vodkaskys",
+                "name": "Monse\ud83e\udd8b|| atypical",
+                "id": 1089215333045432321,
+                "id_str": "1089215333045432321",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1350076332810641410,
+        "id_str": "1350076332810641410",
+        "name": "J \u00d7\u035c\u00d7\ud83c\uddea\ud83c\udde8",
+        "screen_name": "JC_Louis_",
+        "location": "Tungurahua, Ecuador",
+        "description": "Desayunando cereal y Nesquik con Louis.     \ud83c\udff3\ufe0f\u200d\ud83c\udf08Queer\ud83c\udff3\ufe0f\u200d\ud83c\udf08\nIG: J_tiffany06pardo.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 87,
+        "friends_count": 125,
+        "listed_count": 0,
+        "created_at": "Fri Jan 15 13:45:08 +0000 2021",
+        "favourites_count": 8858,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2293,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400445521819357190/6ECnUoI__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400445521819357190/6ECnUoI__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350076332810641410/1622727073",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:30:58 +0000 2021",
+        "id": 1415333002876538880,
+        "id_str": "1415333002876538880",
+        "full_text": "Estar obsesionada con ver fotos random de Louis Tomlinson en pinterest es parte de lo que soy duh!",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            98
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1089215333045432321,
+            "id_str": "1089215333045432321",
+            "name": "Monse\ud83e\udd8b|| atypical",
+            "screen_name": "vodkaskys",
+            "location": "Los hoyuelos de Harry Styles ",
+            "description": "\u21b3 Harry Styles and Louis Tomlinson are my only happiness \u273f \uff61\uff9f17 \u1770",
+            "url": "https://t.co/koI3FHM7dV",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/koI3FHM7dV",
+                            "expanded_url": "http://Instagram.com/vodkaskys",
+                            "display_url": "Instagram.com/vodkaskys",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8318,
+            "friends_count": 293,
+            "listed_count": 10,
+            "created_at": "Sat Jan 26 17:35:46 +0000 2019",
+            "favourites_count": 14142,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10648,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408627850387898373/uyvL9pbo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408627850387898373/uyvL9pbo_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089215333045432321/1625018290",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 69,
+        "favorite_count": 650,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 69,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

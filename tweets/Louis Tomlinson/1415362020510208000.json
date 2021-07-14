@@ -1,0 +1,195 @@
+{
+    "created_at": "Wed Jul 14 17:26:16 +0000 2021",
+    "id": 1415362020510208000,
+    "id_str": "1415362020510208000",
+    "full_text": "RT @hs1xwalls29: La??Gente??que??depende??emocionalmente??de??louis??\nTomlinson?? Soy la gente",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        94
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "hs1xwalls29",
+                "name": "Delfii lvs dell & jose\ud83c\udde6\ud83c\uddf7",
+                "id": 1362033021101240323,
+                "id_str": "1362033021101240323",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1412024419401281543,
+        "id_str": "1412024419401281543",
+        "name": "Caeli \ud83c\uddf5\ud83c\uddea KMM EN EUROCOPA",
+        "screen_name": "caelialessiagm1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 24,
+        "friends_count": 80,
+        "listed_count": 0,
+        "created_at": "Mon Jul 05 12:24:04 +0000 2021",
+        "favourites_count": 2466,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 441,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412881408977248264/sZTB0jtM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412881408977248264/sZTB0jtM_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:24:46 +0000 2021",
+        "id": 1415346542681247751,
+        "id_str": "1415346542681247751",
+        "full_text": "La??Gente??que??depende??emocionalmente??de??louis??\nTomlinson?? Soy la gente",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            77
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1362033021101240323,
+            "id_str": "1362033021101240323",
+            "name": "Delfii lvs dell & jose\ud83c\udde6\ud83c\uddf7",
+            "screen_name": "hs1xwalls29",
+            "location": "louis\ud83c\udfe0",
+            "description": "bajate morocho no sos wos\n~Fan account~",
+            "url": "https://t.co/gcoRY6QJ3l",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/gcoRY6QJ3l",
+                            "expanded_url": "https://delficard.carrd.co/",
+                            "display_url": "delficard.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1642,
+            "friends_count": 1523,
+            "listed_count": 7,
+            "created_at": "Wed Feb 17 13:36:06 +0000 2021",
+            "favourites_count": 14116,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8441,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404133124762652676/cpnrn8iW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404133124762652676/cpnrn8iW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362033021101240323/1623604509",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

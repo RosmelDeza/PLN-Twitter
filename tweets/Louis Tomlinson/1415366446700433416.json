@@ -1,0 +1,296 @@
+{
+    "created_at": "Wed Jul 14 17:43:51 +0000 2021",
+    "id": 1415366446700433416,
+    "id_str": "1415366446700433416",
+    "full_text": "RT @iforlousung: louis tomlinson cantando perfect now, una canci\u00f3n hermosa con una letra muy significativa es lo m\u00e1s radiante que escuche h\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "iforlousung",
+                "name": "jazz",
+                "id": 1281711885381967878,
+                "id_str": "1281711885381967878",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1379187776197902343,
+        "id_str": "1379187776197902343",
+        "name": "cuenta para votar etc",
+        "screen_name": "91copy_",
+        "location": "",
+        "description": "louis y maggie @kmind91",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 50,
+        "listed_count": 0,
+        "created_at": "Mon Apr 05 21:42:56 +0000 2021",
+        "favourites_count": 130,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1356,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1385362273716379649/laBTrzPK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385362273716379649/laBTrzPK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1379187776197902343/1619131039",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 15:59:40 +0000 2021",
+        "id": 1414977838516686851,
+        "id_str": "1414977838516686851",
+        "full_text": "louis tomlinson cantando perfect now, una canci\u00f3n hermosa con una letra muy significativa es lo m\u00e1s radiante que escuche hoy &lt;3  \n\nhttps://t.co/Pk2QPueUE8",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            157
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1338204310245675012,
+                    "id_str": "1338204310245675012",
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338204310245675012/pu/img/NrDfzw4nmsbOZCPE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338204310245675012/pu/img/NrDfzw4nmsbOZCPE.jpg",
+                    "url": "https://t.co/Pk2QPueUE8",
+                    "display_url": "pic.twitter.com/Pk2QPueUE8",
+                    "expanded_url": "https://twitter.com/sunloneylwt/status/1338204373441196035/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 878,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 279,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 878,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1338204373441196035,
+                    "source_status_id_str": "1338204373441196035",
+                    "source_user_id": 1074780337434230784,
+                    "source_user_id_str": "1074780337434230784"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1338204310245675012,
+                    "id_str": "1338204310245675012",
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338204310245675012/pu/img/NrDfzw4nmsbOZCPE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338204310245675012/pu/img/NrDfzw4nmsbOZCPE.jpg",
+                    "url": "https://t.co/Pk2QPueUE8",
+                    "display_url": "pic.twitter.com/Pk2QPueUE8",
+                    "expanded_url": "https://twitter.com/sunloneylwt/status/1338204373441196035/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 878,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 279,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 878,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1338204373441196035,
+                    "source_status_id_str": "1338204373441196035",
+                    "source_user_id": 1074780337434230784,
+                    "source_user_id_str": "1074780337434230784",
+                    "video_info": {
+                        "aspect_ratio": [
+                            439,
+                            180
+                        ],
+                        "duration_millis": 12585,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1338204310245675012/pu/pl/WEIe0eP_swHJ2r6x.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1338204310245675012/pu/vid/658x270/G1PHs6eGBITRgllt.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1338204310245675012/pu/vid/878x360/u1Ip_6Ld_HK-uycp.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1281711885381967878,
+            "id_str": "1281711885381967878",
+            "name": "jazz",
+            "screen_name": "iforlousung",
+            "location": "",
+            "description": "con louis cantando damas gratis mientras amanece",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 749,
+            "friends_count": 192,
+            "listed_count": 12,
+            "created_at": "Fri Jul 10 22:09:23 +0000 2020",
+            "favourites_count": 11290,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9661,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414630433673859072/7I8dHffC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414630433673859072/7I8dHffC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1281711885381967878/1624571679",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 59,
+        "favorite_count": 144,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 59,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

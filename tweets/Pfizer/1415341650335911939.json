@@ -1,0 +1,207 @@
+{
+    "created_at": "Wed Jul 14 16:05:19 +0000 2021",
+    "id": 1415341650335911939,
+    "id_str": "1415341650335911939",
+    "full_text": "@saludquillota @qtacultural @muniquillota @oscalsan @ProteccionQta @Casadeldeporteq @omilquillota @TarjetaQ @laestrelladeqta @eo_enlinea @radio_festival @g5_noticias me toca mi segunda dosis de pfizer el viernes 16 pero este es feriado, quer\u00eda saber si debo ir ma\u00f1ana por mi segunda dosis o el s\u00e1bado?",
+    "truncated": false,
+    "display_text_range": [
+        166,
+        301
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "saludquillota",
+                "name": "SaludQuillota",
+                "id": 55463680,
+                "id_str": "55463680",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "qtacultural",
+                "name": "Centro Cultural Quillota",
+                "id": 942174124394340352,
+                "id_str": "942174124394340352",
+                "indices": [
+                    15,
+                    27
+                ]
+            },
+            {
+                "screen_name": "muniquillota",
+                "name": "Quillota",
+                "id": 194326257,
+                "id_str": "194326257",
+                "indices": [
+                    28,
+                    41
+                ]
+            },
+            {
+                "screen_name": "oscalsan",
+                "name": "Oscar Calder\u00f3n Sanchez",
+                "id": 1375930938153127939,
+                "id_str": "1375930938153127939",
+                "indices": [
+                    42,
+                    51
+                ]
+            },
+            {
+                "screen_name": "ProteccionQta",
+                "name": "Protecci\u00f3n Civil Qta",
+                "id": 536849176,
+                "id_str": "536849176",
+                "indices": [
+                    52,
+                    66
+                ]
+            },
+            {
+                "screen_name": "Casadeldeporteq",
+                "name": "CASA DEL DEPORTE QTA",
+                "id": 409343866,
+                "id_str": "409343866",
+                "indices": [
+                    67,
+                    83
+                ]
+            },
+            {
+                "screen_name": "omilquillota",
+                "name": "OMIL Quillota",
+                "id": 1949836159,
+                "id_str": "1949836159",
+                "indices": [
+                    84,
+                    97
+                ]
+            },
+            {
+                "screen_name": "TarjetaQ",
+                "name": "TarjetaQuillota",
+                "id": 1343382520419725314,
+                "id_str": "1343382520419725314",
+                "indices": [
+                    98,
+                    107
+                ]
+            },
+            {
+                "screen_name": "laestrelladeqta",
+                "name": "La Estrella Quillota",
+                "id": 58233588,
+                "id_str": "58233588",
+                "indices": [
+                    108,
+                    124
+                ]
+            },
+            {
+                "screen_name": "eo_enlinea",
+                "name": "Diario El Observador",
+                "id": 93650544,
+                "id_str": "93650544",
+                "indices": [
+                    125,
+                    136
+                ]
+            },
+            {
+                "screen_name": "radio_festival",
+                "name": "Radio Festival",
+                "id": 119535717,
+                "id_str": "119535717",
+                "indices": [
+                    137,
+                    152
+                ]
+            },
+            {
+                "screen_name": "g5_noticias",
+                "name": "G5noticias",
+                "id": 1219631852866220037,
+                "id_str": "1219631852866220037",
+                "indices": [
+                    153,
+                    165
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415294118931095562,
+    "in_reply_to_status_id_str": "1415294118931095562",
+    "in_reply_to_user_id": 55463680,
+    "in_reply_to_user_id_str": "55463680",
+    "in_reply_to_screen_name": "saludquillota",
+    "user": {
+        "id": 701331230,
+        "id_str": "701331230",
+        "name": "jzarate",
+        "screen_name": "zaraten5",
+        "location": "",
+        "description": "Una loca consciente de la vida",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 101,
+        "friends_count": 62,
+        "listed_count": 0,
+        "created_at": "Tue Jul 17 16:19:38 +0000 2012",
+        "favourites_count": 289,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5601,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3279811925/769e49fccca314522aa1b46d90f88433_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3279811925/769e49fccca314522aa1b46d90f88433_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701331230/1368239700",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,186 @@
+{
+    "created_at": "Wed Jul 14 16:17:02 +0000 2021",
+    "id": 1415344599363686405,
+    "id_str": "1415344599363686405",
+    "full_text": "@noticias_tvperu Por eso VizcaRATA fue a vacunarse por cuarta vez con Pfizer y no con la BASURA china.\nF\u00e1cil, que se la apliquen a todos los que trabajan en @noticias_tvperu  y vemos cu\u00e1ntos sobreviven ... \ud83d\ude0e https://t.co/AcJQfu6UUb",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        207
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "noticias_tvperu",
+                "name": "TVPer\u00fa Noticias",
+                "id": 63597537,
+                "id_str": "63597537",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "noticias_tvperu",
+                "name": "TVPer\u00fa Noticias",
+                "id": 63597537,
+                "id_str": "63597537",
+                "indices": [
+                    157,
+                    173
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415344591797108754,
+                "id_str": "1415344591797108754",
+                "indices": [
+                    208,
+                    231
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RQaEzWQBI2Bm4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RQaEzWQBI2Bm4.jpg",
+                "url": "https://t.co/AcJQfu6UUb",
+                "display_url": "pic.twitter.com/AcJQfu6UUb",
+                "expanded_url": "https://twitter.com/Jose_Blax_B/status/1415344599363686405/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 587,
+                        "h": 873,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 587,
+                        "h": 873,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 457,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415344591797108754,
+                "id_str": "1415344591797108754",
+                "indices": [
+                    208,
+                    231
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RQaEzWQBI2Bm4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RQaEzWQBI2Bm4.jpg",
+                "url": "https://t.co/AcJQfu6UUb",
+                "display_url": "pic.twitter.com/AcJQfu6UUb",
+                "expanded_url": "https://twitter.com/Jose_Blax_B/status/1415344599363686405/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 587,
+                        "h": 873,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 587,
+                        "h": 873,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 457,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415293111375433735,
+    "in_reply_to_status_id_str": "1415293111375433735",
+    "in_reply_to_user_id": 63597537,
+    "in_reply_to_user_id_str": "63597537",
+    "in_reply_to_screen_name": "noticias_tvperu",
+    "user": {
+        "id": 1287067427013107715,
+        "id_str": "1287067427013107715",
+        "name": "J\u00f8s\u00e9_Bl\u0105x_B",
+        "screen_name": "Jose_Blax_B",
+        "location": "Santiago de Surco, Peru",
+        "description": "\ud83e\udd23\ud83d\ude0e\ud83d\ude07\nPresidente Constitucional de la Rep\u00fablica del Per\u00fa (2021-3000)\ud83c\uddf5\ud83c\uddea\u270c\ufe0f\ud83d\ude1c                          Emperador de varios multiversos\ud83d\udef8\ud83d\ude80  \ud83d\udc7d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 356,
+        "friends_count": 661,
+        "listed_count": 0,
+        "created_at": "Sat Jul 25 16:50:25 +0000 2020",
+        "favourites_count": 32490,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21144,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287069748472291335/xRzyjGem_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287069748472291335/xRzyjGem_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287067427013107715/1611110128",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

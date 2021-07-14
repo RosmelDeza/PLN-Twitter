@@ -1,0 +1,285 @@
+{
+    "created_at": "Wed Jul 14 16:14:26 +0000 2021",
+    "id": 1415343944553189382,
+    "id_str": "1415343944553189382",
+    "full_text": "RT @Claudiashein: Primer d\u00eda de vacunaci\u00f3n a personas de 40-49 a\u00f1os con 2\u00aa dosis de Pfizer-BioNTech en la Biblioteca Vasconcelos, sede de l\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Claudiashein",
+                "name": "Claudia Sheinbaum",
+                "id": 591361197,
+                "id_str": "591361197",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1357431256464695296,
+        "id_str": "1357431256464695296",
+        "name": "Daniel clavellina",
+        "screen_name": "Danielclavelli5",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 75,
+        "friends_count": 134,
+        "listed_count": 0,
+        "created_at": "Thu Feb 04 20:50:26 +0000 2021",
+        "favourites_count": 16081,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10466,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357431434575814662/Lt2WnS80_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357431434575814662/Lt2WnS80_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:50:12 +0000 2021",
+        "id": 1415322743827013635,
+        "id_str": "1415322743827013635",
+        "full_text": "Primer d\u00eda de vacunaci\u00f3n a personas de 40-49 a\u00f1os con 2\u00aa dosis de Pfizer-BioNTech en la Biblioteca Vasconcelos, sede de la alcald\u00eda Miguel Hidalgo.\n\nEn coordinaci\u00f3n con el @GobiernoMX, esta semana aplicaremos 453,160 vacunas en M. Hidalgo, Iztapalapa e Iztacalco. https://t.co/6PyNqdmEHT",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            263
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "GobiernoMX",
+                    "name": "Gobierno de M\u00e9xico",
+                    "id": 1067218403914436608,
+                    "id_str": "1067218403914436608",
+                    "indices": [
+                        172,
+                        183
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415322739368513543,
+                    "id_str": "1415322739368513543",
+                    "indices": [
+                        264,
+                        287
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q8iGKX0AcdAIV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q8iGKX0AcdAIV.jpg",
+                    "url": "https://t.co/6PyNqdmEHT",
+                    "display_url": "pic.twitter.com/6PyNqdmEHT",
+                    "expanded_url": "https://twitter.com/Claudiashein/status/1415322743827013635/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 455,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 685,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 685,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415322739368513543,
+                    "id_str": "1415322739368513543",
+                    "indices": [
+                        264,
+                        287
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q8iGKX0AcdAIV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q8iGKX0AcdAIV.jpg",
+                    "url": "https://t.co/6PyNqdmEHT",
+                    "display_url": "pic.twitter.com/6PyNqdmEHT",
+                    "expanded_url": "https://twitter.com/Claudiashein/status/1415322743827013635/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 455,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 685,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 685,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 591361197,
+            "id_str": "591361197",
+            "name": "Claudia Sheinbaum",
+            "screen_name": "Claudiashein",
+            "location": "Ciudad de M\u00e9xico",
+            "description": "Jefa de Gobierno de la Ciudad de M\u00e9xico 2018-2024",
+            "url": "https://t.co/KmcdK3e3Qr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/KmcdK3e3Qr",
+                            "expanded_url": "http://www.cdmx.gob.mx",
+                            "display_url": "cdmx.gob.mx",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1718018,
+            "friends_count": 1411,
+            "listed_count": 2128,
+            "created_at": "Sat May 26 21:48:47 +0000 2012",
+            "favourites_count": 1049,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 23991,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1279221988918083585/2SfLVjcE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1279221988918083585/2SfLVjcE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/591361197/1624277045",
+            "profile_link_color": "26AD4A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 127,
+        "favorite_count": 500,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 127,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,218 @@
+{
+    "created_at": "Wed Jul 14 16:19:16 +0000 2021",
+    "id": 1415345158518939650,
+    "id_str": "1415345158518939650",
+    "full_text": "RT @MariaFdaCabal: \u00a1Per\u00fa se defiende del comunismo!https://t.co/7mmgFPKTBv",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        74
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MariaFdaCabal",
+                "name": "Mar\u00eda Fernanda Cabal",
+                "id": 350862112,
+                "id_str": "350862112",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/7mmgFPKTBv",
+                "expanded_url": "https://guik.pe/2021/07/13/pj-admite-habeas-data-de-fuerza-popular-para-que-onpe-entregue-padron/",
+                "display_url": "guik.pe/2021/07/13/pj-\u2026",
+                "indices": [
+                    51,
+                    74
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 152056202,
+        "id_str": "152056202",
+        "name": "Efrain TovarTrujillo",
+        "screen_name": "efraintovar1",
+        "location": "",
+        "description": "Economista,Conservador siempre por la derecha Colombia primero.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7334,
+        "friends_count": 4889,
+        "listed_count": 23,
+        "created_at": "Fri Jun 04 23:52:25 +0000 2010",
+        "favourites_count": 33770,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 218272,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362433376553164800/x9qEpokP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362433376553164800/x9qEpokP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/152056202/1609632700",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:22:59 +0000 2021",
+        "id": 1415104502999527426,
+        "id_str": "1415104502999527426",
+        "full_text": "\u00a1Per\u00fa se defiende del comunismo!https://t.co/7mmgFPKTBv",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            55
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/7mmgFPKTBv",
+                    "expanded_url": "https://guik.pe/2021/07/13/pj-admite-habeas-data-de-fuerza-popular-para-que-onpe-entregue-padron/",
+                    "display_url": "guik.pe/2021/07/13/pj-\u2026",
+                    "indices": [
+                        32,
+                        55
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 350862112,
+            "id_str": "350862112",
+            "name": "Mar\u00eda Fernanda Cabal",
+            "screen_name": "MariaFdaCabal",
+            "location": "Bogot\u00e1, Colombia ",
+            "description": "Senadora de la Rep\u00fablica de Colombia #LasCosasComoSon",
+            "url": "https://t.co/tWlEWAQo1p",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tWlEWAQo1p",
+                            "expanded_url": "http://www.mariafernandacabal.com",
+                            "display_url": "mariafernandacabal.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 232547,
+            "friends_count": 906,
+            "listed_count": 658,
+            "created_at": "Mon Aug 08 12:34:30 +0000 2011",
+            "favourites_count": 18545,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 75268,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409147726814711809/l23Izf-h_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409147726814711809/l23Izf-h_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/350862112/1553117889",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 520,
+        "favorite_count": 1099,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 520,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

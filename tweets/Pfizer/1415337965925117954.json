@@ -1,0 +1,182 @@
+{
+    "created_at": "Wed Jul 14 15:50:41 +0000 2021",
+    "id": 1415337965925117954,
+    "id_str": "1415337965925117954",
+    "full_text": "RT @BNicoleDavilaA: Entre Pfizer y Sinovac, prefiero tus besos.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        63
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BNicoleDavilaA",
+                "name": "n.",
+                "id": 569527043,
+                "id_str": "569527043",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 893578228442574848,
+        "id_str": "893578228442574848",
+        "name": "\ud835\ude70\ud835\ude95\ud835\ude8e\ud835\udea1\ud835\ude92\ud835\ude9c \ud835\ude79\ud835\ude8e\ud835\ude9c\ud835\ude9e\ud835\ude9c",
+        "screen_name": "tapiayepez16",
+        "location": "Machala, Ecuador",
+        "description": "TODO LO PUEDO EN CRISTO QUE ME FORTALECE\ud83d\ude4c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 27,
+        "friends_count": 103,
+        "listed_count": 0,
+        "created_at": "Fri Aug 04 21:03:46 +0000 2017",
+        "favourites_count": 1567,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 217,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1329635893687234560/hpH1_u9M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329635893687234560/hpH1_u9M_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 04:50:39 +0000 2021",
+        "id": 1415171864301916161,
+        "id_str": "1415171864301916161",
+        "full_text": "Entre Pfizer y Sinovac, prefiero tus besos.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            43
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 569527043,
+            "id_str": "569527043",
+            "name": "n.",
+            "screen_name": "BNicoleDavilaA",
+            "location": "A veces Machala, a veces Gye\ud83d\udca5",
+            "description": "Nicole con N de Nepe.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 317,
+            "friends_count": 212,
+            "listed_count": 0,
+            "created_at": "Wed May 02 23:57:11 +0000 2012",
+            "favourites_count": 2588,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 7534,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413012353415778304/TD6nOwgT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413012353415778304/TD6nOwgT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/569527043/1582104767",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

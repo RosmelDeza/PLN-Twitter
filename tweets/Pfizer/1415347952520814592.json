@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 14 16:30:22 +0000 2021",
+    "id": 1415347952520814592,
+    "id_str": "1415347952520814592",
+    "full_text": "@Heatsoul @JesusMiguel___ @Ribosoma_P @ChinaEmbPeru Qu\u00e9 bueno! A mi abuela de 94 a\u00f1os le di\u00f3 Covid en junio del a\u00f1o pasado y no tuvo ni un solo s\u00edntoma, ni se enter\u00f3, y este a\u00f1o ha celebrado su cumple 95 muy contenta y vacunada con la Pfizer. La inmunidad en cada persona es distinta, pero todos merecemos aplicarnos la mejor vacuna",
+    "truncated": false,
+    "display_text_range": [
+        52,
+        332
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Heatsoul",
+                "name": "Heatsoul",
+                "id": 132336270,
+                "id_str": "132336270",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "JesusMiguel___",
+                "name": "Jes\u00fas Miguel",
+                "id": 280278201,
+                "id_str": "280278201",
+                "indices": [
+                    10,
+                    25
+                ]
+            },
+            {
+                "screen_name": "Ribosoma_P",
+                "name": "Alejandra Palma \ud83e\udda0\ud83c\uddf5\ud83c\uddea\ud83e\uddec\ud83d\udc89\ud83d\udd2c\ud83e\ude7a\ud83e\uddeb",
+                "id": 1295215518178213889,
+                "id_str": "1295215518178213889",
+                "indices": [
+                    26,
+                    37
+                ]
+            },
+            {
+                "screen_name": "ChinaEmbPeru",
+                "name": "Embajada de China en el Per\u00fa",
+                "id": 1229881161171775488,
+                "id_str": "1229881161171775488",
+                "indices": [
+                    38,
+                    51
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415148024230187008,
+    "in_reply_to_status_id_str": "1415148024230187008",
+    "in_reply_to_user_id": 132336270,
+    "in_reply_to_user_id_str": "132336270",
+    "in_reply_to_screen_name": "Heatsoul",
+    "user": {
+        "id": 1364655840247107586,
+        "id_str": "1364655840247107586",
+        "name": "Johana Ortega",
+        "screen_name": "SailormoonPeru1",
+        "location": "",
+        "description": "\u00a1Somos Libres, Se\u00e1moslo Siempre! \n\u00a1Dios Patria y Familia!  \u00a1Viva el Per\u00fa\ud83c\uddf5\ud83c\uddea!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 342,
+        "friends_count": 1197,
+        "listed_count": 0,
+        "created_at": "Wed Feb 24 19:18:16 +0000 2021",
+        "favourites_count": 37991,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11932,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403740990620504070/UUwo-mxO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403740990620504070/UUwo-mxO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1364655840247107586/1619538334",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

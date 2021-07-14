@@ -1,0 +1,295 @@
+{
+    "created_at": "Wed Jul 14 17:21:17 +0000 2021",
+    "id": 1415360766262358016,
+    "id_str": "1415360766262358016",
+    "full_text": "Para Fuerza Popular, el que se dilate la transici\u00f3n de gobierno, sabiendo que la diferencia de votos no va cambiar, no es su tema y que se jodan los dem\u00e1s. https://t.co/9zkE8QgQkR",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        155
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/9zkE8QgQkR",
+                "expanded_url": "https://twitter.com/martinfiera/status/1415185125810311168",
+                "display_url": "twitter.com/martinfiera/st\u2026",
+                "indices": [
+                    156,
+                    179
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 131181567,
+        "id_str": "131181567",
+        "name": "Carlos Si\u00f1a",
+        "screen_name": "gotrix99",
+        "location": "",
+        "description": "piscis",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 120,
+        "friends_count": 1012,
+        "listed_count": 0,
+        "created_at": "Fri Apr 09 14:24:15 +0000 2010",
+        "favourites_count": 629,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2344,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/684380012758351874/V_SsgC2p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/684380012758351874/V_SsgC2p_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131181567/1452003863",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415185125810311168,
+    "quoted_status_id_str": "1415185125810311168",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 05:43:21 +0000 2021",
+        "id": 1415185125810311168,
+        "id_str": "1415185125810311168",
+        "full_text": "Pens\u00e9 que me hab\u00eda excedido en calificar al   Fujimorismo  pero luego de ver a Castiglione decir que el pa\u00eds no les importa obviamente a Keiko menos, me reafirmo son lo peor que le pas\u00f3 al pa\u00eds, miserables. https://t.co/zwrmqesYS9",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            206
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415184615183106050,
+                    "id_str": "1415184615183106050",
+                    "indices": [
+                        207,
+                        230
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415184615183106050/pu/img/yBD5k0g-FI97VTM-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415184615183106050/pu/img/yBD5k0g-FI97VTM-.jpg",
+                    "url": "https://t.co/zwrmqesYS9",
+                    "display_url": "pic.twitter.com/zwrmqesYS9",
+                    "expanded_url": "https://twitter.com/martinfiera/status/1415185125810311168/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415184615183106050,
+                    "id_str": "1415184615183106050",
+                    "indices": [
+                        207,
+                        230
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415184615183106050/pu/img/yBD5k0g-FI97VTM-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415184615183106050/pu/img/yBD5k0g-FI97VTM-.jpg",
+                    "url": "https://t.co/zwrmqesYS9",
+                    "display_url": "pic.twitter.com/zwrmqesYS9",
+                    "expanded_url": "https://twitter.com/martinfiera/status/1415185125810311168/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 113967,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415184615183106050/pu/vid/640x360/-enDJGVBBnqKOkKG.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415184615183106050/pu/vid/1280x720/1y2NWQwtngpbBRXz.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415184615183106050/pu/pl/FAYc2vDoiAkXy513.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415184615183106050/pu/vid/480x270/ZM-AtMtS28X6xoC3.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1414969979896795141,
+        "in_reply_to_status_id_str": "1414969979896795141",
+        "in_reply_to_user_id": 123960008,
+        "in_reply_to_user_id_str": "123960008",
+        "in_reply_to_screen_name": "martinfiera",
+        "user": {
+            "id": 123960008,
+            "id_str": "123960008",
+            "name": "Martin",
+            "screen_name": "martinfiera",
+            "location": "Lima",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1023,
+            "friends_count": 1682,
+            "listed_count": 10,
+            "created_at": "Wed Mar 17 19:47:02 +0000 2010",
+            "favourites_count": 21436,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 66447,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1273148102665527298/-PgyoL9Y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273148102665527298/-PgyoL9Y_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/123960008/1609273882",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 32,
+        "favorite_count": 103,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

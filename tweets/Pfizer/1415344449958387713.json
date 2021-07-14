@@ -1,0 +1,380 @@
+{
+    "created_at": "Wed Jul 14 16:16:27 +0000 2021",
+    "id": 1415344449958387713,
+    "id_str": "1415344449958387713",
+    "full_text": "RT @pedroaznar: \u00a1Vacunado con las dos dosis de #Pfizer, pauta completada! \u00a1Tecnolog\u00eda tambi\u00e9n es \u00e9sto: m\u00e1s que nunca la necesitamos! \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Pfizer",
+                "indices": [
+                    47,
+                    54
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pedroaznar",
+                "name": "Pedro Aznar",
+                "id": 2188291,
+                "id_str": "2188291",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 52076421,
+        "id_str": "52076421",
+        "name": "JRMS (Kabuto)\ud83d\udc7e\ud83d\udd79\ufe0f",
+        "screen_name": "jrmarcano",
+        "location": "\u00dcT: 10.498362,-66.85872",
+        "description": "#gamedev \ud83d\udc7e\ud83d\udd79\u00a1Desarrollando videojuegos desde 1982! Mi sue\u00f1o, que las personas jugar\u00e1n mis juegos y lo logr\u00e9. Me puedes regalar un caf\u00e9 https://t.co/16VURKCR8e",
+        "url": "https://t.co/qlkU1QSfyV",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/qlkU1QSfyV",
+                        "expanded_url": "https://mediatechgames.itch.io/",
+                        "display_url": "mediatechgames.itch.io",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/16VURKCR8e",
+                        "expanded_url": "https://ko-fi.com/kabuto",
+                        "display_url": "ko-fi.com/kabuto",
+                        "indices": [
+                            134,
+                            157
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1351,
+        "friends_count": 2301,
+        "listed_count": 31,
+        "created_at": "Mon Jun 29 14:47:25 +0000 2009",
+        "favourites_count": 28141,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24293,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1132814564335206405/xuRv7x-p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132814564335206405/xuRv7x-p_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52076421/1517165335",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:27:34 +0000 2021",
+        "id": 1415332150740717575,
+        "id_str": "1415332150740717575",
+        "full_text": "\u00a1Vacunado con las dos dosis de #Pfizer, pauta completada! \u00a1Tecnolog\u00eda tambi\u00e9n es \u00e9sto: m\u00e1s que nunca la necesitamos! \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\n\n#Vacunemonos #YoMeVacuno https://t.co/i4eY1ocQtI",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            149
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Pfizer",
+                    "indices": [
+                        31,
+                        38
+                    ]
+                },
+                {
+                    "text": "Vacunemonos",
+                    "indices": [
+                        125,
+                        137
+                    ]
+                },
+                {
+                    "text": "YoMeVacuno",
+                    "indices": [
+                        138,
+                        149
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415332141089628169,
+                    "id_str": "1415332141089628169",
+                    "indices": [
+                        150,
+                        173
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RFFWTXIAkoOGT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RFFWTXIAkoOGT.jpg",
+                    "url": "https://t.co/i4eY1ocQtI",
+                    "display_url": "pic.twitter.com/i4eY1ocQtI",
+                    "expanded_url": "https://twitter.com/pedroaznar/status/1415332150740717575/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1150,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415332141089628169,
+                    "id_str": "1415332141089628169",
+                    "indices": [
+                        150,
+                        173
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RFFWTXIAkoOGT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RFFWTXIAkoOGT.jpg",
+                    "url": "https://t.co/i4eY1ocQtI",
+                    "display_url": "pic.twitter.com/i4eY1ocQtI",
+                    "expanded_url": "https://twitter.com/pedroaznar/status/1415332150740717575/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1150,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2188291,
+            "id_str": "2188291",
+            "name": "Pedro Aznar",
+            "screen_name": "pedroaznar",
+            "location": "Barcelona, Espa\u00f1a",
+            "description": "Director de @applesfera. Engineering Manager en @InnoCells, by @BancoSabadell. Podcaster en @1cosamas. https://t.co/oVPOvkdLFV | https://t.co/uh54iXfDMI",
+            "url": "https://t.co/9U2kyGfuYl",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9U2kyGfuYl",
+                            "expanded_url": "https://www.amazon.es/shop/pedroaznar",
+                            "display_url": "amazon.es/shop/pedroaznar",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/oVPOvkdLFV",
+                            "expanded_url": "http://instagram.com/pedroaznar",
+                            "display_url": "instagram.com/pedroaznar",
+                            "indices": [
+                                103,
+                                126
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/uh54iXfDMI",
+                            "expanded_url": "https://cuatrodoce.com",
+                            "display_url": "cuatrodoce.com",
+                            "indices": [
+                                129,
+                                152
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 19668,
+            "friends_count": 688,
+            "listed_count": 642,
+            "created_at": "Sun Mar 25 16:52:23 +0000 2007",
+            "favourites_count": 11943,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 22451,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1058997875236057088/i6avu-Ux_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058997875236057088/i6avu-Ux_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2188291/1571168202",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "87BC44",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "07d9ecf7b8c86000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9ecf7b8c86000.json",
+            "place_type": "poi",
+            "name": "Instituci\u00f3n Ferial Alicantina (IFA)",
+            "full_name": "Instituci\u00f3n Ferial Alicantina (IFA)",
+            "country_code": "ES",
+            "country": "Spain",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.5736661361132894,
+                            38.29582816181737
+                        ],
+                        [
+                            -0.5736661361132894,
+                            38.29582816181737
+                        ],
+                        [
+                            -0.5736661361132894,
+                            38.29582816181737
+                        ],
+                        [
+                            -0.5736661361132894,
+                            38.29582816181737
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 59,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,180 @@
+{
+    "created_at": "Wed Jul 14 16:17:46 +0000 2021",
+    "id": 1415344783883743234,
+    "id_str": "1415344783883743234",
+    "full_text": "#TieneHuevo Gustavo Petro\n\nsi cree q va a ser presidente apoyando un \"paro\" q ante el bajo apoyo popular se dedic\u00f3 a bloquear v\u00edas, vandalizar y saquear\n\n#ParaSalirDePobres hay q acabar el socialismo q por d\u00e9cadas la izquierda nos ha querido imponer por la fuerza como en Cuba https://t.co/kwYwYahwXf",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        276
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TieneHuevo",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "text": "ParaSalirDePobres",
+                "indices": [
+                    154,
+                    172
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415344052711608324,
+                "id_str": "1415344052711608324",
+                "indices": [
+                    277,
+                    300
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RP6sjWUAQqMoh.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6RP6sjWUAQqMoh.png",
+                "url": "https://t.co/kwYwYahwXf",
+                "display_url": "pic.twitter.com/kwYwYahwXf",
+                "expanded_url": "https://twitter.com/JEAM_79/status/1415344783883743234/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 768,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415344052711608324,
+                "id_str": "1415344052711608324",
+                "indices": [
+                    277,
+                    300
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RP6sjWUAQqMoh.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6RP6sjWUAQqMoh.png",
+                "url": "https://t.co/kwYwYahwXf",
+                "display_url": "pic.twitter.com/kwYwYahwXf",
+                "expanded_url": "https://twitter.com/JEAM_79/status/1415344783883743234/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 768,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1517604180,
+        "id_str": "1517604180",
+        "name": "J\u2022\u03a3\u2022\u2206\u2022M\u2122",
+        "screen_name": "JEAM_79",
+        "location": "Cartagena, Colombia",
+        "description": "PRIMERO DIOS \ud83d\ude4f\n\ntroleo mamertos mientras nos invaden los extraterrestres \ud83d\udc7d\n\n#GenteDeBien \ud83c\udde8\ud83c\uddf4",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5359,
+        "friends_count": 2974,
+        "listed_count": 19,
+        "created_at": "Fri Jun 14 21:22:30 +0000 2013",
+        "favourites_count": 26583,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 128514,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415130263412264961/zgVHbJEq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415130263412264961/zgVHbJEq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1517604180/1623026665",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

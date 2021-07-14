@@ -1,0 +1,262 @@
+{
+    "created_at": "Wed Jul 14 17:40:00 +0000 2021",
+    "id": 1415365475060654082,
+    "id_str": "1415365475060654082",
+    "full_text": "RT @Matisarzuri: Ustedes saben que dentro de poco tendremos nueva musica de Harry Styles y por otra parte Louis Tomlinson se encuentra grab\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Matisarzuri",
+                "name": "Matilda",
+                "id": 1394058810843611138,
+                "id_str": "1394058810843611138",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1267554967667322885,
+        "id_str": "1267554967667322885",
+        "name": "Romyw Zarate",
+        "screen_name": "zarate_romy",
+        "location": "M\u00e9xico",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 29,
+        "friends_count": 23,
+        "listed_count": 0,
+        "created_at": "Mon Jun 01 20:34:06 +0000 2020",
+        "favourites_count": 19311,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2951,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394770632433405960/tqdmfcYU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394770632433405960/tqdmfcYU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267554967667322885/1595500886",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:28:54 +0000 2021",
+        "id": 1415362684409847810,
+        "id_str": "1415362684409847810",
+        "full_text": "Ustedes saben que dentro de poco tendremos nueva musica de Harry Styles y por otra parte Louis Tomlinson se encuentra grabando \nDIOS MIO ME SIENTO MUY FELIZ POR AMBOS\nBUENO, LA QUE SE DUERMA PIERDE\ud83c\udfc3\ud83c\udffb\u200d\u2640 https://t.co/rEzpa59rr6",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            201
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415362681016553477,
+                    "id_str": "1415362681016553477",
+                    "indices": [
+                        202,
+                        225
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Rg3AZWEAUKfVF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Rg3AZWEAUKfVF.jpg",
+                    "url": "https://t.co/rEzpa59rr6",
+                    "display_url": "pic.twitter.com/rEzpa59rr6",
+                    "expanded_url": "https://twitter.com/Matisarzuri/status/1415362684409847810/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 300,
+                            "h": 250,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 300,
+                            "h": 250,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 300,
+                            "h": 250,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415362681016553477,
+                    "id_str": "1415362681016553477",
+                    "indices": [
+                        202,
+                        225
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Rg3AZWEAUKfVF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Rg3AZWEAUKfVF.jpg",
+                    "url": "https://t.co/rEzpa59rr6",
+                    "display_url": "pic.twitter.com/rEzpa59rr6",
+                    "expanded_url": "https://twitter.com/Matisarzuri/status/1415362684409847810/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 300,
+                            "h": 250,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 300,
+                            "h": 250,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 300,
+                            "h": 250,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1394058810843611138,
+            "id_str": "1394058810843611138",
+            "name": "Matilda",
+            "screen_name": "Matisarzuri",
+            "location": "",
+            "description": "@matisarzuri\n\nIt's not a bad life,it's just a bad day\ud83d\udc99",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 158,
+            "friends_count": 104,
+            "listed_count": 0,
+            "created_at": "Sun May 16 22:35:04 +0000 2021",
+            "favourites_count": 548,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 539,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399054010850611200/Q83f327K_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399054010850611200/Q83f327K_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394058810843611138/1621347614",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

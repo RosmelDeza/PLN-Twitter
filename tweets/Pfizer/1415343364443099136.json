@@ -1,0 +1,197 @@
+{
+    "created_at": "Wed Jul 14 16:12:08 +0000 2021",
+    "id": 1415343364443099136,
+    "id_str": "1415343364443099136",
+    "full_text": "@AndreeUribeM @AlcaldiadeMed @SantafeMedellin @HGMhospital @Unicentro_Med @JuventudMed @movamedellin @QuinteroCalle @ITMinstitucion @Metrosalud @estebanrestre Hola, como saber en que puntos hay Pfizer para mi hermano de 16 sin comorbilidades? Gracias",
+    "truncated": false,
+    "display_text_range": [
+        159,
+        250
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AndreeUribeM",
+                "name": "Andree Uribe Montoya",
+                "id": 1413657372,
+                "id_str": "1413657372",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "AlcaldiadeMed",
+                "name": "Alcald\u00eda de Medell\u00edn",
+                "id": 497511506,
+                "id_str": "497511506",
+                "indices": [
+                    14,
+                    28
+                ]
+            },
+            {
+                "screen_name": "SantafeMedellin",
+                "name": "Santaf\u00e9 Medell\u00edn",
+                "id": 214611504,
+                "id_str": "214611504",
+                "indices": [
+                    29,
+                    45
+                ]
+            },
+            {
+                "screen_name": "HGMhospital",
+                "name": "Hospital General de Medell\u00edn - Luz Castro de G.",
+                "id": 933428496445132800,
+                "id_str": "933428496445132800",
+                "indices": [
+                    46,
+                    58
+                ]
+            },
+            {
+                "screen_name": "Unicentro_Med",
+                "name": "Unicentro Medell\u00edn",
+                "id": 143837901,
+                "id_str": "143837901",
+                "indices": [
+                    59,
+                    73
+                ]
+            },
+            {
+                "screen_name": "JuventudMed",
+                "name": "Secretar\u00eda de la Juventud",
+                "id": 1219986867212423168,
+                "id_str": "1219986867212423168",
+                "indices": [
+                    74,
+                    86
+                ]
+            },
+            {
+                "screen_name": "movamedellin",
+                "name": "Mova Medell\u00edn",
+                "id": 2677947246,
+                "id_str": "2677947246",
+                "indices": [
+                    87,
+                    100
+                ]
+            },
+            {
+                "screen_name": "QuinteroCalle",
+                "name": "Daniel Quintero Calle",
+                "id": 36276135,
+                "id_str": "36276135",
+                "indices": [
+                    101,
+                    115
+                ]
+            },
+            {
+                "screen_name": "ITMinstitucion",
+                "name": "Instituci\u00f3n Universitaria ITM",
+                "id": 404973092,
+                "id_str": "404973092",
+                "indices": [
+                    116,
+                    131
+                ]
+            },
+            {
+                "screen_name": "Metrosalud",
+                "name": "Metrosalud",
+                "id": 113442447,
+                "id_str": "113442447",
+                "indices": [
+                    132,
+                    143
+                ]
+            },
+            {
+                "screen_name": "estebanrestre",
+                "name": "Esteban Restrepo",
+                "id": 262281909,
+                "id_str": "262281909",
+                "indices": [
+                    144,
+                    158
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415331389004779529,
+    "in_reply_to_status_id_str": "1415331389004779529",
+    "in_reply_to_user_id": 1413657372,
+    "in_reply_to_user_id_str": "1413657372",
+    "in_reply_to_screen_name": "AndreeUribeM",
+    "user": {
+        "id": 2490947439,
+        "id_str": "2490947439",
+        "name": "Leidy Id\u00e1rraga C.",
+        "screen_name": "LeidyIC",
+        "location": "Medell\u00edn, Colombia",
+        "description": "La mam\u00e1 de Jacobo - Esposa feliz y enamorada de mi familia!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 18,
+        "friends_count": 426,
+        "listed_count": 0,
+        "created_at": "Fri Apr 18 00:38:09 +0000 2014",
+        "favourites_count": 2059,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 313,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1015732248270770176/pRGLnIwD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015732248270770176/pRGLnIwD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2490947439/1503104388",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

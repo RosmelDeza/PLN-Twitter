@@ -1,0 +1,271 @@
+{
+    "created_at": "Wed Jul 14 16:29:03 +0000 2021",
+    "id": 1415347620478865413,
+    "id_str": "1415347620478865413",
+    "full_text": "\u00a1Orgullosamente chola!\nNo me vacun\u00e9 en #Miami con #Pfizer, en el #ColegioBenalc\u00e1zar me trataron lindo, con una mano de \u00e1ngel Nancy Conde de @Salud_Ec me vacun\u00f3 con #Sinovac y me pegu\u00e9 un bailecito mientras sal\u00eda feliz con mi carnet \ud83d\ude01\n@Presidencia_Ec gracias!\n#PlanVacunacion9100 https://t.co/RlYbZ15BCa",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        278
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Miami",
+                "indices": [
+                    39,
+                    45
+                ]
+            },
+            {
+                "text": "Pfizer",
+                "indices": [
+                    50,
+                    57
+                ]
+            },
+            {
+                "text": "ColegioBenalc\u00e1zar",
+                "indices": [
+                    65,
+                    83
+                ]
+            },
+            {
+                "text": "Sinovac",
+                "indices": [
+                    164,
+                    172
+                ]
+            },
+            {
+                "text": "PlanVacunacion9100",
+                "indices": [
+                    259,
+                    278
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Salud_Ec",
+                "name": "Ministerio de Salud P\u00fablica",
+                "id": 222231985,
+                "id_str": "222231985",
+                "indices": [
+                    140,
+                    149
+                ]
+            },
+            {
+                "screen_name": "Presidencia_Ec",
+                "name": "Presidencia ECU",
+                "id": 101895924,
+                "id_str": "101895924",
+                "indices": [
+                    234,
+                    249
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415347605303873542,
+                "id_str": "1415347605303873542",
+                "indices": [
+                    279,
+                    302
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RTJe_WUAYrKRY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RTJe_WUAYrKRY.jpg",
+                "url": "https://t.co/RlYbZ15BCa",
+                "display_url": "pic.twitter.com/RlYbZ15BCa",
+                "expanded_url": "https://twitter.com/NataCassette/status/1415347620478865413/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 542,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 816,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 816,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415347605303873542,
+                "id_str": "1415347605303873542",
+                "indices": [
+                    279,
+                    302
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RTJe_WUAYrKRY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RTJe_WUAYrKRY.jpg",
+                "url": "https://t.co/RlYbZ15BCa",
+                "display_url": "pic.twitter.com/RlYbZ15BCa",
+                "expanded_url": "https://twitter.com/NataCassette/status/1415347620478865413/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 542,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 816,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 816,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415347617807077380,
+                "id_str": "1415347617807077380",
+                "indices": [
+                    279,
+                    302
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RTKNkWEAQ5ZFz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RTKNkWEAQ5ZFz.jpg",
+                "url": "https://t.co/RlYbZ15BCa",
+                "display_url": "pic.twitter.com/RlYbZ15BCa",
+                "expanded_url": "https://twitter.com/NataCassette/status/1415347620478865413/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 134165219,
+        "id_str": "134165219",
+        "name": "Nata Cassette",
+        "screen_name": "NataCassette",
+        "location": "Ecuador",
+        "description": "Don't follow me, I'm a bad influence!",
+        "url": "https://t.co/7COOWdGDeO",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/7COOWdGDeO",
+                        "expanded_url": "https://www.instagram.com/natacassette",
+                        "display_url": "instagram.com/natacassette",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 18630,
+        "friends_count": 2775,
+        "listed_count": 47,
+        "created_at": "Sat Apr 17 16:37:27 +0000 2010",
+        "favourites_count": 32515,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 47323,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "08122E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415286685844361219/5tJLQmc9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415286685844361219/5tJLQmc9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134165219/1626265615",
+        "profile_link_color": "841FBF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "B45ED9",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

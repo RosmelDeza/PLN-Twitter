@@ -1,0 +1,300 @@
+{
+    "created_at": "Wed Jul 14 16:02:30 +0000 2021",
+    "id": 1415340941918052352,
+    "id_str": "1415340941918052352",
+    "full_text": "Con justa raz\u00f3n. Cuerpo m\u00e9dico es primera l\u00ednea ante el Covid y tienen que tener toda la seguridad del caso. El lagarto no es nadie, no es nada y alegremente se enchuf\u00f3 sinopharm y encima le aplicaron Pfizer en 3era dosis. L\u00e1stima q la vacuna china act\u00fae bien en sangre de lagarto https://t.co/GDnCpOrxIG",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        280
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/GDnCpOrxIG",
+                "expanded_url": "https://twitter.com/Gestionpe/status/1415287029437542403",
+                "display_url": "twitter.com/Gestionpe/stat\u2026",
+                "indices": [
+                    281,
+                    304
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 55996949,
+        "id_str": "55996949",
+        "name": "labohemianoche",
+        "screen_name": "labohemianoche",
+        "location": "Per\u00fa",
+        "description": "Anticaviar al 200%\nPresidenta electa de la Rep\u00fablica del Per\u00fa (2021 - 2026)",
+        "url": "https://t.co/D42yPFTNMF",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/D42yPFTNMF",
+                        "expanded_url": "http://labohemianoche.blogspot.com/",
+                        "display_url": "labohemianoche.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4490,
+        "friends_count": 1755,
+        "listed_count": 23,
+        "created_at": "Sun Jul 12 02:39:43 +0000 2009",
+        "favourites_count": 27826,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 82514,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1377335419117957125/j9CG9Ezt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377335419117957125/j9CG9Ezt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55996949/1433834902",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415287029437542403,
+    "quoted_status_id_str": "1415287029437542403",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 12:28:17 +0000 2021",
+        "id": 1415287029437542403,
+        "id_str": "1415287029437542403",
+        "full_text": "M\u00e9dicos eval\u00faan paro si gobierno no acepta inocularlos con vacuna Pfizer \u25ba https://t.co/1nmCAzWVs5 https://t.co/hLIMSSWHbQ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            98
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1nmCAzWVs5",
+                    "expanded_url": "https://bit.ly/3kjbRtY",
+                    "display_url": "bit.ly/3kjbRtY",
+                    "indices": [
+                        75,
+                        98
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415287021069799427,
+                    "id_str": "1415287021069799427",
+                    "indices": [
+                        99,
+                        122
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                    "url": "https://t.co/hLIMSSWHbQ",
+                    "display_url": "pic.twitter.com/hLIMSSWHbQ",
+                    "expanded_url": "https://twitter.com/Gestionpe/status/1415287029437542403/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415287021069799427,
+                    "id_str": "1415287021069799427",
+                    "indices": [
+                        99,
+                        122
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                    "url": "https://t.co/hLIMSSWHbQ",
+                    "display_url": "pic.twitter.com/hLIMSSWHbQ",
+                    "expanded_url": "https://twitter.com/Gestionpe/status/1415287029437542403/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 110822488,
+            "id_str": "110822488",
+            "name": "Diario Gesti\u00f3n",
+            "screen_name": "Gestionpe",
+            "location": "Lima",
+            "description": "Gesti\u00f3n, el diario de econom\u00eda y negocios del Per\u00fa, tambi\u00e9n te informa en Twitter.",
+            "url": "http://t.co/heDAHaqCJi",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/heDAHaqCJi",
+                            "expanded_url": "http://gestion.pe/",
+                            "display_url": "gestion.pe",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1377468,
+            "friends_count": 860,
+            "listed_count": 2664,
+            "created_at": "Tue Feb 02 22:07:53 +0000 2010",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 256626,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9D0924",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1176951363919646720/Fub3L8f8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176951363919646720/Fub3L8f8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/110822488/1602109292",
+            "profile_link_color": "9D0924",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFE6D0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 32,
+        "favorite_count": 113,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

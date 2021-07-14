@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 15:56:31 +0000 2021",
+    "id": 1415339434132742145,
+    "id_str": "1415339434132742145",
+    "full_text": "@ChinaEmbPeru F\u00e1cil si tienes la opci\u00f3n de Pfizer o sinopharm cu\u00e1l escoger\u00edas?  APUESTO Q LOS IMBECILES Q PONEN CIRAZON SE PONEN O YA SE PUSIERON PFIZER",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        152
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ChinaEmbPeru",
+                "name": "Embajada de China en el Per\u00fa",
+                "id": 1229881161171775488,
+                "id_str": "1229881161171775488",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415090114036961281,
+    "in_reply_to_status_id_str": "1415090114036961281",
+    "in_reply_to_user_id": 1229881161171775488,
+    "in_reply_to_user_id_str": "1229881161171775488",
+    "in_reply_to_screen_name": "ChinaEmbPeru",
+    "user": {
+        "id": 727255995898941442,
+        "id_str": "727255995898941442",
+        "name": "Jose cajahuaringa",
+        "screen_name": "Josecajahuarin2",
+        "location": "Laguna Hills, CA",
+        "description": "alegre y apasionado",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 266,
+        "friends_count": 928,
+        "listed_count": 1,
+        "created_at": "Mon May 02 21:58:36 +0000 2016",
+        "favourites_count": 5666,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8665,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/777047901671260161/X8v1pCkG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/777047901671260161/X8v1pCkG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/727255995898941442/1474097015",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

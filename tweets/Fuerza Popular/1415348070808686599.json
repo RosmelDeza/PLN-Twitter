@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 16:30:50 +0000 2021",
+    "id": 1415348070808686599,
+    "id_str": "1415348070808686599",
+    "full_text": "@VeroLinaresC Si Fuerza Popular es la corrupci\u00f3n de extrema derecha y Per\u00fa Libre Vladimiro Cerr\u00f3n y compa\u00f1\u00eda son la corrupci\u00f3n de extrema izquierda y profesor con un doble discurso, la escopeta de dos ca\u00f1ones, pobre de m\u00ed Per\u00fa \ud83c\uddf5\ud83c\uddea. Que pecados estamos pagando. Tanta improvisaci\u00f3n tanto enga\u00f1\u00f3",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        292
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VeroLinaresC",
+                "name": "Ver\u00f3nica Linares",
+                "id": 131331924,
+                "id_str": "131331924",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415312983325036544,
+    "in_reply_to_status_id_str": "1415312983325036544",
+    "in_reply_to_user_id": 131331924,
+    "in_reply_to_user_id_str": "131331924",
+    "in_reply_to_screen_name": "VeroLinaresC",
+    "user": {
+        "id": 1414679449371648004,
+        "id_str": "1414679449371648004",
+        "name": "Flavio Eduardo A.Z.",
+        "screen_name": "FlavioE65727365",
+        "location": "",
+        "description": "Moderno sin miedo, me gusta cuidar el medioambiente, las plantas, los perritos, me gusta la ciencia y la tecnolog\u00eda, soy posici\u00f3n pol\u00edtica de Centro, amo al SCJ",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 35,
+        "listed_count": 0,
+        "created_at": "Mon Jul 12 20:14:24 +0000 2021",
+        "favourites_count": 219,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 232,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414680066517344258/Bd6-Mf0-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414680066517344258/Bd6-Mf0-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

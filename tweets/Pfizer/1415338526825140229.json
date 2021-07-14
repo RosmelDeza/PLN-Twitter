@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jul 14 15:52:55 +0000 2021",
+    "id": 1415338526825140229,
+    "id_str": "1415338526825140229",
+    "full_text": "@hmalban @AlanLongy @LukiGrimson Buen dato, creo que la pfizer no es la \u00fanica vacuna disponible en USA",
+    "truncated": false,
+    "display_text_range": [
+        33,
+        102
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "hmalban",
+                "name": "Horacio Alban",
+                "id": 158352889,
+                "id_str": "158352889",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "AlanLongy",
+                "name": "Alan Christian Longy \ud83e\udde1",
+                "id": 173888869,
+                "id_str": "173888869",
+                "indices": [
+                    9,
+                    19
+                ]
+            },
+            {
+                "screen_name": "LukiGrimson",
+                "name": "Luki Grimson",
+                "id": 1833869725,
+                "id_str": "1833869725",
+                "indices": [
+                    20,
+                    32
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415331745491296259,
+    "in_reply_to_status_id_str": "1415331745491296259",
+    "in_reply_to_user_id": 158352889,
+    "in_reply_to_user_id_str": "158352889",
+    "in_reply_to_screen_name": "hmalban",
+    "user": {
+        "id": 2280240133,
+        "id_str": "2280240133",
+        "name": "J.E.V. \ud83c\udf13",
+        "screen_name": "Emancit0",
+        "location": "Hughes",
+        "description": "|\ud83d\udc0c |\u264a|\nIg: Ema.Vaccari\n.\n.\n.\n.\n.\n.\nEncajale, dijo Vaccari",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 233,
+        "friends_count": 189,
+        "listed_count": 1,
+        "created_at": "Tue Jan 07 07:40:41 +0000 2014",
+        "favourites_count": 24238,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1743,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1166046438381563904/9f0tHufF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166046438381563904/9f0tHufF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2280240133/1500874209",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

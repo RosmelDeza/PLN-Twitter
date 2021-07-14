@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 17:22:44 +0000 2021",
+    "id": 1415361131422621697,
+    "id_str": "1415361131422621697",
+    "full_text": "RT @revengewlfhrd: m ayudan a llegar a los 800? staneo a finn wolfhard, mcr, louis tomlinson etcetc lean mi carrd",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        113
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "revengewlfhrd",
+                "name": "` cam ; fear street",
+                "id": 1355381342087892994,
+                "id_str": "1355381342087892994",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1280593803200671744,
+        "id_str": "1280593803200671744",
+        "name": "abru lvs secta finnista\u00a1!",
+        "screen_name": "iSMOKEBOMMB",
+        "location": "s!her  best finnista",
+        "description": "tomando baggio multifruta con finn y jaeden||\nkatu\u2605",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 790,
+        "friends_count": 905,
+        "listed_count": 0,
+        "created_at": "Tue Jul 07 20:05:47 +0000 2020",
+        "favourites_count": 1494,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1735,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414390591761289217/KHeQqGwa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414390591761289217/KHeQqGwa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280593803200671744/1623794598",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:59:32 +0000 2021",
+        "id": 1415355292901167104,
+        "id_str": "1415355292901167104",
+        "full_text": "m ayudan a llegar a los 800? staneo a finn wolfhard, mcr, louis tomlinson etcetc lean mi carrd",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            94
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1355381342087892994,
+            "id_str": "1355381342087892994",
+            "name": "` cam ; fear street",
+            "screen_name": "revengewlfhrd",
+            "location": "",
+            "description": "hincha de bandas d ro\u00f1osos y river phoenix",
+            "url": "https://t.co/cJoMnx4UHk",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/cJoMnx4UHk",
+                            "expanded_url": "https://mikeymio.carrd.co/",
+                            "display_url": "mikeymio.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 770,
+            "friends_count": 819,
+            "listed_count": 11,
+            "created_at": "Sat Jan 30 05:04:43 +0000 2021",
+            "favourites_count": 3623,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4828,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414291884911042563/95jbTd-2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414291884911042563/95jbTd-2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1355381342087892994/1624460741",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

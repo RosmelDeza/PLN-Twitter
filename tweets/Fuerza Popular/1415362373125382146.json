@@ -1,0 +1,209 @@
+{
+    "created_at": "Wed Jul 14 17:27:40 +0000 2021",
+    "id": 1415362373125382146,
+    "id_str": "1415362373125382146",
+    "full_text": "Gracias @ClaudiaChavez_ por resolver r\u00e1pidamente las \u00faltimas impugnaciones de Fuerza Popular \u270a https://t.co/zLBj1pTrU1",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        94
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ClaudiaChavez_",
+                "name": "Claudia Ch\u00e1vez",
+                "id": 727709374081335297,
+                "id_str": "727709374081335297",
+                "indices": [
+                    8,
+                    23
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415362355295358979,
+                "id_str": "1415362355295358979",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RgkC_XEAMuxFm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RgkC_XEAMuxFm.jpg",
+                "url": "https://t.co/zLBj1pTrU1",
+                "display_url": "pic.twitter.com/zLBj1pTrU1",
+                "expanded_url": "https://twitter.com/KevinBazk/status/1415362373125382146/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 554,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 314,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 945,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415362355295358979,
+                "id_str": "1415362355295358979",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RgkC_XEAMuxFm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RgkC_XEAMuxFm.jpg",
+                "url": "https://t.co/zLBj1pTrU1",
+                "display_url": "pic.twitter.com/zLBj1pTrU1",
+                "expanded_url": "https://twitter.com/KevinBazk/status/1415362373125382146/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 554,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 314,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 945,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 246963112,
+        "id_str": "246963112",
+        "name": "Kevin Baz\u00e1n",
+        "screen_name": "KevinBazk",
+        "location": "Trujillo, Per\u00fa",
+        "description": "Comunicador de la Universidad Nacional de Trujillo. Prensa @FrenteAmplioPe 2019 - 2021",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 264,
+        "friends_count": 1745,
+        "listed_count": 8,
+        "created_at": "Thu Feb 03 20:30:41 +0000 2011",
+        "favourites_count": 9525,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2859,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330682702278889472/yBwEjUiA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330682702278889472/yBwEjUiA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/246963112/1605643569",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "017f24412e7d4240",
+        "url": "https://api.twitter.com/1.1/geo/id/017f24412e7d4240.json",
+        "place_type": "city",
+        "name": "Trujillo",
+        "full_name": "Trujillo, Peru",
+        "country_code": "PE",
+        "country": "Peru",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -79.0615900814438,
+                        -8.15646402104327
+                    ],
+                    [
+                        -78.9810181179055,
+                        -8.15646402104327
+                    ],
+                    [
+                        -78.9810181179055,
+                        -8.08864704240051
+                    ],
+                    [
+                        -79.0615900814438,
+                        -8.08864704240051
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

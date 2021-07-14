@@ -1,0 +1,207 @@
+{
+    "created_at": "Wed Jul 14 17:56:20 +0000 2021",
+    "id": 1415369586090905604,
+    "id_str": "1415369586090905604",
+    "full_text": "RT @Latina_Noticias: \ud83d\udd34 El representante legal del partido asegura que no se presentar\u00e1n acciones legales ante el Poder Judicial a pedido de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Latina_Noticias",
+                "name": "Latina Noticias",
+                "id": 78201907,
+                "id_str": "78201907",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 430170687,
+        "id_str": "430170687",
+        "name": "Roberto Rodr\u00edguez V",
+        "screen_name": "rrvillagomez",
+        "location": "",
+        "description": "El fracaso  no te sobrecoger\u00e1, si tu decisi\u00f3n por alcanzar el \u00e9xito es lo suficientemente poderosa. Og Mandino.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1967,
+        "friends_count": 3677,
+        "listed_count": 72,
+        "created_at": "Tue Dec 06 21:05:29 +0000 2011",
+        "favourites_count": 27567,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 349553,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453928875244793857/OW2zWadQ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453928875244793857/OW2zWadQ_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/430170687/1476251301",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:46:18 +0000 2021",
+        "id": 1415367063510585349,
+        "id_str": "1415367063510585349",
+        "full_text": "\ud83d\udd34 El representante legal del partido asegura que no se presentar\u00e1n acciones legales ante el Poder Judicial a pedido de Keiko Fujimori\nhttps://t.co/5yyf733tRv",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            157
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/5yyf733tRv",
+                    "expanded_url": "https://www.latina.pe/noticias/90/fuerza-popular-apelara-15-actas-de-proclamacion-de-los-jee",
+                    "display_url": "latina.pe/noticias/90/fu\u2026",
+                    "indices": [
+                        134,
+                        157
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 78201907,
+            "id_str": "78201907",
+            "name": "Latina Noticias",
+            "screen_name": "Latina_Noticias",
+            "location": "Lima, Peru",
+            "description": "Las \u00faltimas noticias del Per\u00fa y el mundo. #90Matinal #90Mediod\u00eda #90Central #90Digital #PuntoFinal #ReporteSemanal",
+            "url": "https://t.co/aiAWGkXXbW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/aiAWGkXXbW",
+                            "expanded_url": "http://www.latina.pe/noticias",
+                            "display_url": "latina.pe/noticias",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 869434,
+            "friends_count": 221,
+            "listed_count": 1337,
+            "created_at": "Tue Sep 29 03:15:30 +0000 2009",
+            "favourites_count": 322,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 64724,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329246190689464323/rJHCK9q-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329246190689464323/rJHCK9q-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/78201907/1617325238",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "213CC2",
+            "profile_text_color": "FFFFFF",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

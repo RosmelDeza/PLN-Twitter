@@ -1,0 +1,234 @@
+{
+    "created_at": "Wed Jul 14 16:19:09 +0000 2021",
+    "id": 1415345129666273280,
+    "id_str": "1415345129666273280",
+    "full_text": "RT @TelemundoNews: \u00bfEs necesaria una tercera dosis de la vacuna de Pfizer contra el #COVID19? Un experto lo aclara.\n\nhttps://t.co/gKe1nfmdZG",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID19",
+                "indices": [
+                    84,
+                    92
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TelemundoNews",
+                "name": "Noticias Telemundo",
+                "id": 152142811,
+                "id_str": "152142811",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/gKe1nfmdZG",
+                "expanded_url": "https://tlmdo.co/2U14htf",
+                "display_url": "tlmdo.co/2U14htf",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2957729835,
+        "id_str": "2957729835",
+        "name": "El Pueblo Exige..",
+        "screen_name": "oscarhaboni",
+        "location": "",
+        "description": "QUE LOS POL\u00cdTICOS CORRUPTOS DEVUELVAN LO DEFRAUDADO. NO A\u00d1ADAN MALDICI\u00d3N A SUS FAMILIAS. EL SALVADOR \ud83c\uddf8\ud83c\uddfb \ud83c\uddf8\ud83c\uddfb\ud83c\uddf8\ud83c\uddfb\ud83c\uddf8\ud83c\uddfb\ud83c\uddf8\ud83c\uddfb\ud83c\uddf8\ud83c\uddfb\ud83c\uddf8\ud83c\uddfb\ud83c\uddf8\ud83c\uddfb\ud83c\uddf8\ud83c\uddfb(Zirconio-Langville).",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4056,
+        "friends_count": 916,
+        "listed_count": 19,
+        "created_at": "Sat Jan 03 02:34:56 +0000 2015",
+        "favourites_count": 567538,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1289483,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1372226782007541760/lQ3RsubT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372226782007541760/lQ3RsubT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2957729835/1615047839",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:15:05 +0000 2021",
+        "id": 1415344106457423874,
+        "id_str": "1415344106457423874",
+        "full_text": "\u00bfEs necesaria una tercera dosis de la vacuna de Pfizer contra el #COVID19? Un experto lo aclara.\n\nhttps://t.co/gKe1nfmdZG",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            121
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        65,
+                        73
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/gKe1nfmdZG",
+                    "expanded_url": "https://tlmdo.co/2U14htf",
+                    "display_url": "tlmdo.co/2U14htf",
+                    "indices": [
+                        98,
+                        121
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 152142811,
+            "id_str": "152142811",
+            "name": "Noticias Telemundo",
+            "screen_name": "TelemundoNews",
+            "location": "United States",
+            "description": "Las historias de la comunidad latina en EE.UU. y la actualidad en el \ud83c\udf0e. #LasCosasComoSon",
+            "url": "https://t.co/9DyssB93b6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9DyssB93b6",
+                            "expanded_url": "http://www.noticiastelemundo.com",
+                            "display_url": "noticiastelemundo.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 858052,
+            "friends_count": 1066,
+            "listed_count": 3141,
+            "created_at": "Sat Jun 05 05:22:50 +0000 2010",
+            "favourites_count": 1337,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 174692,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F7F9FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017836658765557761/wht-z0SQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017836658765557761/wht-z0SQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/152142811/1616191443",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D3E4F0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

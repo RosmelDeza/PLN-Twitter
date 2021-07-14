@@ -1,0 +1,116 @@
+{
+    "created_at": "Wed Jul 14 16:07:48 +0000 2021",
+    "id": 1415342275018870784,
+    "id_str": "1415342275018870784",
+    "full_text": "@cuadradodaniel @Dr_Julio_Medina @amagi_lu Era necesario para evitar contagios que hubieran evitado muertes en marzo-abril-mayo-junio , era disminuir movilidad o comenzar a vacunar antes (enero x ejemplo) pero no se pudo porque un portero del MSP dijo en noviembre que no le interesaban vacunas de Pfizer.",
+    "truncated": false,
+    "display_text_range": [
+        43,
+        305
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cuadradodaniel",
+                "name": "daniel cuadrado1891",
+                "id": 326963241,
+                "id_str": "326963241",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "Dr_Julio_Medina",
+                "name": "Dr. PhD. JULIO MEDINA",
+                "id": 156823985,
+                "id_str": "156823985",
+                "indices": [
+                    16,
+                    32
+                ]
+            },
+            {
+                "screen_name": "amagi_lu",
+                "name": "Ama-gi \ud83d\udc0d",
+                "id": 50741155,
+                "id_str": "50741155",
+                "indices": [
+                    33,
+                    42
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415106263596380162,
+    "in_reply_to_status_id_str": "1415106263596380162",
+    "in_reply_to_user_id": 326963241,
+    "in_reply_to_user_id_str": "326963241",
+    "in_reply_to_screen_name": "cuadradodaniel",
+    "user": {
+        "id": 357690945,
+        "id_str": "357690945",
+        "name": "\u00c1lvaro Rodr\u00edguez",
+        "screen_name": "OlimpiaIASA",
+        "location": "Montevideo",
+        "description": "Fan\u00e1tico de la IASA y de Olimpia.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 10,
+        "listed_count": 0,
+        "created_at": "Thu Aug 18 19:19:27 +0000 2011",
+        "favourites_count": 28,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

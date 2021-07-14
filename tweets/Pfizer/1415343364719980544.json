@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 16:12:08 +0000 2021",
+    "id": 1415343364719980544,
+    "id_str": "1415343364719980544",
+    "full_text": "@Augustsplitaway Ah no mames \ud83d\ude2d s\u00ed me pusieron la pfizer ayyy chichis nuevas grandotas \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        89
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Augustsplitaway",
+                "name": "Dra Swift Carrington \ud83c\udf18",
+                "id": 284884128,
+                "id_str": "284884128",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415343177704353799,
+    "in_reply_to_status_id_str": "1415343177704353799",
+    "in_reply_to_user_id": 284884128,
+    "in_reply_to_user_id_str": "284884128",
+    "in_reply_to_screen_name": "Augustsplitaway",
+    "user": {
+        "id": 344785153,
+        "id_str": "344785153",
+        "name": "anayrimss",
+        "screen_name": "AnayriSr",
+        "location": "Ciudad Ju\u00e1rez, Chih. ",
+        "description": "media otaku, soy mip.",
+        "url": "https://t.co/U6DPIO735E",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/U6DPIO735E",
+                        "expanded_url": "http://vsco.com/anayrisr",
+                        "display_url": "vsco.com/anayrisr",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 962,
+        "friends_count": 896,
+        "listed_count": 1,
+        "created_at": "Fri Jul 29 15:48:09 +0000 2011",
+        "favourites_count": 8202,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13086,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "171615",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407082980489797634/-TQalgNM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407082980489797634/-TQalgNM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344785153/1624973760",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "9CAA95",
+        "profile_text_color": "5D9182",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

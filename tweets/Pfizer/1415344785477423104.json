@@ -1,0 +1,140 @@
+{
+    "created_at": "Wed Jul 14 16:17:47 +0000 2021",
+    "id": 1415344785477423104,
+    "id_str": "1415344785477423104",
+    "full_text": "Hoy se cumplen 42 d\u00edas de que en Lerma y San Mateo Atenco, @Edomex se aplic\u00f3 la primer dosis de la vacuna Pfizer a la poblaci\u00f3n de 40-49 a\u00f1os y no hay fecha para aplicar la segunda dosis! Ccp @alfredodelmazo @SaludEdomex",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        220
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Edomex",
+                "name": "Gobierno del Estado de M\u00e9xico",
+                "id": 15946615,
+                "id_str": "15946615",
+                "indices": [
+                    59,
+                    66
+                ]
+            },
+            {
+                "screen_name": "alfredodelmazo",
+                "name": "Alfredo Del Mazo",
+                "id": 39860797,
+                "id_str": "39860797",
+                "indices": [
+                    192,
+                    207
+                ]
+            },
+            {
+                "screen_name": "SaludEdomex",
+                "name": "Secretar\u00eda de Salud del Estado de M\u00e9xico",
+                "id": 493516226,
+                "id_str": "493516226",
+                "indices": [
+                    208,
+                    220
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 80144254,
+        "id_str": "80144254",
+        "name": "Avi \ud83d\ude37\ud83e\udd86",
+        "screen_name": "avieu",
+        "location": "Estado de M\u00e9xico",
+        "description": "Professional overthinker. Ni fif\u00ed, ni pagada, CIUDADANA, millennial. Pol\u00edtica, animales y MA\u00d1ANERAS con cuack https://t.co/XGHBzbk3g3",
+        "url": "https://t.co/HxbeKviIYJ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/HxbeKviIYJ",
+                        "expanded_url": "http://www.youtube.com/avieu",
+                        "display_url": "youtube.com/avieu",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/XGHBzbk3g3",
+                        "expanded_url": "https://www.facebook.com/avieu",
+                        "display_url": "facebook.com/avieu",
+                        "indices": [
+                            110,
+                            133
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 41590,
+        "friends_count": 770,
+        "listed_count": 120,
+        "created_at": "Mon Oct 05 22:34:35 +0000 2009",
+        "favourites_count": 109451,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 120889,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404238170124951557/2VK1bNQU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404238170124951557/2VK1bNQU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80144254/1615690449",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

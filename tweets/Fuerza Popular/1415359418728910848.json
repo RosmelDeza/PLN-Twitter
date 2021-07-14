@@ -1,0 +1,208 @@
+{
+    "created_at": "Wed Jul 14 17:15:56 +0000 2021",
+    "id": 1415359418728910848,
+    "id_str": "1415359418728910848",
+    "full_text": "Esto es una investigaci\u00f3n FISCAL, donde no puede culparse a naranjas o a cualquier fuerza democr\u00e1tica de manejar las pruebas.\nAnte tanta evidencia \u00bfQu\u00e9 esperamos para ir a palacio y exigir se haga VERDADERA JUSTICIA ante el atropello brutal a la voluntad popular? https://t.co/4RKPIgIteb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        263
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/4RKPIgIteb",
+                "expanded_url": "https://twitter.com/romerocaroperu/status/1415052143074152449",
+                "display_url": "twitter.com/romerocaroperu\u2026",
+                "indices": [
+                    264,
+                    287
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1389611651406737409,
+        "id_str": "1389611651406737409",
+        "name": "Luis S.Gonzales",
+        "screen_name": "LuisSGonzales3",
+        "location": "",
+        "description": "A dar batalla.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 90,
+        "friends_count": 173,
+        "listed_count": 0,
+        "created_at": "Tue May 04 16:04:02 +0000 2021",
+        "favourites_count": 6819,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2319,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1389705908364709892/dOIm8Fk__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389705908364709892/dOIm8Fk__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415052143074152449,
+    "quoted_status_id_str": "1415052143074152449",
+    "quoted_status": {
+        "created_at": "Tue Jul 13 20:54:55 +0000 2021",
+        "id": 1415052143074152449,
+        "id_str": "1415052143074152449",
+        "full_text": "Audiencia - Los Din\u00e1micos del Centro: Ver minuto 17 y siguientes : Han encontrado chats en los que hay hasta hay fotos de actas - nombre del Chat \"Presidentes de Mesa\". Ir a https://t.co/nG4x6QsZ2j",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            197
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/nG4x6QsZ2j",
+                    "expanded_url": "https://youtu.be/J4XVK1rDcLM",
+                    "display_url": "youtu.be/J4XVK1rDcLM",
+                    "indices": [
+                        174,
+                        197
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1141456125306507264,
+            "id_str": "1141456125306507264",
+            "name": "Manuel Romero Caro",
+            "screen_name": "romerocaroperu",
+            "location": "Lima, Peru",
+            "description": "Economista independiente de grupos econ\u00f3micos y agrupaciones pol\u00edticas, que busca defender el inter\u00e9s publico y promover la libertad econ\u00f3mica y social.",
+            "url": "https://t.co/HtTYlh5AsN",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/HtTYlh5AsN",
+                            "expanded_url": "http://www.romerocaro.com",
+                            "display_url": "romerocaro.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12300,
+            "friends_count": 251,
+            "listed_count": 28,
+            "created_at": "Wed Jun 19 21:22:02 +0000 2019",
+            "favourites_count": 38,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5244,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1154565610711474176/mXaCOEoq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154565610711474176/mXaCOEoq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141456125306507264/1571180892",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 452,
+        "favorite_count": 796,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

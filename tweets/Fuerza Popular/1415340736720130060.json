@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 16:01:42 +0000 2021",
+    "id": 1415340736720130060,
+    "id_str": "1415340736720130060",
+    "full_text": "@alvarosarco Los afiliados a un partido hacen de  personeros voluntarios, adhonoren. Yo vote en una ciudad y si hab\u00eda personeros de fuerza popular. Y era el \u00fanico personero en mi mesa de votaci\u00f3n.",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        196
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alvarosarco",
+                "name": "\u00c1lvaro Sarco \ud83c\uddf5\ud83c\uddea",
+                "id": 136649244,
+                "id_str": "136649244",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415151295275601921,
+    "in_reply_to_status_id_str": "1415151295275601921",
+    "in_reply_to_user_id": 136649244,
+    "in_reply_to_user_id_str": "136649244",
+    "in_reply_to_screen_name": "alvarosarco",
+    "user": {
+        "id": 1067955763438587904,
+        "id_str": "1067955763438587904",
+        "name": "Teresa mc",
+        "screen_name": "Teresamc18",
+        "location": "Lima, Peru",
+        "description": "Born to be happy \u270c\ud83c\udfad\u270c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 406,
+        "friends_count": 3701,
+        "listed_count": 0,
+        "created_at": "Thu Nov 29 01:37:50 +0000 2018",
+        "favourites_count": 6547,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2566,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357415758926667781/9UKS23UG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357415758926667781/9UKS23UG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067955763438587904/1543526849",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

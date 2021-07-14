@@ -1,0 +1,288 @@
+{
+    "created_at": "Wed Jul 14 17:46:23 +0000 2021",
+    "id": 1415367081881743362,
+    "id_str": "1415367081881743362",
+    "full_text": "RT @Soufpinto: Imag\u00ednate ir re tranqui y encontrarte a Louis Tomlinson y que aparte te d\u00e9 un jugo de manzana, mi sue\u00f1o https://t.co/Ft2cUDm\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Soufpinto",
+                "name": "Souf ; cdc \ud83d\udc7e",
+                "id": 1347583419417583618,
+                "id_str": "1347583419417583618",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 971470206248914946,
+        "id_str": "971470206248914946",
+        "name": "\ud83c\udf0cPatriciaOMG\u00b2\u2078\u00d7\u035c\u00d7\ud83c\udf0c\ud83d\udc69\ud83c\udffb\u200d\u2695\ufe0f\ud83e\ude7a\ud83d\udc89\ud83e\uddec\ud83e\uddea",
+        "screen_name": "ImLinkinParkFan",
+        "location": "\u2728\ud83c\udf08Princess Park\ud83c\udf08\u2728",
+        "description": "Hvis du kan dr\u00f8mme det kan du gj\u00f8re det\u2764\ufe0f\n\n\ud83c\udf38\ud83d\udc9c\ud83d\udc99\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83d\udc9b\ud83e\udd0d\ud83d\udc9c\ud83d\udda4\n\ud83d\udc49\ud83c\udffbHe/She\ud83d\udc48\ud83c\udffb                                          \n\n\u2606\u26af\u035b\n\u26061D\n\u2606SNK\n\u260613RW\n\u2606P!ATD\n\u2606MMer",
+        "url": "https://t.co/KymJcU7wYG",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/KymJcU7wYG",
+                        "expanded_url": "http://patys.carrd.co",
+                        "display_url": "patys.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 336,
+        "friends_count": 612,
+        "listed_count": 11,
+        "created_at": "Wed Mar 07 19:38:40 +0000 2018",
+        "favourites_count": 22868,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11789,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412064920242360325/JUfhAilo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412064920242360325/JUfhAilo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/971470206248914946/1625488852",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:36:12 +0000 2021",
+        "id": 1415319223430156288,
+        "id_str": "1415319223430156288",
+        "full_text": "Imag\u00ednate ir re tranqui y encontrarte a Louis Tomlinson y que aparte te d\u00e9 un jugo de manzana, mi sue\u00f1o https://t.co/Ft2cUDmjyd",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            103
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415319218388615169,
+                    "id_str": "1415319218388615169",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q5VJfWQAEIavH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q5VJfWQAEIavH.jpg",
+                    "url": "https://t.co/Ft2cUDmjyd",
+                    "display_url": "pic.twitter.com/Ft2cUDmjyd",
+                    "expanded_url": "https://twitter.com/Soufpinto/status/1415319223430156288/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415319218388615169,
+                    "id_str": "1415319218388615169",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q5VJfWQAEIavH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q5VJfWQAEIavH.jpg",
+                    "url": "https://t.co/Ft2cUDmjyd",
+                    "display_url": "pic.twitter.com/Ft2cUDmjyd",
+                    "expanded_url": "https://twitter.com/Soufpinto/status/1415319223430156288/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1347583419417583618,
+            "id_str": "1347583419417583618",
+            "name": "Souf ; cdc \ud83d\udc7e",
+            "screen_name": "Soufpinto",
+            "location": "fan account ",
+            "description": "\u034f \u034f \u034f \u034f \u034f\ud83d\udcad....viendo Shingeki no kyojin con Louis fetus",
+            "url": "https://t.co/I9Jvw40yF2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/I9Jvw40yF2",
+                            "expanded_url": "https://Louis.xn--jhfz3g/",
+                            "display_url": "Louis.\u196b\u1b61",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11133,
+            "friends_count": 7377,
+            "listed_count": 11,
+            "created_at": "Fri Jan 08 16:38:28 +0000 2021",
+            "favourites_count": 1918,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5970,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414269558014287876/A1UFh8Qy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414269558014287876/A1UFh8Qy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347583419417583618/1626022439",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 182,
+        "favorite_count": 1470,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 182,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

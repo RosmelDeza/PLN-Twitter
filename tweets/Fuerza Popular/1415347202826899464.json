@@ -1,0 +1,231 @@
+{
+    "created_at": "Wed Jul 14 16:27:23 +0000 2021",
+    "id": 1415347202826899464,
+    "id_str": "1415347202826899464",
+    "full_text": "RT @CanalBpe: Admiten a tr\u00e1mite recurso de habeas data interpuesto por Fuerza Popular contra la ONPE  | @CanalBpe #ElCanalDelBicentenario h\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ElCanalDelBicentenario",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CanalBpe",
+                "name": "CanalB",
+                "id": 1377377853092810759,
+                "id_str": "1377377853092810759",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "CanalBpe",
+                "name": "CanalB",
+                "id": 1377377853092810759,
+                "id_str": "1377377853092810759",
+                "indices": [
+                    104,
+                    113
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1542402864,
+        "id_str": "1542402864",
+        "name": "Alexander Daniel Espinal Lavado",
+        "screen_name": "ADaEsLa",
+        "location": "955641218",
+        "description": "Abogado y Liberal \u2696\ufe0f\ud83d\udcd6\ud83c\uddf5\ud83c\uddea",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 187,
+        "friends_count": 377,
+        "listed_count": 0,
+        "created_at": "Mon Jun 24 03:53:40 +0000 2013",
+        "favourites_count": 6797,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 59413,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396479080065900547/boH6i2nT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396479080065900547/boH6i2nT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542402864/1621295315",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:38:36 +0000 2021",
+        "id": 1415334926992519171,
+        "id_str": "1415334926992519171",
+        "full_text": "Admiten a tr\u00e1mite recurso de habeas data interpuesto por Fuerza Popular contra la ONPE  | @CanalBpe #ElCanalDelBicentenario https://t.co/xEMwsBnS25",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            147
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ElCanalDelBicentenario",
+                    "indices": [
+                        100,
+                        123
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CanalBpe",
+                    "name": "CanalB",
+                    "id": 1377377853092810759,
+                    "id_str": "1377377853092810759",
+                    "indices": [
+                        90,
+                        99
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/xEMwsBnS25",
+                    "expanded_url": "https://canalb.pe/2021/noticias/elecciones-2021/admiten-a-tramite-recurso-de-habeas-data-interpuesto-por-fuerza-popular",
+                    "display_url": "canalb.pe/2021/noticias/\u2026",
+                    "indices": [
+                        124,
+                        147
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1377377853092810759,
+            "id_str": "1377377853092810759",
+            "name": "CanalB",
+            "screen_name": "CanalBpe",
+            "location": "",
+            "description": "Medio de comunicaci\u00f3n digital que cubre contenidos, como noticias, salud, gastronom\u00eda, turismo, entretenimiento, innovaci\u00f3n, historia, econom\u00eda, etc.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 99,
+            "friends_count": 11,
+            "listed_count": 0,
+            "created_at": "Wed Mar 31 21:50:54 +0000 2021",
+            "favourites_count": 4,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 164,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1384654374065131521/QrxRdXRF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384654374065131521/QrxRdXRF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1377377853092810759/1618335695",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,182 @@
+{
+    "created_at": "Wed Jul 14 16:17:50 +0000 2021",
+    "id": 1415344800077856771,
+    "id_str": "1415344800077856771",
+    "full_text": "RT @AXL_TheScourge: En esta vida llamada COVID, todos hemos sido la sinovac de alguien que quer\u00eda la pfizer.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        108
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AXL_TheScourge",
+                "name": "AXL",
+                "id": 1400089440207376391,
+                "id_str": "1400089440207376391",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 17302731,
+        "id_str": "17302731",
+        "name": "Cheli89. VIRGEN DE LAS REMESAS MILAGROSAS \ud83d\ude0c\ud83d\ude4f\u2764",
+        "screen_name": "cheli89",
+        "location": "Rep\u00fablica de Fif\u00eddonia",
+        "description": "Embajadora en NY, Mx/Fifidonia/Resistance\n\n\u00a1Yo s\u00ed cumpl\u00ed! Mexicana desde NYC para el mundo.\n\nNo le respondo a solovinos de L\u00f3pez.\n\nAmlovers: Fuchi \ud83d\udca9.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2597,
+        "friends_count": 501,
+        "listed_count": 1,
+        "created_at": "Tue Nov 11 04:16:12 +0000 2008",
+        "favourites_count": 125984,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 49666,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414727871759794180/bgJ6uH_D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414727871759794180/bgJ6uH_D_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17302731/1622502767",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:15:55 +0000 2021",
+        "id": 1415344316361453572,
+        "id_str": "1415344316361453572",
+        "full_text": "En esta vida llamada COVID, todos hemos sido la sinovac de alguien que quer\u00eda la pfizer.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            88
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1400089440207376391,
+            "id_str": "1400089440207376391",
+            "name": "AXL",
+            "screen_name": "AXL_TheScourge",
+            "location": "",
+            "description": "APAB \u2026 Te sigue",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3282,
+            "friends_count": 398,
+            "listed_count": 2,
+            "created_at": "Wed Jun 02 13:59:04 +0000 2021",
+            "favourites_count": 4089,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 795,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411524563700273153/RNyBAfqd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411524563700273153/RNyBAfqd_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 21,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

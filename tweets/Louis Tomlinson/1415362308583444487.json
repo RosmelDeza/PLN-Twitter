@@ -1,0 +1,262 @@
+{
+    "created_at": "Wed Jul 14 17:27:25 +0000 2021",
+    "id": 1415362308583444487,
+    "id_str": "1415362308583444487",
+    "full_text": "RT @VickyBlanco04: X: Superalo, Louis Tomlinson y Harry estan terminando su era de Walls y Fine line\nYo: NO ESTOY LISTA PARA ESOOOO https:/\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VickyBlanco04",
+                "name": "\ud835\udc49\ud835\udc56\ud835\udc50\ud835\udc58\ud835\udc66 \u2730",
+                "id": 1142951709112713216,
+                "id_str": "1142951709112713216",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1278394940670820352,
+        "id_str": "1278394940670820352",
+        "name": "Arely.t91 \ud83c\uddf5\ud83c\uddea",
+        "screen_name": "loue_are",
+        "location": "",
+        "description": "\ud83d\udc1d \ndirectioner\nperuana",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 137,
+        "friends_count": 168,
+        "listed_count": 0,
+        "created_at": "Wed Jul 01 18:28:48 +0000 2020",
+        "favourites_count": 2773,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1597,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394425540870918157/yP9CveIi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394425540870918157/yP9CveIi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1278394940670820352/1625317691",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:14:30 +0000 2021",
+        "id": 1415359061290328067,
+        "id_str": "1415359061290328067",
+        "full_text": "X: Superalo, Louis Tomlinson y Harry estan terminando su era de Walls y Fine line\nYo: NO ESTOY LISTA PARA ESOOOO https://t.co/a06ae2a8U6",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            112
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415359054176825344,
+                    "id_str": "1415359054176825344",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Rdj5XXsAAWAXd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Rdj5XXsAAWAXd.jpg",
+                    "url": "https://t.co/a06ae2a8U6",
+                    "display_url": "pic.twitter.com/a06ae2a8U6",
+                    "expanded_url": "https://twitter.com/VickyBlanco04/status/1415359061290328067/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 321,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 321,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 321,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415359054176825344,
+                    "id_str": "1415359054176825344",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Rdj5XXsAAWAXd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Rdj5XXsAAWAXd.jpg",
+                    "url": "https://t.co/a06ae2a8U6",
+                    "display_url": "pic.twitter.com/a06ae2a8U6",
+                    "expanded_url": "https://twitter.com/VickyBlanco04/status/1415359061290328067/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 321,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 321,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 321,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1142951709112713216,
+            "id_str": "1142951709112713216",
+            "name": "\ud835\udc49\ud835\udc56\ud835\udc50\ud835\udc58\ud835\udc66 \u2730",
+            "screen_name": "VickyBlanco04",
+            "location": "",
+            "description": "IG: _vickyblancoo",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 106,
+            "friends_count": 136,
+            "listed_count": 0,
+            "created_at": "Mon Jun 24 00:24:57 +0000 2019",
+            "favourites_count": 1155,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1834,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1387803281368436737/8-YGhnCK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387803281368436737/8-YGhnCK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1142951709112713216/1619991999",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 53,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

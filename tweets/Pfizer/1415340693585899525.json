@@ -1,0 +1,382 @@
+{
+    "created_at": "Wed Jul 14 16:01:31 +0000 2021",
+    "id": 1415340693585899525,
+    "id_str": "1415340693585899525",
+    "full_text": "RT @Gestionpe: M\u00e9dicos eval\u00faan paro si gobierno no acepta inocularlos con vacuna Pfizer \u25ba https://t.co/1nmCAzWVs5 https://t.co/hLIMSSWHbQ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Gestionpe",
+                "name": "Diario Gesti\u00f3n",
+                "id": 110822488,
+                "id_str": "110822488",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/1nmCAzWVs5",
+                "expanded_url": "https://bit.ly/3kjbRtY",
+                "display_url": "bit.ly/3kjbRtY",
+                "indices": [
+                    90,
+                    113
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415287021069799427,
+                "id_str": "1415287021069799427",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                "url": "https://t.co/hLIMSSWHbQ",
+                "display_url": "pic.twitter.com/hLIMSSWHbQ",
+                "expanded_url": "https://twitter.com/Gestionpe/status/1415287029437542403/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 1415287029437542403,
+                "source_status_id_str": "1415287029437542403",
+                "source_user_id": 110822488,
+                "source_user_id_str": "110822488"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415287021069799427,
+                "id_str": "1415287021069799427",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                "url": "https://t.co/hLIMSSWHbQ",
+                "display_url": "pic.twitter.com/hLIMSSWHbQ",
+                "expanded_url": "https://twitter.com/Gestionpe/status/1415287029437542403/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 1415287029437542403,
+                "source_status_id_str": "1415287029437542403",
+                "source_user_id": 110822488,
+                "source_user_id_str": "110822488"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 699710879173099520,
+        "id_str": "699710879173099520",
+        "name": "Carlos  C. Carrillo Dominguez",
+        "screen_name": "carlos1504511",
+        "location": "Lima, Peru",
+        "description": "Ing. Electr\u00f3nico de la UNMSM, Ex trab. de Telef\u00f3nica y MTC , Aliancista de coraz\u00f3n. RT no necesariamente es aval.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 298,
+        "friends_count": 587,
+        "listed_count": 0,
+        "created_at": "Tue Feb 16 21:44:08 +0000 2016",
+        "favourites_count": 49443,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 64519,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098346151852544005/4igFhZry_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098346151852544005/4igFhZry_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/699710879173099520/1556893232",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:28:17 +0000 2021",
+        "id": 1415287029437542403,
+        "id_str": "1415287029437542403",
+        "full_text": "M\u00e9dicos eval\u00faan paro si gobierno no acepta inocularlos con vacuna Pfizer \u25ba https://t.co/1nmCAzWVs5 https://t.co/hLIMSSWHbQ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            98
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1nmCAzWVs5",
+                    "expanded_url": "https://bit.ly/3kjbRtY",
+                    "display_url": "bit.ly/3kjbRtY",
+                    "indices": [
+                        75,
+                        98
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415287021069799427,
+                    "id_str": "1415287021069799427",
+                    "indices": [
+                        99,
+                        122
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                    "url": "https://t.co/hLIMSSWHbQ",
+                    "display_url": "pic.twitter.com/hLIMSSWHbQ",
+                    "expanded_url": "https://twitter.com/Gestionpe/status/1415287029437542403/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415287021069799427,
+                    "id_str": "1415287021069799427",
+                    "indices": [
+                        99,
+                        122
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QcDBIWEAM958n.png",
+                    "url": "https://t.co/hLIMSSWHbQ",
+                    "display_url": "pic.twitter.com/hLIMSSWHbQ",
+                    "expanded_url": "https://twitter.com/Gestionpe/status/1415287029437542403/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 110822488,
+            "id_str": "110822488",
+            "name": "Diario Gesti\u00f3n",
+            "screen_name": "Gestionpe",
+            "location": "Lima",
+            "description": "Gesti\u00f3n, el diario de econom\u00eda y negocios del Per\u00fa, tambi\u00e9n te informa en Twitter.",
+            "url": "http://t.co/heDAHaqCJi",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/heDAHaqCJi",
+                            "expanded_url": "http://gestion.pe/",
+                            "display_url": "gestion.pe",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1377468,
+            "friends_count": 860,
+            "listed_count": 2664,
+            "created_at": "Tue Feb 02 22:07:53 +0000 2010",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 256626,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9D0924",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1176951363919646720/Fub3L8f8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176951363919646720/Fub3L8f8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/110822488/1602109292",
+            "profile_link_color": "9D0924",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFE6D0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 32,
+        "favorite_count": 113,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

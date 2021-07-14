@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 17:14:50 +0000 2021",
+    "id": 1415359145071493121,
+    "id_str": "1415359145071493121",
+    "full_text": "Entre dos campos \u2013 Cr\u00f3nica sobre una visita a los campamentos de Fuerza Popular y Per\u00fa Libre en el Centro de Lima. https://t.co/CgPd3jXETk",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/CgPd3jXETk",
+                "expanded_url": "https://www.inforegion.pe/286711/entre-dos-campos/",
+                "display_url": "inforegion.pe/286711/entre-d\u2026",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 48765524,
+        "id_str": "48765524",
+        "name": "Inforegi\u00f3n",
+        "screen_name": "inforegion",
+        "location": "Per\u00fa",
+        "description": "Agencia de Prensa Ambiental \ud83c\udf31\u267b\ufe0f Descentralizando la informaci\u00f3n \ud83c\udf0e",
+        "url": "https://t.co/qevSsDQ8dr",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/qevSsDQ8dr",
+                        "expanded_url": "http://www.inforegion.pe",
+                        "display_url": "inforegion.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11783,
+        "friends_count": 494,
+        "listed_count": 189,
+        "created_at": "Fri Jun 19 17:17:54 +0000 2009",
+        "favourites_count": 5896,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 60400,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1369060370313318400/Ve7rmCl4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369060370313318400/Ve7rmCl4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48765524/1615769808",
+        "profile_link_color": "4208FF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "B3E065",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

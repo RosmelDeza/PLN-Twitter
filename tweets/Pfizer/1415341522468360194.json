@@ -1,0 +1,335 @@
+{
+    "created_at": "Wed Jul 14 16:04:49 +0000 2021",
+    "id": 1415341522468360194,
+    "id_str": "1415341522468360194",
+    "full_text": "RT @USAmbPY: Con el presidente @maritoabdo observamos gran coordinaci\u00f3n en la administraci\u00f3n y masiva concurrencia de paraguayos en el aut\u00f3\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USAmbPY",
+                "name": "Joe Salazar",
+                "id": 2978230065,
+                "id_str": "2978230065",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "MaritoAbdo",
+                "name": "Marito Abdo",
+                "id": 448165069,
+                "id_str": "448165069",
+                "indices": [
+                    31,
+                    42
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 577144138,
+        "id_str": "577144138",
+        "name": "Elena Guillen \ud83c\uddf5\ud83c\uddfe",
+        "screen_name": "ElenaGuillen6",
+        "location": "Asuncion, Paraguay",
+        "description": "Me encanta el picante de lunes a lunes.\nAurinegra \ud83d\udc9b\u26ab adicta a la AM. Escribo cuentos, pero no los publico \ud83d\udcd2\ud83d\udcd4\ud83d\udcda\u270f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2844,
+        "friends_count": 3516,
+        "listed_count": 11,
+        "created_at": "Fri May 11 13:35:59 +0000 2012",
+        "favourites_count": 10474,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 32889,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1380164596229672962/Lr4Pr94o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380164596229672962/Lr4Pr94o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/577144138/1530798894",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:02:41 +0000 2021",
+        "id": 1415340984007806977,
+        "id_str": "1415340984007806977",
+        "full_text": "Con el presidente @maritoabdo observamos gran coordinaci\u00f3n en la administraci\u00f3n y masiva concurrencia de paraguayos en el aut\u00f3dromo Ruben Dumot para recibir vacunas #Pfizer donadas por el pueblo de #EEUU el viernes pasado. Juntos contra el #COVID19 #VacunatePy \n\n\ud83d\udcf7@PresidenciaPy https://t.co/l3fE5qkdt8",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Pfizer",
+                    "indices": [
+                        165,
+                        172
+                    ]
+                },
+                {
+                    "text": "EEUU",
+                    "indices": [
+                        198,
+                        203
+                    ]
+                },
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        240,
+                        248
+                    ]
+                },
+                {
+                    "text": "VacunatePy",
+                    "indices": [
+                        249,
+                        260
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MaritoAbdo",
+                    "name": "Marito Abdo",
+                    "id": 448165069,
+                    "id_str": "448165069",
+                    "indices": [
+                        18,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "PresidenciaPy",
+                    "name": "Presidencia Paraguay",
+                    "id": 99295157,
+                    "id_str": "99295157",
+                    "indices": [
+                        264,
+                        278
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415340977967992832,
+                    "id_str": "1415340977967992832",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RNHuPWEAAs6ir.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RNHuPWEAAs6ir.jpg",
+                    "url": "https://t.co/l3fE5qkdt8",
+                    "display_url": "pic.twitter.com/l3fE5qkdt8",
+                    "expanded_url": "https://twitter.com/USAmbPY/status/1415340984007806977/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 791,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 525,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 791,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415340977967992832,
+                    "id_str": "1415340977967992832",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RNHuPWEAAs6ir.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RNHuPWEAAs6ir.jpg",
+                    "url": "https://t.co/l3fE5qkdt8",
+                    "display_url": "pic.twitter.com/l3fE5qkdt8",
+                    "expanded_url": "https://twitter.com/USAmbPY/status/1415340984007806977/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 791,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 525,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 791,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2978230065,
+            "id_str": "2978230065",
+            "name": "Joe Salazar",
+            "screen_name": "USAmbPY",
+            "location": "Asunci\u00f3n, Paraguay.",
+            "description": "Cuenta oficial del Encargado de Negocios de los Estados Unidos en Paraguay \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddfe",
+            "url": "https://t.co/XbRb8F7jgy",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/XbRb8F7jgy",
+                            "expanded_url": "https://py.usembassy.gov/our-relationship/head-of-the-mission/",
+                            "display_url": "py.usembassy.gov/our-relationsh\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 28961,
+            "friends_count": 210,
+            "listed_count": 35,
+            "created_at": "Wed Jan 14 16:05:13 +0000 2015",
+            "favourites_count": 1915,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1917,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1306276359778586624/9MRdvVSj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1306276359778586624/9MRdvVSj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2978230065/1611251309",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 62,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

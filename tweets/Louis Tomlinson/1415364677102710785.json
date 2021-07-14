@@ -1,0 +1,298 @@
+{
+    "created_at": "Wed Jul 14 17:36:49 +0000 2021",
+    "id": 1415364677102710785,
+    "id_str": "1415364677102710785",
+    "full_text": "RT @runawaysiux: no se explicar lo mucho que amo a este ser humano, te amo con nada parte de m\u00ed coraz\u00f3n, me haces feliz Louis Tomlinson htt\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "runawaysiux",
+                "name": "\ud83d\udc8c",
+                "id": 1251919802433703936,
+                "id_str": "1251919802433703936",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 954971288048754688,
+        "id_str": "954971288048754688",
+        "name": "Alex Live ARGENTA PAP\u00c1",
+        "screen_name": "larryssafari",
+        "location": "Ot5 & The Avengers ",
+        "description": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08// 03/05/14 || she/her \ud83c\udde6\ud83c\uddf7 tamb staneo streamers - X\u2019land",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2242,
+        "friends_count": 2776,
+        "listed_count": 2,
+        "created_at": "Sun Jan 21 06:57:52 +0000 2018",
+        "favourites_count": 69680,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 33945,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1296060271048499201/I18XU5rK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296060271048499201/I18XU5rK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954971288048754688/1612074574",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:43:15 +0000 2021",
+        "id": 1415351194696957952,
+        "id_str": "1415351194696957952",
+        "full_text": "no se explicar lo mucho que amo a este ser humano, te amo con nada parte de m\u00ed coraz\u00f3n, me haces feliz Louis Tomlinson https://t.co/vgO97CLU1j",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            118
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415351189730992133,
+                    "id_str": "1415351189730992133",
+                    "indices": [
+                        119,
+                        142
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RWaIBXoAUtGrF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RWaIBXoAUtGrF.jpg",
+                    "url": "https://t.co/vgO97CLU1j",
+                    "display_url": "pic.twitter.com/vgO97CLU1j",
+                    "expanded_url": "https://twitter.com/runawaysiux/status/1415351194696957952/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 412,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 412,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 412,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415351189730992133,
+                    "id_str": "1415351189730992133",
+                    "indices": [
+                        119,
+                        142
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RWaIBXoAUtGrF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RWaIBXoAUtGrF.jpg",
+                    "url": "https://t.co/vgO97CLU1j",
+                    "display_url": "pic.twitter.com/vgO97CLU1j",
+                    "expanded_url": "https://twitter.com/runawaysiux/status/1415351194696957952/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 412,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 412,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 412,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415351192499245060,
+                    "id_str": "1415351192499245060",
+                    "indices": [
+                        119,
+                        142
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RWaSVX0AQzHGA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RWaSVX0AQzHGA.jpg",
+                    "url": "https://t.co/vgO97CLU1j",
+                    "display_url": "pic.twitter.com/vgO97CLU1j",
+                    "expanded_url": "https://twitter.com/runawaysiux/status/1415351194696957952/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 480,
+                            "h": 531,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 531,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 531,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1251919802433703936,
+            "id_str": "1251919802433703936",
+            "name": "\ud83d\udc8c",
+            "screen_name": "runawaysiux",
+            "location": "",
+            "description": "she/her",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33,
+            "friends_count": 289,
+            "listed_count": 0,
+            "created_at": "Sun Apr 19 17:05:26 +0000 2020",
+            "favourites_count": 24236,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6364,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411538020113727488/SS8jgdrI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411538020113727488/SS8jgdrI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251919802433703936/1625371864",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 48,
+        "favorite_count": 230,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 48,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

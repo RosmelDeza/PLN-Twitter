@@ -1,0 +1,215 @@
+{
+    "created_at": "Wed Jul 14 16:37:42 +0000 2021",
+    "id": 1415349796831993856,
+    "id_str": "1415349796831993856",
+    "full_text": "RT @judithdelamata: Tengo duda de que el abogado \u2066@jnaupari\u2069 sea especialista en Derecho Electoral, por cuanto parece que no est\u00e1 enterado\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "judithdelamata",
+                "name": "Judith de la Mata",
+                "id": 1282465331731202049,
+                "id_str": "1282465331731202049",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "jnaupari",
+                "name": "Jose Naupari",
+                "id": 141086717,
+                "id_str": "141086717",
+                "indices": [
+                    50,
+                    59
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 96909128,
+        "id_str": "96909128",
+        "name": "EDWIN ANGEL C\u00c1CERES POBLETE",
+        "screen_name": "EACACERES",
+        "location": "Cusco",
+        "description": "Abogado de profesi\u00f3n, especialista en Derecho de Trabajo, administrativo, tributario, actual empleado de EsSalud Cusco con mas de 34 a\u00f1os de servicio.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 62,
+        "friends_count": 284,
+        "listed_count": 0,
+        "created_at": "Tue Dec 15 04:05:53 +0000 2009",
+        "favourites_count": 39476,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 30393,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1312434767066001415/2bbAYYFL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312434767066001415/2bbAYYFL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96909128/1601743906",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:35:51 +0000 2021",
+        "id": 1415349333021626370,
+        "id_str": "1415349333021626370",
+        "full_text": "Tengo duda de que el abogado \u2066@jnaupari\u2069 sea especialista en Derecho Electoral, por cuanto parece que no est\u00e1 enterado que a trav\u00e9s de nuestra historia se ha efectuado muchas veces el fraude electoral y precisamente es en la mesa en d\u00f3nde empieza. https://t.co/sB4SDhstub",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            271
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jnaupari",
+                    "name": "Jose Naupari",
+                    "id": 141086717,
+                    "id_str": "141086717",
+                    "indices": [
+                        30,
+                        39
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/sB4SDhstub",
+                    "expanded_url": "https://elcomercio.pe/elecciones-2021/jose-naupari-un-juez-constitucional-no-puede-anular-una-eleccion-diciendo-que-hubo-fraude-porque-no-es-su-competencia-entrevista-fuerza-popular-peru-libre-pedro-castillo-keiko-fujimori-segunda-vuelta-noticia/",
+                    "display_url": "elcomercio.pe/elecciones-202\u2026",
+                    "indices": [
+                        248,
+                        271
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1282465331731202049,
+            "id_str": "1282465331731202049",
+            "name": "Judith de la Mata",
+            "screen_name": "judithdelamata",
+            "location": "Lima, Peru",
+            "description": "Abogada, docente y pol\u00edtica peruana. Miembro del Partido Aprista Peruano, fui embajadora del Per\u00fa en Argentina del 2007 al 2011.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 963,
+            "friends_count": 265,
+            "listed_count": 3,
+            "created_at": "Mon Jul 13 00:02:31 +0000 2020",
+            "favourites_count": 12,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3783,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1366518140671303685/1waitC-6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366518140671303685/1waitC-6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1282465331731202049/1614641268",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

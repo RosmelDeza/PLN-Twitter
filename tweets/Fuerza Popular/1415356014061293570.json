@@ -1,0 +1,222 @@
+{
+    "created_at": "Wed Jul 14 17:02:24 +0000 2021",
+    "id": 1415356014061293570,
+    "id_str": "1415356014061293570",
+    "full_text": "RT @Politica_LR: #EleccionesPer\u00fa2021\ud83c\uddf5\ud83c\uddea | Per\u00fa Libre: \u201cRechazamos nueva maniobra de Fuerza Popular para retrasar la proclamaci\u00f3n\u201d\n\nEl partid\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "EleccionesPer\u00fa2021",
+                "indices": [
+                    17,
+                    36
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Politica_LR",
+                "name": "Pol\u00edtica LRep\u00fablica",
+                "id": 829750511624679424,
+                "id_str": "829750511624679424",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3324040151,
+        "id_str": "3324040151",
+        "name": "Raul Canahuire",
+        "screen_name": "ocludento",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 47,
+        "friends_count": 181,
+        "listed_count": 0,
+        "created_at": "Sun Jun 14 02:00:15 +0000 2015",
+        "favourites_count": 45864,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 56738,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294783305557192705/qigTyC0X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294783305557192705/qigTyC0X_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:56:37 +0000 2021",
+        "id": 1415354557648052229,
+        "id_str": "1415354557648052229",
+        "full_text": "#EleccionesPer\u00fa2021\ud83c\uddf5\ud83c\uddea | Per\u00fa Libre: \u201cRechazamos nueva maniobra de Fuerza Popular para retrasar la proclamaci\u00f3n\u201d\n\nEl partido se refiri\u00f3 a las impugnaciones que no descarta realizar la organizaci\u00f3n pol\u00edtica de Fujimori.\n\nhttps://t.co/8syfQDUeHE",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            242
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "EleccionesPer\u00fa2021",
+                    "indices": [
+                        0,
+                        19
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/8syfQDUeHE",
+                    "expanded_url": "https://larepublica.pe/politica/2021/07/14/peru-libre-rechazamos-nueva-maniobra-de-fuerza-popular-para-retrasar-la-proclamacion-pltc/",
+                    "display_url": "larepublica.pe/politica/2021/\u2026",
+                    "indices": [
+                        219,
+                        242
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 829750511624679424,
+            "id_str": "829750511624679424",
+            "name": "Pol\u00edtica LRep\u00fablica",
+            "screen_name": "Politica_LR",
+            "location": "Lima, Peru",
+            "description": "Todas las noticias pol\u00edticas y econ\u00f3micas del Per\u00fa y el mundo. Tambi\u00e9n nos puedes encontrar en @LaRepublica_pe",
+            "url": "https://t.co/iS6FjJFH60",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/iS6FjJFH60",
+                            "expanded_url": "http://larepublica.pe/",
+                            "display_url": "larepublica.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 337247,
+            "friends_count": 41,
+            "listed_count": 400,
+            "created_at": "Thu Feb 09 17:55:12 +0000 2017",
+            "favourites_count": 64,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 49352,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1331229608004513792/IdHVs_7v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331229608004513792/IdHVs_7v_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/829750511624679424/1527802305",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 75,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

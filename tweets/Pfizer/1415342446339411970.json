@@ -1,0 +1,230 @@
+{
+    "created_at": "Wed Jul 14 16:08:29 +0000 2021",
+    "id": 1415342446339411970,
+    "id_str": "1415342446339411970",
+    "full_text": "RT @Newtral: \u274c\u274c El texto enga\u00f1oso que dice que el 80% de los adolescentes vacunados con Pfizer tienen efectos \u201cque pueden provocar un traum\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Newtral",
+                "name": "Newtral",
+                "id": 912745614823317504,
+                "id_str": "912745614823317504",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 95947579,
+        "id_str": "95947579",
+        "name": "\ud83d\udd8a\ufe0f Jos\u00e9 Antonio Serrano",
+        "screen_name": "J_A_Serrano",
+        "location": "Al otro lado del Para\u00edso ",
+        "description": "\u00ab\u201cNadie es m\u00e1s que nadie\u201d... porque, por mucho que un hombre valga, nunca tendr\u00e1 valor m\u00e1s alto que el de ser hombre\u00bb. Antonio Machado: 'Juan de Mairena'.",
+        "url": "https://t.co/s70paFp8lm",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/s70paFp8lm",
+                        "expanded_url": "http://jaserrano.me",
+                        "display_url": "jaserrano.me",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 931,
+        "friends_count": 510,
+        "listed_count": 146,
+        "created_at": "Thu Dec 10 17:42:11 +0000 2009",
+        "favourites_count": 94994,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 189744,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "800000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413922038595694605/qwS1oSLo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413922038595694605/qwS1oSLo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/95947579/1588012047",
+        "profile_link_color": "003366",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:51:34 +0000 2021",
+        "id": 1415338188831342595,
+        "id_str": "1415338188831342595",
+        "full_text": "\u274c\u274c El texto enga\u00f1oso que dice que el 80% de los adolescentes vacunados con Pfizer tienen efectos \u201cque pueden provocar un trauma severo\u201d.\n\nhttps://t.co/lvEGuRsfT0",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            161
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lvEGuRsfT0",
+                    "expanded_url": "https://www.newtral.es/efectos-secundarios-pfizer-en-jovenes/20210713/?utm_medium=Social&utm_campaign=Echobox-Twitter&utm_source=Twitter#Echobox=1626273743",
+                    "display_url": "newtral.es/efectos-secund\u2026",
+                    "indices": [
+                        138,
+                        161
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 912745614823317504,
+            "id_str": "912745614823317504",
+            "name": "Newtral",
+            "screen_name": "Newtral",
+            "location": "",
+            "description": "Periodismo, tecnolog\u00eda, datos e historias que importan. Fact-checking y verificaci\u00f3n de bulos @Newtral_edu @Transparentia_ @Pronostika_ Telegram\ud83d\udcf2https://t.co/nTY2SdyJ1G",
+            "url": "https://t.co/m5doNeTqcE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/m5doNeTqcE",
+                            "expanded_url": "http://www.newtral.es",
+                            "display_url": "newtral.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/nTY2SdyJ1G",
+                            "expanded_url": "http://bit.ly/3kb3h0h",
+                            "display_url": "bit.ly/3kb3h0h",
+                            "indices": [
+                                145,
+                                168
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 190911,
+            "friends_count": 117,
+            "listed_count": 1627,
+            "created_at": "Tue Sep 26 18:28:07 +0000 2017",
+            "favourites_count": 1467,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 41653,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412134904675155969/gs0APw2C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412134904675155969/gs0APw2C_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/912745614823317504/1538740748",
+            "profile_link_color": "80DFAD",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

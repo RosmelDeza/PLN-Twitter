@@ -1,0 +1,333 @@
+{
+    "created_at": "Wed Jul 14 15:59:58 +0000 2021",
+    "id": 1415340302064406532,
+    "id_str": "1415340302064406532",
+    "full_text": "RT @JPVmx: \u00bfCu\u00e1ndo nos vacunan?\n\nPersonas entre 40 y 49 a\u00f1os en Oaxaca de Ju\u00e1rez, nos pusieron 1a. dosis #Pfizer vs. #COVID19 del 11-13 de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Pfizer",
+                "indices": [
+                    105,
+                    112
+                ]
+            },
+            {
+                "text": "COVID19",
+                "indices": [
+                    117,
+                    125
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JPVmx",
+                "name": "Juan P. Vasconcelos",
+                "id": 162826821,
+                "id_str": "162826821",
+                "indices": [
+                    3,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 291912626,
+        "id_str": "291912626",
+        "name": "DEdo :.",
+        "screen_name": "dedo1976",
+        "location": "",
+        "description": "Apasionado de las TIC's, Mustangs, Motos y el Tae Kwon Do, trotamundo gracias a mi abuelo.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1155,
+        "friends_count": 2966,
+        "listed_count": 9,
+        "created_at": "Mon May 02 20:23:38 +0000 2011",
+        "favourites_count": 42741,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 52350,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1225981831956324352/kLIzhHNw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225981831956324352/kLIzhHNw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/291912626/1555279171",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 19:14:37 +0000 2021",
+        "id": 1415026899278041091,
+        "id_str": "1415026899278041091",
+        "full_text": "\u00bfCu\u00e1ndo nos vacunan?\n\nPersonas entre 40 y 49 a\u00f1os en Oaxaca de Ju\u00e1rez, nos pusieron 1a. dosis #Pfizer vs. #COVID19 del 11-13 de junio\n\n@HLGatell dijo que entre dosis no deben pasar m\u00e1s de 35 d\u00edas.\nFecha l\u00edmite es viernes 16/julio.\n\nM\u00e9xico no est\u00e1 para desperdiciar vacunas\n#Oaxaca https://t.co/Zr5SO2wlYX",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Pfizer",
+                    "indices": [
+                        94,
+                        101
+                    ]
+                },
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        106,
+                        114
+                    ]
+                },
+                {
+                    "text": "Oaxaca",
+                    "indices": [
+                        273,
+                        280
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "HLGatell",
+                    "name": "Hugo L\u00f3pez-Gatell Ram\u00edrez",
+                    "id": 1154180084078501889,
+                    "id_str": "1154180084078501889",
+                    "indices": [
+                        135,
+                        144
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415024875677310979,
+                    "id_str": "1415024875677310979",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MtoJcWYAMAX1N.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MtoJcWYAMAX1N.jpg",
+                    "url": "https://t.co/Zr5SO2wlYX",
+                    "display_url": "pic.twitter.com/Zr5SO2wlYX",
+                    "expanded_url": "https://twitter.com/JPVmx/status/1415026899278041091/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 673,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1802,
+                            "h": 1010,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 381,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415024875677310979,
+                    "id_str": "1415024875677310979",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MtoJcWYAMAX1N.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MtoJcWYAMAX1N.jpg",
+                    "url": "https://t.co/Zr5SO2wlYX",
+                    "display_url": "pic.twitter.com/Zr5SO2wlYX",
+                    "expanded_url": "https://twitter.com/JPVmx/status/1415026899278041091/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 673,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1802,
+                            "h": 1010,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 381,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 162826821,
+            "id_str": "162826821",
+            "name": "Juan P. Vasconcelos",
+            "screen_name": "JPVmx",
+            "location": "M\u00e9xico",
+            "description": "Juan Pablo Vasconcelos.\nConsultor en Comunicaci\u00f3n, Cultura, Turismo y Ciudades.\nEscribo.\nNuestra hora es 12:21 @El_Oriente\nhttps://t.co/Qh3dgzodGx",
+            "url": "https://t.co/dWNbjTGM7n",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/dWNbjTGM7n",
+                            "expanded_url": "http://www.eloriente.net/home/category/colaboradores/juan-pablo-vasconcelos/",
+                            "display_url": "eloriente.net/home/category/\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Qh3dgzodGx",
+                            "expanded_url": "https://bit.ly/3r5qS2F",
+                            "display_url": "bit.ly/3r5qS2F",
+                            "indices": [
+                                123,
+                                146
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 3375,
+            "friends_count": 5003,
+            "listed_count": 24,
+            "created_at": "Sun Jul 04 20:08:20 +0000 2010",
+            "favourites_count": 13235,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6370,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1032609053359394817/TA2Cf0ix_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032609053359394817/TA2Cf0ix_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/162826821/1624855246",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 58,
+        "favorite_count": 64,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

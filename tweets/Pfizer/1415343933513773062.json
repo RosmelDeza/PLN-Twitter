@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 14 16:14:24 +0000 2021",
+    "id": 1415343933513773062,
+    "id_str": "1415343933513773062",
+    "full_text": "@SoniaBargay @DrPacoMoreno1 @Hectorgon123 Por Dios, jajaja no tienes argumentos Sonia, en fin ve la entrevista de Rub\u00e9n.\nQue triste que los m\u00e8dicos recomienden algo que no esta aprobado, y sali\u00f3 por emergencia. No hay peor ciego que el que no quiere ver.\nTMB puedes ver las demandas de Pfizer.\nhttps://t.co/ZugISITZQN",
+    "truncated": false,
+    "display_text_range": [
+        42,
+        317
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SoniaBargay",
+                "name": "Sonia Bargay",
+                "id": 1388430252,
+                "id_str": "1388430252",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "DrPacoMoreno1",
+                "name": "Dr Francisco Moreno S\u00e1nchez",
+                "id": 1193721035490807808,
+                "id_str": "1193721035490807808",
+                "indices": [
+                    13,
+                    27
+                ]
+            },
+            {
+                "screen_name": "Hectorgon123",
+                "name": "Hector Gonz\u00e1lez",
+                "id": 232443851,
+                "id_str": "232443851",
+                "indices": [
+                    28,
+                    41
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/ZugISITZQN",
+                "expanded_url": "http://rubenluengas.com/2021/07/edicion-especial-silencio-censura-y-amenazas-de-muerte-lo-que-un-medico-tiene-que-enfrentar-por-salir-del-discurso-oficial-de-la-pandemia-dr-leonardo-bayona-con-ruben-luengas-video-entre/",
+                "display_url": "rubenluengas.com/2021/07/edicio\u2026",
+                "indices": [
+                    294,
+                    317
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415301550168236038,
+    "in_reply_to_status_id_str": "1415301550168236038",
+    "in_reply_to_user_id": 1388430252,
+    "in_reply_to_user_id_str": "1388430252",
+    "in_reply_to_screen_name": "SoniaBargay",
+    "user": {
+        "id": 3107485686,
+        "id_str": "3107485686",
+        "name": "Yenty Ech\u00e1nove Fux",
+        "screen_name": "Yenty190054",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 54,
+        "friends_count": 322,
+        "listed_count": 1,
+        "created_at": "Wed Mar 25 14:32:00 +0000 2015",
+        "favourites_count": 5223,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 373,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/580739317238079489/Lh5rm3Kd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/580739317238079489/Lh5rm3Kd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

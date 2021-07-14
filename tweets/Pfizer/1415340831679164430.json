@@ -1,0 +1,335 @@
+{
+    "created_at": "Wed Jul 14 16:02:04 +0000 2021",
+    "id": 1415340831679164430,
+    "id_str": "1415340831679164430",
+    "full_text": "RT @Lau_almagr: @DrCKambourian No traen la vacuna que necesitan nuestros hijos!! PFIZER se llama!! Aunque en un futuro aprueben Moderna no\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Lau_almagr",
+                "name": "Laura",
+                "id": 1408956953443897348,
+                "id_str": "1408956953443897348",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "DrCKambourian",
+                "name": "Carlos Kambourian",
+                "id": 927770778,
+                "id_str": "927770778",
+                "indices": [
+                    16,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 126944236,
+        "id_str": "126944236",
+        "name": "susana carre",
+        "screen_name": "tammycami",
+        "location": "argentina La Plata",
+        "description": "abogada jubilada, abuela de Tamara, Camila. y M\u00e0ximo .fan\u00e0tica del Pincha de La Plata y muy apasionada por el jazz",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 569,
+        "friends_count": 1126,
+        "listed_count": 9,
+        "created_at": "Sat Mar 27 14:21:58 +0000 2010",
+        "favourites_count": 5597,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14878,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/697477954360754178/v1QBu0SZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/697477954360754178/v1QBu0SZ_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 21:54:55 +0000 2021",
+        "id": 1415067241951940610,
+        "id_str": "1415067241951940610",
+        "full_text": "@DrCKambourian No traen la vacuna que necesitan nuestros hijos!! PFIZER se llama!! Aunque en un futuro aprueben Moderna no podr\u00edan aplic\u00e1rsela a mi hijo! Habla sin saber ese se\u00f1or, ilusiona a un mont\u00f3n de padres y a nosotros nos quiere hacer quedar como caprichosos! @vacuna_me #DameLaPfizer https://t.co/XJ9qdrbFsL",
+        "truncated": false,
+        "display_text_range": [
+            15,
+            291
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DameLaPfizer",
+                    "indices": [
+                        278,
+                        291
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DrCKambourian",
+                    "name": "Carlos Kambourian",
+                    "id": 927770778,
+                    "id_str": "927770778",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "vacuna_me",
+                    "name": "chicos en riesgo",
+                    "id": 1404437733976809483,
+                    "id_str": "1404437733976809483",
+                    "indices": [
+                        267,
+                        277
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415067228203110400,
+                    "id_str": "1415067228203110400",
+                    "indices": [
+                        292,
+                        315
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NUJY5X0AA6hKs.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NUJY5X0AA6hKs.jpg",
+                    "url": "https://t.co/XJ9qdrbFsL",
+                    "display_url": "pic.twitter.com/XJ9qdrbFsL",
+                    "expanded_url": "https://twitter.com/Lau_almagr/status/1415067241951940610/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 748,
+                            "h": 748,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 748,
+                            "h": 748,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415067228203110400,
+                    "id_str": "1415067228203110400",
+                    "indices": [
+                        292,
+                        315
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NUJY5X0AA6hKs.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NUJY5X0AA6hKs.jpg",
+                    "url": "https://t.co/XJ9qdrbFsL",
+                    "display_url": "pic.twitter.com/XJ9qdrbFsL",
+                    "expanded_url": "https://twitter.com/Lau_almagr/status/1415067241951940610/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 748,
+                            "h": 748,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 748,
+                            "h": 748,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415067228173705218,
+                    "id_str": "1415067228173705218",
+                    "indices": [
+                        292,
+                        315
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NUJYyXIAIYAcL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NUJYyXIAIYAcL.jpg",
+                    "url": "https://t.co/XJ9qdrbFsL",
+                    "display_url": "pic.twitter.com/XJ9qdrbFsL",
+                    "expanded_url": "https://twitter.com/Lau_almagr/status/1415067241951940610/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415062979180179456,
+        "in_reply_to_status_id_str": "1415062979180179456",
+        "in_reply_to_user_id": 927770778,
+        "in_reply_to_user_id_str": "927770778",
+        "in_reply_to_screen_name": "DrCKambourian",
+        "user": {
+            "id": 1408956953443897348,
+            "id_str": "1408956953443897348",
+            "name": "Laura",
+            "screen_name": "Lau_almagr",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10,
+            "friends_count": 75,
+            "listed_count": 0,
+            "created_at": "Sun Jun 27 01:15:08 +0000 2021",
+            "favourites_count": 205,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 170,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408957248882290690/i9UIVTq9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408957248882290690/i9UIVTq9_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

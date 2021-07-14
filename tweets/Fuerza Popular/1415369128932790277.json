@@ -1,0 +1,454 @@
+{
+    "created_at": "Wed Jul 14 17:54:31 +0000 2021",
+    "id": 1415369128932790277,
+    "id_str": "1415369128932790277",
+    "full_text": "RT @lucianolopez27: #ATENCION #OjoAlDato Habeas data de Fuerza Popular para acceder al listado de votantes en cada mesa electoral es un asu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ATENCION",
+                "indices": [
+                    20,
+                    29
+                ]
+            },
+            {
+                "text": "OjoAlDato",
+                "indices": [
+                    30,
+                    40
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lucianolopez27",
+                "name": "Luciano L\u00f3pez Flores",
+                "id": 3313603574,
+                "id_str": "3313603574",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 75864870,
+        "id_str": "75864870",
+        "name": "Ma.Teresa G. Otoya A",
+        "screen_name": "mayte761",
+        "location": "Noruega",
+        "description": "Abogada.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 249,
+        "friends_count": 603,
+        "listed_count": 12,
+        "created_at": "Sun Sep 20 20:09:41 +0000 2009",
+        "favourites_count": 11462,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14126,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "19CF86",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156601880623144965/moBVKuYu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156601880623144965/moBVKuYu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75864870/1514381862",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 23:16:33 +0000 2021",
+        "id": 1415087783539007489,
+        "id_str": "1415087783539007489",
+        "full_text": "#ATENCION #OjoAlDato Habeas data de Fuerza Popular para acceder al listado de votantes en cada mesa electoral es un asunto que concierne a tod@s los que tienen derecho a que tales datos NO se revelen. Pueden pedir ingresar para defender su derecho. Aqu\u00ed les digo c\u00f3mo. HILO\u261d\ud83c\udffb\ud83d\udc47\ud83c\udffb https://t.co/npmx7hHgLo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ATENCION",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "text": "OjoAlDato",
+                    "indices": [
+                        10,
+                        20
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/npmx7hHgLo",
+                    "expanded_url": "https://twitter.com/KikesitoRPP/status/1415078590908178437",
+                    "display_url": "twitter.com/KikesitoRPP/st\u2026",
+                    "indices": [
+                        278,
+                        301
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3313603574,
+            "id_str": "3313603574",
+            "name": "Luciano L\u00f3pez Flores",
+            "screen_name": "lucianolopez27",
+            "location": "Lima, Peru",
+            "description": "Constitucionalista y litigante con 25 a\u00f1os de experiencia. Profesor de las Escuelas de Posgrado de la PUCP y la USMP. Telf: 7110599 / 961 332 182",
+            "url": "https://t.co/32rDIQFREg",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/32rDIQFREg",
+                            "expanded_url": "https://linktr.ee/LucianoLopezFlores",
+                            "display_url": "linktr.ee/LucianoLopezFl\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 64327,
+            "friends_count": 1280,
+            "listed_count": 99,
+            "created_at": "Wed Aug 12 17:43:56 +0000 2015",
+            "favourites_count": 34219,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 18422,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411741496651489286/jdJHQUr5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411741496651489286/jdJHQUr5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3313603574/1564278526",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415078590908178437,
+        "quoted_status_id_str": "1415078590908178437",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 22:40:01 +0000 2021",
+            "id": 1415078590908178437,
+            "id_str": "1415078590908178437",
+            "full_text": "#LOULTIMO Poder Judicial admite a tr\u00e1mite Recurso de Habeas Data interpuesta por personera legal de @PFuerzaPopular, Milagros Takayama (@milytakayama) contra la @ONPE_oficial @RPPNoticias https://t.co/4pNYcl2sLb",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                187
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "LOULTIMO",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "PFuerzaPopular",
+                        "name": "Partido Pol\u00edtico Fuerza Popular \ud83c\uddf5\ud83c\uddea",
+                        "id": 721086806,
+                        "id_str": "721086806",
+                        "indices": [
+                            100,
+                            115
+                        ]
+                    },
+                    {
+                        "screen_name": "milytakayama",
+                        "name": "Milagros Takayama",
+                        "id": 113771910,
+                        "id_str": "113771910",
+                        "indices": [
+                            136,
+                            149
+                        ]
+                    },
+                    {
+                        "screen_name": "ONPE_oficial",
+                        "name": "ONPE",
+                        "id": 255707941,
+                        "id_str": "255707941",
+                        "indices": [
+                            161,
+                            174
+                        ]
+                    },
+                    {
+                        "screen_name": "RPPNoticias",
+                        "name": "RPP Noticias",
+                        "id": 9075022,
+                        "id_str": "9075022",
+                        "indices": [
+                            175,
+                            187
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415078581135413251,
+                        "id_str": "1415078581135413251",
+                        "indices": [
+                            188,
+                            211
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6NeeN3XEAMFqVo.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6NeeN3XEAMFqVo.jpg",
+                        "url": "https://t.co/4pNYcl2sLb",
+                        "display_url": "pic.twitter.com/4pNYcl2sLb",
+                        "expanded_url": "https://twitter.com/KikesitoRPP/status/1415078590908178437/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 562,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1306,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 992,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415078581135413251,
+                        "id_str": "1415078581135413251",
+                        "indices": [
+                            188,
+                            211
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6NeeN3XEAMFqVo.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6NeeN3XEAMFqVo.jpg",
+                        "url": "https://t.co/4pNYcl2sLb",
+                        "display_url": "pic.twitter.com/4pNYcl2sLb",
+                        "expanded_url": "https://twitter.com/KikesitoRPP/status/1415078590908178437/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 562,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1306,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 992,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1392981626485882880,
+                "id_str": "1392981626485882880",
+                "name": "Carlos Villarreal",
+                "screen_name": "KikesitoRPP",
+                "location": "",
+                "description": "Periodista RPP Per\u00fa",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5950,
+                "friends_count": 439,
+                "listed_count": 13,
+                "created_at": "Thu May 13 23:14:53 +0000 2021",
+                "favourites_count": 5,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1148,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1409008137898713089/WQ52shDW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409008137898713089/WQ52shDW_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 678,
+            "favorite_count": 1765,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 1071,
+        "favorite_count": 1628,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415078590908178437,
+    "quoted_status_id_str": "1415078590908178437",
+    "retweet_count": 1071,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

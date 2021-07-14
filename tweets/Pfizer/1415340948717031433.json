@@ -1,0 +1,295 @@
+{
+    "created_at": "Wed Jul 14 16:02:32 +0000 2021",
+    "id": 1415340948717031433,
+    "id_str": "1415340948717031433",
+    "full_text": "Desde ahora se puede oler la pelea tuitera entre los vacunados en el exterior , los vacunados en con Pfizer o PAIZER o FREEZER y los que recibieron Sinovac .. SE VIENE SE\u00d1ORES https://t.co/FMFjlz6drR",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        175
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/FMFjlz6drR",
+                "expanded_url": "https://twitter.com/eluniversocom/status/1415326083130527746",
+                "display_url": "twitter.com/eluniversocom/\u2026",
+                "indices": [
+                    176,
+                    199
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2324829716,
+        "id_str": "2324829716",
+        "name": "Andres",
+        "screen_name": "DuchitoSan",
+        "location": "Parkland, FL",
+        "description": "Vive !",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1088,
+        "friends_count": 957,
+        "listed_count": 2,
+        "created_at": "Mon Feb 03 04:38:16 +0000 2014",
+        "favourites_count": 6890,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 34607,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410796544249507841/OGWemcRH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410796544249507841/OGWemcRH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2324829716/1594012707",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415326083130527746,
+    "quoted_status_id_str": "1415326083130527746",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 15:03:28 +0000 2021",
+        "id": 1415326083130527746,
+        "id_str": "1415326083130527746",
+        "full_text": "Atenci\u00f3n. Alcaldesa de #Guayaquil informa que en los pr\u00f3ximos meses se pedir\u00e1 carnet de vacunaci\u00f3n en lugares concurridos \u25ba https://t.co/KQVOhg74Im https://t.co/ldf2HAmRL0",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            147
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Guayaquil",
+                    "indices": [
+                        23,
+                        33
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/KQVOhg74Im",
+                    "expanded_url": "http://ow.ly/7oEf50FvTQu",
+                    "display_url": "ow.ly/7oEf50FvTQu",
+                    "indices": [
+                        124,
+                        147
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415326081494700040,
+                    "id_str": "1415326081494700040",
+                    "indices": [
+                        148,
+                        171
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q_kojWUAgQSzY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q_kojWUAgQSzY.jpg",
+                    "url": "https://t.co/ldf2HAmRL0",
+                    "display_url": "pic.twitter.com/ldf2HAmRL0",
+                    "expanded_url": "https://twitter.com/eluniversocom/status/1415326083130527746/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415326081494700040,
+                    "id_str": "1415326081494700040",
+                    "indices": [
+                        148,
+                        171
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q_kojWUAgQSzY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q_kojWUAgQSzY.jpg",
+                    "url": "https://t.co/ldf2HAmRL0",
+                    "display_url": "pic.twitter.com/ldf2HAmRL0",
+                    "expanded_url": "https://twitter.com/eluniversocom/status/1415326083130527746/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 8225692,
+            "id_str": "8225692",
+            "name": "El Universo",
+            "screen_name": "eluniversocom",
+            "location": "Guayaquil, Ecuador",
+            "description": "Una nueva imagen, el mismo valor y compromiso periodi\u0301stico. #LaNoticiaEsta\u0301EnElUniverso",
+            "url": "https://t.co/dbcp5ulRPv",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/dbcp5ulRPv",
+                            "expanded_url": "http://www.eluniverso.com",
+                            "display_url": "eluniverso.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2346263,
+            "friends_count": 2837,
+            "listed_count": 4544,
+            "created_at": "Thu Aug 16 15:08:04 +0000 2007",
+            "favourites_count": 276,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 335600,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "054D80",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1261872658494427136/ukJfP_HT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261872658494427136/ukJfP_HT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/8225692/1584933889",
+            "profile_link_color": "01385F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A9BCD8",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 402,
+        "favorite_count": 1005,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

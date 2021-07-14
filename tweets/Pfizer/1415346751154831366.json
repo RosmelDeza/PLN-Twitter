@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 16:25:36 +0000 2021",
+    "id": 1415346751154831366,
+    "id_str": "1415346751154831366",
+    "full_text": "El ministro de Salud, Enrique Paris, inform\u00f3 que este mi\u00e9rcoles \u201cse recibieron 88.920 nuevas dosis de la vacuna de Pfizer-BioNTech. Estas nuevas dosis permiten la continuidad del Plan Nacional de Vacunaci\u00f3n y con este nuevo cargamento nuestro pa\u00eds ha\n\nhttps://t.co/BE7wRxX9MK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        275
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/BE7wRxX9MK",
+                "expanded_url": "http://www.vivepais.cl/blog/2021/07/14/128633/",
+                "display_url": "vivepais.cl/blog/2021/07/1\u2026",
+                "indices": [
+                    252,
+                    275
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.blog2social.com\" rel=\"nofollow\">Blog2Social APP</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1032131966169174016,
+        "id_str": "1032131966169174016",
+        "name": "vivepais",
+        "screen_name": "vivepais",
+        "location": "Santiago, Chile",
+        "description": "Noticias, entrentenci\u00f3n, cultura y espect\u00e1culos de una mirada distinta.\n\nS\u00edguenos tambi\u00e9n en Instagram (@vivepais.cl) y Facebook (@vivepais.cl)",
+        "url": "https://t.co/ZbGKVHWloh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ZbGKVHWloh",
+                        "expanded_url": "http://www.vivepais.cl",
+                        "display_url": "vivepais.cl",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 68,
+        "friends_count": 1,
+        "listed_count": 1,
+        "created_at": "Wed Aug 22 05:06:51 +0000 2018",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16242,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381719522206486530/5xgirWIN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381719522206486530/5xgirWIN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032131966169174016/1541027833",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

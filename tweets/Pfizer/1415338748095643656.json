@@ -1,0 +1,353 @@
+{
+    "created_at": "Wed Jul 14 15:53:47 +0000 2021",
+    "id": 1415338748095643656,
+    "id_str": "1415338748095643656",
+    "full_text": "RT @cpr40: \u00a1El 100% de los pacientes graves hospitalizados en el hospital Rambam son personas vacunadas!\n El n\u00famero de contaminaci\u00f3n es 40\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cpr40",
+                "name": "Cynthia Pe\u00f1a Ros \ud83c\uddf5\ud83c\uddfe #SomosPatria",
+                "id": 31297596,
+                "id_str": "31297596",
+                "indices": [
+                    3,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1718525334,
+        "id_str": "1718525334",
+        "name": "MartinaSisters",
+        "screen_name": "MartinaSisters",
+        "location": "Pa\u00eds Vasco, Espa\u00f1a",
+        "description": "Combatiendo la enfermedad de la PIF (Peritonitis Infecciosa Felina) y otras penurias con los coronavirus. Colaboro en https://t.co/ogJBmoHm8k",
+        "url": "https://t.co/5c9ZSQQ5Vt",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/5c9ZSQQ5Vt",
+                        "expanded_url": "https://gatospif.blogspot.com",
+                        "display_url": "gatospif.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ogJBmoHm8k",
+                        "expanded_url": "https://www.facebook.com/GatosPif/",
+                        "display_url": "facebook.com/GatosPif/",
+                        "indices": [
+                            118,
+                            141
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 4892,
+        "friends_count": 2018,
+        "listed_count": 39,
+        "created_at": "Sun Sep 01 10:13:27 +0000 2013",
+        "favourites_count": 24764,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22112,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "6B9201",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1042467351499825152/tQjnwiZz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042467351499825152/tQjnwiZz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718525334/1496928733",
+        "profile_link_color": "283700",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:38:28 +0000 2021",
+        "id": 1415334891424821272,
+        "id_str": "1415334891424821272",
+        "full_text": "\u00a1El 100% de los pacientes graves hospitalizados en el hospital Rambam son personas vacunadas!\n El n\u00famero de contaminaci\u00f3n es 40 veces mayor en los vacunados que en los no vacunados. Datos brutos para ponderar, podemos ver una tendencia: LA VACUNA PFIZER NO PROTEGE CONTRA el DELTA https://t.co/Bk0Km05tHz",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Bk0Km05tHz",
+                    "expanded_url": "https://twitter.com/jcperezcodex/status/1415329989805936643",
+                    "display_url": "twitter.com/jcperezcodex/s\u2026",
+                    "indices": [
+                        281,
+                        304
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 31297596,
+            "id_str": "31297596",
+            "name": "Cynthia Pe\u00f1a Ros \ud83c\uddf5\ud83c\uddfe #SomosPatria",
+            "screen_name": "cpr40",
+            "location": "Asuncion",
+            "description": "Victorus Aut Mortis - Telegram: https://t.co/dqTPCsXMWB",
+            "url": "https://t.co/xNerRtTTKn",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xNerRtTTKn",
+                            "expanded_url": "https://youtube.com/channel/UCP9JVF-kg7T0eU3gOEyOGFw",
+                            "display_url": "youtube.com/channel/UCP9JV\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/dqTPCsXMWB",
+                            "expanded_url": "https://t.me/DespiertaMentePy",
+                            "display_url": "t.me/DespiertaMente\u2026",
+                            "indices": [
+                                32,
+                                55
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1120,
+            "friends_count": 1037,
+            "listed_count": 2,
+            "created_at": "Wed Apr 15 01:36:49 +0000 2009",
+            "favourites_count": 27891,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 32161,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1314395485596266497/mL2JXXjH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314395485596266497/mL2JXXjH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/31297596/1619984962",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415329989805936643,
+        "quoted_status_id_str": "1415329989805936643",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 15:18:59 +0000 2021",
+            "id": 1415329989805936643,
+            "id_str": "1415329989805936643",
+            "full_text": "2/2  100% des malades graves hospitalis\u00e9s \u00e0 l'h\u00f4pital Rambam sont des personnes vaccin\u00e9es\u00a0!\nLe nombre de contamination est 40 fois plus \u00e9lev\u00e9 chez les vaccin\u00e9s que chez les non vaccin\u00e9s.\nDonn\u00e9es brutes \u00e0 pond\u00e9rer,  on voit tendance:\nVACCIN PFIZER NE PROTEGE PAS DU VARIANT DELTA",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                278
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1415329577266786305,
+            "in_reply_to_status_id_str": "1415329577266786305",
+            "in_reply_to_user_id": 120033713,
+            "in_reply_to_user_id_str": "120033713",
+            "in_reply_to_screen_name": "JCPEREZCODEX",
+            "user": {
+                "id": 120033713,
+                "id_str": "120033713",
+                "name": "jean-claude perez",
+                "screen_name": "JCPEREZCODEX",
+                "location": "Bordeaux",
+                "description": "DURING 30 YEARS I RESEARCHED POSSIBLE NUMERICAL STRUCTURE OF DNA, GENES AND GENOMES: GOLDEN RATIO THE KEY...\n\nhttps://t.co/C5yc6brFOE",
+                "url": "https://t.co/eLUwjAnEXT",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/eLUwjAnEXT",
+                                "expanded_url": "http://golden-ratio-in-dna.blogspot.fr/",
+                                "display_url": "golden-ratio-in-dna.blogspot.fr",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/C5yc6brFOE",
+                                "expanded_url": "http://creationwiki.org/Jean-claude_Perez",
+                                "display_url": "creationwiki.org/Jean-claude_Pe\u2026",
+                                "indices": [
+                                    110,
+                                    133
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 2925,
+                "friends_count": 1060,
+                "listed_count": 46,
+                "created_at": "Fri Mar 05 08:23:55 +0000 2010",
+                "favourites_count": 4454,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 8326,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/743707728/photojcperez_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/743707728/photojcperez_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/120033713/1367521952",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 18,
+            "favorite_count": 36,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        "retweet_count": 6,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415329989805936643,
+    "quoted_status_id_str": "1415329989805936643",
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

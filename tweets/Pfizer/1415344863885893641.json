@@ -1,0 +1,343 @@
+{
+    "created_at": "Wed Jul 14 16:18:06 +0000 2021",
+    "id": 1415344863885893641,
+    "id_str": "1415344863885893641",
+    "full_text": "RT @crismartinj: La #VacunaCOVID19 se #Pfizer o #Moderna es posible que est\u00e9n detr\u00e1s de casos de miocarditis y pericarditis de personas que\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "VacunaCOVID19",
+                "indices": [
+                    20,
+                    34
+                ]
+            },
+            {
+                "text": "Pfizer",
+                "indices": [
+                    38,
+                    45
+                ]
+            },
+            {
+                "text": "Moderna",
+                "indices": [
+                    48,
+                    56
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "crismartinj",
+                "name": "@crismartinj",
+                "id": 857303965,
+                "id_str": "857303965",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1256327364964990976,
+        "id_str": "1256327364964990976",
+        "name": "Thiago Oirte",
+        "screen_name": "ThiagoOirte",
+        "location": "Uruguay",
+        "description": "Investigo S\u00edmbolos, Logias, \u00c9lite, etc. Solo la verdad nos har\u00e1 libres. La izquierda y derecha tienen un mismo amo. Dar RT o \u2764\ufe0f no significa pensar igual.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 148,
+        "friends_count": 192,
+        "listed_count": 1,
+        "created_at": "Fri May 01 21:04:16 +0000 2020",
+        "favourites_count": 26677,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8292,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1262124520200187911/E0_6PtCR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262124520200187911/E0_6PtCR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1256327364964990976/1599703076",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 16:14:20 +0000 2021",
+        "id": 1414981531857215490,
+        "id_str": "1414981531857215490",
+        "full_text": "La #VacunaCOVID19 se #Pfizer o #Moderna es posible que est\u00e9n detr\u00e1s de casos de miocarditis y pericarditis de personas que se han pinchado. Dicho por la UE.\n#plandemia\n#COVID19\n\nhttps://t.co/wlp1AoPxzF https://t.co/G2rLGkhyVy",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            201
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "VacunaCOVID19",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                },
+                {
+                    "text": "Pfizer",
+                    "indices": [
+                        21,
+                        28
+                    ]
+                },
+                {
+                    "text": "Moderna",
+                    "indices": [
+                        31,
+                        39
+                    ]
+                },
+                {
+                    "text": "plandemia",
+                    "indices": [
+                        157,
+                        167
+                    ]
+                },
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        168,
+                        176
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wlp1AoPxzF",
+                    "expanded_url": "https://www.larepublica.co/globoeconomia/ue-incluye-inflamacion-cardiaca-como-posible-efecto-secundario-de-vacunas-arnm-3198605",
+                    "display_url": "larepublica.co/globoeconomia/\u2026",
+                    "indices": [
+                        178,
+                        201
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414981529219051526,
+                    "id_str": "1414981529219051526",
+                    "indices": [
+                        202,
+                        225
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MGNDTXMAYahwU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MGNDTXMAYahwU.jpg",
+                    "url": "https://t.co/G2rLGkhyVy",
+                    "display_url": "pic.twitter.com/G2rLGkhyVy",
+                    "expanded_url": "https://twitter.com/crismartinj/status/1414981531857215490/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 314,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 554,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1560,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414981529219051526,
+                    "id_str": "1414981529219051526",
+                    "indices": [
+                        202,
+                        225
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MGNDTXMAYahwU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MGNDTXMAYahwU.jpg",
+                    "url": "https://t.co/G2rLGkhyVy",
+                    "display_url": "pic.twitter.com/G2rLGkhyVy",
+                    "expanded_url": "https://twitter.com/crismartinj/status/1414981531857215490/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 314,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 554,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1560,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 857303965,
+            "id_str": "857303965",
+            "name": "@crismartinj",
+            "screen_name": "crismartinj",
+            "location": "En alg\u00fan lugar del Cielo ",
+            "description": "#Escritora y #Doctora en Periodismo. PhD in Communication Studies. Especialista en #Bilderberg Researcher at @Ladecom_us La VERDAD est\u00e1 de moda",
+            "url": "https://t.co/sLmyOSs7as",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sLmyOSs7as",
+                            "expanded_url": "https://youlink.page/crismartinj",
+                            "display_url": "youlink.page/crismartinj",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 26904,
+            "friends_count": 856,
+            "listed_count": 216,
+            "created_at": "Tue Oct 02 01:20:51 +0000 2012",
+            "favourites_count": 19113,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 32615,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1403702653599821827/4zCCqBiO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403702653599821827/4zCCqBiO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/857303965/1601311054",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 161,
+        "favorite_count": 229,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 161,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}
