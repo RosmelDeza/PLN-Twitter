@@ -1,0 +1,211 @@
+{
+    "created_at": "Fri Jul 16 03:29:39 +0000 2021",
+    "id": 1415876253169733634,
+    "id_str": "1415876253169733634",
+    "full_text": "RT @thecryforIisa: Oigan, lo m\u00e1s posible que pase es ARIPINK, Taypink o Duapink se viene arte, adem\u00e1s el solo de Lisa un posible ost de Jis\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "thecryforIisa",
+                "name": "Brisa ll \ud83d\udcda",
+                "id": 1344679666771177474,
+                "id_str": "1344679666771177474",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1122694719262351360,
+        "id_str": "1122694719262351360",
+        "name": "karla",
+        "screen_name": "vbaesel",
+        "location": "M\u00e9xico ",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 469,
+        "listed_count": 0,
+        "created_at": "Mon Apr 29 02:50:54 +0000 2019",
+        "favourites_count": 70255,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5544,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1386871692102979586/DCLi3qvT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386871692102979586/DCLi3qvT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122694719262351360/1613344821",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:28:35 +0000 2021",
+        "id": 1415875986990714881,
+        "id_str": "1415875986990714881",
+        "full_text": "Oigan, lo m\u00e1s posible que pase es ARIPINK, Taypink o Duapink se viene arte, adem\u00e1s el solo de Lisa un posible ost de Jisoo, el 2021 est\u00e1 interesante, comenzamos con el incre\u00edble \u00e1lbum -R- y terminaremos con? Solo se que ser\u00e1 arte \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        258,
+                        263
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        264,
+                        274
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1344679666771177474,
+            "id_str": "1344679666771177474",
+            "name": "Brisa ll \ud83d\udcda",
+            "screen_name": "thecryforIisa",
+            "location": "JENNIE & KARINA & YEO & SAN ",
+            "description": "Fan account for blackpink, ateez, olivia & \u00e6spa Mutis favs: \ud83e\udd0d@ST4YROSIE ll @rosesgvli",
+            "url": "https://t.co/6aYTdH3zqM",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6aYTdH3zqM",
+                            "expanded_url": "https://thecryforlisa.carrd.co",
+                            "display_url": "thecryforlisa.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5707,
+            "friends_count": 1900,
+            "listed_count": 18,
+            "created_at": "Thu Dec 31 16:19:57 +0000 2020",
+            "favourites_count": 19288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 30021,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414683312740782081/p7TC24db_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414683312740782081/p7TC24db_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344679666771177474/1626122472",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 47,
+        "favorite_count": 83,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 47,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

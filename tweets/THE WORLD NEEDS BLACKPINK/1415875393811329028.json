@@ -1,0 +1,101 @@
+{
+    "created_at": "Fri Jul 16 03:26:14 +0000 2021",
+    "id": 1415875393811329028,
+    "id_str": "1415875393811329028",
+    "full_text": "Raz\u00f3n #58: Por el apoyo simult\u00e1neo a Ingrid Betancourt, Hebe de Bonafini y a las FARC.\n\nMorat Central Wendy DON'T GO YET CAMILA shawn Pe\u00f1arol Bambi Independiente Sabrina #LaVozArgentina THE WORLD NEEDS BLACKPINK Blue &amp; Grey Sosa T\u00e1chira Marley Pitana Marinelli #TeamLali Bergessio",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        284
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozArgentina",
+                "indices": [
+                    170,
+                    185
+                ]
+            },
+            {
+                "text": "TeamLali",
+                "indices": [
+                    265,
+                    274
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://google.com\" rel=\"nofollow\">no-m\u00e1s-peronismo</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 899461785635500038,
+        "id_str": "899461785635500038",
+        "name": "NO VOTO K PORQUE...",
+        "screen_name": "no_al_peronismo",
+        "location": "",
+        "description": "Dar\u00e9, hasta el final de los tiempos, una por una, todas las razones por las que no hay que votar peronismo nunca m\u00e1s en la historia.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 210,
+        "friends_count": 43,
+        "listed_count": 1,
+        "created_at": "Mon Aug 21 02:42:55 +0000 2017",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22209,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/904789323626668032/4wYxmDR5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/904789323626668032/4wYxmDR5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/899461785635500038/1504553627",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

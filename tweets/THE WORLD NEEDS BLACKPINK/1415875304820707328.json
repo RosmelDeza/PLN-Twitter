@@ -1,0 +1,125 @@
+{
+    "created_at": "Fri Jul 16 03:25:53 +0000 2021",
+    "id": 1415875304820707328,
+    "id_str": "1415875304820707328",
+    "full_text": "C\u00f3mo as\u00ed que volvi\u00f3 adoreulisoo?\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        87
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    60,
+                    65
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    66,
+                    76
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    77,
+                    87
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1227366455404122127,
+        "id_str": "1227366455404122127",
+        "name": "FER",
+        "screen_name": "FerTRKim",
+        "location": "Colombia, Macondo",
+        "description": "\ud83d\udda4\ud83d\udc97 OT4 OR NOTHING",
+        "url": "https://t.co/RYNHFHKdgm",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/RYNHFHKdgm",
+                        "expanded_url": "https://m.tiktok.com/h5/share/usr/6944859805144777734.html?_d=dhkk1ie4f1hmhc&language=es&sec_uid=MS4",
+                        "display_url": "m.tiktok.com/h5/share/usr/6\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1278,
+        "friends_count": 770,
+        "listed_count": 3,
+        "created_at": "Tue Feb 11 22:59:15 +0000 2020",
+        "favourites_count": 28403,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19227,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408582834630037505/bNE0eLVF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408582834630037505/bNE0eLVF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227366455404122127/1625379736",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,211 @@
+{
+    "created_at": "Fri Jul 16 03:27:20 +0000 2021",
+    "id": 1415875670081785859,
+    "id_str": "1415875670081785859",
+    "full_text": "@PollitoXD12 @BLACKPINK Ya, pero virgen de qu\u00e9?\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/jB1tj5YR7T",
+    "truncated": false,
+    "display_text_range": [
+        24,
+        102
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    75,
+                    80
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    81,
+                    91
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PollitoXD12",
+                "name": "Pollito XD \ud83d\udc25",
+                "id": 1388998183041355780,
+                "id_str": "1388998183041355780",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    13,
+                    23
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    92,
+                    102
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415875667883855874,
+                "id_str": "1415875667883855874",
+                "indices": [
+                    103,
+                    126
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YzaxZWEAI9Trp.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YzaxZWEAI9Trp.jpg",
+                "url": "https://t.co/jB1tj5YR7T",
+                "display_url": "pic.twitter.com/jB1tj5YR7T",
+                "expanded_url": "https://twitter.com/Lulu72Blinku/status/1415875670081785859/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1079,
+                        "h": 999,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1079,
+                        "h": 999,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415875667883855874,
+                "id_str": "1415875667883855874",
+                "indices": [
+                    103,
+                    126
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YzaxZWEAI9Trp.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YzaxZWEAI9Trp.jpg",
+                "url": "https://t.co/jB1tj5YR7T",
+                "display_url": "pic.twitter.com/jB1tj5YR7T",
+                "expanded_url": "https://twitter.com/Lulu72Blinku/status/1415875670081785859/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1079,
+                        "h": 999,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1079,
+                        "h": 999,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415864416222990340,
+    "in_reply_to_status_id_str": "1415864416222990340",
+    "in_reply_to_user_id": 1388998183041355780,
+    "in_reply_to_user_id_str": "1388998183041355780",
+    "in_reply_to_screen_name": "PollitoXD12",
+    "user": {
+        "id": 1297282243145146368,
+        "id_str": "1297282243145146368",
+        "name": "\ud83c\udde8\ud83c\uddf1 DDUx4 - LU\ud83e\udd8b",
+        "screen_name": "Lulu72Blinku",
+        "location": "",
+        "description": "BRING OUT YOUR BOSS BITCH \u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 634,
+        "friends_count": 527,
+        "listed_count": 0,
+        "created_at": "Sat Aug 22 21:20:00 +0000 2020",
+        "favourites_count": 10447,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10945,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415417616764637191/5GfdOwYo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415417616764637191/5GfdOwYo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1297282243145146368/1623811866",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

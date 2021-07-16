@@ -1,0 +1,264 @@
+{
+    "created_at": "Fri Jul 16 03:33:02 +0000 2021",
+    "id": 1415877106786095107,
+    "id_str": "1415877106786095107",
+    "full_text": "RT @Whinsley5: @camixxLisa @BLACKPINK Nunca hab\u00eda sentido envidia, ahora ya se lo que se siente\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    123,
+                    128
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    129,
+                    139
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Whinsley5",
+                "name": "\ud83d\udc51\ud835\udcdb\ud835\udcea\ud835\udcf5\ud835\udcf2\ud835\udcec\ud835\udcee\ud835\udce0\ud835\udcfe\ud835\udcee\ud835\udcee\ud835\udcf6\u0295\u2022\u1d25\u2022\u0294",
+                "id": 1388544847729025026,
+                "id_str": "1388544847729025026",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "camixxLisa",
+                "name": "\u2728 Cami/ \ud83c\udde8\ud83c\uddf4",
+                "id": 1058101555436625920,
+                "id_str": "1058101555436625920",
+                "indices": [
+                    15,
+                    26
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    27,
+                    37
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1306234920432529409,
+        "id_str": "1306234920432529409",
+        "name": "lisa",
+        "screen_name": "brightvachi95",
+        "location": "Bright only",
+        "description": "\ud83c\udf3f\u00b0\u2022 \u00b0 \u2022\ud83c\udf19\n \u2022bright\u00b0 i love you~ \u2661.\u00b0                       \n\u00b0\u2022me gusta todo de ti~ \u2661@bbrightvc\nesperando #F4Thailand",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 478,
+        "friends_count": 658,
+        "listed_count": 1,
+        "created_at": "Wed Sep 16 14:14:33 +0000 2020",
+        "favourites_count": 146488,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31790,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408629513131593728/9pPC0m5g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408629513131593728/9pPC0m5g_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1306234920432529409/1626404857",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:21:14 +0000 2021",
+        "id": 1415874137227210752,
+        "id_str": "1415874137227210752",
+        "full_text": "@camixxLisa @BLACKPINK Nunca hab\u00eda sentido envidia, ahora ya se lo que se siente\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico \n@BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            23,
+            136
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        108,
+                        113
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        114,
+                        124
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "camixxLisa",
+                    "name": "\u2728 Cami/ \ud83c\udde8\ud83c\uddf4",
+                    "id": 1058101555436625920,
+                    "id_str": "1058101555436625920",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        12,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        126,
+                        136
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415847662692220928,
+        "in_reply_to_status_id_str": "1415847662692220928",
+        "in_reply_to_user_id": 1058101555436625920,
+        "in_reply_to_user_id_str": "1058101555436625920",
+        "in_reply_to_screen_name": "camixxLisa",
+        "user": {
+            "id": 1388544847729025026,
+            "id_str": "1388544847729025026",
+            "name": "\ud83d\udc51\ud835\udcdb\ud835\udcea\ud835\udcf5\ud835\udcf2\ud835\udcec\ud835\udcee\ud835\udce0\ud835\udcfe\ud835\udcee\ud835\udcee\ud835\udcf6\u0295\u2022\u1d25\u2022\u0294",
+            "screen_name": "Whinsley5",
+            "location": "atras tuyo \ud83c\udf1a",
+            "description": "\ud835\udcd0\ud835\udcfb\ud835\udcf2\ud835\udcd1\ud835\udcf5\ud835\udcf2\ud835\udcf7\ud835\udcf4",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 882,
+            "friends_count": 1481,
+            "listed_count": 0,
+            "created_at": "Sat May 01 17:24:33 +0000 2021",
+            "favourites_count": 5703,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9003,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415511417227186184/mXPXBNaB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415511417227186184/mXPXBNaB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1388544847729025026/1625875152",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

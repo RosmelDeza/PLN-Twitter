@@ -1,0 +1,235 @@
+{
+    "created_at": "Fri Jul 16 03:27:58 +0000 2021",
+    "id": 1415875831340077056,
+    "id_str": "1415875831340077056",
+    "full_text": "RT @allforjenlisa: Blink que se respeta no comparte ni difunde contenido filtrado, Blink que se respeta valora el trabajo de las chicas y d\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "allforjenlisa",
+                "name": "Dulce\ud83d\udda4",
+                "id": 1117882113733341184,
+                "id_str": "1117882113733341184",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1295160593649995777,
+        "id_str": "1295160593649995777",
+        "name": "\u2728 \ud835\udc09\ud835\udc1e\ud835\udc1a\ud835\udc27\ud835\udc27 | \ud835\udc0b\ud835\udc12\ud835\udfcf \u2728",
+        "screen_name": "jeann_lisa",
+        "location": "",
+        "description": "\u201cROSES ARE DEAD, LOVE IS FAKE\u201d\n                                                                                       \ud835\ude19\ud835\ude30\ud835\ude34\ud835\ude26\u0301  \u00b2\u00b9\u2070\u00b3\u00b9\u00b2\nOnly Blink OT4 \ud83d\udda4\ud83d\udc95 \u2070\u2076\u00b2\u2070",
+        "url": "https://t.co/xbxyhmxg2X",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/xbxyhmxg2X",
+                        "expanded_url": "https://youtu.be/CKZvWhCqx1s",
+                        "display_url": "youtu.be/CKZvWhCqx1s",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 286,
+        "friends_count": 658,
+        "listed_count": 2,
+        "created_at": "Mon Aug 17 00:49:09 +0000 2020",
+        "favourites_count": 18064,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23061,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405004205920817154/WOT66_Fp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405004205920817154/WOT66_Fp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1295160593649995777/1615535302",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:11:42 +0000 2021",
+        "id": 1415871738001383428,
+        "id_str": "1415871738001383428",
+        "full_text": "Blink que se respeta no comparte ni difunde contenido filtrado, Blink que se respeta valora el trabajo de las chicas y denuncia esas publicaciones, gracias.\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            211
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        184,
+                        189
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        190,
+                        200
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        201,
+                        211
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1117882113733341184,
+            "id_str": "1117882113733341184",
+            "name": "Dulce\ud83d\udda4",
+            "screen_name": "allforjenlisa",
+            "location": "Coachella, CA",
+            "description": "\"Watch your mouth when you speak my name, Jennie\u201d. \ud83d\udda4 TS13\u2728women paved their own way in the industry.",
+            "url": "https://t.co/Fkq6FdHN6p",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Fkq6FdHN6p",
+                            "expanded_url": "http://Nieeh.com",
+                            "display_url": "Nieeh.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3644,
+            "friends_count": 920,
+            "listed_count": 7,
+            "created_at": "Mon Apr 15 20:07:19 +0000 2019",
+            "favourites_count": 29170,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 51033,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412465301254406145/C9ht24cg_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412465301254406145/C9ht24cg_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117882113733341184/1625593508",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

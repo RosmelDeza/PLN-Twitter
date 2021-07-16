@@ -1,0 +1,234 @@
+{
+    "created_at": "Fri Jul 16 03:36:39 +0000 2021",
+    "id": 1415878015603679233,
+    "id_str": "1415878015603679233",
+    "full_text": "RT @JisoocristoTu: Como que hay contenido filtrado?? Donde esta para romperle la cara\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    113,
+                    118
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    119,
+                    129
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JisoocristoTu",
+                "name": "Luciana\ud83c\uddf5\ud83c\uddea",
+                "id": 1346487422792704002,
+                "id_str": "1346487422792704002",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    130,
+                    140
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1388335607529750530,
+        "id_str": "1388335607529750530",
+        "name": "\ud83d\udc97\ud83d\udda4Blink_forever\ud83d\udda4\ud83d\udc97",
+        "screen_name": "Blinkcorazon02",
+        "location": "",
+        "description": "Fan de Blackpink\ud83d\udc97\ud83d\udda4\nSiempre activa en votaciones \ud83d\ude3c\u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 295,
+        "friends_count": 218,
+        "listed_count": 0,
+        "created_at": "Sat May 01 03:33:16 +0000 2021",
+        "favourites_count": 9053,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14242,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399195928876269568/yBD45JSI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399195928876269568/yBD45JSI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1388335607529750530/1622429912",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:34:59 +0000 2021",
+        "id": 1415877598807212032,
+        "id_str": "1415877598807212032",
+        "full_text": "Como que hay contenido filtrado?? Donde esta para romperle la cara\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            121
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        94,
+                        99
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        100,
+                        110
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        111,
+                        121
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1346487422792704002,
+            "id_str": "1346487422792704002",
+            "name": "Luciana\ud83c\uddf5\ud83c\uddea",
+            "screen_name": "JisoocristoTu",
+            "location": "Sullana, Per\u00fa",
+            "description": "Y EL SOLO DE LISA PA CUANDO?\nBLACKPINK Y OLIVA \nOT4",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1235,
+            "friends_count": 976,
+            "listed_count": 1,
+            "created_at": "Tue Jan 05 16:03:26 +0000 2021",
+            "favourites_count": 50329,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 54971,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404906603774623755/_idZqzp8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404906603774623755/_idZqzp8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346487422792704002/1620228314",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

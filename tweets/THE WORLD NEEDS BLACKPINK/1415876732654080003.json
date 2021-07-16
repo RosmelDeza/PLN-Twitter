@@ -1,0 +1,145 @@
+{
+    "created_at": "Fri Jul 16 03:31:33 +0000 2021",
+    "id": 1415876732654080003,
+    "id_str": "1415876732654080003",
+    "full_text": "@selenagoddesss @BLACKPINK Ten\u00eda m\u00e1s cbs que blackpink viste \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        27,
+        116
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    89,
+                    94
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    95,
+                    105
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "selenagoddesss",
+                "name": "Grace| LS1| in \ud83d\udcda",
+                "id": 936420907173556224,
+                "id_str": "936420907173556224",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    16,
+                    26
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    106,
+                    116
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415876539971821568,
+    "in_reply_to_status_id_str": "1415876539971821568",
+    "in_reply_to_user_id": 936420907173556224,
+    "in_reply_to_user_id_str": "936420907173556224",
+    "in_reply_to_screen_name": "selenagoddesss",
+    "user": {
+        "id": 845473064682848256,
+        "id_str": "845473064682848256",
+        "name": "italy\ud83c\udf52",
+        "screen_name": "rosestheetic",
+        "location": "BLINK OT4 IN YOUR AREA",
+        "description": "~for blackpink. \u2014gu\u00edas de stream, votaci\u00f3n, br y m\u00e1s para blink",
+        "url": "https://t.co/jv4q1FFkVd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/jv4q1FFkVd",
+                        "expanded_url": "https://rosestheetic.carrd.co",
+                        "display_url": "rosestheetic.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2115,
+        "friends_count": 1943,
+        "listed_count": 7,
+        "created_at": "Sat Mar 25 03:11:01 +0000 2017",
+        "favourites_count": 16521,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18903,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412527141640708098/_4LliAjY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412527141640708098/_4LliAjY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/845473064682848256/1625731740",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

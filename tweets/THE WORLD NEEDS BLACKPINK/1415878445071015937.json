@@ -1,0 +1,112 @@
+{
+    "created_at": "Fri Jul 16 03:38:21 +0000 2021",
+    "id": 1415878445071015937,
+    "id_str": "1415878445071015937",
+    "full_text": "Yo con Whistle, con esa canci\u00f3n dije, \"wey, de aqu\u00ed soy\" jahdhd\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        118
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    91,
+                    96
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    97,
+                    107
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    108,
+                    118
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415878174303522816,
+    "in_reply_to_status_id_str": "1415878174303522816",
+    "in_reply_to_user_id": 1311436836129181696,
+    "in_reply_to_user_id_str": "1311436836129181696",
+    "in_reply_to_screen_name": "Vzarate8",
+    "user": {
+        "id": 1311436836129181696,
+        "id_str": "1311436836129181696",
+        "name": "Vzarate | LISA SOLO SOON\ud83d\udd25",
+        "screen_name": "Vzarate8",
+        "location": "",
+        "description": "BL\u039b\u0186KPI\u0418K IN MY AREA\ud83d\udda4\ud83d\udc97 ||\n\n\ud83e\udd84\ud83c\udfb6\ud83c\udfad\ud83c\udfac ||\nmultifandom siksi ||\n\ud83d\udc99\ud83d\udc9a ||\nShe/Her \ud83c\udff3\ufe0f\u200d\ud83c\udf08 ||",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 142,
+        "friends_count": 155,
+        "listed_count": 0,
+        "created_at": "Wed Sep 30 22:45:16 +0000 2020",
+        "favourites_count": 2542,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3216,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415166087096905731/pQq0_Bgg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415166087096905731/pQq0_Bgg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311436836129181696/1623602417",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}
