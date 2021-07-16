@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 14 15:56:51 +0000 2021",
+    "id": 1415339517481996292,
+    "id_str": "1415339517481996292",
+    "full_text": "@DiegoRivas77C @Demo_AGC @Ivan47071298 @PolloFarsantePe No me siento aludida, creo en lo que leo y en mi propia experiencia. No hablo de candidatos, hablo de una vacuna que para muchos pa\u00edses no es segura y que la OMS aprob\u00f3 de emergencia, no se aprob\u00f3 como Pfizer, AstraZeneca, Janssen y moderna. \nBuen d\u00eda",
+    "truncated": false,
+    "display_text_range": [
+        56,
+        307
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DiegoRivas77C",
+                "name": "Diego Rivas",
+                "id": 1281664016868401152,
+                "id_str": "1281664016868401152",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "Demo_AGC",
+                "name": "Oscar Gallegos",
+                "id": 400424658,
+                "id_str": "400424658",
+                "indices": [
+                    15,
+                    24
+                ]
+            },
+            {
+                "screen_name": "Ivan47071298",
+                "name": "Ivan",
+                "id": 1089087704648830976,
+                "id_str": "1089087704648830976",
+                "indices": [
+                    25,
+                    38
+                ]
+            },
+            {
+                "screen_name": "PolloFarsantePe",
+                "name": "ElPolloFarsante",
+                "id": 1409887097838841857,
+                "id_str": "1409887097838841857",
+                "indices": [
+                    39,
+                    55
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415335524378742789,
+    "in_reply_to_status_id_str": "1415335524378742789",
+    "in_reply_to_user_id": 1281664016868401152,
+    "in_reply_to_user_id_str": "1281664016868401152",
+    "in_reply_to_screen_name": "DiegoRivas77C",
+    "user": {
+        "id": 738896354336985088,
+        "id_str": "738896354336985088",
+        "name": "RoxPL\ud83e\udd2b",
+        "screen_name": "RoxPl1202",
+        "location": "Un lugar hermoso.",
+        "description": "Que yo nunca rece para ser preservado de los peligros, sino para alzarme ante ellos y mirarlos cara a cara.\n.....RT",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 14,
+        "friends_count": 66,
+        "listed_count": 0,
+        "created_at": "Sat Jun 04 00:53:14 +0000 2016",
+        "favourites_count": 2868,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 865,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1361656952602972160/rMc2ZVhn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361656952602972160/rMc2ZVhn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/738896354336985088/1624683246",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

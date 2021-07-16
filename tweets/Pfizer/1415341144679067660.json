@@ -1,0 +1,286 @@
+{
+    "created_at": "Wed Jul 14 16:03:19 +0000 2021",
+    "id": 1415341144679067660,
+    "id_str": "1415341144679067660",
+    "full_text": "RT @HLGatell: Con la llegada de 296 mil 010 dosis de la vacuna de Pfizer BioNTech, inici\u00f3 la recepci\u00f3n de embarques programados para esta s\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HLGatell",
+                "name": "Hugo L\u00f3pez-Gatell Ram\u00edrez",
+                "id": 1154180084078501889,
+                "id_str": "1154180084078501889",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 376422287,
+        "id_str": "376422287",
+        "name": "FARID G",
+        "screen_name": "_FarGlez24_",
+        "location": "CDMX",
+        "description": "Chico sencillo, amable y que ama a su Pa\u00eds, Fan de los Tigres desde el a\u00f1o 94 \ud83d\udc2f de la UANL.\n\ud83c\uddf2\ud83c\uddfd La Patria es Primero \ud83c\uddf2\ud83c\uddfd",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3192,
+        "friends_count": 1545,
+        "listed_count": 12,
+        "created_at": "Mon Sep 19 21:20:42 +0000 2011",
+        "favourites_count": 96690,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 85339,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191907693847552001/eJx_l7ZR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191907693847552001/eJx_l7ZR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/376422287/1573005759",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 17:13:39 +0000 2021",
+        "id": 1414996457934016514,
+        "id_str": "1414996457934016514",
+        "full_text": "Con la llegada de 296 mil 010 dosis de la vacuna de Pfizer BioNTech, inici\u00f3 la recepci\u00f3n de embarques programados para esta semana. En total, M\u00e9xico suma 67 millones 200 mil 595 dosis recibidas y envasadas de vacunas autorizadas por la @COFEPRIS. https://t.co/N9CG56bgAA",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            246
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "COFEPRIS",
+                    "name": "COFEPRIS",
+                    "id": 194641267,
+                    "id_str": "194641267",
+                    "indices": [
+                        236,
+                        245
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414995851462823942,
+                    "id_str": "1414995851462823942",
+                    "indices": [
+                        247,
+                        270
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MTOt0X0AYaqr3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MTOt0X0AYaqr3.jpg",
+                    "url": "https://t.co/N9CG56bgAA",
+                    "display_url": "pic.twitter.com/N9CG56bgAA",
+                    "expanded_url": "https://twitter.com/HLGatell/status/1414996457934016514/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 803,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1495,
+                            "h": 1000,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 455,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414995851462823942,
+                    "id_str": "1414995851462823942",
+                    "indices": [
+                        247,
+                        270
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MTOt0X0AYaqr3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MTOt0X0AYaqr3.jpg",
+                    "url": "https://t.co/N9CG56bgAA",
+                    "display_url": "pic.twitter.com/N9CG56bgAA",
+                    "expanded_url": "https://twitter.com/HLGatell/status/1414996457934016514/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 803,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1495,
+                            "h": 1000,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 455,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1154180084078501889,
+            "id_str": "1154180084078501889",
+            "name": "Hugo L\u00f3pez-Gatell Ram\u00edrez",
+            "screen_name": "HLGatell",
+            "location": "",
+            "description": "Subsecretario de Prevenci\u00f3n y Promoci\u00f3n de la Salud, comprometido con la salud p\u00fablica, los derechos humanos y la justicia social",
+            "url": "https://t.co/Rnsk4bSSIg",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Rnsk4bSSIg",
+                            "expanded_url": "https://coronavirus.gob.mx/",
+                            "display_url": "coronavirus.gob.mx",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1724404,
+            "friends_count": 138,
+            "listed_count": 1232,
+            "created_at": "Thu Jul 25 00:02:30 +0000 2019",
+            "favourites_count": 935,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 3355,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354492707633205248/9Zja1bTx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354492707633205248/9Zja1bTx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1154180084078501889/1611776266",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 721,
+        "favorite_count": 2748,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 721,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

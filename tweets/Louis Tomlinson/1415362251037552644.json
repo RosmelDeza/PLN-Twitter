@@ -1,0 +1,349 @@
+{
+    "created_at": "Wed Jul 14 17:27:11 +0000 2021",
+    "id": 1415362251037552644,
+    "id_str": "1415362251037552644",
+    "full_text": "RT @Ori_wandi: Stanear a Louis tomlinson es lo mejor que pude hacer en mi vida &lt;3 https://t.co/DVqVpuqIQu",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        108
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ori_wandi",
+                "name": "\ud83c\udf3b\ud835\udcde\ud835\udcfb\ud835\udcf2 \u00d7\u035c\u00d7",
+                "id": 1227373522810523653,
+                "id_str": "1227373522810523653",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415361947487375362,
+                "id_str": "1415361947487375362",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RgMTyXEAI-hok.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RgMTyXEAI-hok.jpg",
+                "url": "https://t.co/DVqVpuqIQu",
+                "display_url": "pic.twitter.com/DVqVpuqIQu",
+                "expanded_url": "https://twitter.com/Ori_wandi/status/1415361953346822155/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 534,
+                        "h": 674,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 534,
+                        "h": 674,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 534,
+                        "h": 674,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415361953346822155,
+                "source_status_id_str": "1415361953346822155",
+                "source_user_id": 1227373522810523653,
+                "source_user_id_str": "1227373522810523653"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415361947487375362,
+                "id_str": "1415361947487375362",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RgMTyXEAI-hok.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RgMTyXEAI-hok.jpg",
+                "url": "https://t.co/DVqVpuqIQu",
+                "display_url": "pic.twitter.com/DVqVpuqIQu",
+                "expanded_url": "https://twitter.com/Ori_wandi/status/1415361953346822155/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 534,
+                        "h": 674,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 534,
+                        "h": 674,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 534,
+                        "h": 674,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415361953346822155,
+                "source_status_id_str": "1415361953346822155",
+                "source_user_id": 1227373522810523653,
+                "source_user_id_str": "1227373522810523653"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1278394940670820352,
+        "id_str": "1278394940670820352",
+        "name": "Arely.t91 \ud83c\uddf5\ud83c\uddea",
+        "screen_name": "loue_are",
+        "location": "",
+        "description": "\ud83d\udc1d \ndirectioner\nperuana",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 137,
+        "friends_count": 168,
+        "listed_count": 0,
+        "created_at": "Wed Jul 01 18:28:48 +0000 2020",
+        "favourites_count": 2773,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1597,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394425540870918157/yP9CveIi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394425540870918157/yP9CveIi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1278394940670820352/1625317691",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:26:00 +0000 2021",
+        "id": 1415361953346822155,
+        "id_str": "1415361953346822155",
+        "full_text": "Stanear a Louis tomlinson es lo mejor que pude hacer en mi vida &lt;3 https://t.co/DVqVpuqIQu",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            69
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415361947487375362,
+                    "id_str": "1415361947487375362",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RgMTyXEAI-hok.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RgMTyXEAI-hok.jpg",
+                    "url": "https://t.co/DVqVpuqIQu",
+                    "display_url": "pic.twitter.com/DVqVpuqIQu",
+                    "expanded_url": "https://twitter.com/Ori_wandi/status/1415361953346822155/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 534,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 534,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 534,
+                            "h": 674,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415361947487375362,
+                    "id_str": "1415361947487375362",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RgMTyXEAI-hok.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RgMTyXEAI-hok.jpg",
+                    "url": "https://t.co/DVqVpuqIQu",
+                    "display_url": "pic.twitter.com/DVqVpuqIQu",
+                    "expanded_url": "https://twitter.com/Ori_wandi/status/1415361953346822155/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 534,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 534,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 534,
+                            "h": 674,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1227373522810523653,
+            "id_str": "1227373522810523653",
+            "name": "\ud83c\udf3b\ud835\udcde\ud835\udcfb\ud835\udcf2 \u00d7\u035c\u00d7",
+            "screen_name": "Ori_wandi",
+            "location": "",
+            "description": "Un pollito a la brasa o que ? \ud83d\ude0b",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13,
+            "friends_count": 46,
+            "listed_count": 0,
+            "created_at": "Tue Feb 11 23:27:21 +0000 2020",
+            "favourites_count": 8650,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 649,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412804013939175427/JpKRY2Eq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412804013939175427/JpKRY2Eq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227373522810523653/1625673846",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 25,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

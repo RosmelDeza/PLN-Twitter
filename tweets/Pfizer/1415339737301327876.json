@@ -1,0 +1,217 @@
+{
+    "created_at": "Wed Jul 14 15:57:43 +0000 2021",
+    "id": 1415339737301327876,
+    "id_str": "1415339737301327876",
+    "full_text": "RT @JOSEESCAURIZA: Un estudio publicado en JAMA confirma la efectividad de la vacuna de Pfizer. Esta vacuna tiene el intervalo m\u00e1s corto, d\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JOSEESCAURIZA",
+                "name": "Jos\u00e9",
+                "id": 90415857,
+                "id_str": "90415857",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 158161821,
+        "id_str": "158161821",
+        "name": "Lorena Benitez",
+        "screen_name": "mtita26",
+        "location": "sajonia / asunci\u00f3n - paraguay",
+        "description": "Somos instantes..",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 425,
+        "friends_count": 552,
+        "listed_count": 0,
+        "created_at": "Mon Jun 21 23:30:10 +0000 2010",
+        "favourites_count": 34051,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7833,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406010451419353094/0xqV81Cb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406010451419353094/0xqV81Cb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158161821/1569687051",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:02:46 +0000 2021",
+        "id": 1415310808112930816,
+        "id_str": "1415310808112930816",
+        "full_text": "Un estudio publicado en JAMA confirma la efectividad de la vacuna de Pfizer. Esta vacuna tiene el intervalo m\u00e1s corto, de 21 d\u00edas entre primera y segunda dosis; y es la que m\u00e1s r\u00e1pido alcanza la protecci\u00f3n m\u00e1xima, a los 7 d\u00edas luego de la segunda dosis.\nhttps://t.co/0vo76ybjIx",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/0vo76ybjIx",
+                    "expanded_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2780700",
+                    "display_url": "jamanetwork.com/journals/jaman\u2026",
+                    "indices": [
+                        254,
+                        277
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 90415857,
+            "id_str": "90415857",
+            "name": "Jos\u00e9",
+            "screen_name": "JOSEESCAURIZA",
+            "location": "Asunci\u00f3n, Paraguay",
+            "description": "Biograf\u00eda: La estoy viviendo, te cuento despu\u00e9s.\n#Ecologista \n- Nac\u00ed un 27 de agosto (creo) -\n\nhttps://t.co/4307mkNRSg\n     \nNo todo lo que digo es en joda.",
+            "url": "https://t.co/xihUbv6csw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xihUbv6csw",
+                            "expanded_url": "https://www.facebook.com/profile.php?id=874780163",
+                            "display_url": "facebook.com/profile.php?id\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4307mkNRSg",
+                            "expanded_url": "http://instagram.com/joseescauriza",
+                            "display_url": "instagram.com/joseescauriza",
+                            "indices": [
+                                95,
+                                118
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 38329,
+            "friends_count": 24313,
+            "listed_count": 13,
+            "created_at": "Mon Nov 16 15:33:16 +0000 2009",
+            "favourites_count": 51077,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 32887,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/943298053913694208/6YiJMHK4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/943298053913694208/6YiJMHK4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/90415857/1513735227",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 17,
+        "favorite_count": 46,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

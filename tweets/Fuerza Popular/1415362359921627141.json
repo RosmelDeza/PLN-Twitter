@@ -1,0 +1,157 @@
+{
+    "created_at": "Wed Jul 14 17:27:37 +0000 2021",
+    "id": 1415362359921627141,
+    "id_str": "1415362359921627141",
+    "full_text": "@Web_Peru @picomonaco87 @CapHail @barrantes_nico @CALPERUOFICIAL @FiscaliaPeru @JNE_Peru Pero si ganaron con fraude , de q hablas , la metieron presa 3 veces , dijeron q fuerza popular ni pasaba la valla electoral , y resulta q lleg\u00f3 a segunda vuelta denuevo y la mitad del Per\u00fa voto por ella jaja as\u00ed te joda , tendr\u00e1s keiko para toda la vida en el Per\u00fa xD",
+    "truncated": false,
+    "display_text_range": [
+        89,
+        357
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Web_Peru",
+                "name": "Web_Peru",
+                "id": 282257444,
+                "id_str": "282257444",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "picomonaco87",
+                "name": "Christian Gonzalez",
+                "id": 845438746610814976,
+                "id_str": "845438746610814976",
+                "indices": [
+                    10,
+                    23
+                ]
+            },
+            {
+                "screen_name": "CapHail",
+                "name": "CriptoCap\u2122",
+                "id": 65972106,
+                "id_str": "65972106",
+                "indices": [
+                    24,
+                    32
+                ]
+            },
+            {
+                "screen_name": "barrantes_nico",
+                "name": "Nicolas Barrantes",
+                "id": 2859350644,
+                "id_str": "2859350644",
+                "indices": [
+                    33,
+                    48
+                ]
+            },
+            {
+                "screen_name": "CALPERUOFICIAL",
+                "name": "Ilustre Colegio de Abogados de Lima",
+                "id": 994658244906946561,
+                "id_str": "994658244906946561",
+                "indices": [
+                    49,
+                    64
+                ]
+            },
+            {
+                "screen_name": "FiscaliaPeru",
+                "name": "Ministerio P\u00fablico",
+                "id": 302151609,
+                "id_str": "302151609",
+                "indices": [
+                    65,
+                    78
+                ]
+            },
+            {
+                "screen_name": "JNE_Peru",
+                "name": "JNE Per\u00fa",
+                "id": 160355694,
+                "id_str": "160355694",
+                "indices": [
+                    79,
+                    88
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415347458092290057,
+    "in_reply_to_status_id_str": "1415347458092290057",
+    "in_reply_to_user_id": 282257444,
+    "in_reply_to_user_id_str": "282257444",
+    "in_reply_to_screen_name": "Web_Peru",
+    "user": {
+        "id": 1304877592290504710,
+        "id_str": "1304877592290504710",
+        "name": "Ragnaruxc",
+        "screen_name": "ragnaruxc",
+        "location": "",
+        "description": "Yo Ragnar Lodbrok rey de toda Noruega y Presidente Electo de la Rep\u00fablica del Per\u00fa (2021-2026) \ud83e\udd23",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 28,
+        "friends_count": 99,
+        "listed_count": 1,
+        "created_at": "Sat Sep 12 20:20:46 +0000 2020",
+        "favourites_count": 860,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10844,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1304878700765347841/lkvrB-CF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304878700765347841/lkvrB-CF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1304877592290504710/1599942350",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

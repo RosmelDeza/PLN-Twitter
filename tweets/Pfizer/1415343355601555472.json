@@ -1,0 +1,308 @@
+{
+    "created_at": "Wed Jul 14 16:12:06 +0000 2021",
+    "id": 1415343355601555472,
+    "id_str": "1415343355601555472",
+    "full_text": "RT @ProgresOOC: A Jaime Chincha deben haberlo vacunado con Pfizer...",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        68
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ProgresOOC",
+                "name": "Progres Out Of Context",
+                "id": 2813994817,
+                "id_str": "2813994817",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3952335136,
+        "id_str": "3952335136",
+        "name": "Walter Flores",
+        "screen_name": "walterfg1983",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 142,
+        "friends_count": 164,
+        "listed_count": 0,
+        "created_at": "Wed Oct 14 03:27:15 +0000 2015",
+        "favourites_count": 30887,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10898,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299555996436701184/3PL4ZuBZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299555996436701184/3PL4ZuBZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3952335136/1587874329",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:01:46 +0000 2021",
+        "id": 1415340755736989697,
+        "id_str": "1415340755736989697",
+        "full_text": "A Jaime Chincha deben haberlo vacunado con Pfizer... https://t.co/GqQjcw01mK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            52
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/GqQjcw01mK",
+                    "expanded_url": "https://twitter.com/diarioojo/status/1414228764297416704",
+                    "display_url": "twitter.com/diarioojo/stat\u2026",
+                    "indices": [
+                        53,
+                        76
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2813994817,
+            "id_str": "2813994817",
+            "name": "Progres Out Of Context",
+            "screen_name": "ProgresOOC",
+            "location": "Lima, Peru",
+            "description": "Comunismo, socialismo, progresismo, vandalismo son lo mismo.\nCuenta de respaldo @OOC_Progres",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 20772,
+            "friends_count": 199,
+            "listed_count": 31,
+            "created_at": "Wed Sep 17 01:03:58 +0000 2014",
+            "favourites_count": 94397,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4282,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412071549767720960/wqbJOuUS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412071549767720960/wqbJOuUS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2813994817/1613350390",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414228764297416704,
+        "quoted_status_id_str": "1414228764297416704",
+        "quoted_status": {
+            "created_at": "Sun Jul 11 14:23:07 +0000 2021",
+            "id": 1414228764297416704,
+            "id_str": "1414228764297416704",
+            "full_text": "Mujeres reportan aumento de senos tras vacunarse con el f\u00e1rmaco de Pfizer | VIDEO https://t.co/8NH7NLHNXY",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                105
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/8NH7NLHNXY",
+                        "expanded_url": "https://ojo.pe/locomundo/mujeres-reportan-aumento-de-senos-tras-vacuna-pfizer-web-ojo-curiosidades-noticia/",
+                        "display_url": "ojo.pe/locomundo/muje\u2026",
+                        "indices": [
+                            82,
+                            105
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://besocy.com\" rel=\"nofollow\">Besocy_Oficial</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 41132721,
+                "id_str": "41132721",
+                "name": "Diario Ojo",
+                "screen_name": "diarioojo",
+                "location": "Lima, Peru",
+                "description": "Ojo te mantiene informado con las noticias policiales y del espect\u00e1culo \ud83d\ude09",
+                "url": "https://t.co/VXYcdiu0ap",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/VXYcdiu0ap",
+                                "expanded_url": "http://www.ojo.pe",
+                                "display_url": "ojo.pe",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 395810,
+                "friends_count": 497,
+                "listed_count": 1092,
+                "created_at": "Tue May 19 15:05:43 +0000 2009",
+                "favourites_count": 56,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 185112,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "007438",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1331328966230159362/kM8L5YvW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331328966230159362/kM8L5YvW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/41132721/1611837351",
+                "profile_link_color": "088253",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 48,
+            "favorite_count": 278,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 5,
+        "favorite_count": 54,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414228764297416704,
+    "quoted_status_id_str": "1414228764297416704",
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

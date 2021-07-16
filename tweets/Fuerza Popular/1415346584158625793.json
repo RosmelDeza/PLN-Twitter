@@ -1,0 +1,210 @@
+{
+    "created_at": "Wed Jul 14 16:24:56 +0000 2021",
+    "id": 1415346584158625793,
+    "id_str": "1415346584158625793",
+    "full_text": "Cuando se pregunten c\u00f3mo Fuerza Popular logr\u00f3 casi ganar las elecciones, c\u00f3mo esa organizaci\u00f3n criminal tiene al pa\u00eds secuestrado y prolonga a\u00fan la proclamaci\u00f3n de Castillo es por cosas como esta \ud83d\udc47. SENTIDO COM\u00daN, Castillo no es Castro ni Ch\u00e1vez, a\u00fan no se dan cuenta. Ilusos. https://t.co/YmlZwdMhZi",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        276
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/YmlZwdMhZi",
+                "expanded_url": "https://twitter.com/mabel_huertas/status/1415277118922035202",
+                "display_url": "twitter.com/mabel_huertas/\u2026",
+                "indices": [
+                    277,
+                    300
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1254511028894924800,
+        "id_str": "1254511028894924800",
+        "name": "Ricardo",
+        "screen_name": "OdontoEducTec",
+        "location": "",
+        "description": "Cirujano Dentista egresado de la UNMSM. Prefiero hablar de ciencia, literatura o cine, pero en el Per\u00fa hablar de pol\u00edtica tambi\u00e9n es necesario.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 109,
+        "friends_count": 1699,
+        "listed_count": 0,
+        "created_at": "Sun Apr 26 20:42:13 +0000 2020",
+        "favourites_count": 26649,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21977,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1379982345936236545/gkQEPAR6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379982345936236545/gkQEPAR6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415277118922035202,
+    "quoted_status_id_str": "1415277118922035202",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 11:48:54 +0000 2021",
+        "id": 1415277118922035202,
+        "id_str": "1415277118922035202",
+        "full_text": "D-I-C-T-A-D-U-R-A, no es tan dif\u00edcil. https://t.co/CiMDZ2m15E",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            37
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/CiMDZ2m15E",
+                    "expanded_url": "https://twitter.com/PedroCastilloTe/status/1415145721658056704",
+                    "display_url": "twitter.com/PedroCastilloT\u2026",
+                    "indices": [
+                        38,
+                        61
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 41401099,
+            "id_str": "41401099",
+            "name": "Mabel Huertas",
+            "screen_name": "mabel_huertas",
+            "location": "Lima - Peru",
+            "description": "Periodista.  instagram: mabelhuertasm",
+            "url": "https://t.co/T0CXqiLlPn",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/T0CXqiLlPn",
+                            "expanded_url": "https://www.facebook.com/MabelHuertasOficial/",
+                            "display_url": "facebook.com/MabelHuertasOf\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 335580,
+            "friends_count": 1110,
+            "listed_count": 488,
+            "created_at": "Wed May 20 17:12:57 +0000 2009",
+            "favourites_count": 10995,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 20676,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1340749672202252295/PTPN82Rb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1340749672202252295/PTPN82Rb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41401099/1398773321",
+            "profile_link_color": "7A5ABD",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415145721658056704,
+        "quoted_status_id_str": "1415145721658056704",
+        "retweet_count": 259,
+        "favorite_count": 1696,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

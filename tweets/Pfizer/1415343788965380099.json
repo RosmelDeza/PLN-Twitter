@@ -1,0 +1,380 @@
+{
+    "created_at": "Wed Jul 14 16:13:49 +0000 2021",
+    "id": 1415343788965380099,
+    "id_str": "1415343788965380099",
+    "full_text": "RT @DGobAndalucia: \ud83d\udcaa\ud83c\udffd\ud83d\udc89Actualizaci\u00f3n del informe de vacunaci\u00f3n en #Andaluc\u00eda el 14 de julio:\n\n\ud83d\udd399.306.300 dosis distribuidas\n  \u25aa\ufe0f 6.111.000 P\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Andaluc\u00eda",
+                "indices": [
+                    65,
+                    75
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DGobAndalucia",
+                "name": "Delegaci\u00f3n del Gobierno en Andaluc\u00eda",
+                "id": 1139116638,
+                "id_str": "1139116638",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 778131373240582144,
+        "id_str": "778131373240582144",
+        "name": "Subdelegaci\u00f3n Huelva",
+        "screen_name": "SubGobHuelva",
+        "location": "Huelva, Espa\u00f1a",
+        "description": "Twitter oficial de la Subdelegaci\u00f3n del Gobierno en Huelva. Gobierno de Espa\u00f1a",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2005,
+        "friends_count": 479,
+        "listed_count": 27,
+        "created_at": "Tue Sep 20 07:19:11 +0000 2016",
+        "favourites_count": 11814,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9416,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409775865257508865/61nSYTDW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409775865257508865/61nSYTDW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/778131373240582144/1624951902",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:08:59 +0000 2021",
+        "id": 1415342571694563329,
+        "id_str": "1415342571694563329",
+        "full_text": "\ud83d\udcaa\ud83c\udffd\ud83d\udc89Actualizaci\u00f3n del informe de vacunaci\u00f3n en #Andaluc\u00eda el 14 de julio:\n\n\ud83d\udd399.306.300 dosis distribuidas\n  \u25aa\ufe0f 6.111.000 Pfizer\n  \u25aa\ufe0f 913.500 Moderna\n  \u25aa\ufe0f 1.805.800 AstraZeneca\n  \u25aa\ufe0f 476.000 Janssen\n\ud83d\udd398.717.953 administradas (93,7%)\n\nhttps://t.co/0E4ct2l7SO\n\n#YoMeVacunoSeguro https://t.co/T7qR4FtoWA",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            271
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Andaluc\u00eda",
+                    "indices": [
+                        46,
+                        56
+                    ]
+                },
+                {
+                    "text": "YoMeVacunoSeguro",
+                    "indices": [
+                        254,
+                        271
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/0E4ct2l7SO",
+                    "expanded_url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_GIV_comunicacion_20210714.pdf",
+                    "display_url": "mscbs.gob.es/profesionales/\u2026",
+                    "indices": [
+                        229,
+                        252
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415342214746624000,
+                    "id_str": "1415342214746624000",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ROPtmWUAADZ04.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ROPtmWUAADZ04.jpg",
+                    "url": "https://t.co/T7qR4FtoWA",
+                    "display_url": "pic.twitter.com/T7qR4FtoWA",
+                    "expanded_url": "https://twitter.com/DGobAndalucia/status/1415342571694563329/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 950,
+                            "h": 531,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 950,
+                            "h": 531,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 380,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415342214746624000,
+                    "id_str": "1415342214746624000",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ROPtmWUAADZ04.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ROPtmWUAADZ04.jpg",
+                    "url": "https://t.co/T7qR4FtoWA",
+                    "display_url": "pic.twitter.com/T7qR4FtoWA",
+                    "expanded_url": "https://twitter.com/DGobAndalucia/status/1415342571694563329/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 950,
+                            "h": 531,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 950,
+                            "h": 531,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 380,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415342214767599617,
+                    "id_str": "1415342214767599617",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ROPtrWYAErWd_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ROPtrWYAErWd_.jpg",
+                    "url": "https://t.co/T7qR4FtoWA",
+                    "display_url": "pic.twitter.com/T7qR4FtoWA",
+                    "expanded_url": "https://twitter.com/DGobAndalucia/status/1415342571694563329/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 953,
+                            "h": 532,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 380,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 953,
+                            "h": 532,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415342214734024705,
+                    "id_str": "1415342214734024705",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ROPtjWEAEv_lM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ROPtjWEAEv_lM.jpg",
+                    "url": "https://t.co/T7qR4FtoWA",
+                    "display_url": "pic.twitter.com/T7qR4FtoWA",
+                    "expanded_url": "https://twitter.com/DGobAndalucia/status/1415342571694563329/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 942,
+                            "h": 531,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 942,
+                            "h": 531,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1139116638,
+            "id_str": "1139116638",
+            "name": "Delegaci\u00f3n del Gobierno en Andaluc\u00eda",
+            "screen_name": "DGobAndalucia",
+            "location": "Sevilla, Espa\u00f1a",
+            "description": "Cuenta oficial de la Delegaci\u00f3n del Gobierno de Espa\u00f1a en Andaluc\u00eda.",
+            "url": "https://t.co/yAqfIDVQJU",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/yAqfIDVQJU",
+                            "expanded_url": "http://www.seat.mpr.gob.es/portal/delegaciones_gobierno/delegaciones/andalucia.html",
+                            "display_url": "seat.mpr.gob.es/portal/delegac\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11716,
+            "friends_count": 289,
+            "listed_count": 153,
+            "created_at": "Fri Feb 01 08:58:25 +0000 2013",
+            "favourites_count": 4011,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 21107,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409769079808921600/jORZQFoO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409769079808921600/jORZQFoO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1139116638/1625592357",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

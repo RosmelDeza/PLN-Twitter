@@ -1,0 +1,476 @@
+{
+    "created_at": "Wed Jul 14 17:23:38 +0000 2021",
+    "id": 1415361358262988805,
+    "id_str": "1415361358262988805",
+    "full_text": "RT @LouisTPy: Se cumplen 7 a\u00f1os de Louis Tomlinson d\u00e1ndole el \"abrazo m\u00e1s largo\" a una fan que no quer\u00eda soltarlo! \ud83e\udd7a https://t.co/txJNXYOtv2",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LouisTPy",
+                "name": "Louis Paraguay",
+                "id": 809459146273804293,
+                "id_str": "809459146273804293",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414938401879597062,
+                "id_str": "1414938401879597062",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414938401879597062/pu/img/fQRlmxk9LrY4dipl.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414938401879597062/pu/img/fQRlmxk9LrY4dipl.jpg",
+                "url": "https://t.co/txJNXYOtv2",
+                "display_url": "pic.twitter.com/txJNXYOtv2",
+                "expanded_url": "https://twitter.com/LouisTPy/status/1414938448067170304/video/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414938448067170304,
+                "source_status_id_str": "1414938448067170304",
+                "source_user_id": 809459146273804293,
+                "source_user_id_str": "809459146273804293"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414938401879597062,
+                "id_str": "1414938401879597062",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414938401879597062/pu/img/fQRlmxk9LrY4dipl.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414938401879597062/pu/img/fQRlmxk9LrY4dipl.jpg",
+                "url": "https://t.co/txJNXYOtv2",
+                "display_url": "pic.twitter.com/txJNXYOtv2",
+                "expanded_url": "https://twitter.com/LouisTPy/status/1414938448067170304/video/1",
+                "type": "video",
+                "sizes": {
+                    "small": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414938448067170304,
+                "source_status_id_str": "1414938448067170304",
+                "source_user_id": 809459146273804293,
+                "source_user_id_str": "809459146273804293",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 6100,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1414938401879597062/pu/pl/9_F6tgAIaskI0tJc.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414938401879597062/pu/vid/320x320/_Yvy-v4shaMPqV2l.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414938401879597062/pu/vid/480x480/_qJw_14HaSzn7L64.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 809459146273804293,
+                        "id_str": "809459146273804293",
+                        "name": "Louis Paraguay",
+                        "screen_name": "LouisTPy",
+                        "location": "Paraguay",
+                        "description": "\ud83d\udccdWelcome to @Louis_Tomlinson Official Fans Club in Paraguay | #LTPY | Respaldados por @BMG. \ud83c\uddf5\ud83c\uddfe\u2764\ufe0f",
+                        "url": "https://t.co/LG0HD7QgNO",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/LG0HD7QgNO",
+                                        "expanded_url": "https://beacons.ai/louisparaguay",
+                                        "display_url": "beacons.ai/louisparaguay",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 7330,
+                        "friends_count": 173,
+                        "listed_count": 29,
+                        "created_at": "Thu Dec 15 18:04:34 +0000 2016",
+                        "favourites_count": 22990,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 22436,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1283917238253355010/N9Vivvuu_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283917238253355010/N9Vivvuu_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/809459146273804293/1594944697",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1394315838946267141,
+        "id_str": "1394315838946267141",
+        "name": "Always Lou",
+        "screen_name": "AlwaysL18843035",
+        "location": "",
+        "description": "Cuenta s\u00f3lo para votar :) \nDevuelvo follow :)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 225,
+        "friends_count": 330,
+        "listed_count": 0,
+        "created_at": "Mon May 17 15:36:30 +0000 2021",
+        "favourites_count": 280,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 182,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394316301129195523/p_0xpHe1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394316301129195523/p_0xpHe1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394315838946267141/1621266267",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 13:23:08 +0000 2021",
+        "id": 1414938448067170304,
+        "id_str": "1414938448067170304",
+        "full_text": "Se cumplen 7 a\u00f1os de Louis Tomlinson d\u00e1ndole el \"abrazo m\u00e1s largo\" a una fan que no quer\u00eda soltarlo! \ud83e\udd7a https://t.co/txJNXYOtv2",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            102
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414938401879597062,
+                    "id_str": "1414938401879597062",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414938401879597062/pu/img/fQRlmxk9LrY4dipl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414938401879597062/pu/img/fQRlmxk9LrY4dipl.jpg",
+                    "url": "https://t.co/txJNXYOtv2",
+                    "display_url": "pic.twitter.com/txJNXYOtv2",
+                    "expanded_url": "https://twitter.com/LouisTPy/status/1414938448067170304/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414938401879597062,
+                    "id_str": "1414938401879597062",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414938401879597062/pu/img/fQRlmxk9LrY4dipl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414938401879597062/pu/img/fQRlmxk9LrY4dipl.jpg",
+                    "url": "https://t.co/txJNXYOtv2",
+                    "display_url": "pic.twitter.com/txJNXYOtv2",
+                    "expanded_url": "https://twitter.com/LouisTPy/status/1414938448067170304/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 6100,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1414938401879597062/pu/pl/9_F6tgAIaskI0tJc.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414938401879597062/pu/vid/320x320/_Yvy-v4shaMPqV2l.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414938401879597062/pu/vid/480x480/_qJw_14HaSzn7L64.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 809459146273804293,
+            "id_str": "809459146273804293",
+            "name": "Louis Paraguay",
+            "screen_name": "LouisTPy",
+            "location": "Paraguay",
+            "description": "\ud83d\udccdWelcome to @Louis_Tomlinson Official Fans Club in Paraguay | #LTPY | Respaldados por @BMG. \ud83c\uddf5\ud83c\uddfe\u2764\ufe0f",
+            "url": "https://t.co/LG0HD7QgNO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LG0HD7QgNO",
+                            "expanded_url": "https://beacons.ai/louisparaguay",
+                            "display_url": "beacons.ai/louisparaguay",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7330,
+            "friends_count": 173,
+            "listed_count": 29,
+            "created_at": "Thu Dec 15 18:04:34 +0000 2016",
+            "favourites_count": 22990,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 22436,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1283917238253355010/N9Vivvuu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283917238253355010/N9Vivvuu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/809459146273804293/1594944697",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 145,
+        "favorite_count": 1996,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 145,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

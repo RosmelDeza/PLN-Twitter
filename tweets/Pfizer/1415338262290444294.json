@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 15:51:52 +0000 2021",
+    "id": 1415338262290444294,
+    "id_str": "1415338262290444294",
+    "full_text": "@CiudadCanaria No s\u00e9 si hay una manera m\u00e1s fiable. Pero yo busqu\u00e9 en Google\uff06en Twitter \"vacuna/vacunados/vacunaci\u00f3n Fuerteventura\" como palabras clave\uff06me empezaron a salir art\u00edculos\uff06tweets de cuentas oficiales diciendo q aqu\u00ed estaban administrando la Pfizer.\nY as\u00ed fue, me pusieron la Pfizer.",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        292
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CiudadCanaria",
+                "name": "Canario de ciudad \ud83c\uddee\ud83c\udde8",
+                "id": 3213409467,
+                "id_str": "3213409467",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415335993419444225,
+    "in_reply_to_status_id_str": "1415335993419444225",
+    "in_reply_to_user_id": 3213409467,
+    "in_reply_to_user_id_str": "3213409467",
+    "in_reply_to_screen_name": "CiudadCanaria",
+    "user": {
+        "id": 1207578278476816384,
+        "id_str": "1207578278476816384",
+        "name": "\u06ea Kyle\u2077",
+        "screen_name": "cyanidekyle",
+        "location": "\u1a0f 22\uff5c\u1a12 only BTS\uff5c\ud83d\udc89\u3010SPA/ENG/\u4e2d\u6587\u3011",
+        "description": "\ud835\ude45\ud835\ude56\ud835\ude58\ud835\ude60 \ud835\ude4e\ud835\ude65\ud835\ude5e\ud835\ude58\ud835\ude5a\ud835\ude67: \ud835\ude13\ud835\ude2a\ud835\ude37\ud835\ude26 \ud835\ude27\ud835\ude30\ud835\ude33 \ud835\ude35\ud835\ude29\ud835\ude26 \ud835\ude30\ud835\ude2f\ud835\ude26\ud835\ude34 \ud835\ude38\ud835\ude29\ud835\ude30 \ud835\ude24\ud835\ude22\ud835\ude2f'\ud835\ude35 \ud835\ude27\ud835\ude2a\ud835\ude28\ud835\ude29\ud835\ude35, \ud835\ude22\ud835\ude2f\ud835\ude25 \ud835\ude27\ud835\ude2a\ud835\ude28\ud835\ude29\ud835\ude35 \ud835\ude22\ud835\ude34 \ud835\ude2a\ud835\ude27 \ud835\ude3a\ud835\ude30\ud835\ude36 \ud835\ude38\ud835\ude26\ud835\ude33\ud835\ude26 \ud835\ude28\ud835\ude30\ud835\ude2a\ud835\ude2f\ud835\ude28 \ud835\ude35\ud835\ude30 \ud835\ude25\ud835\ude2a\ud835\ude26\uff5che/him \ud83c\udfb8",
+        "url": "https://t.co/MnrR6l7v7A",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/MnrR6l7v7A",
+                        "expanded_url": "http://bts-butter.com",
+                        "display_url": "bts-butter.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 65,
+        "friends_count": 363,
+        "listed_count": 0,
+        "created_at": "Thu Dec 19 08:28:08 +0000 2019",
+        "favourites_count": 2502,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2256,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414789511201046529/HcLw3cjk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414789511201046529/HcLw3cjk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207578278476816384/1626147080",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,149 @@
+{
+    "created_at": "Wed Jul 14 16:24:43 +0000 2021",
+    "id": 1415346531360821257,
+    "id_str": "1415346531360821257",
+    "full_text": "@bedoya_d @QuinteroCalle Bueno, ya le di cancha para que saliera con \"argumentos\" aqu\u00ed van un par de estudios sobre la efectividad de la vacuna y su desarrollo, espero los lea as\u00ed se le quita lo anti vacuna. \n\nhttps://t.co/LOe2GULF0U\n\nhttps://t.co/kcXjJQ3gB9\n\nhttps://t.co/On59FJytA8",
+    "truncated": false,
+    "display_text_range": [
+        25,
+        283
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bedoya_d",
+                "name": "BEDOYA D",
+                "id": 1170913622,
+                "id_str": "1170913622",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "QuinteroCalle",
+                "name": "Daniel Quintero Calle",
+                "id": 36276135,
+                "id_str": "36276135",
+                "indices": [
+                    10,
+                    24
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/LOe2GULF0U",
+                "expanded_url": "https://www.google.com/amp/s/es.statista.com/grafico/amp/23569/eficacia-estimada-de-los-candidatos-a-vacuna-en-la-prevencion-de-la-covid-19/",
+                "display_url": "google.com/amp/s/es.stati\u2026",
+                "indices": [
+                    210,
+                    233
+                ]
+            },
+            {
+                "url": "https://t.co/kcXjJQ3gB9",
+                "expanded_url": "https://www.google.com/amp/s/www.bbc.com/mundo/noticias-internacional-55913068.amp",
+                "display_url": "google.com/amp/s/www.bbc.\u2026",
+                "indices": [
+                    235,
+                    258
+                ]
+            },
+            {
+                "url": "https://t.co/On59FJytA8",
+                "expanded_url": "https://www.ccb.org.co/Clusters/Cluster-Farmaceutico-Bogota-region/Noticias/20202/Diciembre-2020/Vacuna-de-Pfizer-es-eficaz-y-segura-New-England-Journal-of-Medicine",
+                "display_url": "ccb.org.co/Clusters/Clust\u2026",
+                "indices": [
+                    260,
+                    283
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415345123785838598,
+    "in_reply_to_status_id_str": "1415345123785838598",
+    "in_reply_to_user_id": 1170913622,
+    "in_reply_to_user_id_str": "1170913622",
+    "in_reply_to_screen_name": "bedoya_d",
+    "user": {
+        "id": 841448879035961348,
+        "id_str": "841448879035961348",
+        "name": "Bayar",
+        "screen_name": "BayardoSiachoG",
+        "location": "Medell\u00edn, Colombia",
+        "description": "Actualmente estudiante y trabajando en lo que me gusta y en lo que amo.\n\nProfesor de mis d\u00edas, aprendiz del tiempo.",
+        "url": "https://t.co/YHq4kjb9ZG",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/YHq4kjb9ZG",
+                        "expanded_url": "https://www.facebook.com/bayars.garcia",
+                        "display_url": "facebook.com/bayars.garcia",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 163,
+        "friends_count": 215,
+        "listed_count": 0,
+        "created_at": "Tue Mar 14 00:40:20 +0000 2017",
+        "favourites_count": 14807,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8226,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249025685521420289/GBTm_1FD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249025685521420289/GBTm_1FD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/841448879035961348/1622605797",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

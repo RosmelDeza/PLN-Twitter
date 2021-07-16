@@ -1,0 +1,207 @@
+{
+    "created_at": "Wed Jul 14 16:06:20 +0000 2021",
+    "id": 1415341904703729664,
+    "id_str": "1415341904703729664",
+    "full_text": "RT @revoabril1904: La FDA agrega advertencias sobre pericarditis y miocarditis a \"vacunas\" de Pfizer y Moderna, finalmente. Pero usted dele\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "revoabril1904",
+                "name": "The Free Man",
+                "id": 2897562935,
+                "id_str": "2897562935",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1371657842537680902,
+        "id_str": "1371657842537680902",
+        "name": "Angelos",
+        "screen_name": "SisoyAngelos",
+        "location": "Entre Tus Piernas",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 45,
+        "friends_count": 129,
+        "listed_count": 0,
+        "created_at": "Tue Mar 16 03:01:42 +0000 2021",
+        "favourites_count": 1757,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1422,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1388862144066854915/nWqKp4N4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388862144066854915/nWqKp4N4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1371657842537680902/1619965512",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:01:33 +0000 2021",
+        "id": 1415340700921733121,
+        "id_str": "1415340700921733121",
+        "full_text": "La FDA agrega advertencias sobre pericarditis y miocarditis a \"vacunas\" de Pfizer y Moderna, finalmente. Pero usted dele, que son seguras y los \"beneficios\" superan los riesgos.\n\nhttps://t.co/JzuCEn0nXe",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            202
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JzuCEn0nXe",
+                    "expanded_url": "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-june-25-2021",
+                    "display_url": "fda.gov/news-events/pr\u2026",
+                    "indices": [
+                        179,
+                        202
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2897562935,
+            "id_str": "2897562935",
+            "name": "The Free Man",
+            "screen_name": "revoabril1904",
+            "location": "Nicaragua libre de sandinismo",
+            "description": "Sue\u00f1o con una Nicaragua libre de sandinismo.\nEn busca de una fuerza de derecha nacional.\n#QBSLC #ElMuroDeOccidente #MiVidaMiAire",
+            "url": "https://t.co/n10wxl7vaM",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/n10wxl7vaM",
+                            "expanded_url": "https://cancionespopularesparalanuevanicaragua.com/",
+                            "display_url": "\u2026onespopularesparalanuevanicaragua.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1444,
+            "friends_count": 999,
+            "listed_count": 0,
+            "created_at": "Sat Nov 29 15:41:22 +0000 2014",
+            "favourites_count": 84405,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 72983,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1287460613111906305/eeI2r_X-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287460613111906305/eeI2r_X-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2897562935/1623870988",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

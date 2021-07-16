@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 16:23:43 +0000 2021",
+    "id": 1415346278024765446,
+    "id_str": "1415346278024765446",
+    "full_text": "RT @LoSqualo_: Entre Pfizer y Sinovac, prefiero tus besos.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        58
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LoSqualo_",
+                "name": "Stefano",
+                "id": 189306694,
+                "id_str": "189306694",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 342340793,
+        "id_str": "342340793",
+        "name": "Michelle P\u00e9rez",
+        "screen_name": "MichiPrz",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 239,
+        "friends_count": 307,
+        "listed_count": 0,
+        "created_at": "Mon Jul 25 21:21:19 +0000 2011",
+        "favourites_count": 1088,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20683,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1290796768498769920/N5NfPXuU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290796768498769920/N5NfPXuU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342340793/1616715367",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 03:14:17 +0000 2021",
+        "id": 1415147613163229186,
+        "id_str": "1415147613163229186",
+        "full_text": "Entre Pfizer y Sinovac, prefiero tus besos.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            43
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 189306694,
+            "id_str": "189306694",
+            "name": "Stefano",
+            "screen_name": "LoSqualo_",
+            "location": "742 Evergreen Terrace",
+            "description": "Sono annoiato",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1258,
+            "friends_count": 644,
+            "listed_count": 4,
+            "created_at": "Fri Sep 10 22:49:14 +0000 2010",
+            "favourites_count": 24551,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 45171,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414461439981535233/6c93etWu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414461439981535233/6c93etWu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/189306694/1603776818",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "030516",
+            "profile_text_color": "16818E",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 45,
+        "favorite_count": 95,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 45,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

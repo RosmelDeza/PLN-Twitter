@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 15:49:06 +0000 2021",
+    "id": 1415337566962921477,
+    "id_str": "1415337566962921477",
+    "full_text": "@Luis_Torrejon Tambi\u00e9n la eficacia pues. Pfizer y moderna son las mejores.",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        74
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Luis_Torrejon",
+                "name": "Luis Torrej\u00f3n",
+                "id": 79383545,
+                "id_str": "79383545",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415324890597666824,
+    "in_reply_to_status_id_str": "1415324890597666824",
+    "in_reply_to_user_id": 79383545,
+    "in_reply_to_user_id_str": "79383545",
+    "in_reply_to_screen_name": "Luis_Torrejon",
+    "user": {
+        "id": 903063605679194112,
+        "id_str": "903063605679194112",
+        "name": "Astrid Shirley Escobedo",
+        "screen_name": "Shirley12essoto",
+        "location": "Lima, Peru",
+        "description": "Architect.\nEnvironmental Designer.\nRocanlover",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 192,
+        "friends_count": 290,
+        "listed_count": 1,
+        "created_at": "Thu Aug 31 01:15:16 +0000 2017",
+        "favourites_count": 34306,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8573,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409779343463694336/MzIBuKJF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409779343463694336/MzIBuKJF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

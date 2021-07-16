@@ -1,0 +1,284 @@
+{
+    "created_at": "Wed Jul 14 16:07:41 +0000 2021",
+    "id": 1415342242664009729,
+    "id_str": "1415342242664009729",
+    "full_text": "RT @ucinoticias_pe: \ud83d\udd34\ud83d\udc49 El especialista en derecho electoral, Jos\u00e9 Naupari, precis\u00f3 que el plazo es de 3 d\u00edas h\u00e1biles, para que Fuerza Popul\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ucinoticias_pe",
+                "name": "UCI",
+                "id": 983747278971326465,
+                "id_str": "983747278971326465",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1045548635801485312,
+        "id_str": "1045548635801485312",
+        "name": "Fermin",
+        "screen_name": "FerminLozano10",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 503,
+        "friends_count": 748,
+        "listed_count": 0,
+        "created_at": "Fri Sep 28 05:39:54 +0000 2018",
+        "favourites_count": 1064,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 71507,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1045552373534511104/bqQigxjF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045552373534511104/bqQigxjF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:58:23 +0000 2021",
+        "id": 1415339902456279040,
+        "id_str": "1415339902456279040",
+        "full_text": "\ud83d\udd34\ud83d\udc49 El especialista en derecho electoral, Jos\u00e9 Naupari, precis\u00f3 que el plazo es de 3 d\u00edas h\u00e1biles, para que Fuerza Popular apele a las actas de los JEE, pero solo sobre errores num\u00e9ricos.  https://t.co/wAhBhZEXs0 https://t.co/z8dwW0bzML",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            211
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wAhBhZEXs0",
+                    "expanded_url": "https://bit.ly/3B5aYuG",
+                    "display_url": "bit.ly/3B5aYuG",
+                    "indices": [
+                        188,
+                        211
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415339888174673924,
+                    "id_str": "1415339888174673924",
+                    "indices": [
+                        212,
+                        235
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RMIScXsAQWIUU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RMIScXsAQWIUU.jpg",
+                    "url": "https://t.co/z8dwW0bzML",
+                    "display_url": "pic.twitter.com/z8dwW0bzML",
+                    "expanded_url": "https://twitter.com/ucinoticias_pe/status/1415339902456279040/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1025,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1025,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415339888174673924,
+                    "id_str": "1415339888174673924",
+                    "indices": [
+                        212,
+                        235
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RMIScXsAQWIUU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RMIScXsAQWIUU.jpg",
+                    "url": "https://t.co/z8dwW0bzML",
+                    "display_url": "pic.twitter.com/z8dwW0bzML",
+                    "expanded_url": "https://twitter.com/ucinoticias_pe/status/1415339902456279040/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1025,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1025,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 983747278971326465,
+            "id_str": "983747278971326465",
+            "name": "UCI",
+            "screen_name": "ucinoticias_pe",
+            "location": "San isidro, Peru",
+            "description": "UCI, \u00a1Un Canal Inteligente! Estamos en el canal 18.1 se\u00f1al abierta, Claro TV canal 30 y 516 HD, 15 de Best Cable, 715 Cablem\u00e1s y en m\u00e1s de 100 ciudades.",
+            "url": "https://t.co/SjXgmRQKdG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/SjXgmRQKdG",
+                            "expanded_url": "http://www.uci.pe",
+                            "display_url": "uci.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16202,
+            "friends_count": 36,
+            "listed_count": 50,
+            "created_at": "Tue Apr 10 16:43:23 +0000 2018",
+            "favourites_count": 1779,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 31615,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1328695389323735043/-Ee8a0WK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328695389323735043/-Ee8a0WK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/983747278971326465/1618517231",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

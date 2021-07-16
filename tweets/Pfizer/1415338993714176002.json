@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 15:54:46 +0000 2021",
+    "id": 1415338993714176002,
+    "id_str": "1415338993714176002",
+    "full_text": "@ougarteu Y si es tan efectiva por qu\u00e9 no te la pusistes, claro como te pusistes Pfizer, no te interesa que muera nuestros m\u00e9dicos t\u00edpico de un izquierda Caviar \ud83e\udd21\ud83e\udd21\ud83e\udd21",
+    "truncated": false,
+    "display_text_range": [
+        10,
+        164
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ougarteu",
+                "name": "Oscar Ugarte Ubilluz",
+                "id": 3314271281,
+                "id_str": "3314271281",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415271150796648449,
+    "in_reply_to_status_id_str": "1415271150796648449",
+    "in_reply_to_user_id": 3314271281,
+    "in_reply_to_user_id_str": "3314271281",
+    "in_reply_to_screen_name": "ougarteu",
+    "user": {
+        "id": 1393385801912832004,
+        "id_str": "1393385801912832004",
+        "name": "Pamela TM",
+        "screen_name": "Pamela13397496",
+        "location": "",
+        "description": "Cat\u00f3lica, patriota, provida \ud83d\udc99 anticomunista... \ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 17,
+        "friends_count": 135,
+        "listed_count": 0,
+        "created_at": "Sat May 15 02:01:42 +0000 2021",
+        "favourites_count": 1480,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 442,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393386411777302531/Ak0xL62D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393386411777302531/Ak0xL62D_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

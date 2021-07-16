@@ -1,0 +1,216 @@
+{
+    "created_at": "Wed Jul 14 16:32:51 +0000 2021",
+    "id": 1415348579414290432,
+    "id_str": "1415348579414290432",
+    "full_text": "RT @Fernand61091499: @peru21noticias No pasa nada todo es una confabulaci\u00f3n del poder judicial el ministerio p\u00fablico y se hacen los ciegos\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Fernand61091499",
+                "name": "Fernando Pinillos",
+                "id": 1111017532608208896,
+                "id_str": "1111017532608208896",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "peru21noticias",
+                "name": "Diario Per\u00fa21",
+                "id": 832686254873468929,
+                "id_str": "832686254873468929",
+                "indices": [
+                    21,
+                    36
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1369091244765417472,
+        "id_str": "1369091244765417472",
+        "name": "Peruviana",
+        "screen_name": "Peruviana71",
+        "location": "Long Island NY, USA- Lima,PER\u00da",
+        "description": "Christian, Independent, de Derecha..\nProud Peruvian-USA citizen..",
+        "url": "https://t.co/yDJQuotFxR",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yDJQuotFxR",
+                        "expanded_url": "http://gessicascollection.com",
+                        "display_url": "gessicascollection.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 134,
+        "friends_count": 158,
+        "listed_count": 0,
+        "created_at": "Tue Mar 09 01:02:56 +0000 2021",
+        "favourites_count": 20473,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14436,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408858633400729609/hmrcZ21O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408858633400729609/hmrcZ21O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369091244765417472/1622424537",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 22:39:52 +0000 2021",
+        "id": 1415078552664526853,
+        "id_str": "1415078552664526853",
+        "full_text": "@peru21noticias No pasa nada todo es una confabulaci\u00f3n del poder judicial el ministerio p\u00fablico y se hacen los ciegos y sordos Per\u00fa Libre perd\u00f3n Per\u00fa Terruco si fuera Fuerza Popular estar\u00edan en la c\u00e1rcel",
+        "truncated": false,
+        "display_text_range": [
+            16,
+            203
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "peru21noticias",
+                    "name": "Diario Per\u00fa21",
+                    "id": 832686254873468929,
+                    "id_str": "832686254873468929",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1414986610685403139,
+        "in_reply_to_status_id_str": "1414986610685403139",
+        "in_reply_to_user_id": 832686254873468929,
+        "in_reply_to_user_id_str": "832686254873468929",
+        "in_reply_to_screen_name": "peru21noticias",
+        "user": {
+            "id": 1111017532608208896,
+            "id_str": "1111017532608208896",
+            "name": "Fernando Pinillos",
+            "screen_name": "Fernand61091499",
+            "location": "",
+            "description": "Soy Abogado, simpatizante de los derechos del ni\u00f1o y de la mujer y la igualdad entre las razas",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 104,
+            "friends_count": 604,
+            "listed_count": 0,
+            "created_at": "Wed Mar 27 21:29:56 +0000 2019",
+            "favourites_count": 39452,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2826,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1111017690314035200/W_AEuk6B_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111017690314035200/W_AEuk6B_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

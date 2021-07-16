@@ -1,0 +1,352 @@
+{
+    "created_at": "Wed Jul 14 17:00:13 +0000 2021",
+    "id": 1415355463902846990,
+    "id_str": "1415355463902846990",
+    "full_text": "RT @MonicaYaya: ACLARACI\u00d3N A @elcomercio_peru :\nAtenta contra mi derecho a mi identidad empe\u00f1arse en llamarme \"Aliada\"o \"parte del equipo l\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MonicaYaya",
+                "name": "M\u00f2nica Yaya",
+                "id": 102803486,
+                "id_str": "102803486",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "elcomercio_peru",
+                "name": "El Comercio",
+                "id": 233033221,
+                "id_str": "233033221",
+                "indices": [
+                    29,
+                    45
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 217037540,
+        "id_str": "217037540",
+        "name": "\ud83c\uddf5\ud83c\uddeaPatricia Iglesia\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "sonounavatar",
+        "location": "Lima, Peru",
+        "description": "El Per\u00fa jam\u00e1s ser\u00e1 gobernado por castrochavistas, ni por narcoterroristas. No van a ganar ni con fraude. \nPruebas de fraude : https://t.co/OGqOx0Vj7m",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/OGqOx0Vj7m",
+                        "expanded_url": "http://pruebasdefraude.com/",
+                        "display_url": "pruebasdefraude.com",
+                        "indices": [
+                            126,
+                            149
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1912,
+        "friends_count": 1358,
+        "listed_count": 30,
+        "created_at": "Thu Nov 18 12:14:50 +0000 2010",
+        "favourites_count": 38003,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 68006,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C9C0AF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406443538662014979/SYtn-snC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406443538662014979/SYtn-snC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217037540/1620845027",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 20:10:11 +0000 2021",
+        "id": 1415040882529738763,
+        "id_str": "1415040882529738763",
+        "full_text": "ACLARACI\u00d3N A @elcomercio_peru :\nAtenta contra mi derecho a mi identidad empe\u00f1arse en llamarme \"Aliada\"o \"parte del equipo legal\" de Fuerza Popular.\nMis acciones son iniciativa propia. No existe documento que demuestre lo contrario. Soy aprista y me uno a las Fuerzas Democr\u00e1ticas. https://t.co/GKWt0BbICY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "elcomercio_peru",
+                    "name": "El Comercio",
+                    "id": 233033221,
+                    "id_str": "233033221",
+                    "indices": [
+                        13,
+                        29
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415040874627706883,
+                    "id_str": "1415040874627706883",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6M8LaLXsAMmJB7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6M8LaLXsAMmJB7.jpg",
+                    "url": "https://t.co/GKWt0BbICY",
+                    "display_url": "pic.twitter.com/GKWt0BbICY",
+                    "expanded_url": "https://twitter.com/MonicaYaya/status/1415040882529738763/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 654,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 654,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 618,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415040874627706883,
+                    "id_str": "1415040874627706883",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6M8LaLXsAMmJB7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6M8LaLXsAMmJB7.jpg",
+                    "url": "https://t.co/GKWt0BbICY",
+                    "display_url": "pic.twitter.com/GKWt0BbICY",
+                    "expanded_url": "https://twitter.com/MonicaYaya/status/1415040882529738763/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 654,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 654,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 618,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415040879690190852,
+                    "id_str": "1415040879690190852",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6M8LtCXEAQnDBx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6M8LtCXEAQnDBx.jpg",
+                    "url": "https://t.co/GKWt0BbICY",
+                    "display_url": "pic.twitter.com/GKWt0BbICY",
+                    "expanded_url": "https://twitter.com/MonicaYaya/status/1415040882529738763/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 674,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 358,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 632,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 102803486,
+            "id_str": "102803486",
+            "name": "M\u00f2nica Yaya",
+            "screen_name": "MonicaYaya",
+            "location": "Lima _ Per\u00fa",
+            "description": "Anticorrupci\u00f2n. Egresada de UdeLima,PUCP y https://t.co/ZQVHftN8sp Bologna. Ex Pdta de Tribunal de OSCE. Consultada por medios de comunicaci\u00f3n en materia de Contratos del Estado.",
+            "url": "https://t.co/IkfIvPwSvB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/IkfIvPwSvB",
+                            "expanded_url": "https://www.youtube.com/channel/UCazZkoDr5g3j0VMpwCTLckQ",
+                            "display_url": "youtube.com/channel/UCazZk\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZQVHftN8sp",
+                            "expanded_url": "http://U.de",
+                            "display_url": "U.de",
+                            "indices": [
+                                43,
+                                66
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 22115,
+            "friends_count": 830,
+            "listed_count": 23,
+            "created_at": "Thu Jan 07 22:02:03 +0000 2010",
+            "favourites_count": 32472,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 48834,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1199399297160286211/drm92rRh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199399297160286211/drm92rRh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/102803486/1619136490",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 268,
+        "favorite_count": 785,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 268,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

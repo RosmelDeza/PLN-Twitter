@@ -1,0 +1,173 @@
+{
+    "created_at": "Wed Jul 14 16:22:57 +0000 2021",
+    "id": 1415346085057503233,
+    "id_str": "1415346085057503233",
+    "full_text": "Tambi\u00e9n son fujiasnos? \n\nDe Soto\nCastiglioni\nEL COMERCIO PER\u00da\n#SOSCUBA\nFUERZA POPULAR https://t.co/GEPi0J5RvB",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        85
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCUBA",
+                "indices": [
+                    62,
+                    70
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415346074303225859,
+                "id_str": "1415346074303225859",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RRwXkWYAMZzVf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RRwXkWYAMZzVf.jpg",
+                "url": "https://t.co/GEPi0J5RvB",
+                "display_url": "pic.twitter.com/GEPi0J5RvB",
+                "expanded_url": "https://twitter.com/Artille38395444/status/1415346085057503233/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1080,
+                        "h": 1101,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 667,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1101,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415346074303225859,
+                "id_str": "1415346074303225859",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RRwXkWYAMZzVf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RRwXkWYAMZzVf.jpg",
+                "url": "https://t.co/GEPi0J5RvB",
+                "display_url": "pic.twitter.com/GEPi0J5RvB",
+                "expanded_url": "https://twitter.com/Artille38395444/status/1415346085057503233/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1080,
+                        "h": 1101,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 667,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1101,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1361180350072897538,
+        "id_str": "1361180350072897538",
+        "name": "Artillero",
+        "screen_name": "Artille38395444",
+        "location": "",
+        "description": "Es malo ser nuevo en Twitter? No soy trol, soy libre, si te ofendiste me llega al p",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 104,
+        "friends_count": 442,
+        "listed_count": 0,
+        "created_at": "Mon Feb 15 05:07:48 +0000 2021",
+        "favourites_count": 5428,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5047,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1372670290191380483/m6Oq9j7n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372670290191380483/m6Oq9j7n_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361180350072897538/1613369918",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

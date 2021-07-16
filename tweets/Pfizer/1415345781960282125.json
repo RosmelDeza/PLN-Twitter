@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:21:44 +0000 2021",
+    "id": 1415345781960282125,
+    "id_str": "1415345781960282125",
+    "full_text": "RT @annagabriellea_: Vacunaci\u00f3n desde hoy, con o sin cita. Vacuna Pfizer!!!!!!! Colegio Elena Chavez de Pinate, en Juan Diaz.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        125
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "annagabriellea_",
+                "name": "Anna Gabrielle",
+                "id": 1113628503394725889,
+                "id_str": "1113628503394725889",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 252749507,
+        "id_str": "252749507",
+        "name": "\ud835\ude7b\ud835\ude8a\ud835\udea2\ud835\ude8a \ud83d\udd49",
+        "screen_name": "flowersvvibes",
+        "location": "",
+        "description": "21. Spreading love since 99. | leo\u264c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2318,
+        "friends_count": 859,
+        "listed_count": 50,
+        "created_at": "Tue Feb 15 20:47:03 +0000 2011",
+        "favourites_count": 61043,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 56225,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FAFAFA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413706789061812224/i30GzzMO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413706789061812224/i30GzzMO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/252749507/1620372890",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "53C736",
+        "profile_text_color": "8706C7",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:16:17 +0000 2021",
+        "id": 1415329308453834758,
+        "id_str": "1415329308453834758",
+        "full_text": "Vacunaci\u00f3n desde hoy, con o sin cita. Vacuna Pfizer!!!!!!! Colegio Elena Chavez de Pinate, en Juan Diaz.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            104
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1113628503394725889,
+            "id_str": "1113628503394725889",
+            "name": "Anna Gabrielle",
+            "screen_name": "annagabriellea_",
+            "location": "Panam\u00e1",
+            "description": "De todo un poco.",
+            "url": "https://t.co/4seIstl9gH",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4seIstl9gH",
+                            "expanded_url": "https://instagram.com/annagabriellea_?igshid=1fzg6xslel8nu",
+                            "display_url": "instagram.com/annagabriellea\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1256,
+            "friends_count": 1116,
+            "listed_count": 0,
+            "created_at": "Thu Apr 04 02:25:00 +0000 2019",
+            "favourites_count": 15789,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12470,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409967034037907456/z4Zb_Orc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409967034037907456/z4Zb_Orc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1113628503394725889/1602262506",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 38,
+        "favorite_count": 70,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 38,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 16:11:45 +0000 2021",
+    "id": 1415343268817248260,
+    "id_str": "1415343268817248260",
+    "full_text": "Favor multiplicar por 100. Si DR\u00c1CULA es verdad que se ha contagiado 3 veces con atenci\u00f3n m\u00e9dica de primera y vacunado con PFIZER, el resto de Carabobo se est\u00e1 muriendo. @viel https://t.co/6jIo4Bk4oN",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        199
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Viel",
+                "name": "\u0ec8",
+                "id": 480357666,
+                "id_str": "480357666",
+                "indices": [
+                    170,
+                    175
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/6jIo4Bk4oN",
+                "expanded_url": "https://www.el-carabobeno.com/contagios-deceso-covid-carabobo-martes/",
+                "display_url": "el-carabobeno.com/contagios-dece\u2026",
+                "indices": [
+                    176,
+                    199
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 64421909,
+        "id_str": "64421909",
+        "name": "Democratwico",
+        "screen_name": "democratwico",
+        "location": "Venezuela",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 105046,
+        "friends_count": 46088,
+        "listed_count": 130,
+        "created_at": "Mon Aug 10 14:54:30 +0000 2009",
+        "favourites_count": 316,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 83406,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1360320657461039104/qIpSZ8jO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1360320657461039104/qIpSZ8jO_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

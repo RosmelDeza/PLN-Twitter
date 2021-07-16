@@ -1,0 +1,207 @@
+{
+    "created_at": "Wed Jul 14 15:54:58 +0000 2021",
+    "id": 1415339045589331972,
+    "id_str": "1415339045589331972",
+    "full_text": "RT @Alejandra_ReCa: En vista que el MSPyBS-Py esta pensando aplicar la Pfizer como 2da dosis a quienes recibieron la AZ les paso algunos da\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Alejandra_ReCa",
+                "name": "Ale Recalde",
+                "id": 64095260,
+                "id_str": "64095260",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2228532502,
+        "id_str": "2228532502",
+        "name": "Lucas Cardozo",
+        "screen_name": "Lucascg97",
+        "location": "Asuncion",
+        "description": "\ud83c\udff3\ufe0f\ud83c\udff4\ud83c\udff3\ufe0f\n\n\n\n\n\n\n\n\n\n\nOlimpista.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 498,
+        "friends_count": 1253,
+        "listed_count": 1,
+        "created_at": "Mon Dec 16 12:25:18 +0000 2013",
+        "favourites_count": 6151,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4909,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236675169051201536/zNqCntGd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236675169051201536/zNqCntGd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2228532502/1520777224",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 11:30:36 +0000 2021",
+        "id": 1415272513895079944,
+        "id_str": "1415272513895079944",
+        "full_text": "En vista que el MSPyBS-Py esta pensando aplicar la Pfizer como 2da dosis a quienes recibieron la AZ les paso algunos datos,:\nEn Alemania se esta aplicando de igual manera, ojo, no por los efectos de la AZ, sino porque MEJORA LA RESPUESTA INMUNE. https://t.co/C5tBnEPMpN",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            269
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/C5tBnEPMpN",
+                    "expanded_url": "https://www.nature.com/articles/d41586-021-01359-3",
+                    "display_url": "nature.com/articles/d4158\u2026",
+                    "indices": [
+                        246,
+                        269
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 64095260,
+            "id_str": "64095260",
+            "name": "Ale Recalde",
+            "screen_name": "Alejandra_ReCa",
+            "location": "Freiburg im Breisgau, Alemania",
+            "description": "\ud83c\uddf5\ud83c\uddfe PhD Molecular Biotech // Postdoc at @unifreiburg / Molecular biology & extremophiles (long life to archaea!) \u26a1\ufe0f escribo en @SurCiencia aveces",
+            "url": "https://t.co/uoon4RuNqc",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/uoon4RuNqc",
+                            "expanded_url": "https://medium.com/@AleRC",
+                            "display_url": "medium.com/@AleRC",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 761,
+            "friends_count": 1143,
+            "listed_count": 4,
+            "created_at": "Sun Aug 09 02:43:33 +0000 2009",
+            "favourites_count": 2944,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1431,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1324732368444444675/jICwo4a6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324732368444444675/jICwo4a6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/64095260/1563460277",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 127,
+        "favorite_count": 158,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 127,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

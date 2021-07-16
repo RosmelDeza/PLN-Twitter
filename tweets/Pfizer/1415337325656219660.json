@@ -1,0 +1,320 @@
+{
+    "created_at": "Wed Jul 14 15:48:08 +0000 2021",
+    "id": 1415337325656219660,
+    "id_str": "1415337325656219660",
+    "full_text": "RT @Sir_Neble: Alberto Fern\u00e1ndez bloque\u00f3 las exportaciones de carne, bloque\u00f3 el ingreso de compatriotas argentinos, bloque\u00f3 el ingreso de v\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Sir_Neble",
+                "name": "JP",
+                "id": 229880897,
+                "id_str": "229880897",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 886399326913785856,
+        "id_str": "886399326913785856",
+        "name": "Maby",
+        "screen_name": "Mabygoodwitch",
+        "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+        "description": "English trainer",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 730,
+        "friends_count": 1028,
+        "listed_count": 0,
+        "created_at": "Sun Jul 16 01:37:22 +0000 2017",
+        "favourites_count": 62432,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 45915,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1260637818528894977/G4y4jD8y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260637818528894977/G4y4jD8y_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:20:27 +0000 2021",
+        "id": 1415330357961007107,
+        "id_str": "1415330357961007107",
+        "full_text": "Alberto Fern\u00e1ndez bloque\u00f3 las exportaciones de carne, bloque\u00f3 el ingreso de compatriotas argentinos, bloque\u00f3 el ingreso de vacunas Pfizer, bloque\u00f3 los respiradores donados por Messi. https://t.co/f34uxCjmlD",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            182
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/f34uxCjmlD",
+                    "expanded_url": "https://twitter.com/juanjomalvinas/status/1415090005639319561",
+                    "display_url": "twitter.com/juanjomalvinas\u2026",
+                    "indices": [
+                        183,
+                        206
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 229880897,
+            "id_str": "229880897",
+            "name": "JP",
+            "screen_name": "Sir_Neble",
+            "location": "",
+            "description": "",
+            "url": "https://t.co/a2nXHdHGrB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/a2nXHdHGrB",
+                            "expanded_url": "http://www.com",
+                            "display_url": "www.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7451,
+            "friends_count": 6296,
+            "listed_count": 1,
+            "created_at": "Thu Dec 23 15:53:57 +0000 2010",
+            "favourites_count": 344104,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 221070,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1330297693126733826/gZRPZ3MV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330297693126733826/gZRPZ3MV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/229880897/1602338404",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415090005639319561,
+        "quoted_status_id_str": "1415090005639319561",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 23:25:23 +0000 2021",
+            "id": 1415090005639319561,
+            "id_str": "1415090005639319561",
+            "full_text": "Basta de bloqueos dice @alferdez. Nos toma de tontos o se olvida que bloqueo las exportaciones de carne?",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                104
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "alferdez",
+                        "name": "Alberto Fern\u00e1ndez",
+                        "id": 149991703,
+                        "id_str": "149991703",
+                        "indices": [
+                            23,
+                            32
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1095773453855137794,
+                "id_str": "1095773453855137794",
+                "name": "Juan Jos\u00e9 G\u00f3mez Centuri\u00f3n",
+                "screen_name": "juanjomalvinas",
+                "location": "Buenos Aires, Argentina",
+                "description": "Argentino \ud83c\udde6\ud83c\uddf7 Veterano de Guerra de Malvinas. Al mundo lo cambia tu ejemplo, no tu opini\u00f3n. Excandidato a Presidente de la Naci\u00f3n.",
+                "url": "https://t.co/dumv6JmX9r",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/dumv6JmX9r",
+                                "expanded_url": "https://www.afiliatenos.com.ar/",
+                                "display_url": "afiliatenos.com.ar",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 69577,
+                "friends_count": 423,
+                "listed_count": 106,
+                "created_at": "Wed Feb 13 19:55:24 +0000 2019",
+                "favourites_count": 1777,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 4710,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1395461934422630413/nL9714UU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395461934422630413/nL9714UU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095773453855137794/1625892275",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 339,
+            "favorite_count": 1539,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415090005639319561,
+    "quoted_status_id_str": "1415090005639319561",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,367 @@
+{
+    "created_at": "Wed Jul 14 16:27:52 +0000 2021",
+    "id": 1415347323081723908,
+    "id_str": "1415347323081723908",
+    "full_text": "RT @Telefuturo: As\u00ed arribar\u00e1n m\u00e1s dosis de Pfizer. Este es el cronograma propuesto. \n\ud83d\udd34EN VIVO: https://t.co/bmmwHO0a0L\n#TelefuturoPy #Merid\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TelefuturoPy",
+                "indices": [
+                    119,
+                    132
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Telefuturo",
+                "name": "Telefuturo",
+                "id": 124165495,
+                "id_str": "124165495",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/bmmwHO0a0L",
+                "expanded_url": "http://www.telefuturo.com.py",
+                "display_url": "telefuturo.com.py",
+                "indices": [
+                    95,
+                    118
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1216015424,
+        "id_str": "1216015424",
+        "name": "Tommyroquai",
+        "screen_name": "Tommylee893",
+        "location": "Paraguay ",
+        "description": "Percusionista y pianista",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 356,
+        "friends_count": 1086,
+        "listed_count": 0,
+        "created_at": "Sun Feb 24 17:00:52 +0000 2013",
+        "favourites_count": 4691,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11290,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411835804238942210/bHBtswKO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411835804238942210/bHBtswKO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1216015424/1593936897",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:21:29 +0000 2021",
+        "id": 1415345715929354240,
+        "id_str": "1415345715929354240",
+        "full_text": "As\u00ed arribar\u00e1n m\u00e1s dosis de Pfizer. Este es el cronograma propuesto. \n\ud83d\udd34EN VIVO: https://t.co/bmmwHO0a0L\n#TelefuturoPy #MeridianoPy #VacunarseNoCuesta https://t.co/Zo46AyI4n6",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            148
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TelefuturoPy",
+                    "indices": [
+                        103,
+                        116
+                    ]
+                },
+                {
+                    "text": "MeridianoPy",
+                    "indices": [
+                        117,
+                        129
+                    ]
+                },
+                {
+                    "text": "VacunarseNoCuesta",
+                    "indices": [
+                        130,
+                        148
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/bmmwHO0a0L",
+                    "expanded_url": "http://www.telefuturo.com.py",
+                    "display_url": "telefuturo.com.py",
+                    "indices": [
+                        79,
+                        102
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415345232221196289,
+                    "id_str": "1415345232221196289",
+                    "indices": [
+                        149,
+                        172
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415345232221196289/pu/img/OtWSBX5K8xgUn3kf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415345232221196289/pu/img/OtWSBX5K8xgUn3kf.jpg",
+                    "url": "https://t.co/Zo46AyI4n6",
+                    "display_url": "pic.twitter.com/Zo46AyI4n6",
+                    "expanded_url": "https://twitter.com/Telefuturo/status/1415345715929354240/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415345232221196289,
+                    "id_str": "1415345232221196289",
+                    "indices": [
+                        149,
+                        172
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415345232221196289/pu/img/OtWSBX5K8xgUn3kf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415345232221196289/pu/img/OtWSBX5K8xgUn3kf.jpg",
+                    "url": "https://t.co/Zo46AyI4n6",
+                    "display_url": "pic.twitter.com/Zo46AyI4n6",
+                    "expanded_url": "https://twitter.com/Telefuturo/status/1415345715929354240/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 105520,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415345232221196289/pu/pl/GYebuZ9h7qoGZN1P.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415345232221196289/pu/vid/1280x720/2IRppChsAm1Fy1Uv.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415345232221196289/pu/vid/480x270/9I8ZFb5-6Hievwkp.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415345232221196289/pu/vid/640x360/HxtYfnFJQx0OfQTB.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 124165495,
+            "id_str": "124165495",
+            "name": "Telefuturo",
+            "screen_name": "Telefuturo",
+            "location": "Asunci\u00f3n, Paraguay",
+            "description": "Twitter Oficial de Telefuturo  - Instagram: @Telefuturo - Facebook: https://t.co/4JeIyfMjSL",
+            "url": "https://t.co/hg9kqTPwX3",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/hg9kqTPwX3",
+                            "expanded_url": "http://www.telefuturo.com.py",
+                            "display_url": "telefuturo.com.py",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4JeIyfMjSL",
+                            "expanded_url": "http://facebook.com/Telefuturo",
+                            "display_url": "facebook.com/Telefuturo",
+                            "indices": [
+                                68,
+                                91
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 754662,
+            "friends_count": 89,
+            "listed_count": 631,
+            "created_at": "Thu Mar 18 13:31:38 +0000 2010",
+            "favourites_count": 10982,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 207891,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "94999C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413690059425988610/Qxl71Q2l_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413690059425988610/Qxl71Q2l_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/124165495/1624983144",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,120 @@
+{
+    "created_at": "Wed Jul 14 17:38:21 +0000 2021",
+    "id": 1415365059488927746,
+    "id_str": "1415365059488927746",
+    "full_text": "@VeroLinaresC @titowankalaw No tienes moral! Apoyas a la banda criminal Fuerza Popular y a la DBA y ahora te pintas de digna! Tienes la conciencia cochina. Ya te vendr\u00e1 el karma.",
+    "truncated": false,
+    "display_text_range": [
+        28,
+        178
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VeroLinaresC",
+                "name": "Ver\u00f3nica Linares",
+                "id": 131331924,
+                "id_str": "131331924",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "titowankalaw",
+                "name": "TITO WANKA",
+                "id": 1243003042976485377,
+                "id_str": "1243003042976485377",
+                "indices": [
+                    14,
+                    27
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415312983325036544,
+    "in_reply_to_status_id_str": "1415312983325036544",
+    "in_reply_to_user_id": 131331924,
+    "in_reply_to_user_id_str": "131331924",
+    "in_reply_to_screen_name": "VeroLinaresC",
+    "user": {
+        "id": 55029543,
+        "id_str": "55029543",
+        "name": "Ver\u00f3nica Janet",
+        "screen_name": "VeronicaJanet",
+        "location": "Huacho - Per\u00fa \ud83c\uddf5\ud83c\uddea",
+        "description": "\ud83d\ude42 \ud83d\udcda Me gustan los animales \ud83d\udc08\ud83d\udc15 Alternativas:\n\u27a1\ufe0f Agua de Mar \ud83c\udf0a S\u00e1bila (Aloe Vera)\ud83c\udf43\ud83d\udc49 Nutrici\u00f3n, cura \ud83d\udc48\nGemela",
+        "url": "https://t.co/BcydXbvZRx",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/BcydXbvZRx",
+                        "expanded_url": "http://facebook.com/veronicajanet10",
+                        "display_url": "facebook.com/veronicajanet10",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 533,
+        "friends_count": 553,
+        "listed_count": 28,
+        "created_at": "Wed Jul 08 21:08:32 +0000 2009",
+        "favourites_count": 21141,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24099,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8105F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1398276638077558784/0e6ZvHVE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398276638077558784/0e6ZvHVE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55029543/1582219301",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E7F708",
+        "profile_text_color": "04BA04",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

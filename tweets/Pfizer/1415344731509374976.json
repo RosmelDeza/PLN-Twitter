@@ -1,0 +1,203 @@
+{
+    "created_at": "Wed Jul 14 16:17:34 +0000 2021",
+    "id": 1415344731509374976,
+    "id_str": "1415344731509374976",
+    "full_text": "\ud83d\udd35 #Vacunaci\u00f3n | En el punto habilitado en la UDES tambi\u00e9n podr\u00e1n vacunarse con la primera dosis de Pfizer \ud83d\udc89\ud83e\udda0 las siguientes personas #YoMeVacunoSinMiedo: https://t.co/oqrG5MlJyn",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        153
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Vacunaci\u00f3n",
+                "indices": [
+                    2,
+                    13
+                ]
+            },
+            {
+                "text": "YoMeVacunoSinMiedo",
+                "indices": [
+                    133,
+                    152
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415344176548532231,
+                "id_str": "1415344176548532231",
+                "indices": [
+                    154,
+                    177
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RQB54X0Acx1aN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RQB54X0Acx1aN.jpg",
+                "url": "https://t.co/oqrG5MlJyn",
+                "display_url": "pic.twitter.com/oqrG5MlJyn",
+                "expanded_url": "https://twitter.com/udes_oficial/status/1415344731509374976/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415344176548532231,
+                "id_str": "1415344176548532231",
+                "indices": [
+                    154,
+                    177
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RQB54X0Acx1aN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RQB54X0Acx1aN.jpg",
+                "url": "https://t.co/oqrG5MlJyn",
+                "display_url": "pic.twitter.com/oqrG5MlJyn",
+                "expanded_url": "https://twitter.com/udes_oficial/status/1415344731509374976/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 357177435,
+        "id_str": "357177435",
+        "name": "Universidad de Santander",
+        "screen_name": "udes_oficial",
+        "location": "Bucaramanga, Colombia",
+        "description": "P\u00e1gina Oficial de la Universidad de Santander en Twitter #SoyUDES #SomosUDES Rector: @jaimerescuartas En Facebook: https://t.co/9nlBGuxFbN",
+        "url": "https://t.co/T8jduM8zoO",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/T8jduM8zoO",
+                        "expanded_url": "http://www.udes.edu.co",
+                        "display_url": "udes.edu.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/9nlBGuxFbN",
+                        "expanded_url": "https://www.facebook.com/udes.oficial/",
+                        "display_url": "facebook.com/udes.oficial/",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 5517,
+        "friends_count": 582,
+        "listed_count": 26,
+        "created_at": "Wed Aug 17 23:47:10 +0000 2011",
+        "favourites_count": 7690,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11708,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404835983972089862/wtXMfnXh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404835983972089862/wtXMfnXh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357177435/1624569029",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,449 @@
+{
+    "created_at": "Wed Jul 14 17:31:59 +0000 2021",
+    "id": 1415363460003684355,
+    "id_str": "1415363460003684355",
+    "full_text": "Esto es Fuerza Popular :) https://t.co/mA0KEnchCh",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        25
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/mA0KEnchCh",
+                "expanded_url": "https://twitter.com/tania_1598753/status/1415141691317686275",
+                "display_url": "twitter.com/tania_1598753/\u2026",
+                "indices": [
+                    26,
+                    49
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 45431113,
+        "id_str": "45431113",
+        "name": "Lulabeee \u0950",
+        "screen_name": "lulabeee",
+        "location": "Lima",
+        "description": "Actions speak louder than words",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 264,
+        "friends_count": 794,
+        "listed_count": 1,
+        "created_at": "Sun Jun 07 21:46:59 +0000 2009",
+        "favourites_count": 14026,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3360,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C1EBDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/776634970634907648/zPpv_lRw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/776634970634907648/zPpv_lRw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45431113/1449525365",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415141691317686275,
+    "quoted_status_id_str": "1415141691317686275",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 02:50:45 +0000 2021",
+        "id": 1415141691317686275,
+        "id_str": "1415141691317686275",
+        "full_text": "@CruzSilvaDelCa1 @JaimeChincha @cnddhh @WaykaPeru @uterope @CGTPJOVEN @GTCCorrupcion @jgodoym @ronaldgamarra @hurgamemoriaPE @COMISEDH \u201cpero ese no es mi tema pues\u201d\nJO. DAN. SE\n\ncastiglioni impresentable \n@KeikoFujimori ODIA al \ud83c\uddf5\ud83c\uddea \n\npunto. @leahsacin @JaimeChincha \nqu\u00e9 tal paciencia! https://t.co/uFZHo7DOeJ",
+        "truncated": false,
+        "display_text_range": [
+            135,
+            284
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CruzSilvaDelCa1",
+                    "name": "Cruz Silva Del Carpio",
+                    "id": 1036078697122615296,
+                    "id_str": "1036078697122615296",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "JaimeChincha",
+                    "name": "Jaime Chincha",
+                    "id": 36477202,
+                    "id_str": "36477202",
+                    "indices": [
+                        17,
+                        30
+                    ]
+                },
+                {
+                    "screen_name": "cnddhh",
+                    "name": "CNDDHH \ud83c\uddf5\ud83c\uddea",
+                    "id": 68487390,
+                    "id_str": "68487390",
+                    "indices": [
+                        31,
+                        38
+                    ]
+                },
+                {
+                    "screen_name": "WaykaPeru",
+                    "name": "\ud83c\uddf5\ud83c\uddea Wayka\ud83d\udce2",
+                    "id": 2180222485,
+                    "id_str": "2180222485",
+                    "indices": [
+                        39,
+                        49
+                    ]
+                },
+                {
+                    "screen_name": "uterope",
+                    "name": "\u00datero.Pe",
+                    "id": 14165101,
+                    "id_str": "14165101",
+                    "indices": [
+                        50,
+                        58
+                    ]
+                },
+                {
+                    "screen_name": "CGTPJOVEN",
+                    "name": "CGTP JOVEN",
+                    "id": 166314464,
+                    "id_str": "166314464",
+                    "indices": [
+                        59,
+                        69
+                    ]
+                },
+                {
+                    "screen_name": "GTCCorrupcion",
+                    "name": "GTCC",
+                    "id": 62864353,
+                    "id_str": "62864353",
+                    "indices": [
+                        70,
+                        84
+                    ]
+                },
+                {
+                    "screen_name": "jgodoym",
+                    "name": "Jose Alejandro Godoy",
+                    "id": 5418002,
+                    "id_str": "5418002",
+                    "indices": [
+                        85,
+                        93
+                    ]
+                },
+                {
+                    "screen_name": "ronaldgamarra",
+                    "name": "Ronald Gamarra",
+                    "id": 102789756,
+                    "id_str": "102789756",
+                    "indices": [
+                        94,
+                        108
+                    ]
+                },
+                {
+                    "screen_name": "hurgamemoriaPE",
+                    "name": "Hurgar en la Memoria \ud83c\uddf5\ud83c\uddea",
+                    "id": 3309347867,
+                    "id_str": "3309347867",
+                    "indices": [
+                        109,
+                        124
+                    ]
+                },
+                {
+                    "screen_name": "COMISEDH",
+                    "name": "Comisi\u00f3n de Derechos Humanos, Comisedh",
+                    "id": 570075847,
+                    "id_str": "570075847",
+                    "indices": [
+                        125,
+                        134
+                    ]
+                },
+                {
+                    "screen_name": "KeikoFujimori",
+                    "name": "Keiko Fujimori",
+                    "id": 53189543,
+                    "id_str": "53189543",
+                    "indices": [
+                        205,
+                        219
+                    ]
+                },
+                {
+                    "screen_name": "leahsacin",
+                    "name": "Leah Sac\u00edn Gavancho",
+                    "id": 111406245,
+                    "id_str": "111406245",
+                    "indices": [
+                        240,
+                        250
+                    ]
+                },
+                {
+                    "screen_name": "JaimeChincha",
+                    "name": "Jaime Chincha",
+                    "id": 36477202,
+                    "id_str": "36477202",
+                    "indices": [
+                        251,
+                        264
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415141537164500994,
+                    "id_str": "1415141537164500994",
+                    "indices": [
+                        285,
+                        308
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415141537164500994/pu/img/39ZH9vCBnNyg0QE-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415141537164500994/pu/img/39ZH9vCBnNyg0QE-.jpg",
+                    "url": "https://t.co/uFZHo7DOeJ",
+                    "display_url": "pic.twitter.com/uFZHo7DOeJ",
+                    "expanded_url": "https://twitter.com/tania_1598753/status/1415141691317686275/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 366,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 688,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 645,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415141537164500994,
+                    "id_str": "1415141537164500994",
+                    "indices": [
+                        285,
+                        308
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415141537164500994/pu/img/39ZH9vCBnNyg0QE-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415141537164500994/pu/img/39ZH9vCBnNyg0QE-.jpg",
+                    "url": "https://t.co/uFZHo7DOeJ",
+                    "display_url": "pic.twitter.com/uFZHo7DOeJ",
+                    "expanded_url": "https://twitter.com/tania_1598753/status/1415141691317686275/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 366,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 688,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 645,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            80,
+                            43
+                        ],
+                        "duration_millis": 20983,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415141537164500994/pu/vid/1280x688/X2QAvA9kpp3kbUGy.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415141537164500994/pu/pl/odFszLMTiB16LR8Q.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415141537164500994/pu/vid/502x270/II26zCCKPjXlYz1O.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415141537164500994/pu/vid/668x360/kxnt7Vig3aKGaRjS.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415135438826786819,
+        "in_reply_to_status_id_str": "1415135438826786819",
+        "in_reply_to_user_id": 1036078697122615296,
+        "in_reply_to_user_id_str": "1036078697122615296",
+        "in_reply_to_screen_name": "CruzSilvaDelCa1",
+        "user": {
+            "id": 1853275214,
+            "id_str": "1853275214",
+            "name": "Tania P L Madrid",
+            "screen_name": "tania_1598753",
+            "location": "",
+            "description": "\u2728\ud83e\uddd8\ud83c\udffb\u200d\u2640\ufe0f\ud83e\udec2",
+            "url": "https://t.co/cOcWnn8h9C",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/cOcWnn8h9C",
+                            "expanded_url": "https://instagram.com/tanialariza?utm_medium=copy_link",
+                            "display_url": "instagram.com/tanialariza?ut\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 673,
+            "friends_count": 303,
+            "listed_count": 1,
+            "created_at": "Wed Sep 11 04:14:11 +0000 2013",
+            "favourites_count": 11127,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6919,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404332520200675334/huJrMOgA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404332520200675334/huJrMOgA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853275214/1537460553",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 117,
+        "favorite_count": 242,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

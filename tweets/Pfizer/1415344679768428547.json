@@ -1,0 +1,182 @@
+{
+    "created_at": "Wed Jul 14 16:17:22 +0000 2021",
+    "id": 1415344679768428547,
+    "id_str": "1415344679768428547",
+    "full_text": "RT @LAlbouy: Esta semana \"tilingos varados\" y \"Cuba\" van cabeza a cabeza. Pfizer, sin chances. Y Nisman puede que rasque alguna descongelada",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LAlbouy",
+                "name": "Lau\u270c",
+                "id": 304037126,
+                "id_str": "304037126",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 508799001,
+        "id_str": "508799001",
+        "name": "laura peirano",
+        "screen_name": "lpeirano",
+        "location": "Rosario, Argentina",
+        "description": "Universidad Nacional de Rosario. \nSoy K, les aviso",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 54,
+        "friends_count": 210,
+        "listed_count": 0,
+        "created_at": "Wed Feb 29 12:26:27 +0000 2012",
+        "favourites_count": 3637,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1921,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1122946634348888064/J_0I1vNt_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1122946634348888064/J_0I1vNt_normal.png",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:36:26 +0000 2021",
+        "id": 1415319280892186624,
+        "id_str": "1415319280892186624",
+        "full_text": "Esta semana \"tilingos varados\" y \"Cuba\" van cabeza a cabeza. Pfizer, sin chances. Y Nisman puede que rasque alguna descongelada",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            127
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 304037126,
+            "id_str": "304037126",
+            "name": "Lau\u270c",
+            "screen_name": "LAlbouy",
+            "location": "Rosario, Argentina",
+            "description": "Abogada - Fundamentalista K  - \nNewell's de mi vida \u2764\ud83d\udda4",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7778,
+            "friends_count": 1261,
+            "listed_count": 4,
+            "created_at": "Mon May 23 20:38:59 +0000 2011",
+            "favourites_count": 52769,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 34511,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFF04D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408235867773280264/Xc1ksBSj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408235867773280264/Xc1ksBSj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/304037126/1550714680",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "ADFFE8",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 29,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

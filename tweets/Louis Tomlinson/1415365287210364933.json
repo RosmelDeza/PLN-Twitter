@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 17:39:15 +0000 2021",
+    "id": 1415365287210364933,
+    "id_str": "1415365287210364933",
+    "full_text": "RT @lucerocahua: que tan poco intelectual debes de ser para no stanear a Louis Tomlinson",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lucerocahua",
+                "name": "lucero | famosa con haters era",
+                "id": 741071678139027456,
+                "id_str": "741071678139027456",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 809807058400903168,
+        "id_str": "809807058400903168",
+        "name": "Cris",
+        "screen_name": "crisstinatm",
+        "location": "Lima, Per\u00fa",
+        "description": "shit, maybe i miss you\n\ud83d\udda4                                                             she/her",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 67,
+        "friends_count": 289,
+        "listed_count": 0,
+        "created_at": "Fri Dec 16 17:07:03 +0000 2016",
+        "favourites_count": 10481,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2448,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411373376535367680/1SPAL4Cw_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411373376535367680/1SPAL4Cw_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/809807058400903168/1607458397",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 03:12:55 +0000 2021",
+        "id": 1414784880811126787,
+        "id_str": "1414784880811126787",
+        "full_text": "que tan poco intelectual debes de ser para no stanear a Louis Tomlinson",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            71
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 741071678139027456,
+            "id_str": "741071678139027456",
+            "name": "lucero | famosa con haters era",
+            "screen_name": "lucerocahua",
+            "location": "",
+            "description": "de vez en cuando me cancelan lol  \n                           (she/her)  ig: lucerolll // tik tok: lucero.spam",
+            "url": "https://t.co/39huOu1XAo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/39huOu1XAo",
+                            "expanded_url": "https://www.youtube.com/channel/UC6ALQKGvrmDTYDWQ_BwDIEw",
+                            "display_url": "youtube.com/channel/UC6ALQ\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5901,
+            "friends_count": 175,
+            "listed_count": 4,
+            "created_at": "Fri Jun 10 00:57:11 +0000 2016",
+            "favourites_count": 8805,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3525,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412466889284939776/oGFmVs8V_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412466889284939776/oGFmVs8V_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/741071678139027456/1625232026",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 611,
+        "favorite_count": 4522,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 611,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

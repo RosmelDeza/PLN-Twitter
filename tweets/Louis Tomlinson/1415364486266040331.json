@@ -1,0 +1,275 @@
+{
+    "created_at": "Wed Jul 14 17:36:04 +0000 2021",
+    "id": 1415364486266040331,
+    "id_str": "1415364486266040331",
+    "full_text": "RT @vodkaskys: Louis tomlinson est\u00e1 mandando cartitas y yo no voy a recibir una por que no compr\u00e9 su merch por que el tipo vende su merch m\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "vodkaskys",
+                "name": "Monse\ud83e\udd8b|| atypical",
+                "id": 1089215333045432321,
+                "id_str": "1089215333045432321",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1391805267302621196,
+        "id_str": "1391805267302621196",
+        "name": "\ud835\udc7d\ud835\udc82\ud835\udc8d\ud835\udc86\ud835\udc8f\ud835\udc8f",
+        "screen_name": "Vaaaaleen",
+        "location": "",
+        "description": "\ud835\udc13\ud835\udc82\ud835\udc96\ud835\udc93\ud835\udc90 \n\ud835\udc70'\ud835\udc8e \ud835\udc6f\ud835\udc82\ud835\udc93\ud835\udc93\ud835\udc8a\ud835\udc86\n\ud835\udc05\ud835\udc2e\ud835\udc1c\ud835\udc24 \ud835\udc14.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6,
+        "friends_count": 37,
+        "listed_count": 0,
+        "created_at": "Mon May 10 17:20:18 +0000 2021",
+        "favourites_count": 286,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 75,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399402127043276802/DR7n0fez_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399402127043276802/DR7n0fez_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391805267302621196/1625900225",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 12:57:47 +0000 2021",
+        "id": 1414569677569810437,
+        "id_str": "1414569677569810437",
+        "full_text": "Louis tomlinson est\u00e1 mandando cartitas y yo no voy a recibir una por que no compr\u00e9 su merch por que el tipo vende su merch muy cara): https://t.co/Q7i7MjYqJN",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            133
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414569675372048389,
+                    "id_str": "1414569675372048389",
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6GPoAKXMAUAmPX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6GPoAKXMAUAmPX.jpg",
+                    "url": "https://t.co/Q7i7MjYqJN",
+                    "display_url": "pic.twitter.com/Q7i7MjYqJN",
+                    "expanded_url": "https://twitter.com/vodkaskys/status/1414569677569810437/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 731,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 460,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 731,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414569675372048389,
+                    "id_str": "1414569675372048389",
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6GPoAKXMAUAmPX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6GPoAKXMAUAmPX.jpg",
+                    "url": "https://t.co/Q7i7MjYqJN",
+                    "display_url": "pic.twitter.com/Q7i7MjYqJN",
+                    "expanded_url": "https://twitter.com/vodkaskys/status/1414569677569810437/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 731,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 460,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 731,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1089215333045432321,
+            "id_str": "1089215333045432321",
+            "name": "Monse\ud83e\udd8b|| atypical",
+            "screen_name": "vodkaskys",
+            "location": "Los hoyuelos de Harry Styles ",
+            "description": "\u21b3 Harry Styles and Louis Tomlinson are my only happiness \u273f \uff61\uff9f17 \u1770",
+            "url": "https://t.co/koI3FHM7dV",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/koI3FHM7dV",
+                            "expanded_url": "http://Instagram.com/vodkaskys",
+                            "display_url": "Instagram.com/vodkaskys",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8318,
+            "friends_count": 293,
+            "listed_count": 10,
+            "created_at": "Sat Jan 26 17:35:46 +0000 2019",
+            "favourites_count": 14142,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10648,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408627850387898373/uyvL9pbo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408627850387898373/uyvL9pbo_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089215333045432321/1625018290",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 489,
+        "favorite_count": 3218,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 489,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

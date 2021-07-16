@@ -1,0 +1,182 @@
+{
+    "created_at": "Wed Jul 14 16:25:41 +0000 2021",
+    "id": 1415346774114410510,
+    "id_str": "1415346774114410510",
+    "full_text": "RT @Loles_Jimenez: Una vacuna Pfizer cuesta 35\u20ac; una \"estancia\" en la UCI, diez veces m\u00e1s. El 72% de los ingresados hoy en las UCI's andalu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Loles_Jimenez",
+                "name": "Loles Jim\u00e9nez",
+                "id": 436898418,
+                "id_str": "436898418",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 500499475,
+        "id_str": "500499475",
+        "name": "Encarni Aranda",
+        "screen_name": "earanda_135",
+        "location": "Puente Genil, Espa\u00f1a",
+        "description": "Madrina de un Luchador!!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 52,
+        "friends_count": 97,
+        "listed_count": 0,
+        "created_at": "Thu Feb 23 05:59:30 +0000 2012",
+        "favourites_count": 834,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 199,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085491275757961217/z3wE6TEt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085491275757961217/z3wE6TEt_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 18:35:06 +0000 2021",
+        "id": 1415016954268725249,
+        "id_str": "1415016954268725249",
+        "full_text": "Una vacuna Pfizer cuesta 35\u20ac; una \"estancia\" en la UCI, diez veces m\u00e1s. El 72% de los ingresados hoy en las UCI's andaluzas son personas que no se quisieron poner la vacuna, pese a tener la posibilidad. Los negacionistas cuestan mucho dinero \ud83d\ude15",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            243
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 436898418,
+            "id_str": "436898418",
+            "name": "Loles Jim\u00e9nez",
+            "screen_name": "Loles_Jimenez",
+            "location": "C\u00f3rdoba",
+            "description": "A veces ense\u00f1ando, siempre aprendiendo.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 38,
+            "friends_count": 171,
+            "listed_count": 0,
+            "created_at": "Wed Dec 14 18:25:50 +0000 2011",
+            "favourites_count": 2112,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 301,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/433621525418086400/RXrU-bTy_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/433621525418086400/RXrU-bTy_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/436898418/1402724897",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

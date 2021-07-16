@@ -1,0 +1,140 @@
+{
+    "created_at": "Wed Jul 14 17:21:50 +0000 2021",
+    "id": 1415360903864803334,
+    "id_str": "1415360903864803334",
+    "full_text": "@cata_abellaa @Harry_Styles @harandloutweets @Louis_Tomlinson lloro brillitos",
+    "truncated": false,
+    "display_text_range": [
+        62,
+        77
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cata_abellaa",
+                "name": "catson",
+                "id": 1362255116540198913,
+                "id_str": "1362255116540198913",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Harry_Styles",
+                "name": "Harry Styles.",
+                "id": 181561712,
+                "id_str": "181561712",
+                "indices": [
+                    14,
+                    27
+                ]
+            },
+            {
+                "screen_name": "harandloutweets",
+                "name": "all larry tweets.",
+                "id": 749066482550648834,
+                "id_str": "749066482550648834",
+                "indices": [
+                    28,
+                    44
+                ]
+            },
+            {
+                "screen_name": "Louis_Tomlinson",
+                "name": "Louis Tomlinson",
+                "id": 84279963,
+                "id_str": "84279963",
+                "indices": [
+                    45,
+                    61
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415221296212889600,
+    "in_reply_to_status_id_str": "1415221296212889600",
+    "in_reply_to_user_id": 1362255116540198913,
+    "in_reply_to_user_id_str": "1362255116540198913",
+    "in_reply_to_screen_name": "cata_abellaa",
+    "user": {
+        "id": 1274028566653607936,
+        "id_str": "1274028566653607936",
+        "name": "luchi :p",
+        "screen_name": "sagitarianluch",
+        "location": "s\u00a1her ",
+        "description": "diario de una pelotuda\ud83e\udeb1",
+        "url": "https://t.co/2CEuG2vYcp",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/2CEuG2vYcp",
+                        "expanded_url": "https://open.spotify.com/user/lulioluchi?si=8T7oqNy3T_qOGMNaCh97mw&utm_source=copy-link",
+                        "display_url": "open.spotify.com/user/lulioluch\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 39,
+        "friends_count": 197,
+        "listed_count": 0,
+        "created_at": "Fri Jun 19 17:17:43 +0000 2020",
+        "favourites_count": 3702,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2072,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410075706332229632/IKtgD4xx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410075706332229632/IKtgD4xx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274028566653607936/1625023190",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

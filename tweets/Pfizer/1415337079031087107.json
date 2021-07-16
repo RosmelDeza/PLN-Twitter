@@ -1,0 +1,316 @@
+{
+    "created_at": "Wed Jul 14 15:47:09 +0000 2021",
+    "id": 1415337079031087107,
+    "id_str": "1415337079031087107",
+    "full_text": "RT @reformaseoye: Residentes llegan al colegio Jos\u00e9 Daniel Crespo, de Chitr\u00e9, para recibir la dosis de Pfizer contra el coronavirus. https:\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "reformaseoye",
+                "name": "Radio Reforma \u00a1Se Oye\u00a1",
+                "id": 356093722,
+                "id_str": "356093722",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1579240304,
+        "id_str": "1579240304",
+        "name": "Viva Azuero",
+        "screen_name": "VivaAzuero",
+        "location": "",
+        "description": "Aqu\u00ed todo sobre dos tierras hermanas, unidas en una misma pen\u00ednsula\nHerrera y Los Santos",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2648,
+        "friends_count": 2023,
+        "listed_count": 4,
+        "created_at": "Tue Jul 09 02:48:24 +0000 2013",
+        "favourites_count": 24286,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9788,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1225185950608908291/VhglwZ8t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225185950608908291/VhglwZ8t_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1579240304/1598818367",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 11:52:24 +0000 2021",
+        "id": 1415278000493502464,
+        "id_str": "1415278000493502464",
+        "full_text": "Residentes llegan al colegio Jos\u00e9 Daniel Crespo, de Chitr\u00e9, para recibir la dosis de Pfizer contra el coronavirus. https://t.co/Tn8xpJLx3v",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            114
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415277934236119046,
+                    "id_str": "1415277934236119046",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415277934236119046/pu/img/0xu5-09C7U3EKLkv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415277934236119046/pu/img/0xu5-09C7U3EKLkv.jpg",
+                    "url": "https://t.co/Tn8xpJLx3v",
+                    "display_url": "pic.twitter.com/Tn8xpJLx3v",
+                    "expanded_url": "https://twitter.com/reformaseoye/status/1415278000493502464/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415277934236119046,
+                    "id_str": "1415277934236119046",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415277934236119046/pu/img/0xu5-09C7U3EKLkv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415277934236119046/pu/img/0xu5-09C7U3EKLkv.jpg",
+                    "url": "https://t.co/Tn8xpJLx3v",
+                    "display_url": "pic.twitter.com/Tn8xpJLx3v",
+                    "expanded_url": "https://twitter.com/reformaseoye/status/1415278000493502464/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 15245,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415277934236119046/pu/pl/DzfLf3llVx8A5yB7.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415277934236119046/pu/vid/1280x720/ieh8fnwMv3rYF3yM.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415277934236119046/pu/vid/640x360/Y7R7N3lujyi39pSO.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415277934236119046/pu/vid/480x270/AhbCXt3ulq64amk8.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 356093722,
+            "id_str": "356093722",
+            "name": "Radio Reforma \u00a1Se Oye\u00a1",
+            "screen_name": "reformaseoye",
+            "location": "",
+            "description": "Comun\u00edcate al 6330-0058 o un mensaje directo al WhatsApp 6677-3243. Sigue las redes sociales de Facebook, Twitter, Instagram y https://t.co/4KjoJ6ZM3m",
+            "url": "https://t.co/4KjoJ6ZM3m",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4KjoJ6ZM3m",
+                            "expanded_url": "http://www.radioreformaseoye.com",
+                            "display_url": "radioreformaseoye.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4KjoJ6ZM3m",
+                            "expanded_url": "http://www.radioreformaseoye.com",
+                            "display_url": "radioreformaseoye.com",
+                            "indices": [
+                                127,
+                                150
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 9244,
+            "friends_count": 2292,
+            "listed_count": 44,
+            "created_at": "Tue Aug 16 10:08:08 +0000 2011",
+            "favourites_count": 1998,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 74202,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1104231740984442880/OJaChjBL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104231740984442880/OJaChjBL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/356093722/1519744144",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

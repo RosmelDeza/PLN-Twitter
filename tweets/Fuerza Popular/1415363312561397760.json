@@ -1,0 +1,130 @@
+{
+    "created_at": "Wed Jul 14 17:31:24 +0000 2021",
+    "id": 1415363312561397760,
+    "id_str": "1415363312561397760",
+    "full_text": "QUE SE INVESTIGUE Y SE SANCIONE A QUIENES AFIRMARON QUE HUBO FRAUDE.\nFuerza Popular apunta a que pr\u00f3ximo Congreso investigue supuesto fraude electoral https://t.co/sNb3ZtR0qM",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        174
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/sNb3ZtR0qM",
+                "expanded_url": "https://wayka.pe/fuerza-popular-apunta-a-que-proximo-congreso-investigue-supuesto-fraude-electoral/",
+                "display_url": "wayka.pe/fuerza-popular\u2026",
+                "indices": [
+                    151,
+                    174
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1901026374,
+        "id_str": "1901026374",
+        "name": "C\u00e9sar Chiroque",
+        "screen_name": "CsarChiroque",
+        "location": "Chulucanas, Peru",
+        "description": "Nac\u00ed en Chulucanas el 15/01/55. Soy Ing*    Agr\u00f3nomo. Actualmente me dedico a la venta de libros y productos naturales: miel de abeja, algarrobina, moringa, nem",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 45,
+        "friends_count": 228,
+        "listed_count": 0,
+        "created_at": "Tue Sep 24 16:36:30 +0000 2013",
+        "favourites_count": 31,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23197,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/869230490590597120/V5LRNE2B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/869230490590597120/V5LRNE2B_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901026374/1496075843",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "005f72aa3e7953d4",
+        "url": "https://api.twitter.com/1.1/geo/id/005f72aa3e7953d4.json",
+        "place_type": "city",
+        "name": "Chulucanas",
+        "full_name": "Chulucanas, Peru",
+        "country_code": "PE",
+        "country": "Peru",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -80.3643418769458,
+                        -5.33035601745818
+                    ],
+                    [
+                        -79.9777670401439,
+                        -5.33035601745818
+                    ],
+                    [
+                        -79.9777670401439,
+                        -4.92826103845089
+                    ],
+                    [
+                        -80.3643418769458,
+                        -4.92826103845089
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

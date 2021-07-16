@@ -1,0 +1,384 @@
+{
+    "created_at": "Wed Jul 14 16:05:00 +0000 2021",
+    "id": 1415341571126476806,
+    "id_str": "1415341571126476806",
+    "full_text": "RT @rlopezaliaga1: Qu\u00e9 tal ostra..! Los colegas de muchos m\u00e9dicos peruanos que han MUERTO, luego de aplicarse esta \u201cvacuna\u201d piden inyectars\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "rlopezaliaga1",
+                "name": "Rafael L\u00f3pez Aliaga",
+                "id": 2492789645,
+                "id_str": "2492789645",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 137834628,
+        "id_str": "137834628",
+        "name": "Mar\u00eda Ximena Rond\u00f3n",
+        "screen_name": "MaryaXimena",
+        "location": "Peru",
+        "description": "Autoproclamada Primera Presidenta Mujer de la Rep\u00fablica del Per\u00fa (2021-2026).",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2074,
+        "friends_count": 2811,
+        "listed_count": 45,
+        "created_at": "Tue Apr 27 22:29:21 +0000 2010",
+        "favourites_count": 17266,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3860,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1392289144458694656/J_QeHNoY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392289144458694656/J_QeHNoY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137834628/1494338183",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:50:36 +0000 2021",
+        "id": 1415111454148157440,
+        "id_str": "1415111454148157440",
+        "full_text": "Qu\u00e9 tal ostra..! Los colegas de muchos m\u00e9dicos peruanos que han MUERTO, luego de aplicarse esta \u201cvacuna\u201d piden inyectarse la PFIZER. En Europa no permiten ingreso a UE si te has aplicado esta \u201cvacuna\u201d. El LAGARTO se aplic\u00f3 la PFIZER, luego de recibir 3 dosis de esta \u201cvacuna\u201d\u2026 https://t.co/q5EWGraern",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/q5EWGraern",
+                    "expanded_url": "https://twitter.com/chinaembperu/status/1415090114036961281",
+                    "display_url": "twitter.com/chinaembperu/s\u2026",
+                    "indices": [
+                        277,
+                        300
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2492789645,
+            "id_str": "2492789645",
+            "name": "Rafael L\u00f3pez Aliaga",
+            "screen_name": "rlopezaliaga1",
+            "location": "",
+            "description": "Catedr\u00e1tico, Empresario: Hoteles (Monasterio, Nazarenas)Tren (PeruRail), Energ\u00eda. Inmobiliaria.Colegios sin lucro.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 154049,
+            "friends_count": 7908,
+            "listed_count": 148,
+            "created_at": "Fri Apr 18 18:30:33 +0000 2014",
+            "favourites_count": 97253,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 95222,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1372582295987757058/P2yzmjJP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372582295987757058/P2yzmjJP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2492789645/1618508459",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415090114036961281,
+        "quoted_status_id_str": "1415090114036961281",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 23:25:48 +0000 2021",
+            "id": 1415090114036961281,
+            "id_str": "1415090114036961281",
+            "full_text": "Comunicado de la Embajada de China. #Sinopharm https://t.co/u2cxFQBZbj",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                46
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Sinopharm",
+                        "indices": [
+                            36,
+                            46
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415090105937707008,
+                        "id_str": "1415090105937707008",
+                        "indices": [
+                            47,
+                            70
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6No9DGWQAA86zZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6No9DGWQAA86zZ.jpg",
+                        "url": "https://t.co/u2cxFQBZbj",
+                        "display_url": "pic.twitter.com/u2cxFQBZbj",
+                        "expanded_url": "https://twitter.com/ChinaEmbPeru/status/1415090114036961281/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 665,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1002,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1002,
+                                "h": 1024,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415090105937707008,
+                        "id_str": "1415090105937707008",
+                        "indices": [
+                            47,
+                            70
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6No9DGWQAA86zZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6No9DGWQAA86zZ.jpg",
+                        "url": "https://t.co/u2cxFQBZbj",
+                        "display_url": "pic.twitter.com/u2cxFQBZbj",
+                        "expanded_url": "https://twitter.com/ChinaEmbPeru/status/1415090114036961281/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 665,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1002,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1002,
+                                "h": 1024,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1229881161171775488,
+                "id_str": "1229881161171775488",
+                "name": "Embajada de China en el Per\u00fa",
+                "screen_name": "ChinaEmbPeru",
+                "location": "Lima, Per\u00fa",
+                "description": "Embajada de la Rep\u00fablica Popular China en el Per\u00fa\n\u6b22\u8fce\u5173\u6ce8\u4e2d\u56fd\u9a7b\u79d8\u9c81\u4f7f\u9986\u5b98\u65b9\u63a8\u7279\u8d26\u53f7",
+                "url": "https://t.co/tf4gMqYTVn",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/tf4gMqYTVn",
+                                "expanded_url": "http://www.embajadachina.org.pe/chn/",
+                                "display_url": "embajadachina.org.pe/chn/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8941,
+                "friends_count": 91,
+                "listed_count": 57,
+                "created_at": "Tue Feb 18 21:33:28 +0000 2020",
+                "favourites_count": 151,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 320,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1229882327855222784/lrtC6dHI_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229882327855222784/lrtC6dHI_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229881161171775488/1586017457",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2899,
+            "favorite_count": 8105,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 630,
+        "favorite_count": 1879,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415090114036961281,
+    "quoted_status_id_str": "1415090114036961281",
+    "retweet_count": 630,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

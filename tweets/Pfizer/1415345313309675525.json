@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 16:19:53 +0000 2021",
+    "id": 1415345313309675525,
+    "id_str": "1415345313309675525",
+    "full_text": "Las dosis forman parte de la compra realizada por el Gobierno. \n\nhttps://t.co/Di0nNZYZcR",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/Di0nNZYZcR",
+                "expanded_url": "https://www.rdn.com.py/2021/07/14/confirmar-llegada-de-100-000-dosis-de-pfizer-este-viernes/",
+                "display_url": "rdn.com.py/2021/07/14/con\u2026",
+                "indices": [
+                    65,
+                    88
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 850345197426925569,
+        "id_str": "850345197426925569",
+        "name": "RDN",
+        "screen_name": "RdnPY",
+        "location": "",
+        "description": "Toda la informaci\u00f3n en un instante. Comunique sus denuncias al 0986 634799.",
+        "url": "https://t.co/V1wqLKoL0g",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/V1wqLKoL0g",
+                        "expanded_url": "http://www.rdn.com.py/",
+                        "display_url": "rdn.com.py",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9249,
+        "friends_count": 29,
+        "listed_count": 49,
+        "created_at": "Fri Apr 07 13:51:08 +0000 2017",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 32563,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201860225915138049/XWb1w8g9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201860225915138049/XWb1w8g9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/850345197426925569/1491573863",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,327 @@
+{
+    "created_at": "Wed Jul 14 16:11:03 +0000 2021",
+    "id": 1415343091351961607,
+    "id_str": "1415343091351961607",
+    "full_text": "RT @ABorreroVega: \u00a1Ante el #COVID19 y sus variantes, es obligaci\u00f3n de los ciudadanos vacunarse para evitar contagiarse! \n\nEste martes, lleg\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID19",
+                "indices": [
+                    27,
+                    35
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ABorreroVega",
+                "name": "Alfredo Borrero",
+                "id": 3330134685,
+                "id_str": "3330134685",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1123384629472505857,
+        "id_str": "1123384629472505857",
+        "name": "Luis Villacreses \ud83c\uddea\ud83c\udde8\ud83c\uddee\ud83c\uddf9",
+        "screen_name": "lvpoggi",
+        "location": "Ecuador",
+        "description": "#WearAMask",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 149,
+        "friends_count": 696,
+        "listed_count": 1,
+        "created_at": "Wed May 01 00:32:21 +0000 2019",
+        "favourites_count": 9115,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1042,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227317120863789059/k2sDBTys_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227317120863789059/k2sDBTys_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1123384629472505857/1557010471",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:30:25 +0000 2021",
+        "id": 1415106372925018116,
+        "id_str": "1415106372925018116",
+        "full_text": "\u00a1Ante el #COVID19 y sus variantes, es obligaci\u00f3n de los ciudadanos vacunarse para evitar contagiarse! \n\nEste martes, llegaron al Ecuador 76.050 dosis de la vacuna Pfizer, cargamento que ser\u00e1 distribuido en los puntos de vacunaci\u00f3n correspondientes. \n\n\u00a1Acude a tu cita, vac\u00fanate!\ud83d\udc4d https://t.co/RpTkMEXVKr",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        9,
+                        17
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415106364028903431,
+                    "id_str": "1415106364028903431",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6N3vZNWYAczKBt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6N3vZNWYAczKBt.jpg",
+                    "url": "https://t.co/RpTkMEXVKr",
+                    "display_url": "pic.twitter.com/RpTkMEXVKr",
+                    "expanded_url": "https://twitter.com/ABorreroVega/status/1415106372925018116/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1364,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 799,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415106364028903431,
+                    "id_str": "1415106364028903431",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6N3vZNWYAczKBt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6N3vZNWYAczKBt.jpg",
+                    "url": "https://t.co/RpTkMEXVKr",
+                    "display_url": "pic.twitter.com/RpTkMEXVKr",
+                    "expanded_url": "https://twitter.com/ABorreroVega/status/1415106372925018116/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1364,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 799,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415106364028882946,
+                    "id_str": "1415106364028882946",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6N3vZNWEAIiLj_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6N3vZNWEAIiLj_.jpg",
+                    "url": "https://t.co/RpTkMEXVKr",
+                    "display_url": "pic.twitter.com/RpTkMEXVKr",
+                    "expanded_url": "https://twitter.com/ABorreroVega/status/1415106372925018116/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1364,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 799,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3330134685,
+            "id_str": "3330134685",
+            "name": "Alfredo Borrero",
+            "screen_name": "ABorreroVega",
+            "location": "",
+            "description": "Vicepresidente Constitucional de la Rep\u00fablica del Ecuador (2021-2025). Encontr\u00e9monos por el Ecuador. \n#JuntosLoLogramos\ud83c\uddea\ud83c\udde8",
+            "url": "https://t.co/oRchRvYYce",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/oRchRvYYce",
+                            "expanded_url": "https://guillermolasso.ec/",
+                            "display_url": "guillermolasso.ec",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 61936,
+            "friends_count": 479,
+            "listed_count": 83,
+            "created_at": "Tue Jun 16 21:21:16 +0000 2015",
+            "favourites_count": 356,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2386,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399502052456341508/5cK3LGk1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399502052456341508/5cK3LGk1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3330134685/1621874871",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 186,
+        "favorite_count": 928,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 186,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

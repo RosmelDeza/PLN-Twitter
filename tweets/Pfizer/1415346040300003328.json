@@ -1,0 +1,193 @@
+{
+    "created_at": "Wed Jul 14 16:22:46 +0000 2021",
+    "id": 1415346040300003328,
+    "id_str": "1415346040300003328",
+    "full_text": "Creadores de la vacuna de Pfizer y BioNTech: \u201cEl coronavirus est\u00e1 aqu\u00ed para quedarse y se volver\u00e1 m\u00e1s resistente\u201d https://t.co/tulRx8Yk5s https://t.co/5n9Lc3qzZH",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/tulRx8Yk5s",
+                "expanded_url": "http://lagaceta503.com/?p=36625",
+                "display_url": "lagaceta503.com/?p=36625",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415346028375576579,
+                "id_str": "1415346028375576579",
+                "indices": [
+                    138,
+                    161
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RRtseWEAMFhxb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RRtseWEAMFhxb.jpg",
+                "url": "https://t.co/5n9Lc3qzZH",
+                "display_url": "pic.twitter.com/5n9Lc3qzZH",
+                "expanded_url": "https://twitter.com/lvbecker/status/1415346040300003328/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 368,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 416,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 768,
+                        "h": 416,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415346028375576579,
+                "id_str": "1415346028375576579",
+                "indices": [
+                    138,
+                    161
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RRtseWEAMFhxb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RRtseWEAMFhxb.jpg",
+                "url": "https://t.co/5n9Lc3qzZH",
+                "display_url": "pic.twitter.com/5n9Lc3qzZH",
+                "expanded_url": "https://twitter.com/lvbecker/status/1415346040300003328/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 368,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 416,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 768,
+                        "h": 416,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 78700563,
+        "id_str": "78700563",
+        "name": "Luis Vazquez-Becker",
+        "screen_name": "lvbecker",
+        "location": "",
+        "description": "Director https://t.co/1ujIcEaFgj y https://t.co/2iBaGlp3Wt",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1ujIcEaFgj",
+                        "expanded_url": "http://LaGaceta503.com",
+                        "display_url": "LaGaceta503.com",
+                        "indices": [
+                            9,
+                            32
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/2iBaGlp3Wt",
+                        "expanded_url": "http://LaGaceta502.com",
+                        "display_url": "LaGaceta502.com",
+                        "indices": [
+                            35,
+                            58
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 879,
+        "friends_count": 798,
+        "listed_count": 11,
+        "created_at": "Wed Sep 30 20:28:20 +0000 2009",
+        "favourites_count": 2397,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18771,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2420405527/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2420405527/image_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

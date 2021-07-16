@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:02:02 +0000 2021",
+    "id": 1415340822883672075,
+    "id_str": "1415340822883672075",
+    "full_text": "\ud83d\udce3AVISO IMPORTANTE VACUNACI\u00d3N 1\u00aa DOSIS PFIZER\n\n\u27a1Nacidos entre 1989 y 1994\n\n\ud83d\udcc6MARTES 20 DE JULIO\n\n\ud83d\udccdAntiguo Polideportivo de Villarcayo en la calle Soria n\u00ba6\n\n\ud83d\udc49Toda la informaci\u00f3n: https://t.co/gSBbdP1LSF\n\n\u23f0Consultar el horario por mes de nacimiento en la infograf\u00eda\ud83d\udc47\n\n#COVID19 https://t.co/uvPH3gD6sN",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        273
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID19",
+                "indices": [
+                    265,
+                    273
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/gSBbdP1LSF",
+                "expanded_url": "https://saludcastillayleon.es/es/covid-19-poblacion",
+                "display_url": "saludcastillayleon.es/es/covid-19-po\u2026",
+                "indices": [
+                    177,
+                    200
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415340770614300673,
+                "id_str": "1415340770614300673",
+                "indices": [
+                    274,
+                    297
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RM7pyX0AEnfdh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RM7pyX0AEnfdh.jpg",
+                "url": "https://t.co/uvPH3gD6sN",
+                "display_url": "pic.twitter.com/uvPH3gD6sN",
+                "expanded_url": "https://twitter.com/VillarcayoMCV/status/1415340822883672075/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1240,
+                        "h": 1755,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 848,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415340770614300673,
+                "id_str": "1415340770614300673",
+                "indices": [
+                    274,
+                    297
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RM7pyX0AEnfdh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RM7pyX0AEnfdh.jpg",
+                "url": "https://t.co/uvPH3gD6sN",
+                "display_url": "pic.twitter.com/uvPH3gD6sN",
+                "expanded_url": "https://twitter.com/VillarcayoMCV/status/1415340822883672075/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1240,
+                        "h": 1755,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 848,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2535506161,
+        "id_str": "2535506161",
+        "name": "Ayuntamiento de Villarcayo MCV",
+        "screen_name": "VillarcayoMCV",
+        "location": "Villarcayo",
+        "description": "Cuenta oficial de Twitter del Ayuntamiento de Villarcayo de Merindad de Castilla la Vieja \u260e 947 13 10 04 #VillarcayoMCV #Merindades #Burgos",
+        "url": "http://t.co/9Q95Jjz8RC",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/9Q95Jjz8RC",
+                        "expanded_url": "http://www.villarcayo.org",
+                        "display_url": "villarcayo.org",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1112,
+        "friends_count": 172,
+        "listed_count": 17,
+        "created_at": "Fri May 30 17:04:01 +0000 2014",
+        "favourites_count": 189,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2607,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/472424559228882944/HpcUEFLq_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/472424559228882944/HpcUEFLq_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2535506161/1620119003",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

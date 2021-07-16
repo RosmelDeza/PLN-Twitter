@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 14 16:57:05 +0000 2021",
+    "id": 1415354675331797007,
+    "id_str": "1415354675331797007",
+    "full_text": "@Politica_ECpe @Shebas07 Leguleyada de la organizaci\u00f3n criminal de FUERZA POPULAR, tanto da\u00f1o irreparable est\u00e1 causando la econom\u00eda de nuestro pa\u00eds; quiere encender la pradera la se\u00f1ora K, y luego refugiarse en cualquier de las embajadas (Jap\u00f3n) as\u00ed salvarse de ir a la c\u00e1rcel, tinterillo se presta al jue",
+    "truncated": false,
+    "display_text_range": [
+        25,
+        305
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Politica_ECpe",
+                "name": "Pol\u00edtica El Comercio",
+                "id": 1616146872,
+                "id_str": "1616146872",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "Shebas07",
+                "name": "Sebastian Ortiz M.",
+                "id": 64781497,
+                "id_str": "64781497",
+                "indices": [
+                    15,
+                    24
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415351670318456838,
+    "in_reply_to_status_id_str": "1415351670318456838",
+    "in_reply_to_user_id": 1616146872,
+    "in_reply_to_user_id_str": "1616146872",
+    "in_reply_to_screen_name": "Politica_ECpe",
+    "user": {
+        "id": 1398437159095386113,
+        "id_str": "1398437159095386113",
+        "name": "Calixto",
+        "screen_name": "Calixto12201920",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 47,
+        "listed_count": 0,
+        "created_at": "Sat May 29 00:33:10 +0000 2021",
+        "favourites_count": 7,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 221,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

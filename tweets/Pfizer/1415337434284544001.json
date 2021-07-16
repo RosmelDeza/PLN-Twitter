@@ -1,0 +1,208 @@
+{
+    "created_at": "Wed Jul 14 15:48:34 +0000 2021",
+    "id": 1415337434284544001,
+    "id_str": "1415337434284544001",
+    "full_text": "RT @CCSSdeCostaRica: A partir de este viernes 16 de julio del 2021, los establecimientos de salud iniciar\u00e1n la vacunaci\u00f3n del grupo 5, con\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CCSSdeCostaRica",
+                "name": "CCSSdeCostaRica",
+                "id": 51960232,
+                "id_str": "51960232",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1054145034,
+        "id_str": "1054145034",
+        "name": "Amanda Soto\ud83c\udf3c",
+        "screen_name": "amanda_soto18",
+        "location": "Cartago, Costa Rica",
+        "description": "Nurse\ud83d\udc89",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 505,
+        "friends_count": 253,
+        "listed_count": 3,
+        "created_at": "Wed Jan 02 04:08:39 +0000 2013",
+        "favourites_count": 12759,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 42009,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1389AD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414767534159634432/4KqR8mFV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414767534159634432/4KqR8mFV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054145034/1600490519",
+        "profile_link_color": "438054",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:12:25 +0000 2021",
+        "id": 1415313238548439041,
+        "id_str": "1415313238548439041",
+        "full_text": "A partir de este viernes 16 de julio del 2021, los establecimientos de salud iniciar\u00e1n la vacunaci\u00f3n del grupo 5, con la llegada de la donaci\u00f3n directa de vacunas por parte del gobierno de Estados Unidosy los pr\u00f3ximos env\u00edos de la empresa Pfizer. https://t.co/a1TJDP2cOg",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            270
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/a1TJDP2cOg",
+                    "expanded_url": "https://www.ccss.sa.cr/noticias/servicios_noticia?se-activa-inmunizacion-contra-covid-19-de-grupo-5-mayores-de-40-anos-podran-vacunarse-a-partir-de-este-viernes",
+                    "display_url": "ccss.sa.cr/noticias/servi\u2026",
+                    "indices": [
+                        247,
+                        270
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 51960232,
+            "id_str": "51960232",
+            "name": "CCSSdeCostaRica",
+            "screen_name": "CCSSdeCostaRica",
+            "location": "Costa Rica",
+            "description": "Caja Costarricense de Seguro Social",
+            "url": "https://t.co/aYPjJEgfaN",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/aYPjJEgfaN",
+                            "expanded_url": "http://www.ccss.sa.cr",
+                            "display_url": "ccss.sa.cr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 206725,
+            "friends_count": 265,
+            "listed_count": 321,
+            "created_at": "Mon Jun 29 04:36:31 +0000 2009",
+            "favourites_count": 160,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 11559,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1334951895404785665/Te8f8Ay5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334951895404785665/Te8f8Ay5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/51960232/1620852592",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 38,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

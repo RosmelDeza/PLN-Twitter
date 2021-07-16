@@ -1,0 +1,295 @@
+{
+    "created_at": "Wed Jul 14 16:18:18 +0000 2021",
+    "id": 1415344914422976514,
+    "id_str": "1415344914422976514",
+    "full_text": "Al parecer, la variante delta no coge esa con ninguna vacuna. Aumento de casos en EE.UU luego de dram\u00e1tico descenso gracias a vacunaci\u00f3n con Pfizer,Moderna y Johnson. https://t.co/yHUTDZQmgF",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        166
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/yHUTDZQmgF",
+                "expanded_url": "https://twitter.com/CDN37/status/1415343969538650118",
+                "display_url": "twitter.com/CDN37/status/1\u2026",
+                "indices": [
+                    167,
+                    190
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 206535834,
+        "id_str": "206535834",
+        "name": "El Santo Ni\u00f1o",
+        "screen_name": "Joeltsord",
+        "location": "La curiosidad es mi motivaci\u00f3n",
+        "description": "Fan de ver el mundo arder",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 880,
+        "friends_count": 1109,
+        "listed_count": 4,
+        "created_at": "Sat Oct 23 04:49:24 +0000 2010",
+        "favourites_count": 20287,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 41833,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408442913537806349/prUNI8X4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408442913537806349/prUNI8X4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/206535834/1595265775",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415343969538650118,
+    "quoted_status_id_str": "1415343969538650118",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 16:14:32 +0000 2021",
+        "id": 1415343969538650118,
+        "id_str": "1415343969538650118",
+        "full_text": "#NoticiasAhora Variante delta representa 41 % de casos confirmados COVID en Nueva Jersey, EEUU https://t.co/5jL89j5nt4",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            94
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NoticiasAhora",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415343903323082754,
+                    "id_str": "1415343903323082754",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RPyACWUAIGeVl.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RPyACWUAIGeVl.png",
+                    "url": "https://t.co/5jL89j5nt4",
+                    "display_url": "pic.twitter.com/5jL89j5nt4",
+                    "expanded_url": "https://twitter.com/CDN37/status/1415343969538650118/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 627,
+                            "h": 293,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 627,
+                            "h": 293,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 627,
+                            "h": 293,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415343903323082754,
+                    "id_str": "1415343903323082754",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RPyACWUAIGeVl.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RPyACWUAIGeVl.png",
+                    "url": "https://t.co/5jL89j5nt4",
+                    "display_url": "pic.twitter.com/5jL89j5nt4",
+                    "expanded_url": "https://twitter.com/CDN37/status/1415343969538650118/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 627,
+                            "h": 293,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 627,
+                            "h": 293,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 627,
+                            "h": 293,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 145802745,
+            "id_str": "145802745",
+            "name": "CDN 37",
+            "screen_name": "CDN37",
+            "location": "Rep\u00fablica Dominicana",
+            "description": "CDN 37, el canal de noticias de los dominicanos. https://t.co/LxSYno4PPg \n\n  #NoticiasCDNNews",
+            "url": "https://t.co/UeSmhkJFkt",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UeSmhkJFkt",
+                            "expanded_url": "https://cdn.com.do/",
+                            "display_url": "cdn.com.do",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LxSYno4PPg",
+                            "expanded_url": "http://cdn.com.do",
+                            "display_url": "cdn.com.do",
+                            "indices": [
+                                49,
+                                72
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1076741,
+            "friends_count": 1485,
+            "listed_count": 2593,
+            "created_at": "Wed May 19 22:46:30 +0000 2010",
+            "favourites_count": 18775,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 796656,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1374473647985815554/uc-RS5ij_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1374473647985815554/uc-RS5ij_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/145802745/1622829352",
+            "profile_link_color": "990000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

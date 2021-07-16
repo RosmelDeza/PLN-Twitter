@@ -1,0 +1,275 @@
+{
+    "created_at": "Wed Jul 14 16:00:22 +0000 2021",
+    "id": 1415340402534723588,
+    "id_str": "1415340402534723588",
+    "full_text": "RT @delpynews: \u25b6\ufe0f FRASES DEL D\u00cdA | \ud83d\udde3\n\nLa Dra. Lida Sosa dijo en Monumental \ud83d\udcfb\n\n\" No tenemos garantizadas las segundas dosis de AstraZeneca p\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "delpynews",
+                "name": "DELPY \ud83d\udcf1\ud83c\udfac",
+                "id": 718956501923192833,
+                "id_str": "718956501923192833",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2732399177,
+        "id_str": "2732399177",
+        "name": "M. M.",
+        "screen_name": "mirjimarchuk",
+        "location": "Asuncion, Paraguay",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 268,
+        "friends_count": 249,
+        "listed_count": 3,
+        "created_at": "Sun Aug 03 12:34:32 +0000 2014",
+        "favourites_count": 25888,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31160,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1274474344048218113/QsWwQsuk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1274474344048218113/QsWwQsuk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2732399177/1417440222",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "696969",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "696969",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 18:37:05 +0000 2021",
+        "id": 1415017455446020109,
+        "id_str": "1415017455446020109",
+        "full_text": "\u25b6\ufe0f FRASES DEL D\u00cdA | \ud83d\udde3\n\nLa Dra. Lida Sosa dijo en Monumental \ud83d\udcfb\n\n\" No tenemos garantizadas las segundas dosis de AstraZeneca por lo que apuntamos a la intercambiabilidad con la Pfizer\"\n\n\"Sobre la Sputnik, veremos evidencia para extender la segunda dosis a los seis meses\" \ud83d\udc89 https://t.co/C6HKBGHXma",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            271
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415017451528593413,
+                    "id_str": "1415017451528593413",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Mm4AVXIAUhiKE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Mm4AVXIAUhiKE.jpg",
+                    "url": "https://t.co/C6HKBGHXma",
+                    "display_url": "pic.twitter.com/C6HKBGHXma",
+                    "expanded_url": "https://twitter.com/delpynews/status/1415017455446020109/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 600,
+                            "h": 402,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 402,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 402,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415017451528593413,
+                    "id_str": "1415017451528593413",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Mm4AVXIAUhiKE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Mm4AVXIAUhiKE.jpg",
+                    "url": "https://t.co/C6HKBGHXma",
+                    "display_url": "pic.twitter.com/C6HKBGHXma",
+                    "expanded_url": "https://twitter.com/delpynews/status/1415017455446020109/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 600,
+                            "h": 402,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 402,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 402,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 718956501923192833,
+            "id_str": "718956501923192833",
+            "name": "DELPY \ud83d\udcf1\ud83c\udfac",
+            "screen_name": "delpynews",
+            "location": "Asuncion, Paraguay",
+            "description": "Medio de Comunicaci\u00f3n en L\u00ednea\ud83d\udcf1\ud83d\udcbb\ud83c\udfac\nPeriodismo para Vos. \ud83c\uddf5\ud83c\uddfe\u2764\ufe0f",
+            "url": "https://t.co/kvbduWoHRj",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/kvbduWoHRj",
+                            "expanded_url": "http://www.delparaguay.com.py",
+                            "display_url": "delparaguay.com.py",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 48908,
+            "friends_count": 1623,
+            "listed_count": 60,
+            "created_at": "Sun Apr 10 00:19:22 +0000 2016",
+            "favourites_count": 22873,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10973,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399822098483318785/_l_oMCKP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399822098483318785/_l_oMCKP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/718956501923192833/1623348693",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 63,
+        "favorite_count": 98,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 63,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

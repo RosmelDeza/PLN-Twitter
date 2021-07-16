@@ -1,0 +1,338 @@
+{
+    "created_at": "Wed Jul 14 16:32:59 +0000 2021",
+    "id": 1415348613396500485,
+    "id_str": "1415348613396500485",
+    "full_text": "RT @martinluma: #LO\u00daLTIMO\nPoder Judicial admite a tr\u00e1mite recurso de Habeas Data presentado por personera legal de Fuerza Popular Milagros\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LO\u00daLTIMO",
+                "indices": [
+                    16,
+                    25
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "martinluma",
+                "name": "Mart\u00edn Sarmiento",
+                "id": 247374600,
+                "id_str": "247374600",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2304693491,
+        "id_str": "2304693491",
+        "name": "Marian D. C.",
+        "screen_name": "alyanadMar",
+        "location": "Arequipa, Peru",
+        "description": "Med student - A Cassiopeia, a Carat \nBuck-Tick Kat-tun AKTF\nFav songs: Risingsun,Mydestiny,Begin\nMyI,Flower,Well,GettingCloser,Fearless\nWaterdance,sadisticlove",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 154,
+        "friends_count": 1123,
+        "listed_count": 14,
+        "created_at": "Sun Jan 26 01:37:11 +0000 2014",
+        "favourites_count": 14021,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 69205,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1324468491865464834/RIa385PS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324468491865464834/RIa385PS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2304693491/1585432376",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 23:20:18 +0000 2021",
+        "id": 1415088726313684993,
+        "id_str": "1415088726313684993",
+        "full_text": "#LO\u00daLTIMO\nPoder Judicial admite a tr\u00e1mite recurso de Habeas Data presentado por personera legal de Fuerza Popular Milagros Takayama para acceder a lista de electores de la ONPE. @lamula. https://t.co/fBfgxLFB2N",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            186
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LO\u00daLTIMO",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "lamula",
+                    "name": "La Mula",
+                    "id": 29330019,
+                    "id_str": "29330019",
+                    "indices": [
+                        178,
+                        185
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415088716532658179,
+                    "id_str": "1415088716532658179",
+                    "indices": [
+                        187,
+                        210
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NnsLKXsAM8qf3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NnsLKXsAM8qf3.jpg",
+                    "url": "https://t.co/fBfgxLFB2N",
+                    "display_url": "pic.twitter.com/fBfgxLFB2N",
+                    "expanded_url": "https://twitter.com/martinluma/status/1415088726313684993/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 994,
+                            "h": 1431,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 834,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 472,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415088716532658179,
+                    "id_str": "1415088716532658179",
+                    "indices": [
+                        187,
+                        210
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NnsLKXsAM8qf3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NnsLKXsAM8qf3.jpg",
+                    "url": "https://t.co/fBfgxLFB2N",
+                    "display_url": "pic.twitter.com/fBfgxLFB2N",
+                    "expanded_url": "https://twitter.com/martinluma/status/1415088726313684993/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 994,
+                            "h": 1431,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 834,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 472,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415088716532563969,
+                    "id_str": "1415088716532563969",
+                    "indices": [
+                        187,
+                        210
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NnsLKWQAEGo0h.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NnsLKWQAEGo0h.jpg",
+                    "url": "https://t.co/fBfgxLFB2N",
+                    "display_url": "pic.twitter.com/fBfgxLFB2N",
+                    "expanded_url": "https://twitter.com/martinluma/status/1415088726313684993/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 439,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 439,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 415,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 247374600,
+            "id_str": "247374600",
+            "name": "Mart\u00edn Sarmiento",
+            "screen_name": "martinluma",
+            "location": "Per\u00fa",
+            "description": "Periodista de @lamula. RT no significa respaldo. Mail: sarmientomartin3@gmail.com",
+            "url": "https://t.co/lKnI26na6F",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/lKnI26na6F",
+                            "expanded_url": "https://lamula.pe/",
+                            "display_url": "lamula.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3422,
+            "friends_count": 3270,
+            "listed_count": 26,
+            "created_at": "Fri Feb 04 17:25:17 +0000 2011",
+            "favourites_count": 11548,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 20397,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1351758578240151557/7GaEiCdW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351758578240151557/7GaEiCdW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/247374600/1595602965",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 254,
+        "favorite_count": 649,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 254,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

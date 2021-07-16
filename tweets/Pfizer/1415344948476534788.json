@@ -1,0 +1,318 @@
+{
+    "created_at": "Wed Jul 14 16:18:26 +0000 2021",
+    "id": 1415344948476534788,
+    "id_str": "1415344948476534788",
+    "full_text": "RT @ArgentinaSoyNSB: responsables son desde el congreso Sergio Massa y Cecilia Moreau colocaron la palabra negligencia para trabar  las vac\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ArgentinaSoyNSB",
+                "name": "ArgentinaSoy #NSB",
+                "id": 727666699,
+                "id_str": "727666699",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 742449673965817856,
+        "id_str": "742449673965817856",
+        "name": "Aurelia Lalande",
+        "screen_name": "Tickie18",
+        "location": "",
+        "description": "Contra el #MaltratoAnimal\n\nA Favor de la #Libertad y la #Civilizaci\u00f3n !\n\n#MacriEsElLider \n\nEsa es la l\u00ednea editorial de mi cuenta (que es una newsletter!)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4153,
+        "friends_count": 4218,
+        "listed_count": 2,
+        "created_at": "Mon Jun 13 20:12:51 +0000 2016",
+        "favourites_count": 652496,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 336571,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1136281744397651968/QscMKWrt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136281744397651968/QscMKWrt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/742449673965817856/1476817062",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:37:55 +0000 2021",
+        "id": 1415319654583656449,
+        "id_str": "1415319654583656449",
+        "full_text": "responsables son desde el congreso Sergio Massa y Cecilia Moreau colocaron la palabra negligencia para trabar  las vacunas pfizer  \nson criminales  por ideolog\u00eda  u obediencia pol\u00edtica pisaron la salud y la vida de millones de Argentinos \ndeber\u00e1n ser juzgados por lesa humanidad https://t.co/NXQxZsYP4h",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/NXQxZsYP4h",
+                    "expanded_url": "https://twitter.com/DrCKambourian/status/1403837675984019465",
+                    "display_url": "twitter.com/DrCKambourian/\u2026",
+                    "indices": [
+                        279,
+                        302
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 727666699,
+            "id_str": "727666699",
+            "name": "ArgentinaSoy #NSB",
+            "screen_name": "ArgentinaSoyNSB",
+            "location": "",
+            "description": "LA DEMOCRACIA Y LA REPUBLICA NO SE NEGOCIA",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8441,
+            "friends_count": 4262,
+            "listed_count": 84,
+            "created_at": "Tue Jul 31 05:42:00 +0000 2012",
+            "favourites_count": 104668,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 635711,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFF04D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411127898157748231/EmHFWoAc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411127898157748231/EmHFWoAc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/727666699/1625276113",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1403837675984019465,
+        "quoted_status_id_str": "1403837675984019465",
+        "quoted_status": {
+            "created_at": "Sat Jun 12 22:12:38 +0000 2021",
+            "id": 1403837675984019465,
+            "id_str": "1403837675984019465",
+            "full_text": "La vacuna PFIZER efectiva para todas las variantes de importancia. Incluida la variante Delta que ya circula en el Pa\u00eds. Una Ley decidi\u00f3 dejarnos sin ella.  https://t.co/IgkcAAtHLC",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                180
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/IgkcAAtHLC",
+                        "expanded_url": "https://www.nature.com/articles/s41586-021-03693-y",
+                        "display_url": "nature.com/articles/s4158\u2026",
+                        "indices": [
+                            157,
+                            180
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 927770778,
+                "id_str": "927770778",
+                "name": "Carlos Kambourian",
+                "screen_name": "DrCKambourian",
+                "location": "Buenos Aires, Argentina",
+                "description": "M\u00e9dico Pediatra. Ex Presidente del @HospGarrahan. Ex secretario de Salud de Pilar. \nSist. de salud de Malvinas Argentinas \ud83c\udfe5.\n\n\nYoutube: https://t.co/OidbG94GTi",
+                "url": "https://t.co/MYKgPvKs3W",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/MYKgPvKs3W",
+                                "expanded_url": "https://instagram.com/carlos_kambourian",
+                                "display_url": "instagram.com/carlos_kambour\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/OidbG94GTi",
+                                "expanded_url": "https://bit.ly/3cn0XOQ",
+                                "display_url": "bit.ly/3cn0XOQ",
+                                "indices": [
+                                    136,
+                                    159
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 69617,
+                "friends_count": 250,
+                "listed_count": 77,
+                "created_at": "Mon Nov 05 15:02:20 +0000 2012",
+                "favourites_count": 1237,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2088,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412315428060291074/DS4FMLSw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412315428060291074/DS4FMLSw_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/927770778/1510003910",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1239,
+            "favorite_count": 2509,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1403837675984019465,
+    "quoted_status_id_str": "1403837675984019465",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

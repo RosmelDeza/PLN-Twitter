@@ -1,0 +1,182 @@
+{
+    "created_at": "Wed Jul 14 17:07:54 +0000 2021",
+    "id": 1415357400417189892,
+    "id_str": "1415357400417189892",
+    "full_text": "RT @Botidos: Lo que dice el Abogado Castiglioni es muy grave,pr\u00e1cticamente nos est\u00e1 corroborando que a Fuerza Popular no le interes\u00f3 poner\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Botidos",
+                "name": "Vane Botti",
+                "id": 345519995,
+                "id_str": "345519995",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1302247101636718592,
+        "id_str": "1302247101636718592",
+        "name": "jorge acosta fierro",
+        "screen_name": "jorgeacostafie1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 90,
+        "friends_count": 608,
+        "listed_count": 0,
+        "created_at": "Sat Sep 05 14:08:15 +0000 2020",
+        "favourites_count": 12591,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9024,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1303013341183565826/fFhCfrnt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303013341183565826/fFhCfrnt_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 06:15:18 +0000 2021",
+        "id": 1415193166924427265,
+        "id_str": "1415193166924427265",
+        "full_text": "Lo que dice el Abogado Castiglioni es muy grave,pr\u00e1cticamente nos est\u00e1 corroborando que a Fuerza Popular no le interes\u00f3 poner personeros ni en ciudades de la Costa durante la segunda vuelta.\n\n(M\u00e1s que confiados,a mi me parecen c\u00f3mplices)",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            237
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 345519995,
+            "id_str": "345519995",
+            "name": "Vane Botti",
+            "screen_name": "Botidos",
+            "location": "Polonia",
+            "description": "#Patriota\n/\\nti.Comunista \n\n\n\u00a1\u00a1Patria y Vida!!\n\n\u271d\ufe0f\ud83d\udc99",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4989,
+            "friends_count": 761,
+            "listed_count": 9,
+            "created_at": "Sat Jul 30 18:49:11 +0000 2011",
+            "favourites_count": 44400,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 41779,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1366504471329660929/RroZh9rs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366504471329660929/RroZh9rs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/345519995/1623220316",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 32,
+        "favorite_count": 115,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 17:22:34 +0000 2021",
+    "id": 1415361087885688835,
+    "id_str": "1415361087885688835",
+    "full_text": "RT @NLtbsl: no es por presumir pero soy fan de Louis Tomlinson",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        62
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NLtbsl",
+                "name": "L i z \ud83d\udc23",
+                "id": 1351217032713400321,
+                "id_str": "1351217032713400321",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1308101402011545601,
+        "id_str": "1308101402011545601",
+        "name": "noet91|| m\u00e5neskin era",
+        "screen_name": "sheefearless",
+        "location": "taylor shawn dua    she/her",
+        "description": "#HARRY: wherever I go, you bring me home\ud83e\udd8b niall made this town for me\u2728    m\u00e5neskin\u00a1!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2202,
+        "friends_count": 2649,
+        "listed_count": 29,
+        "created_at": "Mon Sep 21 17:51:02 +0000 2020",
+        "favourites_count": 30964,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20279,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397267076595716105/UBzzntNd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397267076595716105/UBzzntNd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308101402011545601/1621968629",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:29:55 +0000 2021",
+        "id": 1415347838289158153,
+        "id_str": "1415347838289158153",
+        "full_text": "no es por presumir pero soy fan de Louis Tomlinson",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            50
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1351217032713400321,
+            "id_str": "1351217032713400321",
+            "name": "L i z \ud83d\udc23",
+            "screen_name": "NLtbsl",
+            "location": "lhl, lhh mi home \ud83c\udfe0|| she/her",
+            "description": "#harry y #louis: te regalamos fearless y sott, todas tuyas",
+            "url": "https://t.co/LvFUrpDL7B",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LvFUrpDL7B",
+                            "expanded_url": "https://nlfearless2.carrd.co/",
+                            "display_url": "nlfearless2.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15318,
+            "friends_count": 13680,
+            "listed_count": 7,
+            "created_at": "Mon Jan 18 17:17:15 +0000 2021",
+            "favourites_count": 22935,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 22957,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415103895739801610/DeY0PPaQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415103895739801610/DeY0PPaQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1351217032713400321/1626222785",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 81,
+        "favorite_count": 291,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 81,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

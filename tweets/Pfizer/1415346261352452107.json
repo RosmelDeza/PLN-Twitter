@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 16:23:39 +0000 2021",
+    "id": 1415346261352452107,
+    "id_str": "1415346261352452107",
+    "full_text": "@ougarteu Porque no permiten vacunarse a los doctores con la pfizer criminales! Hasta el lagarto de @MartinVizcarraC se inoculo con la pfizer y ud dicen que no pueden vacunar a los doctores! \ud83d\ude21Hay que sacar a estos\ud83e\udd21 del gobierno por las buenas o malas este atropello ya es demasido\ud83d\ude21\ud83d\ude21",
+    "truncated": false,
+    "display_text_range": [
+        10,
+        282
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ougarteu",
+                "name": "Oscar Ugarte Ubilluz",
+                "id": 3314271281,
+                "id_str": "3314271281",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "MartinVizcarraC",
+                "name": "Mart\u00edn Vizcarra",
+                "id": 4825296327,
+                "id_str": "4825296327",
+                "indices": [
+                    100,
+                    116
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415271150796648449,
+    "in_reply_to_status_id_str": "1415271150796648449",
+    "in_reply_to_user_id": 3314271281,
+    "in_reply_to_user_id_str": "3314271281",
+    "in_reply_to_screen_name": "ougarteu",
+    "user": {
+        "id": 1393115678681583620,
+        "id_str": "1393115678681583620",
+        "name": "Lourdes CC.",
+        "screen_name": "Lourdespcc4",
+        "location": "",
+        "description": "Ingeniero Qu\u00edmico \u2697\ufe0f\ud83e\uddea\ud83c\udfb6.. renovemos el gran juramento\u00a0que rendimos\u00a0al\u00a0Dios de Jacob.. \ud83c\udfb6\ud83c\uddf5\ud83c\uddea\ud83c\uddee\ud83c\uddf1 \ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66, Amaras a Jehova tu Dios con toda tu alma mente y \u2764\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 86,
+        "friends_count": 252,
+        "listed_count": 1,
+        "created_at": "Fri May 14 08:07:31 +0000 2021",
+        "favourites_count": 11278,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9803,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412319049128808450/IWC8lopX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412319049128808450/IWC8lopX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393115678681583620/1624812219",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

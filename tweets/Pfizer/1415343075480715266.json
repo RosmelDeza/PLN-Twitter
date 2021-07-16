@@ -1,0 +1,241 @@
+{
+    "created_at": "Wed Jul 14 16:10:59 +0000 2021",
+    "id": 1415343075480715266,
+    "id_str": "1415343075480715266",
+    "full_text": "El #viernes llegan m\u00e1s vacunas de #Pfizer. Lote de 34 mil dosis compradas por el gobierno.  \n\n#NoticieroTrece \ud83d\udcfa #SiempreConectados https://t.co/a43eHIujTe",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        130
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "viernes",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "text": "Pfizer",
+                "indices": [
+                    34,
+                    41
+                ]
+            },
+            {
+                "text": "NoticieroTrece",
+                "indices": [
+                    94,
+                    109
+                ]
+            },
+            {
+                "text": "SiempreConectados",
+                "indices": [
+                    112,
+                    130
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415342491327287300,
+                "id_str": "1415342491327287300",
+                "indices": [
+                    131,
+                    154
+                ],
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415342491327287300/img/bvDMBPXGavb7-ZSO.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415342491327287300/img/bvDMBPXGavb7-ZSO.jpg",
+                "url": "https://t.co/a43eHIujTe",
+                "display_url": "pic.twitter.com/a43eHIujTe",
+                "expanded_url": "https://twitter.com/trecepy/status/1415343075480715266/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415342491327287300,
+                "id_str": "1415342491327287300",
+                "indices": [
+                    131,
+                    154
+                ],
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415342491327287300/img/bvDMBPXGavb7-ZSO.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415342491327287300/img/bvDMBPXGavb7-ZSO.jpg",
+                "url": "https://t.co/a43eHIujTe",
+                "display_url": "pic.twitter.com/a43eHIujTe",
+                "expanded_url": "https://twitter.com/trecepy/status/1415343075480715266/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 58373,
+                    "variants": [
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1415342491327287300/vid/480x270/LVu3-1K_bkGtxOvE.mp4?tag=14"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1415342491327287300/vid/640x360/t_-d_PhFMpGT1T_d.mp4?tag=14"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1415342491327287300/pl/HjFdqVTDDhdOpnva.m3u8?tag=14"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "title": "",
+                    "description": "",
+                    "call_to_actions": {
+                        "visit_site": {
+                            "url": "http://www.trece.com.py/"
+                        }
+                    },
+                    "embeddable": true,
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 413981468,
+        "id_str": "413981468",
+        "name": "Trece",
+        "screen_name": "trecepy",
+        "location": "Paraguay",
+        "description": "#SiempreConectados\nContacto Comercial: 595 21 551 187 int 220",
+        "url": "https://t.co/5CdnedOMq1",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/5CdnedOMq1",
+                        "expanded_url": "http://www.trece.com.py",
+                        "display_url": "trece.com.py",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 228922,
+        "friends_count": 421,
+        "listed_count": 348,
+        "created_at": "Wed Nov 16 13:46:29 +0000 2011",
+        "favourites_count": 7994,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 179529,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400251107348262913/un1wRWcT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400251107348262913/un1wRWcT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/413981468/1626109752",
+        "profile_link_color": "00A6E3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

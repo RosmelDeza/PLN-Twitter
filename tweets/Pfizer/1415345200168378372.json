@@ -1,0 +1,332 @@
+{
+    "created_at": "Wed Jul 14 16:19:26 +0000 2021",
+    "id": 1415345200168378372,
+    "id_str": "1415345200168378372",
+    "full_text": "RT @CerebroDeQueso_: Hilo \ud83e\uddf5 Est\u00e1 recomendado que para las personas muy gordas que vayan a recibir vacuna ARNm contra COVID19 (Pfizer, Moder\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CerebroDeQueso_",
+                "name": "Edenbeast.",
+                "id": 397664209,
+                "id_str": "397664209",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1151575093136560128,
+        "id_str": "1151575093136560128",
+        "name": "\ud83c\udf43\ud83c\udf42\ud83c\udf31",
+        "screen_name": "_pinchepinche",
+        "location": "\ud83d\udca9",
+        "description": "aqu\u00ed espantan\n\u2600\ufe0f\u264e \nAsc\u2650 \n\ud83c\udf19\u2650",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 36,
+        "friends_count": 52,
+        "listed_count": 0,
+        "created_at": "Wed Jul 17 19:31:12 +0000 2019",
+        "favourites_count": 589,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 928,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1346175125641637889/ENv48Siq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346175125641637889/ENv48Siq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1151575093136560128/1598406865",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 22:43:48 +0000 2021",
+        "id": 1415079542667063300,
+        "id_str": "1415079542667063300",
+        "full_text": "Hilo \ud83e\uddf5 Est\u00e1 recomendado que para las personas muy gordas que vayan a recibir vacuna ARNm contra COVID19 (Pfizer, Moderna) se utilicen jeringas de 38 mm, en lugar de la est\u00e1ndar de 25 mm.\n\n\u00bfAlg\u00fan gobierno o instituci\u00f3n del mundo est\u00e1 garantizando que, M\u00cdNIMO, se tenga esta info? https://t.co/vL0AfBFVsv",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/vL0AfBFVsv",
+                    "expanded_url": "https://twitter.com/FOMNZ/status/1414808899765489664",
+                    "display_url": "twitter.com/FOMNZ/status/1\u2026",
+                    "indices": [
+                        279,
+                        302
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 397664209,
+            "id_str": "397664209",
+            "name": "Edenbeast.",
+            "screen_name": "CerebroDeQueso_",
+            "location": "fairy oak \ud83e\uddda\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udf33",
+            "description": "Ni\u00f1a con disfraz de adulta. Coleccionista de caleidoscopios. :||: she/ella :||:",
+            "url": "https://t.co/Vg9CTkk92l",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Vg9CTkk92l",
+                            "expanded_url": "https://instagram.com/cheesebrainz",
+                            "display_url": "instagram.com/cheesebrainz",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1516,
+            "friends_count": 766,
+            "listed_count": 3,
+            "created_at": "Tue Oct 25 00:31:01 +0000 2011",
+            "favourites_count": 55162,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 45933,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404608874955558912/gXySBk1c_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404608874955558912/gXySBk1c_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/397664209/1583248701",
+            "profile_link_color": "AAAAAA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "222222",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414808899765489664,
+        "quoted_status_id_str": "1414808899765489664",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 04:48:22 +0000 2021",
+            "id": 1414808899765489664,
+            "id_str": "1414808899765489664",
+            "full_text": "Thanks to @allygarrett, I was aware that I would need to be vaccinated with a longer needled syringe than is normally used. I arrived at my vaccination appointment ready with this information. My vaccinator, however, did not have this information.\nhttps://t.co/tACj6lSWlS",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                271
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "allygarrett",
+                        "name": "Ally Garrett",
+                        "id": 83807278,
+                        "id_str": "83807278",
+                        "indices": [
+                            10,
+                            22
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/tACj6lSWlS",
+                        "expanded_url": "https://www.theguardian.com/commentisfree/2021/jun/14/even-when-getting-vaccinated-against-covid-fatphobia-runs-rampant",
+                        "display_url": "theguardian.com/commentisfree/\u2026",
+                        "indices": [
+                            248,
+                            271
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1414808898146508801,
+            "in_reply_to_status_id_str": "1414808898146508801",
+            "in_reply_to_user_id": 634330179,
+            "in_reply_to_user_id_str": "634330179",
+            "in_reply_to_screen_name": "FOMNZ",
+            "user": {
+                "id": 634330179,
+                "id_str": "634330179",
+                "name": "Cat Paus\u00e9, PhD MPH (she/her)",
+                "screen_name": "FOMNZ",
+                "location": "New Zealand",
+                "description": "*Fatlicious. Feminist. Glorifying obesity since '09. Tearing down white supremacy w/my fat fingers. Friend of Marilyn pod. Sociology, Public Health, Fat Studies",
+                "url": "https://t.co/oDL06Es5HK",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/oDL06Es5HK",
+                                "expanded_url": "https://linktr.ee/cpause",
+                                "display_url": "linktr.ee/cpause",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5360,
+                "friends_count": 2157,
+                "listed_count": 63,
+                "created_at": "Fri Jul 13 03:14:27 +0000 2012",
+                "favourites_count": 2203,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 25344,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1234697789004632064/2KlhZFCv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234697789004632064/2KlhZFCv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/634330179/1603360823",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 97,
+            "favorite_count": 171,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 10,
+        "favorite_count": 38,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414808899765489664,
+    "quoted_status_id_str": "1414808899765489664",
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

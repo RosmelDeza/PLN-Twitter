@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 15:47:47 +0000 2021",
+    "id": 1415337235721990148,
+    "id_str": "1415337235721990148",
+    "full_text": "@WaykaPeru \u00bfEsta vacuna est\u00e1 certificada por alguna organizaci\u00f3n internacional? \u00bfPas\u00f3 por todas las fases de bioseguridad igual que Pfizer?",
+    "truncated": false,
+    "display_text_range": [
+        11,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "WaykaPeru",
+                "name": "\ud83c\uddf5\ud83c\uddea Wayka\ud83d\udce2",
+                "id": 2180222485,
+                "id_str": "2180222485",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414366702939279370,
+    "in_reply_to_status_id_str": "1414366702939279370",
+    "in_reply_to_user_id": 2180222485,
+    "in_reply_to_user_id_str": "2180222485",
+    "in_reply_to_screen_name": "WaykaPeru",
+    "user": {
+        "id": 2788289999,
+        "id_str": "2788289999",
+        "name": "J. Wendy",
+        "screen_name": "wendyU94",
+        "location": "",
+        "description": "Sabes que debes seguir esforz\u00e1ndote no por un reconocimiento, sino por la tranquilidad de haber hecho un buen trabajo \ud83d\udc4a",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 123,
+        "listed_count": 0,
+        "created_at": "Sun Sep 28 00:58:08 +0000 2014",
+        "favourites_count": 1049,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 712,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1038114010846191617/DztpCZp0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038114010846191617/DztpCZp0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2788289999/1470191478",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

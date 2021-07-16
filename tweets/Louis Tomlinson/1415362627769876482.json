@@ -1,0 +1,438 @@
+{
+    "created_at": "Wed Jul 14 17:28:41 +0000 2021",
+    "id": 1415362627769876482,
+    "id_str": "1415362627769876482",
+    "full_text": "RT @fetusrogue: Ya no vamos a tener contenido diario de Louis Tomlinson porque ya se termin\u00f3 la Eurocopa https://t.co/AH0vPvzxQ0",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        128
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "fetusrogue",
+                "name": "angi\u1d38\u22c6",
+                "id": 1268472356235816969,
+                "id_str": "1268472356235816969",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414073829115170817,
+                "id_str": "1414073829115170817",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/E5_Mp86WEAEabZu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E5_Mp86WEAEabZu.jpg",
+                "url": "https://t.co/AH0vPvzxQ0",
+                "display_url": "pic.twitter.com/AH0vPvzxQ0",
+                "expanded_url": "https://twitter.com/fetusrogue/status/1414073833674395650/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414073833674395650,
+                "source_status_id_str": "1414073833674395650",
+                "source_user_id": 1268472356235816969,
+                "source_user_id_str": "1268472356235816969"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414073829115170817,
+                "id_str": "1414073829115170817",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/E5_Mp86WEAEabZu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E5_Mp86WEAEabZu.jpg",
+                "url": "https://t.co/AH0vPvzxQ0",
+                "display_url": "pic.twitter.com/AH0vPvzxQ0",
+                "expanded_url": "https://twitter.com/fetusrogue/status/1414073833674395650/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414073833674395650,
+                "source_status_id_str": "1414073833674395650",
+                "source_user_id": 1268472356235816969,
+                "source_user_id_str": "1268472356235816969"
+            },
+            {
+                "id": 1414073831506038785,
+                "id_str": "1414073831506038785",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/E5_MqF0X0AEt_0k.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E5_MqF0X0AEt_0k.jpg",
+                "url": "https://t.co/AH0vPvzxQ0",
+                "display_url": "pic.twitter.com/AH0vPvzxQ0",
+                "expanded_url": "https://twitter.com/fetusrogue/status/1414073833674395650/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 567,
+                        "h": 542,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 567,
+                        "h": 542,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 567,
+                        "h": 542,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414073833674395650,
+                "source_status_id_str": "1414073833674395650",
+                "source_user_id": 1268472356235816969,
+                "source_user_id_str": "1268472356235816969"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1393935858210906112,
+        "id_str": "1393935858210906112",
+        "name": "yase lvs louaylor",
+        "screen_name": "yaswllsred",
+        "location": "",
+        "description": "she/her \u2730|\nmis prioridades son louis & taylor",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 127,
+        "listed_count": 0,
+        "created_at": "Sun May 16 14:26:36 +0000 2021",
+        "favourites_count": 541,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 116,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408643025174159360/bKm-P1Ex_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408643025174159360/bKm-P1Ex_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393935858210906112/1624576464",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 04:07:28 +0000 2021",
+        "id": 1414073833674395650,
+        "id_str": "1414073833674395650",
+        "full_text": "Ya no vamos a tener contenido diario de Louis Tomlinson porque ya se termin\u00f3 la Eurocopa https://t.co/AH0vPvzxQ0",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            88
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414073829115170817,
+                    "id_str": "1414073829115170817",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_Mp86WEAEabZu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_Mp86WEAEabZu.jpg",
+                    "url": "https://t.co/AH0vPvzxQ0",
+                    "display_url": "pic.twitter.com/AH0vPvzxQ0",
+                    "expanded_url": "https://twitter.com/fetusrogue/status/1414073833674395650/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 200,
+                            "h": 200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 200,
+                            "h": 200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 200,
+                            "h": 200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414073829115170817,
+                    "id_str": "1414073829115170817",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_Mp86WEAEabZu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_Mp86WEAEabZu.jpg",
+                    "url": "https://t.co/AH0vPvzxQ0",
+                    "display_url": "pic.twitter.com/AH0vPvzxQ0",
+                    "expanded_url": "https://twitter.com/fetusrogue/status/1414073833674395650/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 200,
+                            "h": 200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 200,
+                            "h": 200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 200,
+                            "h": 200,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414073831506038785,
+                    "id_str": "1414073831506038785",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_MqF0X0AEt_0k.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_MqF0X0AEt_0k.jpg",
+                    "url": "https://t.co/AH0vPvzxQ0",
+                    "display_url": "pic.twitter.com/AH0vPvzxQ0",
+                    "expanded_url": "https://twitter.com/fetusrogue/status/1414073833674395650/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 567,
+                            "h": 542,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 567,
+                            "h": 542,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 567,
+                            "h": 542,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1268472356235816969,
+            "id_str": "1268472356235816969",
+            "name": "angi\u1d38\u22c6",
+            "screen_name": "fetusrogue",
+            "location": "louis fetus es mio y m\u00edo lamento si existen algunas personas que creen que es suyo son fekas ! ",
+            "description": "\u0295\u00b7\u1d25\u00b7\u0294 louis fetus , luca y alberto les voy a llorar toda m\u00ed vida...",
+            "url": "https://t.co/Bj0OItu67p",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Bj0OItu67p",
+                            "expanded_url": "http://tiny.cc/louistwitcam",
+                            "display_url": "tiny.cc/louistwitcam",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11592,
+            "friends_count": 10799,
+            "listed_count": 32,
+            "created_at": "Thu Jun 04 09:19:22 +0000 2020",
+            "favourites_count": 75044,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 68530,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415153650180239361/nsVx4BpF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415153650180239361/nsVx4BpF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268472356235816969/1626242247",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 726,
+        "favorite_count": 5740,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 726,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

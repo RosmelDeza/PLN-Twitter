@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 16:19:30 +0000 2021",
+    "id": 1415345219516706820,
+    "id_str": "1415345219516706820",
+    "full_text": "@2021Arcangel_ @Minsa_Peru  Vacunen a los m\u00e9dicos con pfizer tiene m\u00e1s eficacia, ellos se merecen lo mejor sin m\u00e9dicos los dem\u00e1s ciudadanos moriremos tambien. \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        170
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "2021Arcangel_",
+                "name": "Malcom_x1x_Return",
+                "id": 1348115461918097410,
+                "id_str": "1348115461918097410",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "Minsa_Peru",
+                "name": "Ministerio de Salud",
+                "id": 138471254,
+                "id_str": "138471254",
+                "indices": [
+                    15,
+                    26
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415000715295088640,
+    "in_reply_to_status_id_str": "1415000715295088640",
+    "in_reply_to_user_id": 1348115461918097410,
+    "in_reply_to_user_id_str": "1348115461918097410",
+    "in_reply_to_screen_name": "2021Arcangel_",
+    "user": {
+        "id": 30265273,
+        "id_str": "30265273",
+        "name": "Nati",
+        "screen_name": "NatiArchie",
+        "location": "Per\u00fa - South America",
+        "description": "I like kpop and kdramas.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 326,
+        "friends_count": 417,
+        "listed_count": 51,
+        "created_at": "Fri Apr 10 17:29:20 +0000 2009",
+        "favourites_count": 11107,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10609,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FA720A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/903433311271477248/gBCiJ1dy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/903433311271477248/gBCiJ1dy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30265273/1623466066",
+        "profile_link_color": "051BA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E4FAD2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

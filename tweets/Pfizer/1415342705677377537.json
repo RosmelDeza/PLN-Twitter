@@ -1,0 +1,309 @@
+{
+    "created_at": "Wed Jul 14 16:09:31 +0000 2021",
+    "id": 1415342705677377537,
+    "id_str": "1415342705677377537",
+    "full_text": "RT @claragiraldo: \ud83d\udea8 #YoMeVacuno si necesitan segunda dosis de Pfizer en la @ipsudea; tambi\u00e9n en la IPS Laborum (en la 33). Ambos casi sin f\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "YoMeVacuno",
+                "indices": [
+                    20,
+                    31
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "claragiraldo",
+                "name": "\u2102\ud835\udd5d\ud835\udd52\ud835\udd63\ud835\udd52 \ud835\udd3e\ud835\udd5a\ud835\udd63\ud835\udd52\ud835\udd5d\ud835\udd55\ud835\udd60",
+                "id": 68707712,
+                "id_str": "68707712",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "ipsudea",
+                "name": "IPS UNIVERSITARIA",
+                "id": 279217687,
+                "id_str": "279217687",
+                "indices": [
+                    75,
+                    83
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 743655181879914496,
+        "id_str": "743655181879914496",
+        "name": "Urkixo",
+        "screen_name": "gadnamx",
+        "location": "",
+        "description": "Historia",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 283,
+        "friends_count": 2759,
+        "listed_count": 1,
+        "created_at": "Fri Jun 17 04:03:06 +0000 2016",
+        "favourites_count": 23325,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2694,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357149500255707143/rmS73nrW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357149500255707143/rmS73nrW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/743655181879914496/1593624575",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:47:47 +0000 2021",
+        "id": 1415307037924339714,
+        "id_str": "1415307037924339714",
+        "full_text": "\ud83d\udea8 #YoMeVacuno si necesitan segunda dosis de Pfizer en la @ipsudea; tambi\u00e9n en la IPS Laborum (en la 33). Ambos casi sin fila, muy r\u00e1pido y muy organizado! \n\nLa @ipsudea tambi\u00e9n tiene Janssen para todos los mayores de 35 a\u00f1os. https://t.co/K4R55kpEYA",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            225
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "YoMeVacuno",
+                    "indices": [
+                        2,
+                        13
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ipsudea",
+                    "name": "IPS UNIVERSITARIA",
+                    "id": 279217687,
+                    "id_str": "279217687",
+                    "indices": [
+                        57,
+                        65
+                    ]
+                },
+                {
+                    "screen_name": "ipsudea",
+                    "name": "IPS UNIVERSITARIA",
+                    "id": 279217687,
+                    "id_str": "279217687",
+                    "indices": [
+                        160,
+                        168
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415307031578398722,
+                    "id_str": "1415307031578398722",
+                    "indices": [
+                        226,
+                        249
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QuPyFX0AISZPz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QuPyFX0AISZPz.jpg",
+                    "url": "https://t.co/K4R55kpEYA",
+                    "display_url": "pic.twitter.com/K4R55kpEYA",
+                    "expanded_url": "https://twitter.com/claragiraldo/status/1415307037924339714/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415307031578398722,
+                    "id_str": "1415307031578398722",
+                    "indices": [
+                        226,
+                        249
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QuPyFX0AISZPz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QuPyFX0AISZPz.jpg",
+                    "url": "https://t.co/K4R55kpEYA",
+                    "display_url": "pic.twitter.com/K4R55kpEYA",
+                    "expanded_url": "https://twitter.com/claragiraldo/status/1415307037924339714/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 68707712,
+            "id_str": "68707712",
+            "name": "\u2102\ud835\udd5d\ud835\udd52\ud835\udd63\ud835\udd52 \ud835\udd3e\ud835\udd5a\ud835\udd63\ud835\udd52\ud835\udd5d\ud835\udd55\ud835\udd60",
+            "screen_name": "claragiraldo",
+            "location": "Medellin, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13349,
+            "friends_count": 499,
+            "listed_count": 76,
+            "created_at": "Tue Aug 25 14:34:01 +0000 2009",
+            "favourites_count": 11227,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 104755,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "E39EA3",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1230325145325228034/Bz1b-b7b_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230325145325228034/Bz1b-b7b_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/68707712/1441582607",
+            "profile_link_color": "B40B43",
+            "profile_sidebar_border_color": "DBE9ED",
+            "profile_sidebar_fill_color": "B885B5",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 28,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

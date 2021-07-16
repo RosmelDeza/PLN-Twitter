@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 16:28:15 +0000 2021",
+    "id": 1415347420955807748,
+    "id_str": "1415347420955807748",
+    "full_text": "Tengan en cuenta que, seg\u00fan los pol\u00edticos y sanitarios, la Pfizer era \u201cla buena\u201d.\nhttps://t.co/uAPyJG5I8L",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        105
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/uAPyJG5I8L",
+                "expanded_url": "https://www.eldiestro.es/2021/07/el-canal-de-telegram-world-doctors-alliance-publica-los-ultimos-datos-sobre-los-efectos-secundarios-de-las-vacunas-en-europa-con-unas-cifras-demoledoras/",
+                "display_url": "eldiestro.es/2021/07/el-can\u2026",
+                "indices": [
+                    82,
+                    105
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 529371025,
+        "id_str": "529371025",
+        "name": "superpata",
+        "screen_name": "patinesmota",
+        "location": "Buenos Aires, Argentina",
+        "description": "Artista pl\u00e1stica \ud83c\udfa8\nNo K! \u264fMuy escorpiana\ud83e\udd82Pilar Bs As \ud83c\udfe1 El universo responde a la vibraci\u00f3n que est\u00e1s emitiendo. S\u00e9 conciente! No tengas miedo! #YoNoMeVacuno",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2998,
+        "friends_count": 4274,
+        "listed_count": 13,
+        "created_at": "Mon Mar 19 13:11:57 +0000 2012",
+        "favourites_count": 159679,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 70085,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1210278845716275200/dfZtQCsh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210278845716275200/dfZtQCsh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/529371025/1462247300",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

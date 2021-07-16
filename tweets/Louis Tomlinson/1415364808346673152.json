@@ -1,0 +1,311 @@
+{
+    "created_at": "Wed Jul 14 17:37:21 +0000 2021",
+    "id": 1415364808346673152,
+    "id_str": "1415364808346673152",
+    "full_text": "RT @kmmxency: debo admitir que louis tomlinson es alguien unique y ni hablemos de su unreal voice en cada una de sus performance, y sobreto\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kmmxency",
+                "name": "limpio b\u00fasquedas",
+                "id": 1411771332946284547,
+                "id_str": "1411771332946284547",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1351417820719013888,
+        "id_str": "1351417820719013888",
+        "name": "fio lvs lu -6",
+        "screen_name": "rqckliv",
+        "location": "buzzin || pdr",
+        "description": "",
+        "url": "https://t.co/9CMP3HpGl1",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/9CMP3HpGl1",
+                        "expanded_url": "http://07101691.carrd.co",
+                        "display_url": "07101691.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1148,
+        "friends_count": 1077,
+        "listed_count": 9,
+        "created_at": "Tue Jan 19 06:35:07 +0000 2021",
+        "favourites_count": 7965,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23246,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415361904189521920/zDR0YPJN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415361904189521920/zDR0YPJN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1351417820719013888/1624046465",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 08 15:23:04 +0000 2021",
+        "id": 1413156690464215048,
+        "id_str": "1413156690464215048",
+        "full_text": "debo admitir que louis tomlinson es alguien unique y ni hablemos de su unreal voice en cada una de sus performance, y sobretodo tiene una radiant smile, es tan pretty cada vez que veo una foto de el me hace sentir en mi safe place &lt;3 https://t.co/eQP87np7k4",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            236
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413156685120774150,
+                    "id_str": "1413156685120774150",
+                    "indices": [
+                        237,
+                        260
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5yKhJSXoAYjFAG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5yKhJSXoAYjFAG.jpg",
+                    "url": "https://t.co/eQP87np7k4",
+                    "display_url": "pic.twitter.com/eQP87np7k4",
+                    "expanded_url": "https://twitter.com/kmmxency/status/1413156690464215048/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 679,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 736,
+                            "h": 735,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 736,
+                            "h": 735,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413156685120774150,
+                    "id_str": "1413156685120774150",
+                    "indices": [
+                        237,
+                        260
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5yKhJSXoAYjFAG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5yKhJSXoAYjFAG.jpg",
+                    "url": "https://t.co/eQP87np7k4",
+                    "display_url": "pic.twitter.com/eQP87np7k4",
+                    "expanded_url": "https://twitter.com/kmmxency/status/1413156690464215048/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 679,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 736,
+                            "h": 735,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 736,
+                            "h": 735,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1413156688463548419,
+                    "id_str": "1413156688463548419",
+                    "indices": [
+                        237,
+                        260
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5yKhVvWUAMCpl6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5yKhVvWUAMCpl6.jpg",
+                    "url": "https://t.co/eQP87np7k4",
+                    "display_url": "pic.twitter.com/eQP87np7k4",
+                    "expanded_url": "https://twitter.com/kmmxency/status/1413156690464215048/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 600,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1411771332946284547,
+            "id_str": "1411771332946284547",
+            "name": "limpio b\u00fasquedas",
+            "screen_name": "kmmxency",
+            "location": "eurocopakmm",
+            "description": "para votar ||\nicono posiblemente encontrado.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 32,
+            "friends_count": 66,
+            "listed_count": 0,
+            "created_at": "Sun Jul 04 19:38:29 +0000 2021",
+            "favourites_count": 28,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 28,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413156782919278600/TYsqs_sz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413156782919278600/TYsqs_sz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1411771332946284547/1625757531",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 89,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

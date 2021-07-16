@@ -1,0 +1,118 @@
+{
+    "created_at": "Wed Jul 14 16:22:51 +0000 2021",
+    "id": 1415346059493187584,
+    "id_str": "1415346059493187584",
+    "full_text": "@ambarbolat la sinovac y un dia de estos sere pfizer girl cuando vaya por el refuerzo lmao #iyikigeldinbaba",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        107
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "iyikigeldinbaba",
+                "indices": [
+                    91,
+                    107
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ambarbolat",
+                "name": "\u00e1mbar",
+                "id": 3235363934,
+                "id_str": "3235363934",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415345726243094532,
+    "in_reply_to_status_id_str": "1415345726243094532",
+    "in_reply_to_user_id": 3235363934,
+    "in_reply_to_user_id_str": "3235363934",
+    "in_reply_to_screen_name": "ambarbolat",
+    "user": {
+        "id": 1104970362763268102,
+        "id_str": "1104970362763268102",
+        "name": "paloma \ud83c\udf52",
+        "screen_name": "edyiIdiz",
+        "location": "21 \u2729 DR",
+        "description": "#sen\u00e7alkapimi: If you are in the darkest night, do not be afraid, you will see the stars.",
+        "url": "https://t.co/2DT2gL0b3i",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/2DT2gL0b3i",
+                        "expanded_url": "http://alicekepley.tumblr.com",
+                        "display_url": "alicekepley.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 295,
+        "friends_count": 179,
+        "listed_count": 2,
+        "created_at": "Mon Mar 11 05:00:38 +0000 2019",
+        "favourites_count": 22511,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11698,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406464636552110080/Z0UqrIBM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406464636552110080/Z0UqrIBM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1104970362763268102/1624162729",
+        "profile_link_color": "533D2A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

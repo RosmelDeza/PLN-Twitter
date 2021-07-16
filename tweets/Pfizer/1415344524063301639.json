@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 16:16:45 +0000 2021",
+    "id": 1415344524063301639,
+    "id_str": "1415344524063301639",
+    "full_text": "@SoyOscarEscobar @GobValle Bno los que nos falta la segunda vacuna de Pfizer en d\u00f3nde las conseguimos???",
+    "truncated": false,
+    "display_text_range": [
+        27,
+        104
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SoyOscarEscobar",
+                "name": "\u00d3scar Escobar",
+                "id": 131074953,
+                "id_str": "131074953",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "GobValle",
+                "name": "Gobernaci\u00f3n Valle del Cauca",
+                "id": 525889665,
+                "id_str": "525889665",
+                "indices": [
+                    17,
+                    26
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415331176009641984,
+    "in_reply_to_status_id_str": "1415331176009641984",
+    "in_reply_to_user_id": 131074953,
+    "in_reply_to_user_id_str": "131074953",
+    "in_reply_to_screen_name": "SoyOscarEscobar",
+    "user": {
+        "id": 618483870,
+        "id_str": "618483870",
+        "name": "Gustavo",
+        "screen_name": "gusfercar",
+        "location": "",
+        "description": "Dios es mi gu\u00eda!!! Mi familia su bendici\u00f3n!!\nAdministrador de Empresas",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 49,
+        "friends_count": 234,
+        "listed_count": 0,
+        "created_at": "Mon Jun 25 20:19:39 +0000 2012",
+        "favourites_count": 6786,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 565,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1389452221931261953/FHzwd7xv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389452221931261953/FHzwd7xv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/618483870/1594696718",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

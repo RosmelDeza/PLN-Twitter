@@ -1,0 +1,491 @@
+{
+    "created_at": "Wed Jul 14 15:53:03 +0000 2021",
+    "id": 1415338560560017411,
+    "id_str": "1415338560560017411",
+    "full_text": "RT @OmarBelloMD: \u26a0\ufe0f\u00bfQu\u00e9 efecto tiene combinar vacunas vs. #COVID19?\n\n\u2705Combinaci\u00f3n de una dosis de vacuna AstraZeneca+  una dosis de Pfizer\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID19",
+                "indices": [
+                    58,
+                    66
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "OmarBelloMD",
+                "name": "Omar Yaxmehen Bello-Chavolla",
+                "id": 49691913,
+                "id_str": "49691913",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 306574437,
+        "id_str": "306574437",
+        "name": "Abraham E. Gracia R.",
+        "screen_name": "Abraham_RMI",
+        "location": "M\u00e9xico",
+        "description": "MD Internal Medicine @TU_IMSS @HraeZumpango |MSc, PhD student @IPN_MX |EB @OxfordMedicalCR |SNI(c) | ORCID: https://t.co/XH0fBur50a",
+        "url": "https://t.co/Yyd8Sm47vr",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Yyd8Sm47vr",
+                        "expanded_url": "http://publons.com/a/1621885/",
+                        "display_url": "publons.com/a/1621885/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/XH0fBur50a",
+                        "expanded_url": "http://orcid.org/0000-0003-1842-2554",
+                        "display_url": "orcid.org/0000-0003-1842\u2026",
+                        "indices": [
+                            108,
+                            131
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 2525,
+        "friends_count": 1586,
+        "listed_count": 56,
+        "created_at": "Sat May 28 03:34:52 +0000 2011",
+        "favourites_count": 30557,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 32578,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1350304799728803841/MKfx43aE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350304799728803841/MKfx43aE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/306574437/1604929267",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:16:04 +0000 2021",
+        "id": 1415299055379439625,
+        "id_str": "1415299055379439625",
+        "full_text": "\u26a0\ufe0f\u00bfQu\u00e9 efecto tiene combinar vacunas vs. #COVID19?\n\n\u2705Combinaci\u00f3n de una dosis de vacuna AstraZeneca+  una dosis de Pfizer vs dos dosis de AstraZeneca indujo:\n\n\u2b06\ufe0frespuesta inmune celular T\n\u2b06\ufe0fanticuerpos neutralizantes vs #SARSCoV2 alfa, beta y gamma\n\n\u26a0\ufe0fEscenario muy esperanzador https://t.co/vKyPOSIhKj",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        41,
+                        49
+                    ]
+                },
+                {
+                    "text": "SARSCoV2",
+                    "indices": [
+                        220,
+                        229
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/vKyPOSIhKj",
+                    "expanded_url": "https://twitter.com/EricTopol/status/1415297187718696964",
+                    "display_url": "twitter.com/EricTopol/stat\u2026",
+                    "indices": [
+                        279,
+                        302
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 49691913,
+            "id_str": "49691913",
+            "name": "Omar Yaxmehen Bello-Chavolla",
+            "screen_name": "OmarBelloMD",
+            "location": "Mexico City, Mexico",
+            "description": "Early career researcher | MD PhD | Applied Statistics | Aging | Metabolism | Diabetes | Modeling | COVID-19 | Editorial Fellow @JASN_News | Open Science | SNI-1",
+            "url": "https://t.co/C5yufGAxPN",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/C5yufGAxPN",
+                            "expanded_url": "https://www.researchgate.net/profile/Omar_Bello-Chavolla",
+                            "display_url": "researchgate.net/profile/Omar_B\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3514,
+            "friends_count": 261,
+            "listed_count": 34,
+            "created_at": "Mon Jun 22 17:09:07 +0000 2009",
+            "favourites_count": 1518,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3050,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1390876480406626304/x1ccCoON_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390876480406626304/x1ccCoON_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/49691913/1620532544",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "22C0F0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415297187718696964,
+        "quoted_status_id_str": "1415297187718696964",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 13:08:39 +0000 2021",
+            "id": 1415297187718696964,
+            "id_str": "1415297187718696964",
+            "full_text": "Mix and match vaccines? \n2 doses AZ vs AZ and then Pfizer:\n\"BNT162b2 induced significantly higher frequencies of spike-specific CD4+ and CD8+ T cells and, in particular, high titers of neutralizing antibodies against the B.1.1.7, B.1.351 and P.1 variants\" \nhttps://t.co/53J2erWVMy https://t.co/aEmqMlhEar",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                280
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/53J2erWVMy",
+                        "expanded_url": "https://www.nature.com/articles/s41591-021-01449-9",
+                        "display_url": "nature.com/articles/s4159\u2026",
+                        "indices": [
+                            257,
+                            280
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1415296450905264131,
+                        "id_str": "1415296450905264131",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Qkn6AUUAMpdXA.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Qkn6AUUAMpdXA.jpg",
+                        "url": "https://t.co/aEmqMlhEar",
+                        "display_url": "pic.twitter.com/aEmqMlhEar",
+                        "expanded_url": "https://twitter.com/EricTopol/status/1415297187718696964/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 988,
+                                "h": 686,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 472,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 988,
+                                "h": 686,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415296450905264131,
+                        "id_str": "1415296450905264131",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Qkn6AUUAMpdXA.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Qkn6AUUAMpdXA.jpg",
+                        "url": "https://t.co/aEmqMlhEar",
+                        "display_url": "pic.twitter.com/aEmqMlhEar",
+                        "expanded_url": "https://twitter.com/EricTopol/status/1415297187718696964/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 988,
+                                "h": 686,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 472,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 988,
+                                "h": 686,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1415296704660729857,
+                        "id_str": "1415296704660729857",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Qk2rUVcAEEqcK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Qk2rUVcAEEqcK.jpg",
+                        "url": "https://t.co/aEmqMlhEar",
+                        "display_url": "pic.twitter.com/aEmqMlhEar",
+                        "expanded_url": "https://twitter.com/EricTopol/status/1415297187718696964/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1854,
+                                "h": 798,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 517,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 293,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 86626845,
+                "id_str": "86626845",
+                "name": "Eric Topol",
+                "screen_name": "EricTopol",
+                "location": "La Jolla, CA",
+                "description": "physician-scientist, author, editor  \nhttps://t.co/AWqrOxpoZP",
+                "url": "https://t.co/fYzaAmKQ2A",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/fYzaAmKQ2A",
+                                "expanded_url": "http://www.scripps.edu/translational",
+                                "display_url": "scripps.edu/translational",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/AWqrOxpoZP",
+                                "expanded_url": "http://drerictopol.com",
+                                "display_url": "drerictopol.com",
+                                "indices": [
+                                    38,
+                                    61
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 460041,
+                "friends_count": 528,
+                "listed_count": 9216,
+                "created_at": "Sun Nov 01 00:02:55 +0000 2009",
+                "favourites_count": 37597,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 36796,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "00CCCC",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1115688713424519169/kHgDk5TV_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115688713424519169/kHgDk5TV_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/86626845/1580865445",
+                "profile_link_color": "3366FF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "74A3BF",
+                "profile_text_color": "295B7C",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 386,
+            "favorite_count": 796,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 7,
+        "favorite_count": 36,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415297187718696964,
+    "quoted_status_id_str": "1415297187718696964",
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

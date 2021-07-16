@@ -1,0 +1,321 @@
+{
+    "created_at": "Wed Jul 14 16:08:22 +0000 2021",
+    "id": 1415342414869536773,
+    "id_str": "1415342414869536773",
+    "full_text": "RT @matuk: #POLITICA Fuerza Popular planea impugnar los resultados de los Jurados Especiales y tambi\u00e9n impugnar el resultado del Jurado Nac\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "POLITICA",
+                "indices": [
+                    11,
+                    20
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "matuk",
+                "name": "Farid Matuk",
+                "id": 14541101,
+                "id_str": "14541101",
+                "indices": [
+                    3,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 910261956153630720,
+        "id_str": "910261956153630720",
+        "name": "Se\u00f1ora DLS",
+        "screen_name": "grace_gutarra",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 87,
+        "friends_count": 241,
+        "listed_count": 1,
+        "created_at": "Tue Sep 19 21:58:57 +0000 2017",
+        "favourites_count": 9640,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5419,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/975902607330959360/OhjfuCHq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/975902607330959360/OhjfuCHq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/910261956153630720/1505955213",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:16:15 +0000 2021",
+        "id": 1415102808374775810,
+        "id_str": "1415102808374775810",
+        "full_text": "#POLITICA Fuerza Popular planea impugnar los resultados de los Jurados Especiales y tambi\u00e9n impugnar el resultado del Jurado Nacional, es decir que @PedroCastilloTe podr\u00e1 ser proclamado el 27 de Julio.\n\n\u00a1GRACIAS POR TANTO! https://t.co/NmXLUWOkvV",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            222
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "POLITICA",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PedroCastilloTe",
+                    "name": "Pedro Castillo Terrones",
+                    "id": 1357969682683334657,
+                    "id_str": "1357969682683334657",
+                    "indices": [
+                        148,
+                        164
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415102805396885508,
+                    "id_str": "1415102805396885508",
+                    "indices": [
+                        223,
+                        246
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6N0gQRXEAQJMSP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6N0gQRXEAQJMSP.jpg",
+                    "url": "https://t.co/NmXLUWOkvV",
+                    "display_url": "pic.twitter.com/NmXLUWOkvV",
+                    "expanded_url": "https://twitter.com/matuk/status/1415102808374775810/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1538,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 511,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 901,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415102805396885508,
+                    "id_str": "1415102805396885508",
+                    "indices": [
+                        223,
+                        246
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6N0gQRXEAQJMSP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6N0gQRXEAQJMSP.jpg",
+                    "url": "https://t.co/NmXLUWOkvV",
+                    "display_url": "pic.twitter.com/NmXLUWOkvV",
+                    "expanded_url": "https://twitter.com/matuk/status/1415102808374775810/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1538,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 511,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 901,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14541101,
+            "id_str": "14541101",
+            "name": "Farid Matuk",
+            "screen_name": "matuk",
+            "location": "+51 999350650",
+            "description": ": ESTUDIOS https://t.co/0FqEW0yVzs & https://t.co/A0JmKt8Nc6 / FUNCIONARIO ocho a\u00f1os / CONSULTOR once a\u00f1os / CATEDRATICO doce a\u00f1os",
+            "url": "https://t.co/oH66GabBTm",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/oH66GabBTm",
+                            "expanded_url": "https://29x55.tumblr.com/",
+                            "display_url": "29x55.tumblr.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0FqEW0yVzs",
+                            "expanded_url": "http://pucp.edu.pe",
+                            "display_url": "pucp.edu.pe",
+                            "indices": [
+                                11,
+                                34
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/A0JmKt8Nc6",
+                            "expanded_url": "http://uottawa.ca",
+                            "display_url": "uottawa.ca",
+                            "indices": [
+                                37,
+                                60
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 48267,
+            "friends_count": 302,
+            "listed_count": 286,
+            "created_at": "Sat Apr 26 07:11:07 +0000 2008",
+            "favourites_count": 61,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 93076,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/744714031655690244/v8tW2U_L_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/744714031655690244/v8tW2U_L_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14541101/1622952622",
+            "profile_link_color": "BD31A1",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "949494",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 53,
+        "favorite_count": 175,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 53,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 16:13:54 +0000 2021",
+    "id": 1415343809475584004,
+    "id_str": "1415343809475584004",
+    "full_text": "@MothmanManmoth Pfizer\nNing\u00fan efecto. Iba doblado de la espalda antes de la vacuna (seg\u00fan el fisio llevo cargado el cuadrado) y despu\u00e9s he seguido exactamente igual.\nY no se me pegan las teteras.",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        195
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MothmanManmoth",
+                "name": "Mothman\ud83d\udd3b\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c",
+                "id": 958474725084336129,
+                "id_str": "958474725084336129",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415241718681722881,
+    "in_reply_to_status_id_str": "1415241718681722881",
+    "in_reply_to_user_id": 958474725084336129,
+    "in_reply_to_user_id_str": "958474725084336129",
+    "in_reply_to_screen_name": "MothmanManmoth",
+    "user": {
+        "id": 585817561,
+        "id_str": "585817561",
+        "name": "Ambros The Great",
+        "screen_name": "Ambros_TheGreat",
+        "location": "",
+        "description": "Estoy aqu\u00ed por las risas y la cerveza\n\nPerd\u00f3n, que cerveza no hay aqu\u00ed, me quedo con las risas",
+        "url": "https://t.co/goXlgVCNRo",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/goXlgVCNRo",
+                        "expanded_url": "https://mastodon.la/@AmbrosTheGreat",
+                        "display_url": "mastodon.la/@AmbrosTheGreat",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 121,
+        "friends_count": 206,
+        "listed_count": 3,
+        "created_at": "Sun May 20 16:59:18 +0000 2012",
+        "favourites_count": 3419,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5252,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1212445623355617281/uEBYjn37_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212445623355617281/uEBYjn37_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/585817561/1571281854",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,224 @@
+{
+    "created_at": "Wed Jul 14 15:47:45 +0000 2021",
+    "id": 1415337226729398273,
+    "id_str": "1415337226729398273",
+    "full_text": "RT @golindrina77: @paultutiven @CarlosSacoto7 Y que hacen con esas vacunas?\nEsas vacunas ya no sirven, estan contaminadas, han perdido la c\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "golindrina77",
+                "name": "Alexandra 77 \ud83d\udc99\ud83d\udc99\ud83d\udc63\ud83c\uddea\ud83c\udde8\ud83d\udc60",
+                "id": 1116431717747888130,
+                "id_str": "1116431717747888130",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "paultutiven",
+                "name": "Paul Tutiven Fuentes",
+                "id": 128955581,
+                "id_str": "128955581",
+                "indices": [
+                    18,
+                    30
+                ]
+            },
+            {
+                "screen_name": "CarlosSacoto7",
+                "name": "Carlos Sacoto",
+                "id": 1242172745716322304,
+                "id_str": "1242172745716322304",
+                "indices": [
+                    31,
+                    45
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1111088141769805825,
+        "id_str": "1111088141769805825",
+        "name": "MaBelen",
+        "screen_name": "MaBelen79204286",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 216,
+        "friends_count": 425,
+        "listed_count": 0,
+        "created_at": "Thu Mar 28 02:10:30 +0000 2019",
+        "favourites_count": 34137,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15580,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1311124821498003456/wpHoh5Se_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311124821498003456/wpHoh5Se_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1111088141769805825/1601431721",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:38:39 +0000 2021",
+        "id": 1415304739399610371,
+        "id_str": "1415304739399610371",
+        "full_text": "@paultutiven @CarlosSacoto7 Y que hacen con esas vacunas?\nEsas vacunas ya no sirven, estan contaminadas, han perdido la cadena de frio!\nQue hay alguna mafia que mas vende como Pfizer o que?",
+        "truncated": false,
+        "display_text_range": [
+            28,
+            189
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "paultutiven",
+                    "name": "Paul Tutiven Fuentes",
+                    "id": 128955581,
+                    "id_str": "128955581",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "CarlosSacoto7",
+                    "name": "Carlos Sacoto",
+                    "id": 1242172745716322304,
+                    "id_str": "1242172745716322304",
+                    "indices": [
+                        13,
+                        27
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415091718022631424,
+        "in_reply_to_status_id_str": "1415091718022631424",
+        "in_reply_to_user_id": 128955581,
+        "in_reply_to_user_id_str": "128955581",
+        "in_reply_to_screen_name": "paultutiven",
+        "user": {
+            "id": 1116431717747888130,
+            "id_str": "1116431717747888130",
+            "name": "Alexandra 77 \ud83d\udc99\ud83d\udc99\ud83d\udc63\ud83c\uddea\ud83c\udde8\ud83d\udc60",
+            "screen_name": "golindrina77",
+            "location": "Islandia",
+            "description": "Pro vida, cat\u00f3lica, hija, hermana, esposa, t\u00eda",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 626,
+            "friends_count": 849,
+            "listed_count": 1,
+            "created_at": "Thu Apr 11 20:03:58 +0000 2019",
+            "favourites_count": 65034,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 15235,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411738218253500420/jYt06-U6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411738218253500420/jYt06-U6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1116431717747888130/1622202600",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

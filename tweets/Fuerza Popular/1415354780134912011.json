@@ -1,0 +1,234 @@
+{
+    "created_at": "Wed Jul 14 16:57:30 +0000 2021",
+    "id": 1415354780134912011,
+    "id_str": "1415354780134912011",
+    "full_text": "RT @celingarcia: Informaci\u00f3n y ciencia para bancarnos los siguientes 5 a\u00f1os. #LaEncerrona Fuerza Popular acepta que no puede voltear los re\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaEncerrona",
+                "indices": [
+                    77,
+                    89
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "celingarcia",
+                "name": "Cel\u00ednGarc\u00eda",
+                "id": 67342417,
+                "id_str": "67342417",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1413206075009114112,
+        "id_str": "1413206075009114112",
+        "name": "Pame",
+        "screen_name": "Pame65474314",
+        "location": "",
+        "description": "Todo es posible para el que cree",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 5,
+        "listed_count": 0,
+        "created_at": "Thu Jul 08 18:39:54 +0000 2021",
+        "favourites_count": 34,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 58,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:08:26 +0000 2021",
+        "id": 1415312235287699458,
+        "id_str": "1415312235287699458",
+        "full_text": "Informaci\u00f3n y ciencia para bancarnos los siguientes 5 a\u00f1os. #LaEncerrona Fuerza Popular acepta que no puede voltear los resultados, ... https://t.co/vec1A8eSSB via @YouTube",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            172
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaEncerrona",
+                    "indices": [
+                        60,
+                        72
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        164,
+                        172
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/vec1A8eSSB",
+                    "expanded_url": "https://youtu.be/jA2BT_IKtck",
+                    "display_url": "youtu.be/jA2BT_IKtck",
+                    "indices": [
+                        136,
+                        159
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 67342417,
+            "id_str": "67342417",
+            "name": "Cel\u00ednGarc\u00eda",
+            "screen_name": "celingarcia",
+            "location": "Lima, Per\u00fa",
+            "description": "M\u00fasico",
+            "url": "https://t.co/PfS1EN4cHD",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PfS1EN4cHD",
+                            "expanded_url": "http://www.celingarcia.com",
+                            "display_url": "celingarcia.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 351,
+            "friends_count": 716,
+            "listed_count": 4,
+            "created_at": "Thu Aug 20 15:28:40 +0000 2009",
+            "favourites_count": 36854,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 32872,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1382196775352680449/oyKpJYh__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382196775352680449/oyKpJYh__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/67342417/1514586265",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

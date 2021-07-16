@@ -1,0 +1,108 @@
+{
+    "created_at": "Wed Jul 14 17:11:01 +0000 2021",
+    "id": 1415358181274963971,
+    "id_str": "1415358181274963971",
+    "full_text": "Abogado de Fuerza Popular admite derrota pero continuar\u00e1n dilatando proc... https://t.co/bfZ8kE9P5v a trav\u00e9s de @YouTub \u00bfDONDE QUEDO LA ETICA PROFESIONAL DE ESTE ABOGADO? \u00bfEN QUE UNIVERSIDAD ESTUDIO? LA CONSTITUCI\u00d3N SE\u00d1ALA LA DEFENSA DE LA PATRIA ESTA PRIMERO.DEBE SER SANCIONADO.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        280
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "YouTub",
+                "name": "\u1d04\u1d00\u1d18\u1d0f\u0274\u1d07\ud83d\udc68\ud83c\udffe\u200d\ud83d\ude80",
+                "id": 1018615373128663045,
+                "id_str": "1018615373128663045",
+                "indices": [
+                    112,
+                    119
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/bfZ8kE9P5v",
+                "expanded_url": "https://youtu.be/N-galP5Lwvk",
+                "display_url": "youtu.be/N-galP5Lwvk",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 717456386238623744,
+        "id_str": "717456386238623744",
+        "name": "Ruth Esther Avenda\u00f1o",
+        "screen_name": "Vivanuestragent",
+        "location": "Peru",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 23,
+        "friends_count": 46,
+        "listed_count": 0,
+        "created_at": "Tue Apr 05 20:58:27 +0000 2016",
+        "favourites_count": 502,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2002,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/924028142964101125/X-KRTqiM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/924028142964101125/X-KRTqiM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/717456386238623744/1509140373",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

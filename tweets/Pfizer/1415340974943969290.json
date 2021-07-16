@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 16:02:38 +0000 2021",
+    "id": 1415340974943969290,
+    "id_str": "1415340974943969290",
+    "full_text": "RT @Vinglada: Buenos d\u00edas \u00a1 \ud83d\ude03\ud83e\udd17 Libert\u00e9 ,  \u00c9galit\u00e9, Fraternit\u00e9  y  mi dosis de Pfizer \ud83d\ude00\ud83d\ude37\ud83e\udd70",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Vinglada",
+                "name": "Vicente Inglada",
+                "id": 147890663,
+                "id_str": "147890663",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1584721434,
+        "id_str": "1584721434",
+        "name": "JuanCarlosDeManuel",
+        "screen_name": "juancdemanuel",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 358,
+        "friends_count": 345,
+        "listed_count": 28,
+        "created_at": "Thu Jul 11 04:00:21 +0000 2013",
+        "favourites_count": 25804,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31516,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/703427035771879424/hWXpXvPa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/703427035771879424/hWXpXvPa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584721434/1456545647",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 05:37:07 +0000 2021",
+        "id": 1415183556192702464,
+        "id_str": "1415183556192702464",
+        "full_text": "Buenos d\u00edas \u00a1 \ud83d\ude03\ud83e\udd17 Libert\u00e9 ,  \u00c9galit\u00e9, Fraternit\u00e9  y  mi dosis de Pfizer \ud83d\ude00\ud83d\ude37\ud83e\udd70",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            74
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 147890663,
+            "id_str": "147890663",
+            "name": "Vicente Inglada",
+            "screen_name": "Vinglada",
+            "location": "Valencia",
+            "description": "Fil\u00f3logo y especialista en L2  Reivindico la #participaci\u00f3n y el #asociacionismo para transformar la sociedad. Secretario de @ucvalencia y soy d @SI_PV #Consumo",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3937,
+            "friends_count": 4848,
+            "listed_count": 56,
+            "created_at": "Tue May 25 09:12:11 +0000 2010",
+            "favourites_count": 13517,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 26136,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1378315567636094976/_vIgU9HJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378315567636094976/_vIgU9HJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/147890663/1547049577",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 17,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

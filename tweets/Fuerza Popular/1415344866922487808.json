@@ -1,0 +1,241 @@
+{
+    "created_at": "Wed Jul 14 16:18:06 +0000 2021",
+    "id": 1415344866922487808,
+    "id_str": "1415344866922487808",
+    "full_text": "RT @jsudaka: Jos\u00e9 Naupari: \u201cUn juez constitucional no puede anular una elecci\u00f3n porque no es su competencia\u201d | Entrevista https://t.co/YpTR\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jsudaka",
+                "name": "\ud83d\udcf0 Jonathan Castro \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "id": 16476939,
+                "id_str": "16476939",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 55418560,
+        "id_str": "55418560",
+        "name": "Adriana Le\u00f3n",
+        "screen_name": "aleonca",
+        "location": "Lima - Per\u00fa",
+        "description": "Periodista de #IPYS.  Corresponsal en Per\u00fa para #LATimes. #KOTrainer en #KOUrbanDetoxCenter",
+        "url": "https://t.co/iN24tbqhFD",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/iN24tbqhFD",
+                        "expanded_url": "http://www.ipys.org/",
+                        "display_url": "ipys.org",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 17325,
+        "friends_count": 1781,
+        "listed_count": 206,
+        "created_at": "Fri Jul 10 00:48:48 +0000 2009",
+        "favourites_count": 10362,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27511,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1285932911187959810/jWgVtdQt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285932911187959810/jWgVtdQt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55418560/1513481789",
+        "profile_link_color": "4D8394",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "473F66",
+        "profile_text_color": "87966F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:24:11 +0000 2021",
+        "id": 1415331298286129154,
+        "id_str": "1415331298286129154",
+        "full_text": "Jos\u00e9 Naupari: \u201cUn juez constitucional no puede anular una elecci\u00f3n porque no es su competencia\u201d | Entrevista https://t.co/YpTRKmdDCb via @elcomercio_peru",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "elcomercio_peru",
+                    "name": "El Comercio",
+                    "id": 233033221,
+                    "id_str": "233033221",
+                    "indices": [
+                        137,
+                        153
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/YpTRKmdDCb",
+                    "expanded_url": "https://elcomercio.pe/elecciones-2021/jose-naupari-un-juez-constitucional-no-puede-anular-una-eleccion-diciendo-que-hubo-fraude-porque-no-es-su-competencia-entrevista-fuerza-popular-peru-libre-pedro-castillo-keiko-fujimori-segunda-vuelta-noticia/",
+                    "display_url": "elcomercio.pe/elecciones-202\u2026",
+                    "indices": [
+                        109,
+                        132
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 16476939,
+            "id_str": "16476939",
+            "name": "\ud83d\udcf0 Jonathan Castro \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+            "screen_name": "jsudaka",
+            "location": "La Victoria, Peru",
+            "description": "Reportero de pol\u00edtica en @elcomercio_peru. A veces colaboro con @postopinion_es. DMs abiertos. / PGP https://t.co/Qgnn49KKLY",
+            "url": "https://t.co/4xci3U83X3",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4xci3U83X3",
+                            "expanded_url": "https://bit.ly/2KPwXgc",
+                            "display_url": "bit.ly/2KPwXgc",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Qgnn49KKLY",
+                            "expanded_url": "http://bit.ly/jsudaka",
+                            "display_url": "bit.ly/jsudaka",
+                            "indices": [
+                                101,
+                                124
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 32744,
+            "friends_count": 3005,
+            "listed_count": 251,
+            "created_at": "Fri Sep 26 23:22:28 +0000 2008",
+            "favourites_count": 12938,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 70930,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1398025995123372034/XKTOoRjf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398025995123372034/XKTOoRjf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16476939/1605447103",
+            "profile_link_color": "2F2C2D",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 27,
+        "favorite_count": 51,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

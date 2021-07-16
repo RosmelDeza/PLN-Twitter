@@ -1,0 +1,218 @@
+{
+    "created_at": "Wed Jul 14 16:09:48 +0000 2021",
+    "id": 1415342776963805189,
+    "id_str": "1415342776963805189",
+    "full_text": "RT @PrensaDelBanano: 76.050 dosis de Pfizer arribaron al aeropuerto Mariscal Sucre este martes 13 de\u00a0julio https://t.co/EoMqMddHCl",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        130
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PrensaDelBanano",
+                "name": "Rep\u00fablica Del Banano",
+                "id": 942510748630245376,
+                "id_str": "942510748630245376",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/EoMqMddHCl",
+                "expanded_url": "http://republicadelbanano.com/2021/07/14/76-050-dosis-de-pfizer-arribaron-al-aeropuerto-mariscal-sucre-este-martes-13-de-julio/",
+                "display_url": "republicadelbanano.com/2021/07/14/76-\u2026",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 979605696,
+        "id_str": "979605696",
+        "name": "Michele Martinez",
+        "screen_name": "mipolina",
+        "location": "Quito - Ecuador",
+        "description": "Abogada. Procesalista. Autodidacta. Procuro aprender nuevos temas y conocer gente diversa. Las ideologias limitan el pensamiento.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1022,
+        "friends_count": 1269,
+        "listed_count": 5,
+        "created_at": "Fri Nov 30 02:49:39 +0000 2012",
+        "favourites_count": 14245,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 71751,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1297293068576620545/QUlyv4iQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297293068576620545/QUlyv4iQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/979605696/1519617183",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:22:16 +0000 2021",
+        "id": 1415330814053818372,
+        "id_str": "1415330814053818372",
+        "full_text": "76.050 dosis de Pfizer arribaron al aeropuerto Mariscal Sucre este martes 13 de\u00a0julio https://t.co/EoMqMddHCl",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            109
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/EoMqMddHCl",
+                    "expanded_url": "http://republicadelbanano.com/2021/07/14/76-050-dosis-de-pfizer-arribaron-al-aeropuerto-mariscal-sucre-este-martes-13-de-julio/",
+                    "display_url": "republicadelbanano.com/2021/07/14/76-\u2026",
+                    "indices": [
+                        86,
+                        109
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 942510748630245376,
+            "id_str": "942510748630245376",
+            "name": "Rep\u00fablica Del Banano",
+            "screen_name": "PrensaDelBanano",
+            "location": "Ecuador",
+            "description": "La noticia con car\u00e1cter de Ecuador.",
+            "url": "https://t.co/j2lpWjz9Ze",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/j2lpWjz9Ze",
+                            "expanded_url": "http://www.RepublicaDelBanano.com",
+                            "display_url": "RepublicaDelBanano.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 17218,
+            "friends_count": 7329,
+            "listed_count": 37,
+            "created_at": "Sun Dec 17 21:44:08 +0000 2017",
+            "favourites_count": 3710,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 5259,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1077067072193130496/PNmmjPdZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077067072193130496/PNmmjPdZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/942510748630245376/1519268245",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

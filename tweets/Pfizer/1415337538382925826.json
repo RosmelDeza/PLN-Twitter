@@ -1,0 +1,190 @@
+{
+    "created_at": "Wed Jul 14 15:48:59 +0000 2021",
+    "id": 1415337538382925826,
+    "id_str": "1415337538382925826",
+    "full_text": "RT @luisantonio_r: Ya va la 4ta persona que me escribe para preguntarme d\u00f3nde est\u00e1n poniendo la Pfizer. Ganas de responder \"no preguntes h.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "luisantonio_r",
+                "name": "Luis Antonio Ruiz",
+                "id": 161814182,
+                "id_str": "161814182",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 560081520,
+        "id_str": "560081520",
+        "name": "flavio cardenas",
+        "screen_name": "CardenasFlavio",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 27,
+        "listed_count": 0,
+        "created_at": "Sun Apr 22 02:17:27 +0000 2012",
+        "favourites_count": 4579,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4298,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2154966664/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2154966664/image_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 18:20:12 +0000 2021",
+        "id": 1415013205638852609,
+        "id_str": "1415013205638852609",
+        "full_text": "Ya va la 4ta persona que me escribe para preguntarme d\u00f3nde est\u00e1n poniendo la Pfizer. Ganas de responder \"no preguntes h......s\". #VacunateYa",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "VacunateYa",
+                    "indices": [
+                        129,
+                        140
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 161814182,
+            "id_str": "161814182",
+            "name": "Luis Antonio Ruiz",
+            "screen_name": "luisantonio_r",
+            "location": "Guayaquil, Ecuador",
+            "description": "Sobreviviente. Hijo de la Misericordia de Dios",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 117206,
+            "friends_count": 695,
+            "listed_count": 198,
+            "created_at": "Thu Jul 01 21:20:32 +0000 2010",
+            "favourites_count": 12936,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 45659,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1357306720775766019/qJ0Wbgh8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357306720775766019/qJ0Wbgh8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/161814182/1603073431",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 150,
+        "favorite_count": 1286,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 150,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,218 @@
+{
+    "created_at": "Wed Jul 14 16:22:23 +0000 2021",
+    "id": 1415345943717847041,
+    "id_str": "1415345943717847041",
+    "full_text": "RT @kikevertientes: Ecuador recibe nuevo lote con 76.050 vacunas de Pfizer https://t.co/2kuzAqSM62",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        98
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kikevertientes",
+                "name": "Kike Perdomo\ud83c\udde8\ud83c\uddfa\ud83c\uddea\ud83c\udde8",
+                "id": 102267225,
+                "id_str": "102267225",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/2kuzAqSM62",
+                "expanded_url": "http://dlvr.it/S3jtxt",
+                "display_url": "dlvr.it/S3jtxt",
+                "indices": [
+                    75,
+                    98
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1216021089324879873,
+        "id_str": "1216021089324879873",
+        "name": "der F\u00fchrer",
+        "screen_name": "santhyfaby",
+        "location": "Riobamba",
+        "description": "Perfil dedicado al regreso a las clases presenciales.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 77,
+        "friends_count": 364,
+        "listed_count": 0,
+        "created_at": "Sat Jan 11 15:36:45 +0000 2020",
+        "favourites_count": 20705,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9340,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1356119751777509379/BihYV6fP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356119751777509379/BihYV6fP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1216021089324879873/1618509795",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:09:05 +0000 2021",
+        "id": 1415342598575714305,
+        "id_str": "1415342598575714305",
+        "full_text": "Ecuador recibe nuevo lote con 76.050 vacunas de Pfizer https://t.co/2kuzAqSM62",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            78
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/2kuzAqSM62",
+                    "expanded_url": "http://dlvr.it/S3jtxt",
+                    "display_url": "dlvr.it/S3jtxt",
+                    "indices": [
+                        55,
+                        78
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 102267225,
+            "id_str": "102267225",
+            "name": "Kike Perdomo\ud83c\udde8\ud83c\uddfa\ud83c\uddea\ud83c\udde8",
+            "screen_name": "kikevertientes",
+            "location": "Bolivar, Ecuador",
+            "description": "Periodista cubano radicado en Ecuador. Corresponsal de El Diario manabita y del blog Cuba Trendings. Radialista apasionado y tuitero a deshora. Jn 8,32",
+            "url": "https://t.co/Cr28TvEPhx",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Cr28TvEPhx",
+                            "expanded_url": "https://open.spotify.com/show/1duW7i8hR6lnvUlxMllwU5?si=XzbUMUzgS9-lx1-o2P9MGA",
+                            "display_url": "open.spotify.com/show/1duW7i8hR\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1006,
+            "friends_count": 1111,
+            "listed_count": 23,
+            "created_at": "Wed Jan 06 04:09:53 +0000 2010",
+            "favourites_count": 4353,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38322,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1365006542404280323/PruVUh9E_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365006542404280323/PruVUh9E_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/102267225/1618787563",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

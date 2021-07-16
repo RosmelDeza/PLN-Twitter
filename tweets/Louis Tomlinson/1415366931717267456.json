@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 17:45:47 +0000 2021",
+    "id": 1415366931717267456,
+    "id_str": "1415366931717267456",
+    "full_text": "RT @hslovs1: perdi mi otra cuenta :( \nbusco mutuals, staneo a harry styles, louis tomlinson, zayn malik y olivia rodrigo&lt;3\ud83d\udc90",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        126
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "hslovs1",
+                "name": "harry te amo",
+                "id": 1415358206256291849,
+                "id_str": "1415358206256291849",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1377650222344646659,
+        "id_str": "1377650222344646659",
+        "name": "Melii; HS3 IS COMING",
+        "screen_name": "iLOUISBESTIE94",
+        "location": "phh y lhl mios",
+        "description": "# for harry and louis | fan account",
+        "url": "https://t.co/hjkHtVluAv",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/hjkHtVluAv",
+                        "expanded_url": "https://louis.xn--jhfz3g/",
+                        "display_url": "louis.\u196b\u1b61",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 184,
+        "friends_count": 294,
+        "listed_count": 0,
+        "created_at": "Thu Apr 01 15:54:35 +0000 2021",
+        "favourites_count": 7911,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3177,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415050902180974598/trYc2KwP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415050902180974598/trYc2KwP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1377650222344646659/1626209228",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:21:46 +0000 2021",
+        "id": 1415360886915674118,
+        "id_str": "1415360886915674118",
+        "full_text": "perdi mi otra cuenta :( \nbusco mutuals, staneo a harry styles, louis tomlinson, zayn malik y olivia rodrigo&lt;3\ud83d\udc90",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            113
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1415358206256291849,
+            "id_str": "1415358206256291849",
+            "name": "la mejor harrie",
+            "screen_name": "hslovs1",
+            "location": "",
+            "description": "louis y harry stan | she/her",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 19,
+            "friends_count": 61,
+            "listed_count": 0,
+            "created_at": "Wed Jul 14 17:11:28 +0000 2021",
+            "favourites_count": 17,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415358462784122886/SwIJObd4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415358462784122886/SwIJObd4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415358206256291849/1626283446",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

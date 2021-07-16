@@ -1,0 +1,195 @@
+{
+    "created_at": "Wed Jul 14 16:30:54 +0000 2021",
+    "id": 1415348087267147783,
+    "id_str": "1415348087267147783",
+    "full_text": "RT @FriasBarbara: Dra Iris Cardon..Si ese centenar de ni\u00f1os menores de 12 a\u00f1os vacunados por error con l\na Pfizer fueran sus hijos no dir\u00eda\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FriasBarbara",
+                "name": "Barbara Frias",
+                "id": 394706660,
+                "id_str": "394706660",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 77746129,
+        "id_str": "77746129",
+        "name": "Prof. C. E. Mart\u00ednez",
+        "screen_name": "profcemartinez",
+        "location": "Caguas, Puerto Rico",
+        "description": "Maestr\u00eda en Educaci\u00f3n con concentraci\u00f3n en Tecnolog\u00eda Educativa y Matem\u00e1ticas",
+        "url": "http://t.co/2MUNcysn1Q",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/2MUNcysn1Q",
+                        "expanded_url": "http://www.mathboot.com",
+                        "display_url": "mathboot.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 158,
+        "friends_count": 395,
+        "listed_count": 0,
+        "created_at": "Sun Sep 27 14:26:54 +0000 2009",
+        "favourites_count": 5146,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1354,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1101783413449728000/5XKr3ZiA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101783413449728000/5XKr3ZiA_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 19:54:10 +0000 2021",
+        "id": 1415036854613729280,
+        "id_str": "1415036854613729280",
+        "full_text": "Dra Iris Cardon..Si ese centenar de ni\u00f1os menores de 12 a\u00f1os vacunados por error con l\na Pfizer fueran sus hijos no dir\u00eda \"q no fue una eventualidad grave, pues ya se estaba ensayando la vacuna con esa edad\" Aqui fue un error, no un \"ensayo\" con  consecuencias a esa edad por ver",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 394706660,
+            "id_str": "394706660",
+            "name": "Barbara Frias",
+            "screen_name": "FriasBarbara",
+            "location": "Puerto Rico, USA",
+            "description": "Tiro deportivo\nKarate-2\nAlimentacion Epigenetica\nHIIT & CIRCUIT",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1313,
+            "friends_count": 1434,
+            "listed_count": 2,
+            "created_at": "Thu Oct 20 14:10:53 +0000 2011",
+            "favourites_count": 8132,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9144,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1402745956110684168/2cJ_HfCh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402745956110684168/2cJ_HfCh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/394706660/1587979890",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:08:20 +0000 2021",
+    "id": 1415357506604441601,
+    "id_str": "1415357506604441601",
+    "full_text": "@VeroLinaresC Porque Fuerza Popular y Keiko Fujimori, odian al Per\u00fa.",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        68
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VeroLinaresC",
+                "name": "Ver\u00f3nica Linares",
+                "id": 131331924,
+                "id_str": "131331924",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415312983325036544,
+    "in_reply_to_status_id_str": "1415312983325036544",
+    "in_reply_to_user_id": 131331924,
+    "in_reply_to_user_id_str": "131331924",
+    "in_reply_to_screen_name": "VeroLinaresC",
+    "user": {
+        "id": 130186383,
+        "id_str": "130186383",
+        "name": "oscar mongrut",
+        "screen_name": "oscarmongrut",
+        "location": "Lima, Peru",
+        "description": "Soy especialista en Inform\u00e1tica. Construyo puentes y carreteras. Disfruto del d\u00eda a d\u00eda pol\u00edtico",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 240,
+        "friends_count": 847,
+        "listed_count": 0,
+        "created_at": "Tue Apr 06 15:38:02 +0000 2010",
+        "favourites_count": 23622,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11807,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1314953413482946562/xaKqk_cm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314953413482946562/xaKqk_cm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130186383/1429873504",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

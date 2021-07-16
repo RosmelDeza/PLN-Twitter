@@ -1,0 +1,202 @@
+{
+    "created_at": "Wed Jul 14 16:30:53 +0000 2021",
+    "id": 1415348083148435467,
+    "id_str": "1415348083148435467",
+    "full_text": "RT @mcristinafari: @IvanDuque No hay garant\u00eda para la 2 dosis de Pfizer.\nUstedes saben que el tiempo es de 21 dias y ustedes la ponen para\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mcristinafari",
+                "name": "Maria Cristina Fari",
+                "id": 1299013400534691840,
+                "id_str": "1299013400534691840",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "IvanDuque",
+                "name": "Iv\u00e1n Duque \ud83c\udde8\ud83c\uddf4",
+                "id": 77653794,
+                "id_str": "77653794",
+                "indices": [
+                    19,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2262335065,
+        "id_str": "2262335065",
+        "name": "rex",
+        "screen_name": "PochoGamboa",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 200,
+        "friends_count": 326,
+        "listed_count": 0,
+        "created_at": "Thu Dec 26 04:52:03 +0000 2013",
+        "favourites_count": 14561,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 44101,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085965197880320000/rVV6Qcoy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085965197880320000/rVV6Qcoy_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:39:23 +0000 2021",
+        "id": 1415335121473974279,
+        "id_str": "1415335121473974279",
+        "full_text": "@IvanDuque No hay garant\u00eda para la 2 dosis de Pfizer.\nUstedes saben que el tiempo es de 21 dias y ustedes la ponen para 2 meses despu\u00e9s.\n\u00bfPor qu\u00e9?  Necesitamos una soluci\u00f3n a esta situaci\u00f3n.",
+        "truncated": false,
+        "display_text_range": [
+            11,
+            190
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "IvanDuque",
+                    "name": "Iv\u00e1n Duque \ud83c\udde8\ud83c\uddf4",
+                    "id": 77653794,
+                    "id_str": "77653794",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415317723429605380,
+        "in_reply_to_status_id_str": "1415317723429605380",
+        "in_reply_to_user_id": 77653794,
+        "in_reply_to_user_id_str": "77653794",
+        "in_reply_to_screen_name": "IvanDuque",
+        "user": {
+            "id": 1299013400534691840,
+            "id_str": "1299013400534691840",
+            "name": "Maria Cristina Fari",
+            "screen_name": "mcristinafari",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 82,
+            "friends_count": 171,
+            "listed_count": 0,
+            "created_at": "Thu Aug 27 15:58:52 +0000 2020",
+            "favourites_count": 32167,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 16173,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1393775111711428611/c4sRQ3gd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393775111711428611/c4sRQ3gd_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

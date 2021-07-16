@@ -1,0 +1,282 @@
+{
+    "created_at": "Wed Jul 14 17:37:23 +0000 2021",
+    "id": 1415364819868389378,
+    "id_str": "1415364819868389378",
+    "full_text": "RT @oJennyRo: [ E S C U C H A ] \ud83c\udfa7 #Podcast \ud83c\uddf5\ud83c\uddea\n\ud83d\udd0a #LaEncerrona tu mini #noticiero en pandemia \n\n\ud83d\udde3\ufe0f Fuerza Popular acepta que no puede voltear\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Podcast",
+                "indices": [
+                    34,
+                    42
+                ]
+            },
+            {
+                "text": "LaEncerrona",
+                "indices": [
+                    48,
+                    60
+                ]
+            },
+            {
+                "text": "noticiero",
+                "indices": [
+                    69,
+                    79
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "oJennyRo",
+                "name": "\ud83c\uddf5\ud83c\uddea Jenny Ramirez P.",
+                "id": 46817005,
+                "id_str": "46817005",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 64545066,
+        "id_str": "64545066",
+        "name": "Marco Rodas",
+        "screen_name": "marcorodas",
+        "location": "",
+        "description": "Ingeniero Inform\u00e1tico. Amante de la ciencia y la naturaleza. Enamorado de las estrellas. Decidido a encontrar la verdad detr\u00e1s de cada acontecimiento.",
+        "url": "https://t.co/FyYkLWpXAn",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/FyYkLWpXAn",
+                        "expanded_url": "http://as-supportpe.com",
+                        "display_url": "as-supportpe.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 68,
+        "friends_count": 177,
+        "listed_count": 0,
+        "created_at": "Mon Aug 10 23:07:17 +0000 2009",
+        "favourites_count": 4950,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3093,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1329243271281995776/y2AN77bu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329243271281995776/y2AN77bu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64545066/1622957367",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:44:31 +0000 2021",
+        "id": 1415321315167375366,
+        "id_str": "1415321315167375366",
+        "full_text": "[ E S C U C H A ] \ud83c\udfa7 #Podcast \ud83c\uddf5\ud83c\uddea\n\ud83d\udd0a #LaEncerrona tu mini #noticiero en pandemia \n\n\ud83d\udde3\ufe0f Fuerza Popular acepta que no puede voltear los resultados, PERO ...\n\n\ud83c\udf99\ufe0fMarco Sifuentes @ocram\n\n\ud83d\udcbb\ud83d\udcf2 #Spotify \ud83c\udfa7 \n\nhttps://t.co/dJrKl3xXbX",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            217
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Podcast",
+                    "indices": [
+                        20,
+                        28
+                    ]
+                },
+                {
+                    "text": "LaEncerrona",
+                    "indices": [
+                        34,
+                        46
+                    ]
+                },
+                {
+                    "text": "noticiero",
+                    "indices": [
+                        55,
+                        65
+                    ]
+                },
+                {
+                    "text": "Spotify",
+                    "indices": [
+                        181,
+                        189
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ocram",
+                    "name": "\ud83c\udf49 Marco Sifuentes",
+                    "id": 3369151,
+                    "id_str": "3369151",
+                    "indices": [
+                        170,
+                        176
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/dJrKl3xXbX",
+                    "expanded_url": "https://open.spotify.com/episode/3qsgG9AGqXvo3GTis95YQR?si=qKa_4PLnQZ6Ow15_lN5BUQ&dl_branch=1",
+                    "display_url": "open.spotify.com/episode/3qsgG9\u2026",
+                    "indices": [
+                        194,
+                        217
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 46817005,
+            "id_str": "46817005",
+            "name": "\ud83c\uddf5\ud83c\uddea Jenny Ramirez P.",
+            "screen_name": "oJennyRo",
+            "location": "Lima, Peru",
+            "description": "Gestionando contenidos\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb\ud83d\udcf2bien informados\nMaestra de ccss, blogger, \ud83d\udcf8 afic, m\u00fasico percusionista de caj\u00f3n, voluntaria y EducadoraVial\nTe leo y respeto\ud83d\ude0a",
+            "url": "https://t.co/9ZH9z1lqzN",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9ZH9z1lqzN",
+                            "expanded_url": "https://www.instagram.com/jennyramirezp/",
+                            "display_url": "instagram.com/jennyramirezp/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1656,
+            "friends_count": 4530,
+            "listed_count": 28,
+            "created_at": "Sat Jun 13 03:33:42 +0000 2009",
+            "favourites_count": 51632,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 44902,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407550464653201410/rm7qFuv4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407550464653201410/rm7qFuv4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/46817005/1604248686",
+            "profile_link_color": "557700",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "290B26",
+            "profile_text_color": "E687A7",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

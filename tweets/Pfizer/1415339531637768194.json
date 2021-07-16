@@ -1,0 +1,237 @@
+{
+    "created_at": "Wed Jul 14 15:56:54 +0000 2021",
+    "id": 1415339531637768194,
+    "id_str": "1415339531637768194",
+    "full_text": "RT @meganoticiascl: \ud83d\udd34 Lleg\u00f3 a Chile nuevo cargamento de vacunas Pfizer\n\nhttps://t.co/XftLqbT92G",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        95
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "meganoticiascl",
+                "name": "Meganoticias",
+                "id": 58048133,
+                "id_str": "58048133",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/XftLqbT92G",
+                "expanded_url": "https://www.meganoticias.cl/nacional/343882-llego-a-chile-nuevo-cargamento-de-vacunas-pfizer-14-07-2021.html",
+                "display_url": "meganoticias.cl/nacional/34388\u2026",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1223716603986169858,
+        "id_str": "1223716603986169858",
+        "name": "Mari",
+        "screen_name": "Mari07124675",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 323,
+        "friends_count": 845,
+        "listed_count": 0,
+        "created_at": "Sat Feb 01 21:16:02 +0000 2020",
+        "favourites_count": 35597,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24560,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247893252352569344/6R2yl-XI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247893252352569344/6R2yl-XI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223716603986169858/1586356337",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:47:38 +0000 2021",
+        "id": 1415322099808444422,
+        "id_str": "1415322099808444422",
+        "full_text": "\ud83d\udd34 Lleg\u00f3 a Chile nuevo cargamento de vacunas Pfizer\n\nhttps://t.co/XftLqbT92G",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            75
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/XftLqbT92G",
+                    "expanded_url": "https://www.meganoticias.cl/nacional/343882-llego-a-chile-nuevo-cargamento-de-vacunas-pfizer-14-07-2021.html",
+                    "display_url": "meganoticias.cl/nacional/34388\u2026",
+                    "indices": [
+                        52,
+                        75
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 58048133,
+            "id_str": "58048133",
+            "name": "Meganoticias",
+            "screen_name": "meganoticiascl",
+            "location": "Chile",
+            "description": "Mantente informado al instante en https://t.co/gRKr7Kx9yX \u00danete a nuestra comunidad de Facebook: https://t.co/Pv7WTG76d9",
+            "url": "https://t.co/C3lgislteA",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/C3lgislteA",
+                            "expanded_url": "http://www.meganoticias.cl",
+                            "display_url": "meganoticias.cl",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/gRKr7Kx9yX",
+                            "expanded_url": "http://Meganoticias.cl",
+                            "display_url": "Meganoticias.cl",
+                            "indices": [
+                                34,
+                                57
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/Pv7WTG76d9",
+                            "expanded_url": "http://bit.ly/2JkAymD",
+                            "display_url": "bit.ly/2JkAymD",
+                            "indices": [
+                                97,
+                                120
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1750900,
+            "friends_count": 1761,
+            "listed_count": 2659,
+            "created_at": "Sat Jul 18 22:23:30 +0000 2009",
+            "favourites_count": 1808,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 584635,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1148245378996813825/5fifZtEj_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148245378996813825/5fifZtEj_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/58048133/1594330482",
+            "profile_link_color": "39B096",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 65,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

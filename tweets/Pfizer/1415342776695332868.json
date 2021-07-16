@@ -1,0 +1,347 @@
+{
+    "created_at": "Wed Jul 14 16:09:48 +0000 2021",
+    "id": 1415342776695332868,
+    "id_str": "1415342776695332868",
+    "full_text": "RT @ministeriosalud: \ud83d\udeec \u00a1Llegaron m\u00e1s vacunas contra #COVID_19!\n\nEsta ma\u00f1ana recibimos 88.920 nuevas dosis de la vacuna de Pfizer-BioNTech c\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID_19",
+                "indices": [
+                    52,
+                    61
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ministeriosalud",
+                "name": "Ministerio de Salud",
+                "id": 153825949,
+                "id_str": "153825949",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 528837041,
+        "id_str": "528837041",
+        "name": "Hospital de La Serena",
+        "screen_name": "HospitalSerena",
+        "location": "La Serena, Chile ",
+        "description": "El primer hospital de Chile construido en regiones. Recuperamos su salud con calidad, eficiencia y compromiso\u2764\ufe0f\u00a1Establecimiento acreditado!\ud83c\udfe5",
+        "url": "https://t.co/EPOHlDjY7S",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/EPOHlDjY7S",
+                        "expanded_url": "http://www.hospitalserena.cl",
+                        "display_url": "hospitalserena.cl",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6766,
+        "friends_count": 624,
+        "listed_count": 23,
+        "created_at": "Sun Mar 18 20:48:48 +0000 2012",
+        "favourites_count": 2768,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3812,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FCFDFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1274364845710770176/OiBOkl21_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1274364845710770176/OiBOkl21_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/528837041/1600189992",
+        "profile_link_color": "44A1BD",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:10:02 +0000 2021",
+        "id": 1415297536735252484,
+        "id_str": "1415297536735252484",
+        "full_text": "\ud83d\udeec \u00a1Llegaron m\u00e1s vacunas contra #COVID_19!\n\nEsta ma\u00f1ana recibimos 88.920 nuevas dosis de la vacuna de Pfizer-BioNTech contra #COVID_19. Con este cargamento se superan los 26 millones de dosis ingresadas al pa\u00eds para continuar con la campa\u00f1a de vacunaci\u00f3n masiva #YoMeVacuno\u270c\ufe0f https://t.co/kfBzipJzoj",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID_19",
+                    "indices": [
+                        31,
+                        40
+                    ]
+                },
+                {
+                    "text": "COVID_19",
+                    "indices": [
+                        124,
+                        133
+                    ]
+                },
+                {
+                    "text": "YoMeVacuno",
+                    "indices": [
+                        261,
+                        272
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415297244409040901,
+                    "id_str": "1415297244409040901",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415297244409040901/img/8ttG4K4j-68vQvsb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415297244409040901/img/8ttG4K4j-68vQvsb.jpg",
+                    "url": "https://t.co/kfBzipJzoj",
+                    "display_url": "pic.twitter.com/kfBzipJzoj",
+                    "expanded_url": "https://twitter.com/ministeriosalud/status/1415297536735252484/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415297244409040901,
+                    "id_str": "1415297244409040901",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415297244409040901/img/8ttG4K4j-68vQvsb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415297244409040901/img/8ttG4K4j-68vQvsb.jpg",
+                    "url": "https://t.co/kfBzipJzoj",
+                    "display_url": "pic.twitter.com/kfBzipJzoj",
+                    "expanded_url": "https://twitter.com/ministeriosalud/status/1415297536735252484/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            20,
+                            11
+                        ],
+                        "duration_millis": 86287,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415297244409040901/vid/640x352/JYIE3tbSGRBQimJo.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415297244409040901/vid/490x270/PfMAbH16QMiHGGM9.mp4?tag=14"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1415297244409040901/pl/2t0Nl7PLvh78ESWY.m3u8?tag=14"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 153825949,
+            "id_str": "153825949",
+            "name": "Ministerio de Salud",
+            "screen_name": "ministeriosalud",
+            "location": "Chile",
+            "description": "Cuenta oficial del Ministerio de Salud del @GobiernoDeChile. Ministro @DrEnriqueParis. Subsec Salud P\u00fablica @pdazan. Subsec Redes Asistenciales @AlbertoDougnac",
+            "url": "https://t.co/nvmZqECuuN",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/nvmZqECuuN",
+                            "expanded_url": "http://www.minsal.cl",
+                            "display_url": "minsal.cl",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 626520,
+            "friends_count": 2391,
+            "listed_count": 1111,
+            "created_at": "Wed Jun 09 16:38:56 +0000 2010",
+            "favourites_count": 26909,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 73461,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "E5E5E5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409839927085486081/i4_xVo8u_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409839927085486081/i4_xVo8u_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/153825949/1615306933",
+            "profile_link_color": "0069AB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 85,
+        "favorite_count": 213,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 85,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

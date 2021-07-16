@@ -1,0 +1,393 @@
+{
+    "created_at": "Wed Jul 14 15:53:30 +0000 2021",
+    "id": 1415338675647483905,
+    "id_str": "1415338675647483905",
+    "full_text": "RT @USAenEspanol: Secretario Blinken: Hemos entregado 500,000 dosis de la vacuna Pfizer a nuestros amigos y socios en Costa Rica. Estoy org\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "USAenEspanol",
+                "name": "USA en Espa\u00f1ol",
+                "id": 252176459,
+                "id_str": "252176459",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 71742338,
+        "id_str": "71742338",
+        "name": "Juan Carlos Soto",
+        "screen_name": "SotoNavarro_Arq",
+        "location": "Le\u00f3n, Guanajuato",
+        "description": "Arquitecto",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 32,
+        "friends_count": 253,
+        "listed_count": 0,
+        "created_at": "Sat Sep 05 06:18:58 +0000 2009",
+        "favourites_count": 2098,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1239,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1332584235757039618/umO64Rv5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332584235757039618/umO64Rv5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/71742338/1584910563",
+        "profile_link_color": "34BA69",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "D1BB94",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:46:20 +0000 2021",
+        "id": 1415306671598063616,
+        "id_str": "1415306671598063616",
+        "full_text": "Secretario Blinken: Hemos entregado 500,000 dosis de la vacuna Pfizer a nuestros amigos y socios en Costa Rica. Estoy orgulloso de que ahora podemos proporcionar vacunas al pueblo costarricense y ayudar a salvar vidas. https://t.co/kTgvC6Y1eo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            218
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415306670163599363,
+                    "id_str": "1415306670163599363",
+                    "indices": [
+                        219,
+                        242
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Qt6vtXoAMw794.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Qt6vtXoAMw794.jpg",
+                    "url": "https://t.co/kTgvC6Y1eo",
+                    "display_url": "pic.twitter.com/kTgvC6Y1eo",
+                    "expanded_url": "https://twitter.com/USAenEspanol/status/1415306671598063616/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415306670163599363,
+                    "id_str": "1415306670163599363",
+                    "indices": [
+                        219,
+                        242
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Qt6vtXoAMw794.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Qt6vtXoAMw794.jpg",
+                    "url": "https://t.co/kTgvC6Y1eo",
+                    "display_url": "pic.twitter.com/kTgvC6Y1eo",
+                    "expanded_url": "https://twitter.com/USAenEspanol/status/1415306671598063616/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415306670515838986,
+                    "id_str": "1415306670515838986",
+                    "indices": [
+                        219,
+                        242
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Qt6xBWYAobX-Z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Qt6xBWYAobX-Z.jpg",
+                    "url": "https://t.co/kTgvC6Y1eo",
+                    "display_url": "pic.twitter.com/kTgvC6Y1eo",
+                    "expanded_url": "https://twitter.com/USAenEspanol/status/1415306671598063616/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415306670318759937,
+                    "id_str": "1415306670318759937",
+                    "indices": [
+                        219,
+                        242
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Qt6wSXMAE_e7E.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Qt6wSXMAE_e7E.jpg",
+                    "url": "https://t.co/kTgvC6Y1eo",
+                    "display_url": "pic.twitter.com/kTgvC6Y1eo",
+                    "expanded_url": "https://twitter.com/USAenEspanol/status/1415306671598063616/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415306670432047104,
+                    "id_str": "1415306670432047104",
+                    "indices": [
+                        219,
+                        242
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Qt6wtX0AA-5Xb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Qt6wtX0AA-5Xb.jpg",
+                    "url": "https://t.co/kTgvC6Y1eo",
+                    "display_url": "pic.twitter.com/kTgvC6Y1eo",
+                    "expanded_url": "https://twitter.com/USAenEspanol/status/1415306671598063616/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 360,
+                            "h": 203,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 252176459,
+            "id_str": "252176459",
+            "name": "USA en Espa\u00f1ol",
+            "screen_name": "USAenEspanol",
+            "location": "",
+            "description": "Cuenta oficial del Departamento de Estado de EE.UU. en espa\u00f1ol. Tambi\u00e9n encu\u00e9ntranos en https://t.co/KaEZX9WgGc",
+            "url": "https://t.co/KaEZX9WgGc",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/KaEZX9WgGc",
+                            "expanded_url": "https://www.state.gov/translations/spanish/",
+                            "display_url": "state.gov/translations/s\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/KaEZX9WgGc",
+                            "expanded_url": "https://www.state.gov/translations/spanish/",
+                            "display_url": "state.gov/translations/s\u2026",
+                            "indices": [
+                                88,
+                                111
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 367017,
+            "friends_count": 161,
+            "listed_count": 1704,
+            "created_at": "Mon Feb 14 17:08:23 +0000 2011",
+            "favourites_count": 667,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 30137,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "154470",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1361792578765664262/KP4q6W2E_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361792578765664262/KP4q6W2E_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/252176459/1611162358",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DEDACB",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 38,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

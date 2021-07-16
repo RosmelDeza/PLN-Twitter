@@ -1,0 +1,291 @@
+{
+    "created_at": "Wed Jul 14 16:40:58 +0000 2021",
+    "id": 1415350619284676609,
+    "id_str": "1415350619284676609",
+    "full_text": "RT @RPPNoticias: \ud83d\udd34 \u00a1EN VIVO en #NEDenelBicentenario!\n\u25b6\ufe0f Conversamos con Julio C\u00e9sar Castiglioni, asesor legal de Fuerza Popular. \n\ud83d\udcfa \u25ba  Cana\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NEDenelBicentenario",
+                "indices": [
+                    31,
+                    51
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RPPNoticias",
+                "name": "RPP Noticias",
+                "id": 9075022,
+                "id_str": "9075022",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 502758341,
+        "id_str": "502758341",
+        "name": "Isabel E. Gonzales",
+        "screen_name": "isagonzalesn",
+        "location": "Lima",
+        "description": "Antrop\u00f3loga/Doctorante PUCP-EHESS/Investigadora asistente en GRADE/Proyecto Humboldt Tipping",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 49,
+        "friends_count": 372,
+        "listed_count": 0,
+        "created_at": "Sat Feb 25 09:35:12 +0000 2012",
+        "favourites_count": 2866,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1106,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1380545473807781896/FcK1y7QO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380545473807781896/FcK1y7QO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/502758341/1620440491",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 02:25:10 +0000 2021",
+        "id": 1415135253258285059,
+        "id_str": "1415135253258285059",
+        "full_text": "\ud83d\udd34 \u00a1EN VIVO en #NEDenelBicentenario!\n\u25b6\ufe0f Conversamos con Julio C\u00e9sar Castiglioni, asesor legal de Fuerza Popular. \n\ud83d\udcfa \u25ba  Canal 10 - 710 HD https://t.co/9cFni1aOEe",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            135
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NEDenelBicentenario",
+                    "indices": [
+                        14,
+                        34
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415134984910876674,
+                    "id_str": "1415134984910876674",
+                    "indices": [
+                        136,
+                        159
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ORxWTXMAIQsIE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ORxWTXMAIQsIE.jpg",
+                    "url": "https://t.co/9cFni1aOEe",
+                    "display_url": "pic.twitter.com/9cFni1aOEe",
+                    "expanded_url": "https://twitter.com/RPPNoticias/status/1415135253258285059/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1334,
+                            "h": 750,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415134984910876674,
+                    "id_str": "1415134984910876674",
+                    "indices": [
+                        136,
+                        159
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ORxWTXMAIQsIE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ORxWTXMAIQsIE.jpg",
+                    "url": "https://t.co/9cFni1aOEe",
+                    "display_url": "pic.twitter.com/9cFni1aOEe",
+                    "expanded_url": "https://twitter.com/RPPNoticias/status/1415135253258285059/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1334,
+                            "h": 750,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 9075022,
+            "id_str": "9075022",
+            "name": "RPP Noticias",
+            "screen_name": "RPPNoticias",
+            "location": "Lima, Peru",
+            "description": "Noticias del Per\u00fa y el mundo actualizadas desde nuestra redacci\u00f3n minuto a minuto.",
+            "url": "https://t.co/qd1Hy59Hqa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/qd1Hy59Hqa",
+                            "expanded_url": "http://rpp.pe/",
+                            "display_url": "rpp.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2123082,
+            "friends_count": 602,
+            "listed_count": 4980,
+            "created_at": "Mon Sep 24 18:45:40 +0000 2007",
+            "favourites_count": 8513,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 458088,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1053736134994472960/DvevWIQI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053736134994472960/DvevWIQI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/9075022/1623338664",
+            "profile_link_color": "A68F0B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 89,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

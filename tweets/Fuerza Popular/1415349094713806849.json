@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 14 16:34:54 +0000 2021",
+    "id": 1415349094713806849,
+    "id_str": "1415349094713806849",
+    "full_text": "@Frospigliosi @PolloFarsantePe Bueno, lo que est\u00e1 intentando Fuerza Popular, no est\u00e1 tan alejado a una Dictadura. Hacer un golpe de estado en contra de la voluntad popular,  sino no es dictadura, \u00bfqu\u00e9 es?:\nCualquier cosa, que con seguridad No es democracia.",
+    "truncated": false,
+    "display_text_range": [
+        31,
+        257
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Frospigliosi",
+                "name": "Fernando Rospigliosi",
+                "id": 50374512,
+                "id_str": "50374512",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "PolloFarsantePe",
+                "name": "ElPolloFarsante",
+                "id": 1409887097838841857,
+                "id_str": "1409887097838841857",
+                "indices": [
+                    14,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415335213354344449,
+    "in_reply_to_status_id_str": "1415335213354344449",
+    "in_reply_to_user_id": 50374512,
+    "in_reply_to_user_id_str": "50374512",
+    "in_reply_to_screen_name": "Frospigliosi",
+    "user": {
+        "id": 1199369105310208001,
+        "id_str": "1199369105310208001",
+        "name": "Josh",
+        "screen_name": "Josh69680706",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 45,
+        "listed_count": 0,
+        "created_at": "Tue Nov 26 16:47:47 +0000 2019",
+        "favourites_count": 354,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 81,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199369415634149376/J8tlxU45_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199369415634149376/J8tlxU45_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

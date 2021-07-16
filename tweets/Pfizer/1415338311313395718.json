@@ -1,0 +1,207 @@
+{
+    "created_at": "Wed Jul 14 15:52:03 +0000 2021",
+    "id": 1415338311313395718,
+    "id_str": "1415338311313395718",
+    "full_text": "RT @trikooba: M\u00e9dicos y abogada presentan una demanda ante el Tribunal de la UE para frenar el uso de la vacuna experimental de Pfizer en n\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "trikooba",
+                "name": "Trikooba.com | Noticias Alternativas",
+                "id": 1215412435378634754,
+                "id_str": "1215412435378634754",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 174859719,
+        "id_str": "174859719",
+        "name": "rosalba cede\u00f1o",
+        "screen_name": "rosalbaedith",
+        "location": "",
+        "description": "Abogada.\nPorque de tal manera amo Dios al mundo que ha dado a su hijo unigenito para que todo aquel que en el cree no se pierda mas tenga vida eterna. Juan 3:16",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1257,
+        "friends_count": 311,
+        "listed_count": 4,
+        "created_at": "Thu Aug 05 00:40:09 +0000 2010",
+        "favourites_count": 94301,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 95743,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039446998175412224/2gtMw5PP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039446998175412224/2gtMw5PP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/174859719/1422820055",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:48:12 +0000 2021",
+        "id": 1415337341657534465,
+        "id_str": "1415337341657534465",
+        "full_text": "M\u00e9dicos y abogada presentan una demanda ante el Tribunal de la UE para frenar el uso de la vacuna experimental de Pfizer en ni\u00f1os https://t.co/uClPxHDpVE",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/uClPxHDpVE",
+                    "expanded_url": "https://trikooba.com/medicos-y-abogada-presentan-una-demanda-ante-el-tribunal-de-la-ue-para-frenar-el-uso-de-la-vacuna-experimental-de-pfizer-en-ninos/",
+                    "display_url": "trikooba.com/medicos-y-abog\u2026",
+                    "indices": [
+                        130,
+                        153
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1215412435378634754,
+            "id_str": "1215412435378634754",
+            "name": "Trikooba.com | Noticias Alternativas",
+            "screen_name": "trikooba",
+            "location": "",
+            "description": "En Trikooba damos difusi\u00f3n a todo tipo de informaci\u00f3n alternativa sobre lo que ocurre en el mundo, dirigida a Hispanohablantes pensantes y de mente abierta",
+            "url": "https://t.co/0MmSbTgA6X",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0MmSbTgA6X",
+                            "expanded_url": "http://www.trikooba.com/",
+                            "display_url": "trikooba.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1862,
+            "friends_count": 5,
+            "listed_count": 13,
+            "created_at": "Thu Jan 09 23:18:07 +0000 2020",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1762,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1336025095714828288/I1m_LnU6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336025095714828288/I1m_LnU6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1215412435378634754/1607193703",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

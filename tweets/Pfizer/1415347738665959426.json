@@ -1,0 +1,199 @@
+{
+    "created_at": "Wed Jul 14 16:29:31 +0000 2021",
+    "id": 1415347738665959426,
+    "id_str": "1415347738665959426",
+    "full_text": "@queltosh Solo de Pfizer y Moderna tienen 538.058 sin administrar, seg\u00fan datos de la propia CAM actualizados a d\u00eda de hoy: https://t.co/3TGZ2rZMD6. De AstraZeneca tienen 271.464 dosis guardadas y de Janssen 156.222. No s\u00e9 a qui\u00e9n pretenden enga\u00f1ar con la falta de suministro de vacunas. https://t.co/5QFiXgvltr",
+    "truncated": false,
+    "display_text_range": [
+        10,
+        286
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "queltosh",
+                "name": "Roberto Mu\u00f1oz",
+                "id": 57912382,
+                "id_str": "57912382",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/3TGZ2rZMD6",
+                "expanded_url": "https://www.comunidad.madrid/sites/default/files/doc/sanidad/210714_cam_covid19.pdf",
+                "display_url": "comunidad.madrid/sites/default/\u2026",
+                "indices": [
+                    123,
+                    146
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415346779135135750,
+                "id_str": "1415346779135135750",
+                "indices": [
+                    287,
+                    310
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RSZZRX0AYponA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RSZZRX0AYponA.jpg",
+                "url": "https://t.co/5QFiXgvltr",
+                "display_url": "pic.twitter.com/5QFiXgvltr",
+                "expanded_url": "https://twitter.com/romancid/status/1415347738665959426/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 344,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 608,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1822,
+                        "h": 923,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415346779135135750,
+                "id_str": "1415346779135135750",
+                "indices": [
+                    287,
+                    310
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RSZZRX0AYponA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RSZZRX0AYponA.jpg",
+                "url": "https://t.co/5QFiXgvltr",
+                "display_url": "pic.twitter.com/5QFiXgvltr",
+                "expanded_url": "https://twitter.com/romancid/status/1415347738665959426/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 344,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 608,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1822,
+                        "h": 923,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415320780750065666,
+    "in_reply_to_status_id_str": "1415320780750065666",
+    "in_reply_to_user_id": 57912382,
+    "in_reply_to_user_id_str": "57912382",
+    "in_reply_to_screen_name": "queltosh",
+    "user": {
+        "id": 6140712,
+        "id_str": "6140712",
+        "name": "Rom\u00e1n Cid de Rivera",
+        "screen_name": "romancid",
+        "location": "Madrid",
+        "description": "Periodista y jefe de producto digital. Crec\u00ed delante de un micr\u00f3fono y luego me hice fan del HTML. Me encanta contar historias. Ahora en @MovistareSports",
+        "url": "https://t.co/zaOr7Qw6Bj",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/zaOr7Qw6Bj",
+                        "expanded_url": "http://linkedin.com/in/romancid",
+                        "display_url": "linkedin.com/in/romancid",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1105,
+        "friends_count": 1563,
+        "listed_count": 61,
+        "created_at": "Fri May 18 15:48:32 +0000 2007",
+        "favourites_count": 2703,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6269,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "030302",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/510212810471522304/LT6kXDur_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/510212810471522304/LT6kXDur_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6140712/1410479036",
+        "profile_link_color": "547B61",
+        "profile_sidebar_border_color": "3C5449",
+        "profile_sidebar_fill_color": "12291F",
+        "profile_text_color": "786A55",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

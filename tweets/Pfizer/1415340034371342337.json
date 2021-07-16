@@ -1,0 +1,448 @@
+{
+    "created_at": "Wed Jul 14 15:58:54 +0000 2021",
+    "id": 1415340034371342337,
+    "id_str": "1415340034371342337",
+    "full_text": "RT @SSalud_mx: M\u00e9xico ha recibido 56 millones 938 mil 435 #Vacunas envasadas de #Pfizer, #AstraZeneca, #Sinovac, Centro Nacional de Investi\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Vacunas",
+                "indices": [
+                    58,
+                    66
+                ]
+            },
+            {
+                "text": "Pfizer",
+                "indices": [
+                    80,
+                    87
+                ]
+            },
+            {
+                "text": "AstraZeneca",
+                "indices": [
+                    89,
+                    101
+                ]
+            },
+            {
+                "text": "Sinovac",
+                "indices": [
+                    103,
+                    111
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SSalud_mx",
+                "name": "SALUD M\u00e9xico",
+                "id": 132225222,
+                "id_str": "132225222",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1307448571818639375,
+        "id_str": "1307448571818639375",
+        "name": "Elizabeth",
+        "screen_name": "Elizabeth_ara_a",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 24,
+        "listed_count": 0,
+        "created_at": "Sat Sep 19 22:37:13 +0000 2020",
+        "favourites_count": 832,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 617,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1307448959875592192/THC6QCm3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1307448959875592192/THC6QCm3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1307448571818639375/1604678644",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:45:41 +0000 2021",
+        "id": 1415321610316394503,
+        "id_str": "1415321610316394503",
+        "full_text": "M\u00e9xico ha recibido 56 millones 938 mil 435 #Vacunas envasadas de #Pfizer, #AstraZeneca, #Sinovac, Centro Nacional de Investigaci\u00f3n de Epidemiolog\u00eda y Microbiolog\u00eda Gamaleya, #CanSino y de Johnson &amp; Johnson que permitir\u00e1 la inmunizaci\u00f3n de las personas mayores de 18 a\u00f1os. https://t.co/3OL0CwbqVs",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            275
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Vacunas",
+                    "indices": [
+                        43,
+                        51
+                    ]
+                },
+                {
+                    "text": "Pfizer",
+                    "indices": [
+                        65,
+                        72
+                    ]
+                },
+                {
+                    "text": "AstraZeneca",
+                    "indices": [
+                        74,
+                        86
+                    ]
+                },
+                {
+                    "text": "Sinovac",
+                    "indices": [
+                        88,
+                        96
+                    ]
+                },
+                {
+                    "text": "CanSino",
+                    "indices": [
+                        174,
+                        182
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415321596982611975,
+                    "id_str": "1415321596982611975",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q7fmcWUAcPn7P.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q7fmcWUAcPn7P.jpg",
+                    "url": "https://t.co/3OL0CwbqVs",
+                    "display_url": "pic.twitter.com/3OL0CwbqVs",
+                    "expanded_url": "https://twitter.com/SSalud_mx/status/1415321610316394503/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 712,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 759,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 403,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415321596982611975,
+                    "id_str": "1415321596982611975",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q7fmcWUAcPn7P.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q7fmcWUAcPn7P.jpg",
+                    "url": "https://t.co/3OL0CwbqVs",
+                    "display_url": "pic.twitter.com/3OL0CwbqVs",
+                    "expanded_url": "https://twitter.com/SSalud_mx/status/1415321610316394503/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 712,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 759,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 403,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415321600610680835,
+                    "id_str": "1415321600610680835",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q7fz9WQAMfULl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q7fz9WQAMfULl.jpg",
+                    "url": "https://t.co/3OL0CwbqVs",
+                    "display_url": "pic.twitter.com/3OL0CwbqVs",
+                    "expanded_url": "https://twitter.com/SSalud_mx/status/1415321610316394503/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1280,
+                            "h": 936,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 497,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 878,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415321604255535105,
+                    "id_str": "1415321604255535105",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q7gBiWUAEKkpr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q7gBiWUAEKkpr.jpg",
+                    "url": "https://t.co/3OL0CwbqVs",
+                    "display_url": "pic.twitter.com/3OL0CwbqVs",
+                    "expanded_url": "https://twitter.com/SSalud_mx/status/1415321610316394503/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 766,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 434,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 817,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415321608412090370,
+                    "id_str": "1415321608412090370",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q7gRBWUAIlvmF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q7gRBWUAIlvmF.jpg",
+                    "url": "https://t.co/3OL0CwbqVs",
+                    "display_url": "pic.twitter.com/3OL0CwbqVs",
+                    "expanded_url": "https://twitter.com/SSalud_mx/status/1415321610316394503/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 494,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 872,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 930,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 132225222,
+            "id_str": "132225222",
+            "name": "SALUD M\u00e9xico",
+            "screen_name": "SSalud_mx",
+            "location": "M\u00e9xico",
+            "description": "Secretar\u00eda de Salud de M\u00e9xico",
+            "url": "https://t.co/DuGFGRkmOe",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/DuGFGRkmOe",
+                            "expanded_url": "http://www.gob.mx/salud",
+                            "display_url": "gob.mx/salud",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1279961,
+            "friends_count": 240,
+            "listed_count": 3132,
+            "created_at": "Mon Apr 12 16:53:45 +0000 2010",
+            "favourites_count": 5068,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 62324,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FAFAFA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410583658369585154/gM_QrfaZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410583658369585154/gM_QrfaZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/132225222/1624973616",
+            "profile_link_color": "B92025",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "818285",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 36,
+        "favorite_count": 94,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

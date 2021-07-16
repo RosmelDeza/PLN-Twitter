@@ -1,0 +1,285 @@
+{
+    "created_at": "Wed Jul 14 15:52:41 +0000 2021",
+    "id": 1415338467412881411,
+    "id_str": "1415338467412881411",
+    "full_text": "RT @LaPagina: Los creadores de la vacuna de Pfizer y BioNTech aseguraron que  \u201cel coronavirus est\u00e1 aqu\u00ed para quedarse y se volver\u00e1 m\u00e1s resi\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LaPagina",
+                "name": "Diario La P\u00e1gina",
+                "id": 20819168,
+                "id_str": "20819168",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2271387094,
+        "id_str": "2271387094",
+        "name": "el Hincha dice",
+        "screen_name": "elhinchadice",
+        "location": "La web",
+        "description": "Presentamos al mundo las lesiones mentales, autogoles de autoestima, chilenas de ideas, tunelitos de verg\u00fcenza y sombreritos de ocurrencias de los hinchas.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 965,
+        "friends_count": 818,
+        "listed_count": 12,
+        "created_at": "Thu Jan 09 19:03:17 +0000 2014",
+        "favourites_count": 11579,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 45130,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "026611",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408199913767419908/RNJELZPg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408199913767419908/RNJELZPg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2271387094/1617311504",
+        "profile_link_color": "001594",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 15:18:16 +0000 2021",
+        "id": 1414967418900959232,
+        "id_str": "1414967418900959232",
+        "full_text": "Los creadores de la vacuna de Pfizer y BioNTech aseguraron que  \u201cel coronavirus est\u00e1 aqu\u00ed para quedarse y se volver\u00e1 m\u00e1s resistente\u201d \n\u2935\ufe0f\nhttps://t.co/tu86FVsi2A https://t.co/lWKGLzGbDM",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            160
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/tu86FVsi2A",
+                    "expanded_url": "https://lapagina.com.sv/internacionales/los-creadores-de-la-vacuna-de-pfizer-y-biontech-aseguraron-que-el-coronavirus-esta-aqui-para-quedarse-y-se-volvera-mas-resistente/",
+                    "display_url": "lapagina.com.sv/internacionale\u2026",
+                    "indices": [
+                        137,
+                        160
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414967414563946497,
+                    "id_str": "1414967414563946497",
+                    "indices": [
+                        161,
+                        184
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6L5XeHWQAE46lt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6L5XeHWQAE46lt.jpg",
+                    "url": "https://t.co/lWKGLzGbDM",
+                    "display_url": "pic.twitter.com/lWKGLzGbDM",
+                    "expanded_url": "https://twitter.com/LaPagina/status/1414967418900959232/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414967414563946497,
+                    "id_str": "1414967414563946497",
+                    "indices": [
+                        161,
+                        184
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6L5XeHWQAE46lt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6L5XeHWQAE46lt.jpg",
+                    "url": "https://t.co/lWKGLzGbDM",
+                    "display_url": "pic.twitter.com/lWKGLzGbDM",
+                    "expanded_url": "https://twitter.com/LaPagina/status/1414967418900959232/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 20819168,
+            "id_str": "20819168",
+            "name": "Diario La P\u00e1gina",
+            "screen_name": "LaPagina",
+            "location": "El Salvador",
+            "description": "Peri\u00f3dico Digital de El Salvador, Noticias de El Salvador",
+            "url": "https://t.co/DHi9Oqg6DZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/DHi9Oqg6DZ",
+                            "expanded_url": "http://www.lapagina.com.sv",
+                            "display_url": "lapagina.com.sv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 463512,
+            "friends_count": 589,
+            "listed_count": 787,
+            "created_at": "Fri Feb 13 23:57:23 +0000 2009",
+            "favourites_count": 1124,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 247989,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/726448921166360577/KIzuWMp__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/726448921166360577/KIzuWMp__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20819168/1531334659",
+            "profile_link_color": "8E151F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

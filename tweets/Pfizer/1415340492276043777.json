@@ -1,0 +1,198 @@
+{
+    "created_at": "Wed Jul 14 16:00:43 +0000 2021",
+    "id": 1415340492276043777,
+    "id_str": "1415340492276043777",
+    "full_text": "Completada #segundadosis @pfizer_spain generaci\u00f3n del 83 #Extremadura #COVID19 https://t.co/gaauuvuPWr",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        78
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "segundadosis",
+                "indices": [
+                    11,
+                    24
+                ]
+            },
+            {
+                "text": "Extremadura",
+                "indices": [
+                    57,
+                    69
+                ]
+            },
+            {
+                "text": "COVID19",
+                "indices": [
+                    70,
+                    78
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pfizer_spain",
+                "name": "Pfizer Espa\u00f1a",
+                "id": 123278276,
+                "id_str": "123278276",
+                "indices": [
+                    25,
+                    38
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415340483572867073,
+                "id_str": "1415340483572867073",
+                "indices": [
+                    79,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RMq8eXIAEvIWg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RMq8eXIAEvIWg.jpg",
+                "url": "https://t.co/gaauuvuPWr",
+                "display_url": "pic.twitter.com/gaauuvuPWr",
+                "expanded_url": "https://twitter.com/clobatoc/status/1415340492276043777/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 901,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1538,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 511,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415340483572867073,
+                "id_str": "1415340483572867073",
+                "indices": [
+                    79,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RMq8eXIAEvIWg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RMq8eXIAEvIWg.jpg",
+                "url": "https://t.co/gaauuvuPWr",
+                "display_url": "pic.twitter.com/gaauuvuPWr",
+                "expanded_url": "https://twitter.com/clobatoc/status/1415340492276043777/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 901,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1538,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 511,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 612609269,
+        "id_str": "612609269",
+        "name": "Carlos Lobato",
+        "screen_name": "clobatoc",
+        "location": "Badajoz",
+        "description": "Ingeniero Extreme\u00f1o at @Sngular #Badajoz #orgulloCofrade @HdadDescendBjoz #persiguiendoMetas #alcanzandoSue\u00f1os #trenDignoExtremadura",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 265,
+        "friends_count": 668,
+        "listed_count": 6,
+        "created_at": "Tue Jun 19 14:54:16 +0000 2012",
+        "favourites_count": 416,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 522,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1022799429215105024/a92PoXl-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022799429215105024/a92PoXl-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/612609269/1536394507",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "7E4111",
+        "profile_sidebar_fill_color": "CA6D2B",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

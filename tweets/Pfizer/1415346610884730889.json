@@ -1,0 +1,119 @@
+{
+    "created_at": "Wed Jul 14 16:25:02 +0000 2021",
+    "id": 1415346610884730889,
+    "id_str": "1415346610884730889",
+    "full_text": "Vacunada con Pfizer ya, Europa me espera. Jajaja",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        48
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 204044822,
+        "id_str": "204044822",
+        "name": "\ud835\udc01\ud835\udc2b\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc27\ud835\udc32 \ud835\udc01\ud835\udc1a\ud835\udc1e\ud835\udc33\ud83e\uddb7~\ud83c\udf3b",
+        "screen_name": "britanybaezc",
+        "location": "Rep\u00fablica Dominicana~ Higuey\u2600 ",
+        "description": "Odontologa de profesion y por vocacion. ~\u2764\ufe0f~\\ Muy sincera. [Cuidate los dientes y sonrie :D]",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1295,
+        "friends_count": 1333,
+        "listed_count": 6,
+        "created_at": "Sun Oct 17 20:02:41 +0000 2010",
+        "favourites_count": 10219,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33261,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1376148323954987009/32TWLcW__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376148323954987009/32TWLcW__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/204044822/1443361128",
+        "profile_link_color": "E314CB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "61085B",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0103d4375c78ffad",
+        "url": "https://api.twitter.com/1.1/geo/id/0103d4375c78ffad.json",
+        "place_type": "city",
+        "name": "Hig\u00fcey",
+        "full_name": "Hig\u00fcey, Dominican Republic",
+        "country_code": "DO",
+        "country": "Dominican Republic",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -68.9241709539501,
+                        18.4812633016093
+                    ],
+                    [
+                        -68.3227847681842,
+                        18.4812633016093
+                    ],
+                    [
+                        -68.3227847681842,
+                        18.9703672455281
+                    ],
+                    [
+                        -68.9241709539501,
+                        18.9703672455281
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

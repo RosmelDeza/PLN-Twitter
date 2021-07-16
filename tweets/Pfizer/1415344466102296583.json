@@ -1,0 +1,202 @@
+{
+    "created_at": "Wed Jul 14 16:16:31 +0000 2021",
+    "id": 1415344466102296583,
+    "id_str": "1415344466102296583",
+    "full_text": "RT @lailioz: @inakimanero  hola. Por fa ay\u00fadenos en Lerma ya se cumplieron las 6 semanas de la primera dosis de Pfizer y nada q nos dicen c\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lailioz",
+                "name": "iliana",
+                "id": 238594069,
+                "id_str": "238594069",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "inakimanero",
+                "name": "I\u00f1aki Manero",
+                "id": 115096859,
+                "id_str": "115096859",
+                "indices": [
+                    13,
+                    25
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1114705964,
+        "id_str": "1114705964",
+        "name": "norma",
+        "screen_name": "cachi_ta",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 32,
+        "friends_count": 49,
+        "listed_count": 0,
+        "created_at": "Wed Jan 23 16:03:21 +0000 2013",
+        "favourites_count": 7462,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10762,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/861033915770957828/OELTL5V4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/861033915770957828/OELTL5V4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:22:06 +0000 2021",
+        "id": 1415300575919550469,
+        "id_str": "1415300575919550469",
+        "full_text": "@inakimanero  hola. Por fa ay\u00fadenos en Lerma ya se cumplieron las 6 semanas de la primera dosis de Pfizer y nada q nos dicen cuando la segunda. No contestan nada!!! Gracias",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            172
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "inakimanero",
+                    "name": "I\u00f1aki Manero",
+                    "id": 115096859,
+                    "id_str": "115096859",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 115096859,
+        "in_reply_to_user_id_str": "115096859",
+        "in_reply_to_screen_name": "inakimanero",
+        "user": {
+            "id": 238594069,
+            "id_str": "238594069",
+            "name": "iliana",
+            "screen_name": "lailioz",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5,
+            "friends_count": 23,
+            "listed_count": 0,
+            "created_at": "Sat Jan 15 15:02:10 +0000 2011",
+            "favourites_count": 19,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 18,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

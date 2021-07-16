@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:09:56 +0000 2021",
+    "id": 1415342808722989072,
+    "id_str": "1415342808722989072",
+    "full_text": "@Animalhome_vets @sebasugarte @el_pais Finalizacion del estudio mayo 2023. De pfizer https://t.co/4pH2aUYJFT",
+    "truncated": false,
+    "display_text_range": [
+        39,
+        84
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Animalhome_vets",
+                "name": "Animal Home Veterinaria (MV. Alejandra Rios)",
+                "id": 1262995111002157057,
+                "id_str": "1262995111002157057",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "sebasugarte",
+                "name": "SEBASTIAN UGARTE",
+                "id": 238787435,
+                "id_str": "238787435",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "screen_name": "el_pais",
+                "name": "EL PA\u00cdS",
+                "id": 7996082,
+                "id_str": "7996082",
+                "indices": [
+                    30,
+                    38
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415342795712339970,
+                "id_str": "1415342795712339970",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6ROxh3XoAIGNm4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6ROxh3XoAIGNm4.jpg",
+                "url": "https://t.co/4pH2aUYJFT",
+                "display_url": "pic.twitter.com/4pH2aUYJFT",
+                "expanded_url": "https://twitter.com/sandruca4/status/1415342808722989072/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 403,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 711,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1841,
+                        "h": 1091,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415342795712339970,
+                "id_str": "1415342795712339970",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6ROxh3XoAIGNm4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6ROxh3XoAIGNm4.jpg",
+                "url": "https://t.co/4pH2aUYJFT",
+                "display_url": "pic.twitter.com/4pH2aUYJFT",
+                "expanded_url": "https://twitter.com/sandruca4/status/1415342808722989072/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 403,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 711,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1841,
+                        "h": 1091,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415314839799582722,
+    "in_reply_to_status_id_str": "1415314839799582722",
+    "in_reply_to_user_id": 1262995111002157057,
+    "in_reply_to_user_id_str": "1262995111002157057",
+    "in_reply_to_screen_name": "Animalhome_vets",
+    "user": {
+        "id": 118504751,
+        "id_str": "118504751",
+        "name": "sandry\ud83c\udf08\ud83c\udde8\ud83c\uddf1",
+        "screen_name": "sandruca4",
+        "location": "Chile",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 259,
+        "friends_count": 676,
+        "listed_count": 0,
+        "created_at": "Sun Feb 28 22:10:16 +0000 2010",
+        "favourites_count": 18747,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2262,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1379133700265406465/95V3-uxU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379133700265406465/95V3-uxU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/118504751/1617646071",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,378 @@
+{
+    "created_at": "Wed Jul 14 16:15:25 +0000 2021",
+    "id": 1415344189081104388,
+    "id_str": "1415344189081104388",
+    "full_text": "RT @gobdeherrera: Visitamos el Centro de vacunaci\u00f3n de la escuela Hip\u00f3lito P\u00e9rez Tello del corregimiento San Juan Bautista. La jornada de v\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gobdeherrera",
+                "name": "GOBERNACION HERRERA",
+                "id": 2742377695,
+                "id_str": "2742377695",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 476968163,
+        "id_str": "476968163",
+        "name": "Ri\u00e7\u03ba S\u03b7d\u03bf\u03bda\u03b9 \ud83d\ude0e",
+        "screen_name": "RickSndoval",
+        "location": "Panam\u00e1",
+        "description": "Fanatico de la Buena \ud83c\udfb8M\u00fasica\ud83c\udfb6\ud83c\udf99 Adicto al buen arte del \ud83d\udc32\u270d\ud83c\udffbTattoo \ud83d\ude09\ud83d\udda4 #Inkaddict \ud83d\udc89 #F1 @redbullracing \ud83c\udfc1\ud83c\udfce\ufe0f\ud83c\uddfa\ud83c\udde6 Herrerano \ud83c\uddf5\ud83c\udde6",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 358,
+        "friends_count": 852,
+        "listed_count": 4,
+        "created_at": "Sat Jan 28 17:55:32 +0000 2012",
+        "favourites_count": 12161,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11336,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396533039954550786/eHA7phd7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396533039954550786/eHA7phd7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/476968163/1618693399",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:23:36 +0000 2021",
+        "id": 1415331151565180935,
+        "id_str": "1415331151565180935",
+        "full_text": "Visitamos el Centro de vacunaci\u00f3n de la escuela Hip\u00f3lito P\u00e9rez Tello del corregimiento San Juan Bautista. La jornada de vacunaci\u00f3n avanza con una excelente participaci\u00f3n de voluntarios que desde temprano llegaron para aplicarse la dosis contra el #Covid19 de Pfizer. https://t.co/qw89gnUBKE",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            266
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Covid19",
+                    "indices": [
+                        247,
+                        255
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415331138978127872,
+                    "id_str": "1415331138978127872",
+                    "indices": [
+                        267,
+                        290
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RELBJXIAAoQMM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RELBJXIAAoQMM.jpg",
+                    "url": "https://t.co/qw89gnUBKE",
+                    "display_url": "pic.twitter.com/qw89gnUBKE",
+                    "expanded_url": "https://twitter.com/gobdeherrera/status/1415331151565180935/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415331138978127872,
+                    "id_str": "1415331138978127872",
+                    "indices": [
+                        267,
+                        290
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RELBJXIAAoQMM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RELBJXIAAoQMM.jpg",
+                    "url": "https://t.co/qw89gnUBKE",
+                    "display_url": "pic.twitter.com/qw89gnUBKE",
+                    "expanded_url": "https://twitter.com/gobdeherrera/status/1415331151565180935/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415331143302492162,
+                    "id_str": "1415331143302492162",
+                    "indices": [
+                        267,
+                        290
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RELRQXsAIFPyE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RELRQXsAIFPyE.jpg",
+                    "url": "https://t.co/qw89gnUBKE",
+                    "display_url": "pic.twitter.com/qw89gnUBKE",
+                    "expanded_url": "https://twitter.com/gobdeherrera/status/1415331151565180935/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415331146993373191,
+                    "id_str": "1415331146993373191",
+                    "indices": [
+                        267,
+                        290
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RELfAWEAcoZS0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RELfAWEAcoZS0.jpg",
+                    "url": "https://t.co/qw89gnUBKE",
+                    "display_url": "pic.twitter.com/qw89gnUBKE",
+                    "expanded_url": "https://twitter.com/gobdeherrera/status/1415331151565180935/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415331149895933958,
+                    "id_str": "1415331149895933958",
+                    "indices": [
+                        267,
+                        290
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RELp0XoAYhLME.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RELp0XoAYhLME.jpg",
+                    "url": "https://t.co/qw89gnUBKE",
+                    "display_url": "pic.twitter.com/qw89gnUBKE",
+                    "expanded_url": "https://twitter.com/gobdeherrera/status/1415331151565180935/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2742377695,
+            "id_str": "2742377695",
+            "name": "GOBERNACION HERRERA",
+            "screen_name": "gobdeherrera",
+            "location": "Edificio Ras Tower, Chitr\u00e9",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1309,
+            "friends_count": 71,
+            "listed_count": 13,
+            "created_at": "Mon Aug 18 16:05:02 +0000 2014",
+            "favourites_count": 210,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3643,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410466892335222788/_MK2bH5C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410466892335222788/_MK2bH5C_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2742377695/1625116486",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

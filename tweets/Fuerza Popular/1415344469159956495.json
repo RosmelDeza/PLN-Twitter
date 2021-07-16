@@ -1,0 +1,204 @@
+{
+    "created_at": "Wed Jul 14 16:16:31 +0000 2021",
+    "id": 1415344469159956495,
+    "id_str": "1415344469159956495",
+    "full_text": "\ud83d\udd35\ud83d\udd34#PreguntaExitosa I \u00bfEst\u00e1s de acuerdo con que Fuerza Popular apele las actas descentralizadas de proclamaci\u00f3n?\n\n\u25ba Tu respuesta ser\u00e1 le\u00edda por @jesusverdeL en #LasCosasPorSuNombre.\n\n\ud83d\udcfa6.1 se\u00f1al digital abierta https://t.co/S7Hg01pd1j",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        208
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "PreguntaExitosa",
+                "indices": [
+                    2,
+                    18
+                ]
+            },
+            {
+                "text": "LasCosasPorSuNombre",
+                "indices": [
+                    159,
+                    179
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jesusverdeL",
+                "name": "Jes\u00fas Verde",
+                "id": 28366088,
+                "id_str": "28366088",
+                "indices": [
+                    143,
+                    155
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415344273269182466,
+                "id_str": "1415344273269182466",
+                "indices": [
+                    209,
+                    232
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RQHiMX0AIm9fZ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RQHiMX0AIm9fZ.jpg",
+                "url": "https://t.co/S7Hg01pd1j",
+                "display_url": "pic.twitter.com/S7Hg01pd1j",
+                "expanded_url": "https://twitter.com/exitosape/status/1415344469159956495/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415344273269182466,
+                "id_str": "1415344273269182466",
+                "indices": [
+                    209,
+                    232
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RQHiMX0AIm9fZ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RQHiMX0AIm9fZ.jpg",
+                "url": "https://t.co/S7Hg01pd1j",
+                "display_url": "pic.twitter.com/S7Hg01pd1j",
+                "expanded_url": "https://twitter.com/exitosape/status/1415344469159956495/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2205328350,
+        "id_str": "2205328350",
+        "name": "Exitosa Noticias",
+        "screen_name": "exitosape",
+        "location": "Lima, Peru",
+        "description": "#ExitosaPer\u00fa: La voz de los que no tienen voz. \ud83d\udcfbEn Lima 95.5 FM",
+        "url": "https://t.co/PMmEKio6wx",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/PMmEKio6wx",
+                        "expanded_url": "http://www.exitosanoticias.pe",
+                        "display_url": "exitosanoticias.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 563068,
+        "friends_count": 822,
+        "listed_count": 861,
+        "created_at": "Wed Nov 20 17:52:12 +0000 2013",
+        "favourites_count": 1097,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 193783,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1364286164946010115/HMNqrY3j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1364286164946010115/HMNqrY3j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2205328350/1614106141",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

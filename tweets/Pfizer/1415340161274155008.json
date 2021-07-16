@@ -1,0 +1,136 @@
+{
+    "created_at": "Wed Jul 14 15:59:24 +0000 2021",
+    "id": 1415340161274155008,
+    "id_str": "1415340161274155008",
+    "full_text": "@euribem @mariporris @popecrespo @alfredocorell @drmiguelmarcos En Andaluc\u00eda la Junta nota hizo una trampa, si te pon\u00edas la segunda con AZ te la pon\u00edan el d\u00eda que te tocaba la segunda dosis, si eleg\u00edas Pfizer ten\u00edas que ir otro d\u00eda, eso hac\u00eda que mucha gente desechara la idea de ir otro d\u00eda. Lo vendieron como que el 99% prefer\u00edan AZ.",
+    "truncated": false,
+    "display_text_range": [
+        64,
+        335
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "euribem",
+                "name": "Eduardo Uribe",
+                "id": 160499164,
+                "id_str": "160499164",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "mariporris",
+                "name": "mari porris",
+                "id": 301575434,
+                "id_str": "301575434",
+                "indices": [
+                    9,
+                    20
+                ]
+            },
+            {
+                "screen_name": "popecrespo",
+                "name": "Guillermo Crespo",
+                "id": 53681669,
+                "id_str": "53681669",
+                "indices": [
+                    21,
+                    32
+                ]
+            },
+            {
+                "screen_name": "alfredocorell",
+                "name": "Alfredo Corell",
+                "id": 196124212,
+                "id_str": "196124212",
+                "indices": [
+                    33,
+                    47
+                ]
+            },
+            {
+                "screen_name": "drmiguelmarcos",
+                "name": "Miguel Marcos #CuidadoConLosEspaciosCerrados",
+                "id": 486958895,
+                "id_str": "486958895",
+                "indices": [
+                    48,
+                    63
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415339620800385029,
+    "in_reply_to_status_id_str": "1415339620800385029",
+    "in_reply_to_user_id": 160499164,
+    "in_reply_to_user_id_str": "160499164",
+    "in_reply_to_screen_name": "euribem",
+    "user": {
+        "id": 109656969,
+        "id_str": "109656969",
+        "name": "Antonio Dominguez",
+        "screen_name": "Rainwindroad",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 116,
+        "friends_count": 533,
+        "listed_count": 2,
+        "created_at": "Fri Jan 29 20:30:22 +0000 2010",
+        "favourites_count": 420,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27238,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1742466381/24U8B1pI_normal",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1742466381/24U8B1pI_normal",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

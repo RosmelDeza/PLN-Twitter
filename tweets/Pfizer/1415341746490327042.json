@@ -1,0 +1,406 @@
+{
+    "created_at": "Wed Jul 14 16:05:42 +0000 2021",
+    "id": 1415341746490327042,
+    "id_str": "1415341746490327042",
+    "full_text": "RT @AnGeLaUyEn: OJO lugares que vacunaron menos como Amazonas, tienen una gran proporci\u00f3n de vacunas sinopharm y lugares que se consideran\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AnGeLaUyEn",
+                "name": "Angela Uyen",
+                "id": 187981835,
+                "id_str": "187981835",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2859771291,
+        "id_str": "2859771291",
+        "name": "Joaquin Perez",
+        "screen_name": "_JoaquinPerez",
+        "location": "Lima, Peru",
+        "description": "Un Mel\u00f3mano compulsivo, Ecl\u00e9ctico en potencia, Col\u00e9rico caviloso e Ignorante por Experiencia...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 64,
+        "friends_count": 1962,
+        "listed_count": 0,
+        "created_at": "Tue Nov 04 02:10:54 +0000 2014",
+        "favourites_count": 5567,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8997,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404838591046602753/sSPpU7qi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404838591046602753/sSPpU7qi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2859771291/1621312257",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 20:35:47 +0000 2021",
+        "id": 1414684939791085573,
+        "id_str": "1414684939791085573",
+        "full_text": "OJO lugares que vacunaron menos como Amazonas, tienen una gran proporci\u00f3n de vacunas sinopharm y lugares que se consideran exitosos como Tacna tienen una gran proporci\u00f3n de Pfizer. ESE es el alcance que ha tenido la campa\u00f1a de desinformaci\u00f3n. \nQue hacer? \nUrge continuar vacunando https://t.co/peKJZmWbrZ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/peKJZmWbrZ",
+                    "expanded_url": "https://twitter.com/AlejandrodeBar1/status/1414666643469438983",
+                    "display_url": "twitter.com/AlejandrodeBar\u2026",
+                    "indices": [
+                        281,
+                        304
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 187981835,
+            "id_str": "187981835",
+            "name": "Angela Uyen",
+            "screen_name": "AnGeLaUyEn",
+            "location": "Brussels/London ",
+            "description": "Health policy advisor MSF.\nInternational Relations #QMUL\nInfection control,\nscience, politics, innovation and planetary health\n#CheveningAlumni\nPersonal account",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6037,
+            "friends_count": 2425,
+            "listed_count": 36,
+            "created_at": "Tue Sep 07 16:59:13 +0000 2010",
+            "favourites_count": 25245,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9445,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1367761496906887169/zzOEJlAB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367761496906887169/zzOEJlAB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/187981835/1462853255",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414666643469438983,
+        "quoted_status_id_str": "1414666643469438983",
+        "quoted_status": {
+            "created_at": "Mon Jul 12 19:23:05 +0000 2021",
+            "id": 1414666643469438983,
+            "id_str": "1414666643469438983",
+            "full_text": "@AnGeLaUyEn @DanyAlbertoGal3 @juank23_7 Amazonas ha recibido principalmente vacunas de Sinopharm y AstraZeneca.\n\nLas de Sinopharm no tienen salida (s\u00f3lo han usado 16% de las recibidas).  Tal vez cunda la desconfianza en esa vacuna por desinformaci\u00f3n o tal vez sea cuesti\u00f3n de las autoridades. https://t.co/wTCoDLAYfy",
+            "truncated": false,
+            "display_text_range": [
+                40,
+                292
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AnGeLaUyEn",
+                        "name": "Angela Uyen",
+                        "id": 187981835,
+                        "id_str": "187981835",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "DanyAlbertoGal3",
+                        "name": "Dany Alberto Gallardo Mel\u00e9ndez",
+                        "id": 1071499638929285124,
+                        "id_str": "1071499638929285124",
+                        "indices": [
+                            12,
+                            28
+                        ]
+                    },
+                    {
+                        "screen_name": "juank23_7",
+                        "name": "Juan Carbajal \ud83c\uddf5\ud83c\uddea #SinCienciaNoHayFuturo",
+                        "id": 1319306448,
+                        "id_str": "1319306448",
+                        "indices": [
+                            29,
+                            39
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1414666242137407493,
+                        "id_str": "1414666242137407493",
+                        "indices": [
+                            293,
+                            316
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Hnc7ZWQAUt7Bh.png",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Hnc7ZWQAUt7Bh.png",
+                        "url": "https://t.co/wTCoDLAYfy",
+                        "display_url": "pic.twitter.com/wTCoDLAYfy",
+                        "expanded_url": "https://twitter.com/AlejandrodeBar1/status/1414666643469438983/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 841,
+                                "h": 622,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 841,
+                                "h": 622,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 503,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1414666242137407493,
+                        "id_str": "1414666242137407493",
+                        "indices": [
+                            293,
+                            316
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Hnc7ZWQAUt7Bh.png",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Hnc7ZWQAUt7Bh.png",
+                        "url": "https://t.co/wTCoDLAYfy",
+                        "display_url": "pic.twitter.com/wTCoDLAYfy",
+                        "expanded_url": "https://twitter.com/AlejandrodeBar1/status/1414666643469438983/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 841,
+                                "h": 622,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 841,
+                                "h": 622,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 503,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1414642171995643905,
+            "in_reply_to_status_id_str": "1414642171995643905",
+            "in_reply_to_user_id": 187981835,
+            "in_reply_to_user_id_str": "187981835",
+            "in_reply_to_screen_name": "AnGeLaUyEn",
+            "user": {
+                "id": 1264523633361326081,
+                "id_str": "1264523633361326081",
+                "name": "Alejandro de Bary",
+                "screen_name": "AlejandrodeBar1",
+                "location": "Per\u00fa",
+                "description": "Apasionado por la ciencia y los n\u00fameros.\nEntusiasta de las actividades al aire libre.\nQu\u00edmica, PUCP",
+                "url": "https://t.co/mvy9BZ407t",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/mvy9BZ407t",
+                                "expanded_url": "https://viciatuvoto2021.blogspot.com/",
+                                "display_url": "viciatuvoto2021.blogspot.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1280,
+                "friends_count": 73,
+                "listed_count": 8,
+                "created_at": "Sun May 24 11:49:00 +0000 2020",
+                "favourites_count": 3494,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3454,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1264525848792743937/3qV81era_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1264525848792743937/3qV81era_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 28,
+            "favorite_count": 69,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 110,
+        "favorite_count": 284,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414666643469438983,
+    "quoted_status_id_str": "1414666643469438983",
+    "retweet_count": 110,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

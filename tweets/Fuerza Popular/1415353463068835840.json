@@ -1,0 +1,195 @@
+{
+    "created_at": "Wed Jul 14 16:52:16 +0000 2021",
+    "id": 1415353463068835840,
+    "id_str": "1415353463068835840",
+    "full_text": "RT @RodolfoPerez_2: La estrategia de Fuerza Popular es apelar sin raz\u00f3n y bloquear la transici\u00f3n democr\u00e1tica. No les importa si se perjudic\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RodolfoPerez_2",
+                "name": "Rodolfo P\u00e9rez",
+                "id": 2497110548,
+                "id_str": "2497110548",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1334564498192142341,
+        "id_str": "1334564498192142341",
+        "name": "Alvaro Jim\u00e9nez",
+        "screen_name": "AlvaroJ43971004",
+        "location": "Lima, Peru",
+        "description": "Nacido en Chachapoyas. Futuro estudiante de ciencias pol\u00edticas. El Per\u00fa siempre es primero. Fan de Star Wars y de Cobra Kai.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 91,
+        "friends_count": 79,
+        "listed_count": 0,
+        "created_at": "Thu Dec 03 18:26:05 +0000 2020",
+        "favourites_count": 17099,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9813,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1336867720168677379/_ygbLsl9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336867720168677379/_ygbLsl9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:07:45 +0000 2021",
+        "id": 1415312062843179012,
+        "id_str": "1415312062843179012",
+        "full_text": "La estrategia de Fuerza Popular es apelar sin raz\u00f3n y bloquear la transici\u00f3n democr\u00e1tica. No les importa si se perjudica el pa\u00eds. Y lo dicen con total impunidad.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            161
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2497110548,
+            "id_str": "2497110548",
+            "name": "Rodolfo P\u00e9rez",
+            "screen_name": "RodolfoPerez_2",
+            "location": "Lima, Per\u00fa",
+            "description": "Secretario General del @partidomorado. 36 a\u00f1os. Abogado, servidor p\u00fablico y comprometido con las causas justas.",
+            "url": "https://t.co/5TefhuTWkd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/5TefhuTWkd",
+                            "expanded_url": "https://linktr.ee/rodolfoperezm2",
+                            "display_url": "linktr.ee/rodolfoperezm2",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12387,
+            "friends_count": 1494,
+            "listed_count": 21,
+            "created_at": "Thu May 15 20:35:58 +0000 2014",
+            "favourites_count": 8378,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 7782,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1398385490798186499/2toH0LMP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398385490798186499/2toH0LMP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2497110548/1622236529",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 39,
+        "favorite_count": 203,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

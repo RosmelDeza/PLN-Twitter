@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Jul 14 16:03:59 +0000 2021",
+    "id": 1415341312782577664,
+    "id_str": "1415341312782577664",
+    "full_text": "@andyfransua @phytotarr @TReporta El mundo sigue, pero no para los miles que la vacuna los mat\u00f3, incluyendo los adolecentes que murieron por Miocarditis causada por la Pfizer, efecto en menores de 35 a\u00f1os, ya anunciado por la CDC.\nSi vamos a hablar de ciencia, hablemos completo.\nhttps://t.co/SKBia5fWBr",
+    "truncated": false,
+    "display_text_range": [
+        34,
+        303
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "andyfransua",
+                "name": "francisco cede\u00f1o",
+                "id": 338626341,
+                "id_str": "338626341",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "phytotarr",
+                "name": "sapo",
+                "id": 1137528830674030592,
+                "id_str": "1137528830674030592",
+                "indices": [
+                    13,
+                    23
+                ]
+            },
+            {
+                "screen_name": "TReporta",
+                "name": "Telemetro Reporta",
+                "id": 326849708,
+                "id_str": "326849708",
+                "indices": [
+                    24,
+                    33
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/SKBia5fWBr",
+                "expanded_url": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/myocarditis.html",
+                "display_url": "cdc.gov/coronavirus/20\u2026",
+                "indices": [
+                    280,
+                    303
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415299054943318019,
+    "in_reply_to_status_id_str": "1415299054943318019",
+    "in_reply_to_user_id": 338626341,
+    "in_reply_to_user_id_str": "338626341",
+    "in_reply_to_screen_name": "andyfransua",
+    "user": {
+        "id": 397693701,
+        "id_str": "397693701",
+        "name": "Ariel Jurado \ud83d\ude0e\ud83c\uddf5\ud83c\udde6",
+        "screen_name": "Mr_A_J_",
+        "location": "Panama, PTY",
+        "description": "Engineer\ud83d\udce1 | Internal Auditor\ud83d\udcd1 | Panamanian\ud83c\uddf5\ud83c\udde6 | World Citizen\ud83c\udf0e | Outdoor\ud83e\udded | Dios y Patria!\n#DealWithIt\ud83d\ude0e",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 820,
+        "friends_count": 585,
+        "listed_count": 3,
+        "created_at": "Tue Oct 25 01:30:14 +0000 2011",
+        "favourites_count": 25891,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 44408,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "4B565C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1386731491028344834/qxWq0aJ9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386731491028344834/qxWq0aJ9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/397693701/1548782263",
+        "profile_link_color": "D48626",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

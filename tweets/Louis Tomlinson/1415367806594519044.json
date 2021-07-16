@@ -1,0 +1,115 @@
+{
+    "created_at": "Wed Jul 14 17:49:16 +0000 2021",
+    "id": 1415367806594519044,
+    "id_str": "1415367806594519044",
+    "full_text": "septiembre  REQUEST @Louis_Tomlinson @MTV #FridayLivestream",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        59
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FridayLivestream",
+                "indices": [
+                    42,
+                    59
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Louis_Tomlinson",
+                "name": "Louis Tomlinson",
+                "id": 84279963,
+                "id_str": "84279963",
+                "indices": [
+                    20,
+                    36
+                ]
+            },
+            {
+                "screen_name": "MTV",
+                "name": "MTV",
+                "id": 2367911,
+                "id_str": "2367911",
+                "indices": [
+                    37,
+                    41
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415366405864763401,
+    "in_reply_to_status_id_str": "1415366405864763401",
+    "in_reply_to_user_id": 1332139176830136320,
+    "in_reply_to_user_id_str": "1332139176830136320",
+    "in_reply_to_screen_name": "LTPEAKYGF",
+    "user": {
+        "id": 1332139176830136320,
+        "id_str": "1332139176830136320",
+        "name": "dana laburando",
+        "screen_name": "LTPEAKYGF",
+        "location": "",
+        "description": "\ud83d\uddf3\ufe0f\ud83e\uddfc|| @91LOUISGF",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2989,
+        "friends_count": 2639,
+        "listed_count": 35,
+        "created_at": "Fri Nov 27 01:48:39 +0000 2020",
+        "favourites_count": 18015,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18142,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414251481528770560/cyBUuKJV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414251481528770560/cyBUuKJV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1332139176830136320/1623189990",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

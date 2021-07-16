@@ -1,0 +1,259 @@
+{
+    "created_at": "Wed Jul 14 16:18:34 +0000 2021",
+    "id": 1415344983205466114,
+    "id_str": "1415344983205466114",
+    "full_text": "RT @lorenaecbr: @FelipeMiguelBA Yo vine por la #Pfizer y les ahorro esas vacs berretas que est\u00e1n dando, no reclaman por nosotros #VaradosEn\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Pfizer",
+                "indices": [
+                    47,
+                    54
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lorenaecbr",
+                "name": "Lore",
+                "id": 574150637,
+                "id_str": "574150637",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "FelipeMiguelBA",
+                "name": "Felipe Miguel",
+                "id": 288342621,
+                "id_str": "288342621",
+                "indices": [
+                    16,
+                    31
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1330626447359270913,
+        "id_str": "1330626447359270913",
+        "name": "\ud83c\udde6\ud83c\uddf7\ud83c\udde6\ud83c\uddf7\ud83c\udde6\ud83c\uddf7A NO AFLOJAR, FALTA POCO!!!\ud83c\udde6\ud83c\uddf7\ud83c\udde6\ud83c\uddf7\ud83d\ude08",
+        "screen_name": "Yuli11074",
+        "location": "",
+        "description": "Cuenta reemplazo hasta que recupere la otra. Sino seguiremos por aca. PERO NO ME VOY A CALLAR.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3230,
+        "friends_count": 4241,
+        "listed_count": 1,
+        "created_at": "Sun Nov 22 21:37:35 +0000 2020",
+        "favourites_count": 30680,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22415,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330626962298195971/-gmDsiY8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330626962298195971/-gmDsiY8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:48:57 +0000 2021",
+        "id": 1415307330913177609,
+        "id_str": "1415307330913177609",
+        "full_text": "@FelipeMiguelBA Yo vine por la #Pfizer y les ahorro esas vacs berretas que est\u00e1n dando, no reclaman por nosotros #VaradosEnElExterior",
+        "truncated": false,
+        "display_text_range": [
+            16,
+            133
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Pfizer",
+                    "indices": [
+                        31,
+                        38
+                    ]
+                },
+                {
+                    "text": "VaradosEnElExterior",
+                    "indices": [
+                        113,
+                        133
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FelipeMiguelBA",
+                    "name": "Felipe Miguel",
+                    "id": 288342621,
+                    "id_str": "288342621",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415301616048222208,
+        "in_reply_to_status_id_str": "1415301616048222208",
+        "in_reply_to_user_id": 288342621,
+        "in_reply_to_user_id_str": "288342621",
+        "in_reply_to_screen_name": "FelipeMiguelBA",
+        "user": {
+            "id": 574150637,
+            "id_str": "574150637",
+            "name": "Lore",
+            "screen_name": "lorenaecbr",
+            "location": "Miami, FL",
+            "description": "\u201cNada cambia la conducta como el dolor. Quiz\u00e1s el dolor nos pueda salvar\u201d. No avivo giles! Taurina y rencorosa. #VacunadaConPfizer #VarameEsssta",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3261,
+            "friends_count": 4222,
+            "listed_count": 0,
+            "created_at": "Tue May 08 02:54:48 +0000 2012",
+            "favourites_count": 49870,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14571,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411822997111984133/41CEyhkQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411822997111984133/41CEyhkQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/574150637/1625439808",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "2bc7c264a080898b",
+            "url": "https://api.twitter.com/1.1/geo/id/2bc7c264a080898b.json",
+            "place_type": "city",
+            "name": "Hollywood",
+            "full_name": "Hollywood, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.248975,
+                            25.9862279
+                        ],
+                        [
+                            -80.107808,
+                            25.9862279
+                        ],
+                        [
+                            -80.107808,
+                            26.093132
+                        ],
+                        [
+                            -80.248975,
+                            26.093132
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

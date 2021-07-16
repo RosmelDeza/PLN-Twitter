@@ -1,0 +1,307 @@
+{
+    "created_at": "Wed Jul 14 16:26:29 +0000 2021",
+    "id": 1415346973847158784,
+    "id_str": "1415346973847158784",
+    "full_text": "RT @gorka_orive: Pfizer sugiere la necesidad de una 3\u00aa dosis de refuerzo sin presentar por el momento evidencias que lo demuestre. La FDA y\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gorka_orive",
+                "name": "Gorka Orive",
+                "id": 762003790409166848,
+                "id_str": "762003790409166848",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2290387188,
+        "id_str": "2290387188",
+        "name": "FelixGM",
+        "screen_name": "FeG_MO",
+        "location": "Veracruz, Veracruz de Ignacio ",
+        "description": "Maestro en ciencias m\u00e9dicas. Medicina, ciencia, cultura, sociedad",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1252,
+        "friends_count": 317,
+        "listed_count": 55,
+        "created_at": "Tue Jan 14 00:29:09 +0000 2014",
+        "favourites_count": 9723,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15582,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/455399036996943873/iGCqJFp1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/455399036996943873/iGCqJFp1_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 07:27:06 +0000 2021",
+        "id": 1414848848388923393,
+        "id_str": "1414848848388923393",
+        "full_text": "Pfizer sugiere la necesidad de una 3\u00aa dosis de refuerzo sin presentar por el momento evidencias que lo demuestre. La FDA y CDC de EEUU lo rechazan. Israel, en cambio, promueve la dosis \"extra\" en pacientes vulnerables (trasplantados y con inmunodeficiencias). https://t.co/r9v4kmpkSe",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            259
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414848129548132352,
+                    "id_str": "1414848129548132352",
+                    "indices": [
+                        260,
+                        283
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6KM4KzXoAA1VF1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6KM4KzXoAA1VF1.jpg",
+                    "url": "https://t.co/r9v4kmpkSe",
+                    "display_url": "pic.twitter.com/r9v4kmpkSe",
+                    "expanded_url": "https://twitter.com/gorka_orive/status/1414848848388923393/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 346,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 610,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 705,
+                            "h": 1387,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414848129548132352,
+                    "id_str": "1414848129548132352",
+                    "indices": [
+                        260,
+                        283
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6KM4KzXoAA1VF1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6KM4KzXoAA1VF1.jpg",
+                    "url": "https://t.co/r9v4kmpkSe",
+                    "display_url": "pic.twitter.com/r9v4kmpkSe",
+                    "expanded_url": "https://twitter.com/gorka_orive/status/1414848848388923393/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 346,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 610,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 705,
+                            "h": 1387,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414848736484855812,
+                    "id_str": "1414848736484855812",
+                    "indices": [
+                        260,
+                        283
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6KNbf0XEAQNDwi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6KNbf0XEAQNDwi.jpg",
+                    "url": "https://t.co/r9v4kmpkSe",
+                    "display_url": "pic.twitter.com/r9v4kmpkSe",
+                    "expanded_url": "https://twitter.com/gorka_orive/status/1414848848388923393/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 673,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1188,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1188,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 762003790409166848,
+            "id_str": "762003790409166848",
+            "name": "Gorka Orive",
+            "screen_name": "gorka_orive",
+            "location": "Vitoria-Gasteiz, (Spain)",
+            "description": "Associate Prof. Pharmacy @upvehu | Scientist | Advisor | Founder of Geroa Diagnostics in #Alzheimer (https://t.co/N4O9Jua3Bl) | Tweets are mine",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/N4O9Jua3Bl",
+                            "expanded_url": "http://www.geroa.net",
+                            "display_url": "geroa.net",
+                            "indices": [
+                                101,
+                                124
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 66771,
+            "friends_count": 2880,
+            "listed_count": 816,
+            "created_at": "Sat Aug 06 19:13:55 +0000 2016",
+            "favourites_count": 22024,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 16159,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408834776535011330/SnRHnRWi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408834776535011330/SnRHnRWi_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/762003790409166848/1481635116",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 147,
+        "favorite_count": 258,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 147,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

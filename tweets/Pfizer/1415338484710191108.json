@@ -1,0 +1,475 @@
+{
+    "created_at": "Wed Jul 14 15:52:45 +0000 2021",
+    "id": 1415338484710191108,
+    "id_str": "1415338484710191108",
+    "full_text": "RT @CarmenAColeman: Seguro esto ya lo sabe @lopezobrador_  La multinacional #Blackrock es consejera del gobierno de \ud83c\uddeb\ud83c\uddf7 para la reforma de p\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Blackrock",
+                "indices": [
+                    76,
+                    86
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CarmenAColeman",
+                "name": "Carmen A. Coleman",
+                "id": 350149869,
+                "id_str": "350149869",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "lopezobrador_",
+                "name": "Andr\u00e9s Manuel",
+                "id": 82119937,
+                "id_str": "82119937",
+                "indices": [
+                    43,
+                    57
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 153132108,
+        "id_str": "153132108",
+        "name": "H\u00c9CTOR",
+        "screen_name": "hectorsmx",
+        "location": "COATZACOALCOS, MEXICO",
+        "description": "... amigo de causas perdidas desde aquel Mayo de Paris ...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4263,
+        "friends_count": 4834,
+        "listed_count": 153,
+        "created_at": "Mon Jun 07 19:30:20 +0000 2010",
+        "favourites_count": 413049,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 300284,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/988199484331978753/BObF--Hs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/988199484331978753/BObF--Hs_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 10:39:17 +0000 2021",
+        "id": 1415259599653986304,
+        "id_str": "1415259599653986304",
+        "full_text": "Seguro esto ya lo sabe @lopezobrador_  La multinacional #Blackrock es consejera del gobierno de \ud83c\uddeb\ud83c\uddf7 para la reforma de pensiones; accionista de #Gilead (Remdesivir) y de #Pfizer Cc: @marvinicio @soluterionte @4T_Mexico_ @hectorsmx @MicaelaTacconi @ash_rooe @gurrutiar @Centauri_1 https://t.co/kTa0Wl2jXP",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Blackrock",
+                    "indices": [
+                        56,
+                        66
+                    ]
+                },
+                {
+                    "text": "Gilead",
+                    "indices": [
+                        143,
+                        150
+                    ]
+                },
+                {
+                    "text": "Pfizer",
+                    "indices": [
+                        169,
+                        176
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "lopezobrador_",
+                    "name": "Andr\u00e9s Manuel",
+                    "id": 82119937,
+                    "id_str": "82119937",
+                    "indices": [
+                        23,
+                        37
+                    ]
+                },
+                {
+                    "screen_name": "marvinicio",
+                    "name": "Marco Vinicio\u00ae",
+                    "id": 164417762,
+                    "id_str": "164417762",
+                    "indices": [
+                        181,
+                        192
+                    ]
+                },
+                {
+                    "screen_name": "soluterionte",
+                    "name": "Eduardo Sanguinetti",
+                    "id": 235406256,
+                    "id_str": "235406256",
+                    "indices": [
+                        193,
+                        206
+                    ]
+                },
+                {
+                    "screen_name": "4T_Mexico_",
+                    "name": "Manolo 4T",
+                    "id": 1687413566,
+                    "id_str": "1687413566",
+                    "indices": [
+                        207,
+                        218
+                    ]
+                },
+                {
+                    "screen_name": "hectorsmx",
+                    "name": "H\u00c9CTOR",
+                    "id": 153132108,
+                    "id_str": "153132108",
+                    "indices": [
+                        219,
+                        229
+                    ]
+                },
+                {
+                    "screen_name": "MicaelaTacconi",
+                    "name": "MicaelaTacconi",
+                    "id": 1370063970,
+                    "id_str": "1370063970",
+                    "indices": [
+                        230,
+                        245
+                    ]
+                },
+                {
+                    "screen_name": "ash_rooe",
+                    "name": "Rocio Ash",
+                    "id": 849683766666698752,
+                    "id_str": "849683766666698752",
+                    "indices": [
+                        246,
+                        255
+                    ]
+                },
+                {
+                    "screen_name": "gurrutiar",
+                    "name": "gustavo urrutia",
+                    "id": 101655614,
+                    "id_str": "101655614",
+                    "indices": [
+                        256,
+                        266
+                    ]
+                },
+                {
+                    "screen_name": "Centauri_1",
+                    "name": "Carnero",
+                    "id": 829355783141744642,
+                    "id_str": "829355783141744642",
+                    "indices": [
+                        267,
+                        278
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/kTa0Wl2jXP",
+                    "expanded_url": "https://twitter.com/LaurentOzon/status/1414853361392885760",
+                    "display_url": "twitter.com/LaurentOzon/st\u2026",
+                    "indices": [
+                        279,
+                        302
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 350149869,
+            "id_str": "350149869",
+            "name": "Carmen A. Coleman",
+            "screen_name": "CarmenAColeman",
+            "location": "Francia",
+            "description": "Ex-estudiante de aviaci\u00f3n; pintora y escultora; interesada en el buen teatro y la buena literatura; m\u00fasica, poes\u00eda, ecolog\u00eda, gastronom\u00eda y el mundo animal.",
+            "url": "https://t.co/3UBWPqzvce",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/3UBWPqzvce",
+                            "expanded_url": "https://www.amazon.com/s?k=The+Miracle+Carder&i=stripbooks-intl-ship&ref=nb_sb_noss",
+                            "display_url": "amazon.com/s?k=The+Miracl\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4639,
+            "friends_count": 3106,
+            "listed_count": 134,
+            "created_at": "Sun Aug 07 08:37:39 +0000 2011",
+            "favourites_count": 99000,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 215700,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/636582458176221184/2uRQQx1e_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/636582458176221184/2uRQQx1e_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414853361392885760,
+        "quoted_status_id_str": "1414853361392885760",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 07:45:02 +0000 2021",
+            "id": 1414853361392885760,
+            "id_str": "1414853361392885760",
+            "full_text": "Le saviez-vous ? #Blackrock est \u00e0 la fois conseiller du gouvernement pour la r\u00e9forme des retraites, actionnaire de #Gilead (Remdesivir) et de #Pfizer. #14Juillet #Macron",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                169
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Blackrock",
+                        "indices": [
+                            17,
+                            27
+                        ]
+                    },
+                    {
+                        "text": "Gilead",
+                        "indices": [
+                            115,
+                            122
+                        ]
+                    },
+                    {
+                        "text": "Pfizer",
+                        "indices": [
+                            142,
+                            149
+                        ]
+                    },
+                    {
+                        "text": "14Juillet",
+                        "indices": [
+                            151,
+                            161
+                        ]
+                    },
+                    {
+                        "text": "Macron",
+                        "indices": [
+                            162,
+                            169
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 200386708,
+                "id_str": "200386708",
+                "name": "Laurent Ozon",
+                "screen_name": "LaurentOzon",
+                "location": "Ile d\u2019Arz",
+                "description": "N\u00e9andertalien adepte des bains dans l\u2019Atlantique Nord en hiver. Sinon ex-BSPP, 4 gosses, essayiste, conf\u00e9rencier et entrepreneur.",
+                "url": "https://t.co/DczmgN6Piu",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/DczmgN6Piu",
+                                "expanded_url": "http://www.ekouter.net/ecologie-de-la-culture-avec-laurent-ozon-sur-telegram-5264",
+                                "display_url": "ekouter.net/ecologie-de-la\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 11281,
+                "friends_count": 649,
+                "listed_count": 130,
+                "created_at": "Sat Oct 09 04:37:45 +0000 2010",
+                "favourites_count": 12262,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 20578,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412444585616359427/PAZgAcBU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412444585616359427/PAZgAcBU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/200386708/1625503175",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2432,
+            "favorite_count": 3650,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414853361392885760,
+    "quoted_status_id_str": "1414853361392885760",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

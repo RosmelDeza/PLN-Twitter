@@ -1,0 +1,140 @@
+{
+    "created_at": "Wed Jul 14 16:02:53 +0000 2021",
+    "id": 1415341037636235266,
+    "id_str": "1415341037636235266",
+    "full_text": "@JMarLozaVOX @martanietob @pfizer_spain \ud83d\ude05 no para un concierto he hecho tanta cola\u2026",
+    "truncated": false,
+    "display_text_range": [
+        40,
+        83
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JMarLozaVOX",
+                "name": "Javier Mart\u00ednez",
+                "id": 270321211,
+                "id_str": "270321211",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "martanietob",
+                "name": "Marta Nieto",
+                "id": 294710899,
+                "id_str": "294710899",
+                "indices": [
+                    13,
+                    25
+                ]
+            },
+            {
+                "screen_name": "pfizer_spain",
+                "name": "Pfizer Espa\u00f1a",
+                "id": 123278276,
+                "id_str": "123278276",
+                "indices": [
+                    26,
+                    39
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415336000247803910,
+    "in_reply_to_status_id_str": "1415336000247803910",
+    "in_reply_to_user_id": 270321211,
+    "in_reply_to_user_id_str": "270321211",
+    "in_reply_to_screen_name": "JMarLozaVOX",
+    "user": {
+        "id": 535388454,
+        "id_str": "535388454",
+        "name": "Cesar BH",
+        "screen_name": "wordstime",
+        "location": "Burgos, Espa\u00f1a",
+        "description": "So\u00f1ando un mundo mejor y trabajando por que sea posible. \ud83c\uddea\ud83c\uddf8 Concejal en el @Aytoburgos de @populares #BurgosEsMas https://t.co/11KJQpwZo5 #M\u00e1sPlurales",
+        "url": "https://t.co/asNhlyAiff",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/asNhlyAiff",
+                        "expanded_url": "http://www.ppburgosciudad.com",
+                        "display_url": "ppburgosciudad.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/11KJQpwZo5",
+                        "expanded_url": "http://instagram.com/wordstime",
+                        "display_url": "instagram.com/wordstime",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1133,
+        "friends_count": 746,
+        "listed_count": 77,
+        "created_at": "Sat Mar 24 12:36:19 +0000 2012",
+        "favourites_count": 3794,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25205,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000546995871/bcc63b6614da163c7a9d5605e54010ce_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000546995871/bcc63b6614da163c7a9d5605e54010ce_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/535388454/1622923836",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

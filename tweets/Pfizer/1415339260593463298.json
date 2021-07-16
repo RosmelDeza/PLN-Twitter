@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 15:55:50 +0000 2021",
+    "id": 1415339260593463298,
+    "id_str": "1415339260593463298",
+    "full_text": "@alnahir79 As\u00ed es, debes estar pendiente ya que Pfizer est\u00e1 evaluando sacar una tercera dosis, para aumentar la protecci\u00f3n contra las variantes.",
+    "truncated": false,
+    "display_text_range": [
+        11,
+        144
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alnahir79",
+                "name": "Tarrito de Pecas",
+                "id": 1265242794,
+                "id_str": "1265242794",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415336409586614279,
+    "in_reply_to_status_id_str": "1415336409586614279",
+    "in_reply_to_user_id": 1265242794,
+    "in_reply_to_user_id_str": "1265242794",
+    "in_reply_to_screen_name": "alnahir79",
+    "user": {
+        "id": 2245715521,
+        "id_str": "2245715521",
+        "name": "Belmont",
+        "screen_name": "belmontve1",
+        "location": "San Diego, Venezuela",
+        "description": "Yo soy responsable de lo que digo, no de lo que tu entiendas. publico muchas pendejadas.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 736,
+        "friends_count": 1015,
+        "listed_count": 0,
+        "created_at": "Sat Dec 14 14:55:14 +0000 2013",
+        "favourites_count": 9515,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8556,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401896756904931334/q7agSGjy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401896756904931334/q7agSGjy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2245715521/1557487904",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

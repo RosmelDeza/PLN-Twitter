@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 14 15:50:03 +0000 2021",
+    "id": 1415337806961025028,
+    "id_str": "1415337806961025028",
+    "full_text": "AUMENTO DE PECHOS | Una de las inoculadas a la vez que otra indic\u00f3 que \"sus pechos aumentaron casi dos tallas\". \u00bfQu\u00e9 dicen los expertos?\n\n#LaRadioQueEligenLosTucumanos\ud83d\udcfb\n\n\ud83c\udfa7 En vivo \ud83d\udc49\ud83c\udffd https://t.co/99JGTIecmf\n\nhttps://t.co/1HnYU6CeSY",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        231
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaRadioQueEligenLosTucumanos",
+                "indices": [
+                    138,
+                    167
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/99JGTIecmf",
+                "expanded_url": "http://radiotucuman.com/envivo/",
+                "display_url": "radiotucuman.com/envivo/",
+                "indices": [
+                    183,
+                    206
+                ]
+            },
+            {
+                "url": "https://t.co/1HnYU6CeSY",
+                "expanded_url": "https://radiotucuman.com/nota/14418/pfizer-en-noruega-las-mujeres-aseguran-tener-quotsenos-mas-grandes-quot-despues-de-recibir-la-vacuna",
+                "display_url": "radiotucuman.com/nota/14418/pfi\u2026",
+                "indices": [
+                    208,
+                    231
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 961954947595231232,
+        "id_str": "961954947595231232",
+        "name": "\ud83c\udfa4 La97.1 #RadioTucum\u00e1n",
+        "screen_name": "rtuc971",
+        "location": "Tucum\u00e1n, Argentina",
+        "description": "\ud83d\udcf2 WhatsApp 381 6 90 90 15 \n\ud83c\udfa7 FM 97.1\n\ud83d\udda5\ufe0f La radio que eligen los tucumanos \ud83d\udcfb",
+        "url": "https://t.co/gWZjoi4qSB",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/gWZjoi4qSB",
+                        "expanded_url": "https://www.radiotucuman.com",
+                        "display_url": "radiotucuman.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2368,
+        "friends_count": 1485,
+        "listed_count": 17,
+        "created_at": "Fri Feb 09 13:28:26 +0000 2018",
+        "favourites_count": 853,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20838,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402912136599330816/-O-Iczfa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402912136599330816/-O-Iczfa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/961954947595231232/1618941719",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

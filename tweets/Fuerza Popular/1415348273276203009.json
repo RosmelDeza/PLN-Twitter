@@ -1,0 +1,357 @@
+{
+    "created_at": "Wed Jul 14 16:31:38 +0000 2021",
+    "id": 1415348273276203009,
+    "id_str": "1415348273276203009",
+    "full_text": "RT @PBOPeru: PBO\n\ud83d\udc49 Per\u00fa Libre pide al JNE que resuelva apelaciones de Fuerza Popular a las actas de proclamaci\u00f3n \u201ca la brevedad\u201d\n\n\ud83d\udd34 https:/\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PBOPeru",
+                "name": "PBO",
+                "id": 2401702404,
+                "id_str": "2401702404",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1284806659299315713,
+        "id_str": "1284806659299315713",
+        "name": "John Rios",
+        "screen_name": "JohnRio19110675",
+        "location": "",
+        "description": "Querer es Poder!!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 24,
+        "friends_count": 134,
+        "listed_count": 0,
+        "created_at": "Sun Jul 19 11:06:13 +0000 2020",
+        "favourites_count": 7359,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9675,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1284806915705503746/f71Agwga_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284806915705503746/f71Agwga_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:29:42 +0000 2021",
+        "id": 1415347783821824004,
+        "id_str": "1415347783821824004",
+        "full_text": "PBO\n\ud83d\udc49 Per\u00fa Libre pide al JNE que resuelva apelaciones de Fuerza Popular a las actas de proclamaci\u00f3n \u201ca la brevedad\u201d\n\n\ud83d\udd34 https://t.co/r2bizNG9Ql\n\ud83d\udcfb 91.9FM \u00a1LA RADIO CON FE!\n\ud83c\udf0d https://t.co/jqHQWsmitM\n#Butters #URGENTE #LO\u00daLTIMO #Per\u00fa #Willax #Castillo #Keiko #ONPE #PBO https://t.co/U1oBI4CyZa",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            265
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Butters",
+                    "indices": [
+                        196,
+                        204
+                    ]
+                },
+                {
+                    "text": "URGENTE",
+                    "indices": [
+                        205,
+                        213
+                    ]
+                },
+                {
+                    "text": "LO\u00daLTIMO",
+                    "indices": [
+                        214,
+                        223
+                    ]
+                },
+                {
+                    "text": "Per\u00fa",
+                    "indices": [
+                        224,
+                        229
+                    ]
+                },
+                {
+                    "text": "Willax",
+                    "indices": [
+                        230,
+                        237
+                    ]
+                },
+                {
+                    "text": "Castillo",
+                    "indices": [
+                        238,
+                        247
+                    ]
+                },
+                {
+                    "text": "Keiko",
+                    "indices": [
+                        248,
+                        254
+                    ]
+                },
+                {
+                    "text": "ONPE",
+                    "indices": [
+                        255,
+                        260
+                    ]
+                },
+                {
+                    "text": "PBO",
+                    "indices": [
+                        261,
+                        265
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/r2bizNG9Ql",
+                    "expanded_url": "https://youtu.be/hFK4pDE_J2w",
+                    "display_url": "youtu.be/hFK4pDE_J2w",
+                    "indices": [
+                        119,
+                        142
+                    ]
+                },
+                {
+                    "url": "https://t.co/jqHQWsmitM",
+                    "expanded_url": "http://pboradio.com",
+                    "display_url": "pboradio.com",
+                    "indices": [
+                        172,
+                        195
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415347776330809348,
+                    "id_str": "1415347776330809348",
+                    "indices": [
+                        266,
+                        289
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RTTcHWQAQXlHI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RTTcHWQAQXlHI.jpg",
+                    "url": "https://t.co/U1oBI4CyZa",
+                    "display_url": "pic.twitter.com/U1oBI4CyZa",
+                    "expanded_url": "https://twitter.com/PBOPeru/status/1415347783821824004/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 595,
+                            "h": 842,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 595,
+                            "h": 842,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 481,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415347776330809348,
+                    "id_str": "1415347776330809348",
+                    "indices": [
+                        266,
+                        289
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RTTcHWQAQXlHI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RTTcHWQAQXlHI.jpg",
+                    "url": "https://t.co/U1oBI4CyZa",
+                    "display_url": "pic.twitter.com/U1oBI4CyZa",
+                    "expanded_url": "https://twitter.com/PBOPeru/status/1415347783821824004/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 595,
+                            "h": 842,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 595,
+                            "h": 842,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 481,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2401702404,
+            "id_str": "2401702404",
+            "name": "PBO",
+            "screen_name": "PBOPeru",
+            "location": "Peru",
+            "description": "Medio de comunicaci\u00f3n independiente \ud83d\uddde\ufe0fInformaci\u00f3n y opini\u00f3n\ud83d\udd0e \u27a1\ufe0fConductores del programa no necesariamente suscriben los tuits #WhatsAppPBO: +51 1 6449550",
+            "url": "https://t.co/bSG9mUJ3pH",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/bSG9mUJ3pH",
+                            "expanded_url": "http://www.pboradio.com",
+                            "display_url": "pboradio.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 451723,
+            "friends_count": 2679,
+            "listed_count": 625,
+            "created_at": "Fri Mar 21 15:05:53 +0000 2014",
+            "favourites_count": 3452,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 71446,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1124641454595424256/X0UrW8S2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124641454595424256/X0UrW8S2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2401702404/1557188169",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

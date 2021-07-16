@@ -1,0 +1,301 @@
+{
+    "created_at": "Wed Jul 14 16:16:11 +0000 2021",
+    "id": 1415344381964468225,
+    "id_str": "1415344381964468225",
+    "full_text": "RT @Ojo_Publico: #OjoAlDato Representante de la sala de juegos de azar Emporium financi\u00f3 23 apelaciones de Fuerza Popular pagando S/15.180.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OjoAlDato",
+                "indices": [
+                    17,
+                    27
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ojo_Publico",
+                "name": "OjoP\u00fablico",
+                "id": 2582629795,
+                "id_str": "2582629795",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1000395026,
+        "id_str": "1000395026",
+        "name": "El chico del lunar",
+        "screen_name": "OscarSamanamud",
+        "location": "Lima, Peru",
+        "description": "dise\u00f1ador gr\u00e1fico, fot\u00f3grafo ocasional, amante de las cosas bellas, el invierno, los perros, las pel\u00edculas antiguas. sarc\u00e1stico.\nSobreviviente de VIH.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2057,
+        "friends_count": 1757,
+        "listed_count": 43,
+        "created_at": "Sun Dec 09 22:59:38 +0000 2012",
+        "favourites_count": 88693,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 47687,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150727598214922245/I0UNeHLL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150727598214922245/I0UNeHLL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1000395026/1499183823",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 23:35:32 +0000 2021",
+        "id": 1415092559563608068,
+        "id_str": "1415092559563608068",
+        "full_text": "#OjoAlDato Representante de la sala de juegos de azar Emporium financi\u00f3 23 apelaciones de Fuerza Popular pagando S/15.180.\n\n\ud83d\udc49 https://t.co/V5KVi2aLmn\n\ud83d\udcf8: Google Maps https://t.co/i63AwQxNdY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            164
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OjoAlDato",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/V5KVi2aLmn",
+                    "expanded_url": "http://bit.ly/KFtmcsFinan",
+                    "display_url": "bit.ly/KFtmcsFinan",
+                    "indices": [
+                        126,
+                        149
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415092313680982016,
+                    "id_str": "1415092313680982016",
+                    "indices": [
+                        165,
+                        188
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Nq9jlXMAAIvNL.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Nq9jlXMAAIvNL.png",
+                    "url": "https://t.co/i63AwQxNdY",
+                    "display_url": "pic.twitter.com/i63AwQxNdY",
+                    "expanded_url": "https://twitter.com/Ojo_Publico/status/1415092559563608068/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 875,
+                            "h": 838,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 651,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 875,
+                            "h": 838,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415092313680982016,
+                    "id_str": "1415092313680982016",
+                    "indices": [
+                        165,
+                        188
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Nq9jlXMAAIvNL.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Nq9jlXMAAIvNL.png",
+                    "url": "https://t.co/i63AwQxNdY",
+                    "display_url": "pic.twitter.com/i63AwQxNdY",
+                    "expanded_url": "https://twitter.com/Ojo_Publico/status/1415092559563608068/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 875,
+                            "h": 838,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 651,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 875,
+                            "h": 838,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2582629795,
+            "id_str": "2582629795",
+            "name": "OjoP\u00fablico",
+            "screen_name": "Ojo_Publico",
+            "location": "Lima, Per\u00fa",
+            "description": "Investigamos el poder y sus abusos. Premios globales de periodismo de datos 2015 y 2020, DDHH2015, SIP2017-2018, LASA2019. #HazteAliadoDeOP @ojolab @aliadosdeOP",
+            "url": "https://t.co/Q87siURmbD",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Q87siURmbD",
+                            "expanded_url": "https://ojo-publico.com/aliados",
+                            "display_url": "ojo-publico.com/aliados",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 166767,
+            "friends_count": 450,
+            "listed_count": 906,
+            "created_at": "Sun Jun 22 17:59:59 +0000 2014",
+            "favourites_count": 4017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 72806,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1338921662679486466/FkBE1QbY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338921662679486466/FkBE1QbY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2582629795/1617244523",
+            "profile_link_color": "030000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 526,
+        "favorite_count": 1029,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 526,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,263 @@
+{
+    "created_at": "Wed Jul 14 15:47:30 +0000 2021",
+    "id": 1415337165610012673,
+    "id_str": "1415337165610012673",
+    "full_text": "RT @almagoch: Tailandia \ud83c\uddf9\ud83c\udded aplicar\u00e1 una dosis de la #VacunaCOVID19 de @AstraZeneca a aquellos que recibieron una primera dosis de @Sinovac.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "VacunaCOVID19",
+                "indices": [
+                    52,
+                    66
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "almagoch",
+                "name": "Alberto",
+                "id": 116928096,
+                "id_str": "116928096",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "AstraZeneca",
+                "name": "AstraZeneca",
+                "id": 62465691,
+                "id_str": "62465691",
+                "indices": [
+                    70,
+                    82
+                ]
+            },
+            {
+                "screen_name": "Sinovac",
+                "name": "Sinovac Biotech",
+                "id": 52666548,
+                "id_str": "52666548",
+                "indices": [
+                    130,
+                    138
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1529231328,
+        "id_str": "1529231328",
+        "name": "kirn \ud83c\udff9",
+        "screen_name": "kirn08",
+        "location": "",
+        "description": "\ud83d\udc69\ud83c\udffb\u200d\u2695\ufe0f \ud83c\uddf2\ud83c\uddfd Cool of me to try, pretty cool I'm still alive",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 122,
+        "friends_count": 1291,
+        "listed_count": 0,
+        "created_at": "Wed Jun 19 00:49:24 +0000 2013",
+        "favourites_count": 6823,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2254,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396683029259685891/Zk8U-UqX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396683029259685891/Zk8U-UqX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529231328/1514908083",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:15:28 +0000 2021",
+        "id": 1415329104065437697,
+        "id_str": "1415329104065437697",
+        "full_text": "Tailandia \ud83c\uddf9\ud83c\udded aplicar\u00e1 una dosis de la #VacunaCOVID19 de @AstraZeneca a aquellos que recibieron una primera dosis de @Sinovac.\n \nFrancia \ud83c\udde8\ud83c\uddf5 e Israel \ud83c\uddee\ud83c\uddf1 3 dosis de @pfizer para inmunosuprimidos.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            192
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "VacunaCOVID19",
+                    "indices": [
+                        38,
+                        52
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AstraZeneca",
+                    "name": "AstraZeneca",
+                    "id": 62465691,
+                    "id_str": "62465691",
+                    "indices": [
+                        56,
+                        68
+                    ]
+                },
+                {
+                    "screen_name": "Sinovac",
+                    "name": "Sinovac Biotech",
+                    "id": 52666548,
+                    "id_str": "52666548",
+                    "indices": [
+                        116,
+                        124
+                    ]
+                },
+                {
+                    "screen_name": "pfizer",
+                    "name": "Pfizer Inc.",
+                    "id": 56488059,
+                    "id_str": "56488059",
+                    "indices": [
+                        162,
+                        169
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 116928096,
+            "id_str": "116928096",
+            "name": "Alberto",
+            "screen_name": "almagoch",
+            "location": "CDMX",
+            "description": "Cirujano. Me encanta la Medicina. Tapat\u00edo. \nI\u00b4m a Twin. No disclosures. Mis tweets son a t\u00edtulo personal!",
+            "url": "https://t.co/VfKugQlew2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/VfKugQlew2",
+                            "expanded_url": "https://www.researchgate.net/profile/Alberto_Gonzalez_Chavez2?ev=hdr_xprf&_sg=DxEOs_Kozan0S1vKtHNsgg",
+                            "display_url": "researchgate.net/profile/Albert\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30669,
+            "friends_count": 3046,
+            "listed_count": 169,
+            "created_at": "Wed Feb 24 00:54:56 +0000 2010",
+            "favourites_count": 27410,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 39287,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1C1207",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409549687707865090/RaKkNKzw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409549687707865090/RaKkNKzw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/116928096/1555391645",
+            "profile_link_color": "587D95",
+            "profile_sidebar_border_color": "C1C9CC",
+            "profile_sidebar_fill_color": "150D05",
+            "profile_text_color": "C1C9CC",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 29,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}
