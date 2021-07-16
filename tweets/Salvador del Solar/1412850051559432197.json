@@ -1,0 +1,203 @@
+{
+    "created_at": "Wed Jul 07 19:04:36 +0000 2021",
+    "id": 1412850051559432197,
+    "id_str": "1412850051559432197",
+    "full_text": "RT @jachq: @MMissCupcakes Considero que a pesar de no compartir sus ideas pol\u00edticas Salvador del Solar me parece un tipo que se ha comporta\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jachq",
+                "name": "jesus ALberto",
+                "id": 1267862582,
+                "id_str": "1267862582",
+                "indices": [
+                    3,
+                    9
+                ]
+            },
+            {
+                "screen_name": "MMissCupcakes",
+                "name": "Paloma \ud83c\uddf5\ud83c\uddea",
+                "id": 41979762,
+                "id_str": "41979762",
+                "indices": [
+                    11,
+                    25
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1307098500589596676,
+        "id_str": "1307098500589596676",
+        "name": "Anel Santiani",
+        "screen_name": "AnelSantiani",
+        "location": "",
+        "description": "Querrer a mi pa\u00eds",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 13,
+        "friends_count": 34,
+        "listed_count": 0,
+        "created_at": "Fri Sep 18 23:26:02 +0000 2020",
+        "favourites_count": 7388,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3761,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 07 02:03:46 +0000 2021",
+        "id": 1412593151538302978,
+        "id_str": "1412593151538302978",
+        "full_text": "@MMissCupcakes Considero que a pesar de no compartir sus ideas pol\u00edticas Salvador del Solar me parece un tipo que se ha comportado de una forma honesta hasta ahora , adem\u00e1s de C\u00e9sar Hildebrant se podr\u00eda decir que es uno de.los pocos periodistas que respeto.",
+        "truncated": false,
+        "display_text_range": [
+            15,
+            257
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MMissCupcakes",
+                    "name": "Paloma \ud83c\uddf5\ud83c\uddea",
+                    "id": 41979762,
+                    "id_str": "41979762",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1412592351931940864,
+        "in_reply_to_status_id_str": "1412592351931940864",
+        "in_reply_to_user_id": 41979762,
+        "in_reply_to_user_id_str": "41979762",
+        "in_reply_to_screen_name": "MMissCupcakes",
+        "user": {
+            "id": 1267862582,
+            "id_str": "1267862582",
+            "name": "jesus ALberto",
+            "screen_name": "jachq",
+            "location": "",
+            "description": "Hincha del club mas popular del Per\u00fa Alianza Lima.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 507,
+            "friends_count": 695,
+            "listed_count": 3,
+            "created_at": "Thu Mar 14 19:56:05 +0000 2013",
+            "favourites_count": 150152,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 31837,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404090507710681090/ei9dQ6vP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404090507710681090/ei9dQ6vP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267862582/1612577080",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

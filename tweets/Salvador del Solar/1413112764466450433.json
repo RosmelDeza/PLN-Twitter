@@ -1,0 +1,107 @@
+{
+    "created_at": "Thu Jul 08 12:28:32 +0000 2021",
+    "id": 1413112764466450433,
+    "id_str": "1413112764466450433",
+    "full_text": "@Tony_Cakes_Peru @Catgambirazio Elegir al TC es atribuci\u00f3n exclusiva del congreso. Nadie puede interferir, menos aun el Poder Judicial y/o Poder Ejecutivo, ni Salvador del Solar. \u00c9ste \u00faltimo, al actor, si ir\u00e1 a la c\u00e1rcel dentro de poco por golpista.",
+    "truncated": false,
+    "display_text_range": [
+        32,
+        249
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Tony_Cakes_Peru",
+                "name": "TONY CAKES PERU",
+                "id": 1331634175292690435,
+                "id_str": "1331634175292690435",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "Catgambirazio",
+                "name": "Catherine",
+                "id": 1180563365237837826,
+                "id_str": "1180563365237837826",
+                "indices": [
+                    17,
+                    31
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1412826190331662336,
+    "in_reply_to_status_id_str": "1412826190331662336",
+    "in_reply_to_user_id": 1331634175292690435,
+    "in_reply_to_user_id_str": "1331634175292690435",
+    "in_reply_to_screen_name": "Tony_Cakes_Peru",
+    "user": {
+        "id": 1909416254,
+        "id_str": "1909416254",
+        "name": "Liam \u15e9\u14aa \u32db",
+        "screen_name": "maldito_j",
+        "location": "Huancavelica, Peru",
+        "description": "\ud83d\udc7b \u043c\u00c5\u0141\u2202\u03b9\u0442\u32db\n\u15e9\u14aa\u15f0 \u2661",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 37,
+        "friends_count": 104,
+        "listed_count": 0,
+        "created_at": "Thu Sep 26 22:39:23 +0000 2013",
+        "favourites_count": 3690,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1727,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407123403371331588/3I9hHVTv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407123403371331588/3I9hHVTv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909416254/1624319466",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,96 @@
+{
+    "created_at": "Sun Jul 11 12:01:34 +0000 2021",
+    "id": 1414193142664998917,
+    "id_str": "1414193142664998917",
+    "full_text": "@Gestionpe Es una flagrante intromisi\u00f3n de un poder del Estado en otro  No hay que ser constitucionalista para darse cuenta. Es lo mismo que hizo Salvador del Solar xon el lagarto para cerrar el Congreso. Esto es una prieba mas que evidente de que vivimos en una dictadura. Esa es lo real.",
+    "truncated": false,
+    "display_text_range": [
+        11,
+        289
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Gestionpe",
+                "name": "Diario Gesti\u00f3n",
+                "id": 110822488,
+                "id_str": "110822488",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414192061910224902,
+    "in_reply_to_status_id_str": "1414192061910224902",
+    "in_reply_to_user_id": 110822488,
+    "in_reply_to_user_id_str": "110822488",
+    "in_reply_to_screen_name": "Gestionpe",
+    "user": {
+        "id": 729167392048353280,
+        "id_str": "729167392048353280",
+        "name": "JHP",
+        "screen_name": "josehep74",
+        "location": "",
+        "description": "He vivido lo suficiente para saber quien es quien en este pais. Ojala mi hijo vea un pais de primer mundo para todos.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 52,
+        "listed_count": 0,
+        "created_at": "Sun May 08 04:33:48 +0000 2016",
+        "favourites_count": 131,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1487,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

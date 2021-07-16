@@ -1,0 +1,203 @@
+{
+    "created_at": "Fri Jul 16 01:22:03 +0000 2021",
+    "id": 1415844143373369350,
+    "id_str": "1415844143373369350",
+    "full_text": "RT @Maritaqg29: @el_analista2020 Salvador del Solar es del club de los \ud83d\udc0a !!!!!",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        78
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Maritaqg29",
+                "name": "Maria del Carmen Q.",
+                "id": 985908773343715328,
+                "id_str": "985908773343715328",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "el_analista2020",
+                "name": "El Analista",
+                "id": 1313270797679681537,
+                "id_str": "1313270797679681537",
+                "indices": [
+                    16,
+                    32
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3098310713,
+        "id_str": "3098310713",
+        "name": "JERIK",
+        "screen_name": "jericos5",
+        "location": "",
+        "description": "EL ALEGRE",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 107,
+        "friends_count": 190,
+        "listed_count": 2,
+        "created_at": "Fri Mar 20 03:42:19 +0000 2015",
+        "favourites_count": 13933,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 48772,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733029618605805570/tfCocyXr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/733029618605805570/tfCocyXr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3098310713/1463602961",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 00:49:09 +0000 2021",
+        "id": 1415835864131833857,
+        "id_str": "1415835864131833857",
+        "full_text": "@el_analista2020 Salvador del Solar es del club de los \ud83d\udc0a !!!!!",
+        "truncated": false,
+        "display_text_range": [
+            17,
+            62
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "el_analista2020",
+                    "name": "El Analista",
+                    "id": 1313270797679681537,
+                    "id_str": "1313270797679681537",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415811662544834572,
+        "in_reply_to_status_id_str": "1415811662544834572",
+        "in_reply_to_user_id": 1313270797679681537,
+        "in_reply_to_user_id_str": "1313270797679681537",
+        "in_reply_to_screen_name": "el_analista2020",
+        "user": {
+            "id": 985908773343715328,
+            "id_str": "985908773343715328",
+            "name": "Maria del Carmen Q.",
+            "screen_name": "Maritaqg29",
+            "location": "San Borja, Peru",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 56,
+            "listed_count": 0,
+            "created_at": "Mon Apr 16 15:52:23 +0000 2018",
+            "favourites_count": 1553,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 497,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1333226958088515589/QXqgdqHb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333226958088515589/QXqgdqHb_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

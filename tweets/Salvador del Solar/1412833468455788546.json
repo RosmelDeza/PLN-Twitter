@@ -1,0 +1,285 @@
+{
+    "created_at": "Wed Jul 07 17:58:42 +0000 2021",
+    "id": 1412833468455788546,
+    "id_str": "1412833468455788546",
+    "full_text": "RT @mariobryceofic: Si en setiembre del 2019 el miserable del actor Salvador del Solar irrumpi\u00f3 de manera patanesca y violando la independe\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mariobryceofic",
+                "name": "MarioBryceArru\u00e9\ud83d\udcfa\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea",
+                "id": 331877263,
+                "id_str": "331877263",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 240402059,
+        "id_str": "240402059",
+        "name": "\u00d1ami\ud83d\udc37",
+        "screen_name": "rosalizfr89",
+        "location": "Per\u00fa",
+        "description": "No busco agradarle a la gente, detesto la victimizaci\u00f3n y todo depende de mi.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 157,
+        "friends_count": 795,
+        "listed_count": 0,
+        "created_at": "Wed Jan 19 21:09:36 +0000 2011",
+        "favourites_count": 32848,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18955,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411900321455091712/JNZYTI3u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411900321455091712/JNZYTI3u_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240402059/1623638779",
+        "profile_link_color": "C72E61",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 07 17:56:53 +0000 2021",
+        "id": 1412833011029118978,
+        "id_str": "1412833011029118978",
+        "full_text": "Si en setiembre del 2019 el miserable del actor Salvador del Solar irrumpi\u00f3 de manera patanesca y violando la independencia de las instituciones, \u00e9sta vez no podr\u00e1n. El congreso votando por los nuevos magistrados del TC. https://t.co/P9dYtQ0nZs",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            220
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1412833009020059651,
+                    "id_str": "1412833009020059651",
+                    "indices": [
+                        221,
+                        244
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5tkIt2WQAMpaA5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5tkIt2WQAMpaA5.jpg",
+                    "url": "https://t.co/P9dYtQ0nZs",
+                    "display_url": "pic.twitter.com/P9dYtQ0nZs",
+                    "expanded_url": "https://twitter.com/mariobryceofic/status/1412833011029118978/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1412833009020059651,
+                    "id_str": "1412833009020059651",
+                    "indices": [
+                        221,
+                        244
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5tkIt2WQAMpaA5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5tkIt2WQAMpaA5.jpg",
+                    "url": "https://t.co/P9dYtQ0nZs",
+                    "display_url": "pic.twitter.com/P9dYtQ0nZs",
+                    "expanded_url": "https://twitter.com/mariobryceofic/status/1412833011029118978/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 331877263,
+            "id_str": "331877263",
+            "name": "MarioBryceArru\u00e9\ud83d\udcfa\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea",
+            "screen_name": "mariobryceofic",
+            "location": "Lima-Per\u00fa",
+            "description": "\u00a9\ufe0fuenta oficial #Periodista #Conductor en @ucinoticias_pe Edici\u00f3n Central. L-V 8 PM https://t.co/AjxAs8FxbF IG:Mario Bryce Oficial/RTs no \ud83d\udcaf pre aval.",
+            "url": "https://t.co/S18EjpImdo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/S18EjpImdo",
+                            "expanded_url": "http://UCI.pe",
+                            "display_url": "UCI.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/AjxAs8FxbF",
+                            "expanded_url": "http://uci.pe",
+                            "display_url": "uci.pe",
+                            "indices": [
+                                84,
+                                107
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 13126,
+            "friends_count": 2361,
+            "listed_count": 170,
+            "created_at": "Fri Jul 08 21:23:04 +0000 2011",
+            "favourites_count": 45528,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 202458,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414307691669905415/kUZNu9kF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414307691669905415/kUZNu9kF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/331877263/1626379957",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 90,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

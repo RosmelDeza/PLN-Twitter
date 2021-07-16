@@ -1,0 +1,183 @@
+{
+    "created_at": "Thu Jul 08 02:32:36 +0000 2021",
+    "id": 1412962793066795009,
+    "id_str": "1412962793066795009",
+    "full_text": "RT @SraPalta: Oe despierten a Salvador del Solar para que haga su entrada a lo WWE en el Congreso, y ya luego vuelva a su cama.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        127
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SraPalta",
+                "name": "Peque\u00f1a y agresiva con la vida",
+                "id": 724428459846590464,
+                "id_str": "724428459846590464",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 164065064,
+        "id_str": "164065064",
+        "name": "Mel",
+        "screen_name": "MELAINTHESKY",
+        "location": "",
+        "description": "Crecen uvas borgo\u00f1a en mi casa. Hay muchos tweets porque tuiteo. Duh!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 299,
+        "friends_count": 1179,
+        "listed_count": 2,
+        "created_at": "Wed Jul 07 23:40:40 +0000 2010",
+        "favourites_count": 13578,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 118000,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1305564387223236608/yF-u2uzF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305564387223236608/yF-u2uzF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164065064/1555722358",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 07 17:04:03 +0000 2021",
+        "id": 1412819713240018958,
+        "id_str": "1412819713240018958",
+        "full_text": "Oe despierten a Salvador del Solar para que haga su entrada a lo WWE en el Congreso, y ya luego vuelva a su cama.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            113
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 724428459846590464,
+            "id_str": "724428459846590464",
+            "name": "Peque\u00f1a y agresiva con la vida",
+            "screen_name": "SraPalta",
+            "location": "Lima, Per\u00fa",
+            "description": "Nac\u00ed, crec\u00ed, me reproduje, as\u00ed que solo me queda una cosa. Estudi\u00e9 derecho gracias a una serie de eventos -ya no tan- desafortunados. Antipatriarcal.25.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16076,
+            "friends_count": 1985,
+            "listed_count": 19,
+            "created_at": "Mon Apr 25 02:42:58 +0000 2016",
+            "favourites_count": 29462,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 33107,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1395127739963822083/n_7-SQPP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395127739963822083/n_7-SQPP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/724428459846590464/1621459442",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 55,
+        "favorite_count": 699,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 55,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

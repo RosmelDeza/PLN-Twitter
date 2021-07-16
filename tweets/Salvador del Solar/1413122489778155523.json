@@ -1,0 +1,107 @@
+{
+    "created_at": "Thu Jul 08 13:07:10 +0000 2021",
+    "id": 1413122489778155523,
+    "id_str": "1413122489778155523",
+    "full_text": "@Lauletras @TC_Peru Los golpistas de 2019 liderados por Salvador del Solar ahora pretende dar un golpe a un poder independiente como el Congreso usando a una jueza prevaricadora y su resoluci\u00f3n express.",
+    "truncated": false,
+    "display_text_range": [
+        20,
+        202
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Lauletras",
+                "name": "Laura Grados \u2604\ufe0f\ud83e\udd96",
+                "id": 132768793,
+                "id_str": "132768793",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "TC_Peru",
+                "name": "Tribunal Constitucional del Per\u00fa",
+                "id": 269982019,
+                "id_str": "269982019",
+                "indices": [
+                    11,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1412826930341163012,
+    "in_reply_to_status_id_str": "1412826930341163012",
+    "in_reply_to_user_id": 132768793,
+    "in_reply_to_user_id_str": "132768793",
+    "in_reply_to_screen_name": "Lauletras",
+    "user": {
+        "id": 886009058435760128,
+        "id_str": "886009058435760128",
+        "name": "Oswi",
+        "screen_name": "ScarletWidow21",
+        "location": "Regi\u00f3n Alola",
+        "description": "Esperando al pr\u00f3ximo Tomb Raider. \ud83d\udc40\nOrgullosamente antilagartos, rojer\u00edo y caviares.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 148,
+        "friends_count": 614,
+        "listed_count": 0,
+        "created_at": "Fri Jul 14 23:46:35 +0000 2017",
+        "favourites_count": 28895,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7390,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401612661142458368/cZvr8nS-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401612661142458368/cZvr8nS-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/886009058435760128/1625874722",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,97 @@
+{
+    "created_at": "Fri Jul 16 00:34:03 +0000 2021",
+    "id": 1415832065120116745,
+    "id_str": "1415832065120116745",
+    "full_text": "@Gabriel_Floyd Si Salvador del Solar lo fue (no digo que est\u00e9 bien o mal) porqu\u00e9 no la se\u00f1ora Martina portocarrero, si ella es graduada en educaci\u00f3n.",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        149
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Gabriel_Floyd",
+                "name": "Gabriel Floyd",
+                "id": 28596620,
+                "id_str": "28596620",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415830782346674178,
+    "in_reply_to_status_id_str": "1415830782346674178",
+    "in_reply_to_user_id": 28596620,
+    "in_reply_to_user_id_str": "28596620",
+    "in_reply_to_screen_name": "Gabriel_Floyd",
+    "user": {
+        "id": 1383825099703283712,
+        "id_str": "1383825099703283712",
+        "name": "Nube Gris",
+        "screen_name": "GrisiRa",
+        "location": "",
+        "description": "Existen tantas noches como d\u00edas y cada una dura lo mismo que el d\u00eda que viene despu\u00e9s. Hasta la vida m\u00e1s feliz no se puede medir sin unos momentos de oscuridad.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 62,
+        "friends_count": 439,
+        "listed_count": 0,
+        "created_at": "Sun Apr 18 16:50:09 +0000 2021",
+        "favourites_count": 3148,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1154,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408504647711662080/9f576Qb__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408504647711662080/9f576Qb__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1383825099703283712/1624648654",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

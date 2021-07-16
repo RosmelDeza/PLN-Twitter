@@ -1,0 +1,107 @@
+{
+    "created_at": "Thu Jul 15 23:47:28 +0000 2021",
+    "id": 1415820340320686083,
+    "id_str": "1415820340320686083",
+    "full_text": "@Pectok @el_analista2020 Por Salvador del Solar",
+    "truncated": false,
+    "display_text_range": [
+        25,
+        47
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Pectok",
+                "name": "R\u00e1pido L\u00e1tigo Fugaz, nos jugamos la patria..!",
+                "id": 309868731,
+                "id_str": "309868731",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "el_analista2020",
+                "name": "El Analista",
+                "id": 1313270797679681537,
+                "id_str": "1313270797679681537",
+                "indices": [
+                    8,
+                    24
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415817967292620805,
+    "in_reply_to_status_id_str": "1415817967292620805",
+    "in_reply_to_user_id": 309868731,
+    "in_reply_to_user_id_str": "309868731",
+    "in_reply_to_screen_name": "Pectok",
+    "user": {
+        "id": 850393910497210368,
+        "id_str": "850393910497210368",
+        "name": "Vanilla Girl",
+        "screen_name": "plainvanillagrl",
+        "location": "San Miguel, Lima, Per\u00fa",
+        "description": "\ud83d\uddfd Paleolibertaria.\n\u26a0\ufe0f Pol\u00edticamente incorrecta.\n\ud83d\udeab No al Socialismo ni a sus derivados.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3632,
+        "friends_count": 257,
+        "listed_count": 4,
+        "created_at": "Fri Apr 07 17:04:42 +0000 2017",
+        "favourites_count": 5626,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4059,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414800533282508801/QpxdWdjp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414800533282508801/QpxdWdjp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/850393910497210368/1623818680",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}
