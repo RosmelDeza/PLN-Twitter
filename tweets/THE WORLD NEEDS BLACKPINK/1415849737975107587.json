@@ -1,0 +1,326 @@
+{
+    "created_at": "Fri Jul 16 01:44:17 +0000 2021",
+    "id": 1415849737975107587,
+    "id_str": "1415849737975107587",
+    "full_text": "RT @bli_nku: No se elimina, tampoco se bloquea, se deja ah\u00ed para que vea como se supera.\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACK\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    116,
+                    121
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    122,
+                    132
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bli_nku",
+                "name": "Bli-\ud835\udcef\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udd02-nku",
+                "id": 1318308312287383555,
+                "id_str": "1318308312287383555",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1392093119139700736,
+        "id_str": "1392093119139700736",
+        "name": "AVOCADO",
+        "screen_name": "_Ale_V3",
+        "location": "#THEMOVIE",
+        "description": "\u2800  \u2500 for my group: \ud835\ude30\ud835\ude2f\ud835\ude2d\ud835\ude3a \ud835\udc69\ud835\udc73\ud835\udc68\ud835\udc6a\ud835\udc72\ud835\udc77\ud835\udc70\ud835\udc75\ud835\udc72 \u00a1!\u05b4\u05b6\u05b8             \n      \ud83d\udccc  https://t.co/q6htDLzbyj\u2800\u2800\u2800\u2800    \u2800\u2800\u2800\u2800",
+        "url": "https://t.co/nbgiZVHH8S",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/nbgiZVHH8S",
+                        "expanded_url": "https://lsnls1.carrd.co",
+                        "display_url": "lsnls1.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/q6htDLzbyj",
+                        "expanded_url": "https://youtu.be/Ahha3Cqe_fk",
+                        "display_url": "youtu.be/Ahha3Cqe_fk",
+                        "indices": [
+                            62,
+                            85
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 653,
+        "friends_count": 645,
+        "listed_count": 0,
+        "created_at": "Tue May 11 12:24:40 +0000 2021",
+        "favourites_count": 847,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4082,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404648505164062721/NiZu0T5T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404648505164062721/NiZu0T5T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392093119139700736/1620738259",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:28:50 +0000 2021",
+        "id": 1415845851868504070,
+        "id_str": "1415845851868504070",
+        "full_text": "No se elimina, tampoco se bloquea, se deja ah\u00ed para que vea como se supera.\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/Imptsmq0Xw",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            130
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        103,
+                        108
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        109,
+                        119
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        120,
+                        130
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415845847904919552,
+                    "id_str": "1415845847904919552",
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YYTBUVoAA5Rqy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YYTBUVoAA5Rqy.jpg",
+                    "url": "https://t.co/Imptsmq0Xw",
+                    "display_url": "pic.twitter.com/Imptsmq0Xw",
+                    "expanded_url": "https://twitter.com/bli_nku/status/1415845851868504070/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 684,
+                            "h": 586,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 684,
+                            "h": 586,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 583,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415845847904919552,
+                    "id_str": "1415845847904919552",
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YYTBUVoAA5Rqy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YYTBUVoAA5Rqy.jpg",
+                    "url": "https://t.co/Imptsmq0Xw",
+                    "display_url": "pic.twitter.com/Imptsmq0Xw",
+                    "expanded_url": "https://twitter.com/bli_nku/status/1415845851868504070/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 684,
+                            "h": 586,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 684,
+                            "h": 586,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 583,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1318308312287383555,
+            "id_str": "1318308312287383555",
+            "name": "Bli-\ud835\udcef\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udd02-nku",
+            "screen_name": "bli_nku",
+            "location": "Blackpink is the revolution ",
+            "description": "\u2665\ufe0fSra. Kim, Manoban, Park, Turtle Rabbit\u2665\ufe0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 611,
+            "friends_count": 532,
+            "listed_count": 0,
+            "created_at": "Mon Oct 19 21:50:08 +0000 2020",
+            "favourites_count": 2043,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2139,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412815118958665737/IAS7NLcP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412815118958665737/IAS7NLcP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1318308312287383555/1626128552",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 29,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

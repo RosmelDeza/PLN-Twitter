@@ -1,0 +1,222 @@
+{
+    "created_at": "Fri Jul 16 02:38:31 +0000 2021",
+    "id": 1415863384625631236,
+    "id_str": "1415863384625631236",
+    "full_text": "RT @lesblinkot4: Buscando nuevos mutis blinks q tengan como prioridad a las pinks q sean activos para votar, interactuar, para colapsar jun\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lesblinkot4",
+                "name": "les | ls1",
+                "id": 1303353360054132736,
+                "id_str": "1303353360054132736",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1382076909526343680,
+        "id_str": "1382076909526343680",
+        "name": "Jennie",
+        "screen_name": "Moonflower_Nini",
+        "location": "she/her",
+        "description": "\ud83c\udde8\ud83c\uddf1",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 106,
+        "friends_count": 165,
+        "listed_count": 0,
+        "created_at": "Tue Apr 13 21:03:20 +0000 2021",
+        "favourites_count": 2238,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6046,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393710088360275968/1mCReSiy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393710088360275968/1mCReSiy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1382076909526343680/1621121404",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:32:24 +0000 2021",
+        "id": 1415861846427439108,
+        "id_str": "1415861846427439108",
+        "full_text": "Buscando nuevos mutis blinks q tengan como prioridad a las pinks q sean activos para votar, interactuar, para colapsar juntos con nuevas actualizaciones y amigar. RT \u203c\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            222
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        195,
+                        200
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        201,
+                        211
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        212,
+                        222
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1303353360054132736,
+            "id_str": "1303353360054132736",
+            "name": "les | ls1",
+            "screen_name": "lesblinkot4",
+            "location": "only \u00a0\ube14\ub799 \ud551\ud06c",
+            "description": "21\u2014 @blackpink we some bitches you can't manage",
+            "url": "https://t.co/0QSRiEapGp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0QSRiEapGp",
+                            "expanded_url": "https://curiouscat.qa/lesblinkot4",
+                            "display_url": "curiouscat.qa/lesblinkot4",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4610,
+            "friends_count": 3348,
+            "listed_count": 15,
+            "created_at": "Tue Sep 08 15:24:11 +0000 2020",
+            "favourites_count": 5270,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9159,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414772870555832323/K1nNhSFc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414772870555832323/K1nNhSFc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303353360054132736/1626143111",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 34,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

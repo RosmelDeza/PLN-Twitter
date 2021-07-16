@@ -1,0 +1,235 @@
+{
+    "created_at": "Fri Jul 16 02:42:33 +0000 2021",
+    "id": 1415864401970802693,
+    "id_str": "1415864401970802693",
+    "full_text": "RT @G0THNINIS: \u203c\ufe0fDIN\u00c1MICA PARA SUMAR VOTOS POR \ud83d\udc3f\ufe0f\u203c\ufe0f\n\nvoten en la encuesta la canci\u00f3n que m\u00e1s les guste \n\n-si escogen la menos votada coment\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "G0THNINIS",
+                "name": "\u208d\u2445\u1422\ufbb3\ufbb3\u1422\u208e\u22c6 lely \ud83d\udc00",
+                "id": 1396312492368859136,
+                "id_str": "1396312492368859136",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1390934590383083522,
+        "id_str": "1390934590383083522",
+        "name": "nami lvs marina \u2074\u207a\u00b9",
+        "screen_name": "kttymimi",
+        "location": "she!her  \u2665\ufe0e  read carrd byf",
+        "description": "\u25dc \u02c0 \u02c0 \u2026 this user dedicates her\u00a0life to blackpink, cherry bullet, loona & bts\u00a0(\u201e\u2022 \u058a \u2022\u201e)",
+        "url": "https://t.co/lFNjTh4h2D",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/lFNjTh4h2D",
+                        "expanded_url": "https://youtu.be/_EEo-iE5u_A",
+                        "display_url": "youtu.be/_EEo-iE5u_A",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 679,
+        "friends_count": 681,
+        "listed_count": 2,
+        "created_at": "Sat May 08 07:40:31 +0000 2021",
+        "favourites_count": 4241,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7726,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415822052737617922/cUxlR18v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415822052737617922/cUxlR18v_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390934590383083522/1626125351",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:41:14 +0000 2021",
+        "id": 1415864071279230978,
+        "id_str": "1415864071279230978",
+        "full_text": "\u203c\ufe0fDIN\u00c1MICA PARA SUMAR VOTOS POR \ud83d\udc3f\ufe0f\u203c\ufe0f\n\nvoten en la encuesta la canci\u00f3n que m\u00e1s les guste \n\n-si escogen la menos votada comenten 5 veces el tag\n-si escogen la m\u00e1s votada comenten 10 veces el tag\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            247
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        220,
+                        225
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        226,
+                        236
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        237,
+                        247
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1396312492368859136,
+            "id_str": "1396312492368859136",
+            "name": "\u208d\u2445\u1422\ufbb3\ufbb3\u1422\u208e\u22c6 lely \ud83d\udc00",
+            "screen_name": "G0THNINIS",
+            "location": "",
+            "description": "#BLACKPINK: my life is so much better with you \ud83e\uddf8!",
+            "url": "https://t.co/NypOlI61Dd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/NypOlI61Dd",
+                            "expanded_url": "https://gothninis.carrd.co/",
+                            "display_url": "gothninis.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 843,
+            "friends_count": 850,
+            "listed_count": 2,
+            "created_at": "Sun May 23 03:50:29 +0000 2021",
+            "favourites_count": 3869,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5255,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412251756315254786/ixniQFE__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412251756315254786/ixniQFE__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396312492368859136/1625542259",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

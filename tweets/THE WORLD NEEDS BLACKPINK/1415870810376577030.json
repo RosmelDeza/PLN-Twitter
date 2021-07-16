@@ -1,0 +1,247 @@
+{
+    "created_at": "Fri Jul 16 03:08:01 +0000 2021",
+    "id": 1415870810376577030,
+    "id_str": "1415870810376577030",
+    "full_text": "RT @cryforthepinks: 4 SEGUNDOS Y SUENA TAN BIEN, SE VIENE EL VERDADERO SOTY \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    104,
+                    109
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    110,
+                    120
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cryforthepinks",
+                "name": "\ud835\udc70\ud835\udc94\ud835\udc82\ud835\udc83\ud835\udc86\ud835\udc8d\ud835\udc8d\ud835\udc82 \ud835\udc73\ud835\udc7a1\u2074\u207a\u00b9\ud83c\udf83\ud83c\uddf2\ud83c\uddfd",
+                "id": 1265009319633981441,
+                "id_str": "1265009319633981441",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    121,
+                    131
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1330686650490515459,
+        "id_str": "1330686650490515459",
+        "name": "\u13d5\u13a5\u13d2\u13cby \ud83d\udc22\ud83d\udc30 | \ud83c\udded\ud83c\uddf3",
+        "screen_name": "SJisoorabbitkim",
+        "location": "She/her.",
+        "description": "\ud80c\udf7c\u2800\ud835\uddbb\ud835\uddc5\ud835\uddba\ud835\uddbc\ud835\uddc4\ud835\uddc9\ud835\uddc2\ud835\uddc7\ud835\uddc4 \u2800 \ud835\udcaf\ud835\udcbd\ud835\udc52 \ud835\udcc7\ud835\udc5c\ud835\udcc8\ud835\udc52 \ud83e\udd40 \ud83d\udda4 \u203a \u219d#OT4 \u22b1\u273f\u22b0 \ufe45 \ud83d\udc30 \u02d2 \ud835\ude5f\ud835\ude5e\ud835\ude68\ud835\ude64\ud835\ude64  \u1b5d \u2729.\uff65*:\uff61\u22c6\u2661\u22c6.\u2022*:\uff61\u2729 @siriluvstherose",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 380,
+        "friends_count": 747,
+        "listed_count": 1,
+        "created_at": "Mon Nov 23 01:37:08 +0000 2020",
+        "favourites_count": 3243,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8512,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405618220304896003/8uOZAETd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405618220304896003/8uOZAETd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330686650490515459/1623129035",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:05:28 +0000 2021",
+        "id": 1415870169533009921,
+        "id_str": "1415870169533009921",
+        "full_text": "4 SEGUNDOS Y SUENA TAN BIEN, SE VIENE EL VERDADERO SOTY \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            111
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        84,
+                        89
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        90,
+                        100
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        101,
+                        111
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1265009319633981441,
+            "id_str": "1265009319633981441",
+            "name": "\ud835\udc70\ud835\udc94\ud835\udc82\ud835\udc83\ud835\udc86\ud835\udc8d\ud835\udc8d\ud835\udc82 \ud835\udc73\ud835\udc7a1\u2074\u207a\u00b9\ud83c\udf83\ud83c\uddf2\ud83c\uddfd",
+            "screen_name": "cryforthepinks",
+            "location": "for bp, sg & liv",
+            "description": "\u2800      \ud83d\udd3broses are dead, love is fake\ud83d\udd3b\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800          \n                 \u2800\u2800\u2800",
+            "url": "https://t.co/mnHc9nlzT3",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mnHc9nlzT3",
+                            "expanded_url": "http://icryforthepinks.carrd.co",
+                            "display_url": "icryforthepinks.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13638,
+            "friends_count": 7650,
+            "listed_count": 51,
+            "created_at": "Mon May 25 19:58:29 +0000 2020",
+            "favourites_count": 23512,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 25298,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412084591339479045/X1WHEVon_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412084591339479045/X1WHEVon_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265009319633981441/1626323679",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 52,
+        "favorite_count": 87,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 52,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

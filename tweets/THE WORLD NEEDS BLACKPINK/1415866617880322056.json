@@ -1,0 +1,209 @@
+{
+    "created_at": "Fri Jul 16 02:51:21 +0000 2021",
+    "id": 1415866617880322056,
+    "id_str": "1415866617880322056",
+    "full_text": "RT @mzarcasmx: Estamos de acuerdo que el comeback de blackpink sera algo GLOBAL. todos los medios estar\u00e1n hablando de ellas y sus ventas es\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mzarcasmx",
+                "name": "Mary\ud83c\udf13/ team KTL",
+                "id": 1355066864,
+                "id_str": "1355066864",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1251643297535270912,
+        "id_str": "1251643297535270912",
+        "name": "\ud835\udc3a\ud835\udc5c\ud835\udc5b\ud835\udc52",
+        "screen_name": "draxx_blackk",
+        "location": "",
+        "description": "\ud83e\udd10",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 612,
+        "friends_count": 1266,
+        "listed_count": 0,
+        "created_at": "Sat Apr 18 22:46:45 +0000 2020",
+        "favourites_count": 28976,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20297,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412967556000931845/w_SoBGZ1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412967556000931845/w_SoBGZ1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251643297535270912/1619402729",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:16:25 +0000 2021",
+        "id": 1415842723911852033,
+        "id_str": "1415842723911852033",
+        "full_text": "Estamos de acuerdo que el comeback de blackpink sera algo GLOBAL. todos los medios estar\u00e1n hablando de ellas y sus ventas estar\u00e1n m\u00e1s arriba que nunca, sera algo \u00e9pico y yo ya necesito que pase\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            248
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        221,
+                        226
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        227,
+                        237
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        238,
+                        248
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1355066864,
+            "id_str": "1355066864",
+            "name": "Mary\ud83c\udf13/ team KTL",
+            "screen_name": "mzarcasmx",
+            "location": "BLACKPINK ",
+            "description": "maybe or maybe not",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2409,
+            "friends_count": 2591,
+            "listed_count": 5,
+            "created_at": "Mon Apr 15 18:52:33 +0000 2013",
+            "favourites_count": 21558,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 27265,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409286116222672896/m8c28m53_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409286116222672896/m8c28m53_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1355066864/1623035125",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

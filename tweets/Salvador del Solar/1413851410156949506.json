@@ -1,0 +1,136 @@
+{
+    "created_at": "Sat Jul 10 13:23:38 +0000 2021",
+    "id": 1413851410156949506,
+    "id_str": "1413851410156949506",
+    "full_text": "@NohayformaZ @Dontworribijapi @GiovanniCiccia @VBermudezV @Minsa_Peru No te olvides que Salvador del Solar destin\u00f3 millones a la industria del cine de la plata del pueblo en plena pandemia. Qu\u00e9 hicieron con esa plata? No vale quejarse si no saben invertir",
+    "truncated": false,
+    "display_text_range": [
+        70,
+        255
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NohayformaZ",
+                "name": "Esperanza",
+                "id": 331697782,
+                "id_str": "331697782",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "Dontworribijapi",
+                "name": "Claro y Al Punto",
+                "id": 1432354794,
+                "id_str": "1432354794",
+                "indices": [
+                    13,
+                    29
+                ]
+            },
+            {
+                "screen_name": "GiovanniCiccia",
+                "name": "Giovanni Ciccia",
+                "id": 140099611,
+                "id_str": "140099611",
+                "indices": [
+                    30,
+                    45
+                ]
+            },
+            {
+                "screen_name": "VBermudezV",
+                "name": "Violeta Berm\u00fadez",
+                "id": 1330353360877260804,
+                "id_str": "1330353360877260804",
+                "indices": [
+                    46,
+                    57
+                ]
+            },
+            {
+                "screen_name": "Minsa_Peru",
+                "name": "Ministerio de Salud",
+                "id": 138471254,
+                "id_str": "138471254",
+                "indices": [
+                    58,
+                    69
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1411740401858383877,
+    "in_reply_to_status_id_str": "1411740401858383877",
+    "in_reply_to_user_id": 331697782,
+    "in_reply_to_user_id_str": "331697782",
+    "in_reply_to_screen_name": "NohayformaZ",
+    "user": {
+        "id": 1400818252578791428,
+        "id_str": "1400818252578791428",
+        "name": "Blanca Luca",
+        "screen_name": "BlancaLuca7",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 21,
+        "friends_count": 352,
+        "listed_count": 0,
+        "created_at": "Fri Jun 04 14:14:56 +0000 2021",
+        "favourites_count": 1081,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 664,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

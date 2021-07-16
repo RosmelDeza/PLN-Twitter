@@ -1,0 +1,132 @@
+{
+    "created_at": "Fri Jul 16 02:21:37 +0000 2021",
+    "id": 1415859133950070788,
+    "id_str": "1415859133950070788",
+    "full_text": "@kimjisoo7u7 @BLACKPINK Hoy no cen\u00e9 \u00bfy tu? :)\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        24,
+        100
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    73,
+                    78
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    79,
+                    89
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kimjisoo7u7",
+                "name": "\u0295 \u00b7 . \u00b7 \u0294\ud83c\udf65\ud83d\udcad\u304c maria . \ud81a\udde7\ud83d\udc97",
+                "id": 1355710056361193472,
+                "id_str": "1355710056361193472",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    13,
+                    23
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    90,
+                    100
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415858871973957635,
+    "in_reply_to_status_id_str": "1415858871973957635",
+    "in_reply_to_user_id": 1355710056361193472,
+    "in_reply_to_user_id_str": "1355710056361193472",
+    "in_reply_to_screen_name": "kimjisoo7u7",
+    "user": {
+        "id": 1209336497998114817,
+        "id_str": "1209336497998114817",
+        "name": "El Calz\u00f3n Dior De Jisoo",
+        "screen_name": "yemp_",
+        "location": "on the ground ",
+        "description": "BL\u039b\u0186KPI\u0418K, BTS, ITZY, TXT, STRAY KIDS",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 733,
+        "friends_count": 760,
+        "listed_count": 0,
+        "created_at": "Tue Dec 24 04:54:49 +0000 2019",
+        "favourites_count": 2698,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5327,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415407298193895427/Ej7XWjZH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415407298193895427/Ej7XWjZH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209336497998114817/1626294512",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

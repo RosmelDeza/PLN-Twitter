@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 05:36:19 +0000 2021",
+    "id": 1415183357625966596,
+    "id_str": "1415183357625966596",
+    "full_text": "@efmontesinos 73 bestias fujis que hicieron por el pa\u00eds??solo hacer leyes q favorezcan a la rata alanbaba y keiko ahhh mis h\u00e9roes Martin Vizcarra y Salvador del Solar sacaron a los enquistados por d\u00e9cadas..y perdieron poder",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        223
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "efmontesinos",
+                "name": "Enrique Montesinos",
+                "id": 274130984,
+                "id_str": "274130984",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415180852741525506,
+    "in_reply_to_status_id_str": "1415180852741525506",
+    "in_reply_to_user_id": 274130984,
+    "in_reply_to_user_id_str": "274130984",
+    "in_reply_to_screen_name": "efmontesinos",
+    "user": {
+        "id": 462564819,
+        "id_str": "462564819",
+        "name": "kandy_kristal",
+        "screen_name": "maralaska",
+        "location": "",
+        "description": "Reporter,Economist,Thec Metallury,Consultant \r\n,,,, if you fallow me ,,, I'll fallow you",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4010,
+        "friends_count": 1991,
+        "listed_count": 32,
+        "created_at": "Fri Jan 13 02:53:03 +0000 2012",
+        "favourites_count": 62742,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 84923,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/432229224443682816/Cq8oPVcY_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/432229224443682816/Cq8oPVcY_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/462564819/1483590827",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

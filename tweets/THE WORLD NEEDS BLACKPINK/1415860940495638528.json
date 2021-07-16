@@ -1,0 +1,214 @@
+{
+    "created_at": "Fri Jul 16 02:28:48 +0000 2021",
+    "id": 1415860940495638528,
+    "id_str": "1415860940495638528",
+    "full_text": "@FILTER0SE ya lo ten\u00eda reaccionado \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/0LIjfqzOW8",
+    "truncated": false,
+    "display_text_range": [
+        11,
+        90
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    63,
+                    68
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    69,
+                    79
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FILTER0SE",
+                "name": "\u064bmar \ud83c\udfd6",
+                "id": 1327233765647769600,
+                "id_str": "1327233765647769600",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    80,
+                    90
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415860937807089668,
+                "id_str": "1415860937807089668",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YmBXlX0AQNUO9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YmBXlX0AQNUO9.jpg",
+                "url": "https://t.co/0LIjfqzOW8",
+                "display_url": "pic.twitter.com/0LIjfqzOW8",
+                "expanded_url": "https://twitter.com/iLiliFiIm/status/1415860940495638528/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 373,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 659,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 719,
+                        "h": 1310,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415860937807089668,
+                "id_str": "1415860937807089668",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YmBXlX0AQNUO9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YmBXlX0AQNUO9.jpg",
+                "url": "https://t.co/0LIjfqzOW8",
+                "display_url": "pic.twitter.com/0LIjfqzOW8",
+                "expanded_url": "https://twitter.com/iLiliFiIm/status/1415860940495638528/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 373,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 659,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 719,
+                        "h": 1310,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415860185172791304,
+    "in_reply_to_status_id_str": "1415860185172791304",
+    "in_reply_to_user_id": 1327233765647769600,
+    "in_reply_to_user_id_str": "1327233765647769600",
+    "in_reply_to_screen_name": "FILTER0SE",
+    "user": {
+        "id": 1388300560848273409,
+        "id_str": "1388300560848273409",
+        "name": "\u2079\u2077",
+        "screen_name": "iLiliFiIm",
+        "location": "lalisa manoban; main dancer, rapper, singer, choreographer, mentor, composer, model, ambassador, lenguage genius and my angel\u2661",
+        "description": "\u200e      \u200f\u200f\u200e\u200e      \u200f\u200f\u200e\u200e      \u200f\u200f\u200e\u200e      \u200f\u200f\u200e\u200e      \u200f\u200f\u200e\u200e   \u200e      \u200f\u200f\u200e \u200f\u200f\u200e#JJK1",
+        "url": "https://t.co/F3pTcvAFs4",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/F3pTcvAFs4",
+                        "expanded_url": "http://ls327.carrd.co",
+                        "display_url": "ls327.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 319,
+        "friends_count": 377,
+        "listed_count": 0,
+        "created_at": "Sat May 01 01:14:00 +0000 2021",
+        "favourites_count": 4348,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6921,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414339419935490048/RDFn366N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414339419935490048/RDFn366N_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1388300560848273409/1626039768",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

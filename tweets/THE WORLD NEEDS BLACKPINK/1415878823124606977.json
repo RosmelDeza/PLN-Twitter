@@ -1,0 +1,303 @@
+{
+    "created_at": "Fri Jul 16 03:39:51 +0000 2021",
+    "id": 1415878823124606977,
+    "id_str": "1415878823124606977",
+    "full_text": "RT @EslavaDoris8: Todo va bien hasta que recuerdo que yo nunca he tenido un live OT4 :')\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACK\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    116,
+                    121
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    122,
+                    132
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EslavaDoris8",
+                "name": "Beca Eslava",
+                "id": 1348376969382158337,
+                "id_str": "1348376969382158337",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1405934811743727620,
+        "id_str": "1405934811743727620",
+        "name": "Alexander\ud83d\udda4\ud83d\udc97",
+        "screen_name": "Alexand64963429",
+        "location": "",
+        "description": "Just let me adore you \ud83d\udc1f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 127,
+        "friends_count": 163,
+        "listed_count": 0,
+        "created_at": "Fri Jun 18 17:06:03 +0000 2021",
+        "favourites_count": 3707,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6734,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414663072267001857/uYzkoc0Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414663072267001857/uYzkoc0Y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1405934811743727620/1624757924",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:14:39 +0000 2021",
+        "id": 1415842281190576129,
+        "id_str": "1415842281190576129",
+        "full_text": "Todo va bien hasta que recuerdo que yo nunca he tenido un live OT4 :')\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/sucx8nQqXm",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            125
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        98,
+                        103
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        104,
+                        114
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        115,
+                        125
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415842279089180674,
+                    "id_str": "1415842279089180674",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YVDScXEAIV3aV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YVDScXEAIV3aV.jpg",
+                    "url": "https://t.co/sucx8nQqXm",
+                    "display_url": "pic.twitter.com/sucx8nQqXm",
+                    "expanded_url": "https://twitter.com/EslavaDoris8/status/1415842281190576129/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 331,
+                            "h": 307,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 331,
+                            "h": 307,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 331,
+                            "h": 307,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415842279089180674,
+                    "id_str": "1415842279089180674",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YVDScXEAIV3aV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YVDScXEAIV3aV.jpg",
+                    "url": "https://t.co/sucx8nQqXm",
+                    "display_url": "pic.twitter.com/sucx8nQqXm",
+                    "expanded_url": "https://twitter.com/EslavaDoris8/status/1415842281190576129/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 331,
+                            "h": 307,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 331,
+                            "h": 307,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 331,
+                            "h": 307,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1348376969382158337,
+            "id_str": "1348376969382158337",
+            "name": "Beca Eslava",
+            "screen_name": "EslavaDoris8",
+            "location": "M\u00e9xico",
+            "description": "Cuenta dedicada a BP \ud83d\udc97\nMis otros favs Cami \ud83d\udc96 Billie \ud83d\udc96 Becky \ud83d\udc96 Dua\n\nCuenta secundaria : @EslavaSahara",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 988,
+            "friends_count": 1005,
+            "listed_count": 0,
+            "created_at": "Sun Jan 10 21:12:49 +0000 2021",
+            "favourites_count": 5685,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9605,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410615770720006150/uercDDlA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615770720006150/uercDDlA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1348376969382158337/1620594891",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

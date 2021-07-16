@@ -1,0 +1,135 @@
+{
+    "created_at": "Fri Jul 16 02:46:19 +0000 2021",
+    "id": 1415865347568250889,
+    "id_str": "1415865347568250889",
+    "full_text": "@goddesxjichu soy yo, perd\u00f3n \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        84
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    57,
+                    62
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    63,
+                    73
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "goddesxjichu",
+                "name": "pau\u1d55\u0308; \ud80c\udce6",
+                "id": 1388968946490032129,
+                "id_str": "1388968946490032129",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    74,
+                    84
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415864701343391744,
+    "in_reply_to_status_id_str": "1415864701343391744",
+    "in_reply_to_user_id": 1388968946490032129,
+    "in_reply_to_user_id_str": "1388968946490032129",
+    "in_reply_to_screen_name": "goddesxjichu",
+    "user": {
+        "id": 1324085575083806720,
+        "id_str": "1324085575083806720",
+        "name": "val | 4+1",
+        "screen_name": "alwaysbeenpinks",
+        "location": "BLACKPINK",
+        "description": "de luto por el pelo de shawn ~ fan account",
+        "url": "https://t.co/ki3H7vKVf6",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ki3H7vKVf6",
+                        "expanded_url": "https://conan.xn--c6h/",
+                        "display_url": "conan.\u2661",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2151,
+        "friends_count": 1918,
+        "listed_count": 72,
+        "created_at": "Wed Nov 04 20:26:30 +0000 2020",
+        "favourites_count": 9755,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 31360,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414444401229709312/HRUek3cY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414444401229709312/HRUek3cY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324085575083806720/1624236519",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

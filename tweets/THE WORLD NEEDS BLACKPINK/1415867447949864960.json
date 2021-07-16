@@ -1,0 +1,155 @@
+{
+    "created_at": "Fri Jul 16 02:54:39 +0000 2021",
+    "id": 1415867447949864960,
+    "id_str": "1415867447949864960",
+    "full_text": "@cry4lili @bpbgg_ @BLACKPINK Quisieras... Bue quer\u00eda pelear JAJXJS\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        29,
+        121
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    94,
+                    99
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    100,
+                    110
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cry4lili",
+                "name": "luki lv's hika \ud83c\udde6\ud83c\uddf7",
+                "id": 1391089740166877184,
+                "id_str": "1391089740166877184",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "bpbgg_",
+                "name": "Luu",
+                "id": 1405557418365440000,
+                "id_str": "1405557418365440000",
+                "indices": [
+                    10,
+                    17
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    18,
+                    28
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    111,
+                    121
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415865067585867776,
+    "in_reply_to_status_id_str": "1415865067585867776",
+    "in_reply_to_user_id": 1391089740166877184,
+    "in_reply_to_user_id_str": "1391089740166877184",
+    "in_reply_to_screen_name": "cry4lili",
+    "user": {
+        "id": 1383840414529069063,
+        "id_str": "1383840414529069063",
+        "name": "Gigi\u00d7\u25aa\ufe0f\u25fe",
+        "screen_name": "jsblinto",
+        "location": "OT4",
+        "description": "\ud835\ude24\ud835\ude22\ud835\ude2d\ud835\ude2d \ud835\ude2e\ud835\ude26 \ud835\ude33\ud835\ude22\ud835\ude23\ud835\ude23\ud835\ude2a\ud835\ude35 - \ud83c\udde6\ud83c\uddf7 - @jsblinto_2",
+        "url": "https://t.co/oWO4uSGM1K",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/oWO4uSGM1K",
+                        "expanded_url": "http://lsnls1.carrd.co",
+                        "display_url": "lsnls1.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 731,
+        "friends_count": 843,
+        "listed_count": 2,
+        "created_at": "Sun Apr 18 17:50:59 +0000 2021",
+        "favourites_count": 2557,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18415,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412817565068451842/DlsygLzS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412817565068451842/DlsygLzS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1383840414529069063/1624745976",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

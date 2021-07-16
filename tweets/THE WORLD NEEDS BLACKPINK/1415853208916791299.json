@@ -1,0 +1,290 @@
+{
+    "created_at": "Fri Jul 16 01:58:04 +0000 2021",
+    "id": 1415853208916791299,
+    "id_str": "1415853208916791299",
+    "full_text": "Me das 1 bill\u00f3n de pesos? \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/NRPGXQaGKX",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        81
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    54,
+                    59
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    60,
+                    70
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    71,
+                    81
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/NRPGXQaGKX",
+                "expanded_url": "https://twitter.com/F4KINGB02SUG4/status/1413644077791330311",
+                "display_url": "twitter.com/F4KINGB02SUG4/\u2026",
+                "indices": [
+                    82,
+                    105
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1301301065724440577,
+        "id_str": "1301301065724440577",
+        "name": "M\u026a\u1d04\u029c\u1d07\u029f\u029f\u1d07 \u32db",
+        "screen_name": "fefi_idkf",
+        "location": "\u1d3c\u1db0 \u1d57\u02b0\u1d49 \u1d50\u1d52\u1d52\u1db0",
+        "description": "\u01ae\u15be\u1971 \u1641\u1971\u0269\u0260\u15be\u1472o\u1959\u027e\u15beoo\u146f \u1643\u1972\u146f\u146f\u10e7 \ua646\u2cfd\u2cfd\u1959\u1971\u2cfd ( \u1587\u1971\u0e95\u0269x ) \u266a\n 0:34\u2501\u274d\u2500\u2500\u2500\u2500\u2500\u25004:44  \u21bb     \u22b2  \u2161  \u22b3     \u21ba      volume:\u2581\u2582\u2583\u2584\u2585\u2586\u2587100%",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 163,
+        "friends_count": 196,
+        "listed_count": 0,
+        "created_at": "Wed Sep 02 23:29:46 +0000 2020",
+        "favourites_count": 6107,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4630,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412634278916243460/PbiDmlvu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412634278916243460/PbiDmlvu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1301301065724440577/1623356158",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1413644077791330311,
+    "quoted_status_id_str": "1413644077791330311",
+    "quoted_status": {
+        "created_at": "Fri Jul 09 23:39:47 +0000 2021",
+        "id": 1413644077791330311,
+        "id_str": "1413644077791330311",
+        "full_text": "55. quiero interactuar a. si mi respuesta fuera SI \u00bfqu\u00e9 me preguntar\u00edas? https://t.co/QyU4WwXwfF",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            72
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413644075249582080,
+                    "id_str": "1413644075249582080",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55Fy_AWQAA-RMA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55Fy_AWQAA-RMA.jpg",
+                    "url": "https://t.co/QyU4WwXwfF",
+                    "display_url": "pic.twitter.com/QyU4WwXwfF",
+                    "expanded_url": "https://twitter.com/F4KINGB02SUG4/status/1413644077791330311/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 564,
+                            "h": 564,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 564,
+                            "h": 564,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 564,
+                            "h": 564,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413644075249582080,
+                    "id_str": "1413644075249582080",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55Fy_AWQAA-RMA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55Fy_AWQAA-RMA.jpg",
+                    "url": "https://t.co/QyU4WwXwfF",
+                    "display_url": "pic.twitter.com/QyU4WwXwfF",
+                    "expanded_url": "https://twitter.com/F4KINGB02SUG4/status/1413644077791330311/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 564,
+                            "h": 564,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 564,
+                            "h": 564,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 564,
+                            "h": 564,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1413644068173791235,
+        "in_reply_to_status_id_str": "1413644068173791235",
+        "in_reply_to_user_id": 1211062946857537536,
+        "in_reply_to_user_id_str": "1211062946857537536",
+        "in_reply_to_screen_name": "F4KINGB02SUG4",
+        "user": {
+            "id": 1211062946857537536,
+            "id_str": "1211062946857537536",
+            "name": "\u1d00\u0280;; la kike emo H4 |agc|",
+            "screen_name": "F4KINGB02SUG4",
+            "location": "suga's interlude/\uff5e\u2661",
+            "description": "\u00abmy ghost, \u00bfwere'd u go?\u00bb",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1419,
+            "friends_count": 1895,
+            "listed_count": 14,
+            "created_at": "Sat Dec 28 23:14:53 +0000 2019",
+            "favourites_count": 13466,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14987,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415441105995411463/7_FHJlp-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415441105995411463/7_FHJlp-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1211062946857537536/1626302776",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

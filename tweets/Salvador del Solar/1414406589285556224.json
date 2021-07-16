@@ -1,0 +1,183 @@
+{
+    "created_at": "Mon Jul 12 02:09:43 +0000 2021",
+    "id": 1414406589285556224,
+    "id_str": "1414406589285556224",
+    "full_text": "RT @fagl: A veces quiero ser ministra, a veces quiero ser actriz. Salvador del Solar, \u00bfme est\u00e1s poseyendo?",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        106
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "fagl",
+                "name": "no del 49.875 \ud83d\udc9b",
+                "id": 28456983,
+                "id_str": "28456983",
+                "indices": [
+                    3,
+                    8
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 52257600,
+        "id_str": "52257600",
+        "name": "merlina",
+        "screen_name": "Katkatpower",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 608,
+        "friends_count": 838,
+        "listed_count": 12,
+        "created_at": "Tue Jun 30 01:23:23 +0000 2009",
+        "favourites_count": 8106,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16660,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403140420570435589/oEMhUNhQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403140420570435589/oEMhUNhQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52257600/1399076719",
+        "profile_link_color": "21B3B8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 16:28:02 +0000 2021",
+        "id": 1414260200182358023,
+        "id_str": "1414260200182358023",
+        "full_text": "A veces quiero ser ministra, a veces quiero ser actriz. Salvador del Solar, \u00bfme est\u00e1s poseyendo?",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            96
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28456983,
+            "id_str": "28456983",
+            "name": "no del 49.875 \ud83d\udc9b",
+            "screen_name": "fagl",
+            "location": "Lima, Peru",
+            "description": "30 a\u00f1os rumiando con buenas intenciones",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 348,
+            "friends_count": 611,
+            "listed_count": 3,
+            "created_at": "Fri Apr 03 00:19:41 +0000 2009",
+            "favourites_count": 4361,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10353,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1402997368199401472/EoMjYfWt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402997368199401472/EoMjYfWt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28456983/1623376072",
+            "profile_link_color": "D31F09",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "9C9C9C",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

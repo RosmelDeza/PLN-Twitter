@@ -1,0 +1,196 @@
+{
+    "created_at": "Fri Jul 09 09:47:50 +0000 2021",
+    "id": 1413434713465704450,
+    "id_str": "1413434713465704450",
+    "full_text": "La actual Iglesia Colegial del Divino Salvador se sit\u00faa en el solar de la antigua mezquita de Ibn Adabbas. Dicha mezquita fue construida en el a\u00f1o 829 por orden de Abderram\u00e1n II, y se construy\u00f3 sobre edificaciones romanas.\n\n#ExploraSevilla https://t.co/v2nnsnI6Ig",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        239
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ExploraSevilla",
+                "indices": [
+                    224,
+                    239
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1413434709749633028,
+                "id_str": "1413434709749633028",
+                "indices": [
+                    240,
+                    263
+                ],
+                "media_url": "http://pbs.twimg.com/media/E52HYTvVkAQ9qf5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E52HYTvVkAQ9qf5.jpg",
+                "url": "https://t.co/v2nnsnI6Ig",
+                "display_url": "pic.twitter.com/v2nnsnI6Ig",
+                "expanded_url": "https://twitter.com/Explora_Sevilla/status/1413434713465704450/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1413434709749633028,
+                "id_str": "1413434709749633028",
+                "indices": [
+                    240,
+                    263
+                ],
+                "media_url": "http://pbs.twimg.com/media/E52HYTvVkAQ9qf5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E52HYTvVkAQ9qf5.jpg",
+                "url": "https://t.co/v2nnsnI6Ig",
+                "display_url": "pic.twitter.com/v2nnsnI6Ig",
+                "expanded_url": "https://twitter.com/Explora_Sevilla/status/1413434713465704450/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2335464252,
+        "id_str": "2335464252",
+        "name": "Explora Sevilla",
+        "screen_name": "Explora_Sevilla",
+        "location": "Sevilla, Espa\u00f1a",
+        "description": "#ExploraSevilla es un proyecto que nace con la intenci\u00f3n de ofrecer nuevas formas de explorar y sentir la ciudad de Sevilla.\nhttps://t.co/JZzzR7xUEw",
+        "url": "https://t.co/k4iVrAFGyz",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/k4iVrAFGyz",
+                        "expanded_url": "http://www.explorasevilla.es",
+                        "display_url": "explorasevilla.es",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/JZzzR7xUEw",
+                        "expanded_url": "https://amzn.to/3pzbqve",
+                        "display_url": "amzn.to/3pzbqve",
+                        "indices": [
+                            125,
+                            148
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 747,
+        "friends_count": 825,
+        "listed_count": 10,
+        "created_at": "Sun Feb 09 18:02:11 +0000 2014",
+        "favourites_count": 304,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 711,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1347222968796131331/wfNRNTT0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347222968796131331/wfNRNTT0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2335464252/1609968564",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

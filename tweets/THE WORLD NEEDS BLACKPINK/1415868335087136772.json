@@ -1,0 +1,135 @@
+{
+    "created_at": "Fri Jul 16 02:58:11 +0000 2021",
+    "id": 1415868335087136772,
+    "id_str": "1415868335087136772",
+    "full_text": "@iIyIisa el \u00fanico tipo de intensidad q acepto\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        9,
+        99
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    72,
+                    77
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    78,
+                    88
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "iIyIisa",
+                "name": "angela'",
+                "id": 937754986078973953,
+                "id_str": "937754986078973953",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    89,
+                    99
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415817154147012610,
+    "in_reply_to_status_id_str": "1415817154147012610",
+    "in_reply_to_user_id": 937754986078973953,
+    "in_reply_to_user_id_str": "937754986078973953",
+    "in_reply_to_screen_name": "iIyIisa",
+    "user": {
+        "id": 1297890932247990273,
+        "id_str": "1297890932247990273",
+        "name": "luis \u2744\ud83c\udf28",
+        "screen_name": "jsooxlui",
+        "location": "he*him",
+        "description": "\u2800\u2800\u2800\u2800\u2800\u2800 \u2800\u2800\u2800\u2800 \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 \u2800\u2500\u2501\u2500\u2501\u2500\u2501\u2500\u300c only for blackpink & itzy \u300d",
+        "url": "https://t.co/oCJdRSjK3E",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/oCJdRSjK3E",
+                        "expanded_url": "https://jsooxlui.carrd.co",
+                        "display_url": "jsooxlui.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 348,
+        "friends_count": 423,
+        "listed_count": 8,
+        "created_at": "Mon Aug 24 13:38:27 +0000 2020",
+        "favourites_count": 13859,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13293,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402296968878215169/p5mi2t13_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402296968878215169/p5mi2t13_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1297890932247990273/1622605459",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

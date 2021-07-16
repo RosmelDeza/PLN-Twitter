@@ -1,0 +1,636 @@
+{
+    "created_at": "Fri Jul 16 02:19:19 +0000 2021",
+    "id": 1415858553630375939,
+    "id_str": "1415858553630375939",
+    "full_text": "RT @angelisapinks: Jisoo quiere ayudar a empaquetar \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/otvEKW3yTv",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    80,
+                    85
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    86,
+                    96
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "angelisapinks",
+                "name": "Mari \ud83c\uddf2\ud83c\uddfd LS1",
+                "id": 2295567800,
+                "id_str": "2295567800",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    97,
+                    107
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1308885225477349376,
+        "id_str": "1308885225477349376",
+        "name": "nay",
+        "screen_name": "lvsckjsoo",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 169,
+        "friends_count": 135,
+        "listed_count": 2,
+        "created_at": "Wed Sep 23 21:45:40 +0000 2020",
+        "favourites_count": 10221,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25535,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413303724408254472/gfIPevYS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413303724408254472/gfIPevYS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308885225477349376/1616689837",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:27:01 +0000 2021",
+        "id": 1415845392168620039,
+        "id_str": "1415845392168620039",
+        "full_text": "Jisoo quiere ayudar a empaquetar \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/KBbsBJtSbM https://t.co/otvEKW3yTv",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            112
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        61,
+                        66
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        67,
+                        77
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        78,
+                        88
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/KBbsBJtSbM",
+                    "expanded_url": "https://twitter.com/angelisapinks/status/1403834719628898313",
+                    "display_url": "twitter.com/angelisapinks/\u2026",
+                    "indices": [
+                        89,
+                        112
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415845375123017733,
+                    "id_str": "1415845375123017733",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YX3gEWUAU0cN-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YX3gEWUAU0cN-.jpg",
+                    "url": "https://t.co/otvEKW3yTv",
+                    "display_url": "pic.twitter.com/otvEKW3yTv",
+                    "expanded_url": "https://twitter.com/angelisapinks/status/1415845392168620039/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415845375123017733,
+                    "id_str": "1415845375123017733",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YX3gEWUAU0cN-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YX3gEWUAU0cN-.jpg",
+                    "url": "https://t.co/otvEKW3yTv",
+                    "display_url": "pic.twitter.com/otvEKW3yTv",
+                    "expanded_url": "https://twitter.com/angelisapinks/status/1415845392168620039/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415845375118872579,
+                    "id_str": "1415845375118872579",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YX3gDXEAM6sJp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YX3gDXEAM6sJp.jpg",
+                    "url": "https://t.co/otvEKW3yTv",
+                    "display_url": "pic.twitter.com/otvEKW3yTv",
+                    "expanded_url": "https://twitter.com/angelisapinks/status/1415845392168620039/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2295567800,
+            "id_str": "2295567800",
+            "name": "Mari \ud83c\uddf2\ud83c\uddfd LS1",
+            "screen_name": "angelisapinks",
+            "location": "",
+            "description": "#BLACKPINK: I do nothing and I still get involved in stupid sh*t.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15140,
+            "friends_count": 1636,
+            "listed_count": 96,
+            "created_at": "Fri Jan 17 05:58:39 +0000 2014",
+            "favourites_count": 210408,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 252403,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414025303651934209/z1zvaKQI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414025303651934209/z1zvaKQI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2295567800/1624504752",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1403834719628898313,
+        "quoted_status_id_str": "1403834719628898313",
+        "quoted_status": {
+            "created_at": "Sat Jun 12 22:00:53 +0000 2021",
+            "id": 1403834719628898313,
+            "id_str": "1403834719628898313",
+            "full_text": "MUTUALS DE MX \ud83c\uddf2\ud83c\uddfd\n\nEsto es lo que enviaremos en el paquete para el aniversario. Tenemos 14k pesos y 10k son para el env\u00edo, as\u00ed que los fondos siguen abiertos.\nNecesitamos de su apoyo para poder enviar esto a las chicas (ya tenemos permiso de YG) \u2b07\ufe0f\u2b07\ufe0f lean todo el hilo para la info https://t.co/dScs93Au3V",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                280
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1403834709747044359,
+                        "id_str": "1403834709747044359",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E3tsOw3WEAcqnCG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E3tsOw3WEAcqnCG.jpg",
+                        "url": "https://t.co/dScs93Au3V",
+                        "display_url": "pic.twitter.com/dScs93Au3V",
+                        "expanded_url": "https://twitter.com/angelisapinks/status/1403834719628898313/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1583,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 526,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 928,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1403834709747044359,
+                        "id_str": "1403834709747044359",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E3tsOw3WEAcqnCG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E3tsOw3WEAcqnCG.jpg",
+                        "url": "https://t.co/dScs93Au3V",
+                        "display_url": "pic.twitter.com/dScs93Au3V",
+                        "expanded_url": "https://twitter.com/angelisapinks/status/1403834719628898313/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1583,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 526,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 928,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1403834709780664322,
+                        "id_str": "1403834709780664322",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E3tsOw_XEAIx6pB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E3tsOw_XEAIx6pB.jpg",
+                        "url": "https://t.co/dScs93Au3V",
+                        "display_url": "pic.twitter.com/dScs93Au3V",
+                        "expanded_url": "https://twitter.com/angelisapinks/status/1403834719628898313/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1583,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 928,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 526,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1403834709776474112,
+                        "id_str": "1403834709776474112",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E3tsOw-XIAAXBZ-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E3tsOw-XIAAXBZ-.jpg",
+                        "url": "https://t.co/dScs93Au3V",
+                        "display_url": "pic.twitter.com/dScs93Au3V",
+                        "expanded_url": "https://twitter.com/angelisapinks/status/1403834719628898313/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 930,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 527,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1588,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1403834709780672518,
+                        "id_str": "1403834709780672518",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E3tsOw_XMAYcDLQ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E3tsOw_XMAYcDLQ.jpg",
+                        "url": "https://t.co/dScs93Au3V",
+                        "display_url": "pic.twitter.com/dScs93Au3V",
+                        "expanded_url": "https://twitter.com/angelisapinks/status/1403834719628898313/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 930,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 527,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1588,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2295567800,
+                "id_str": "2295567800",
+                "name": "Mari \ud83c\uddf2\ud83c\uddfd LS1",
+                "screen_name": "angelisapinks",
+                "location": "",
+                "description": "#BLACKPINK: I do nothing and I still get involved in stupid sh*t.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 15140,
+                "friends_count": 1636,
+                "listed_count": 96,
+                "created_at": "Fri Jan 17 05:58:39 +0000 2014",
+                "favourites_count": 210408,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 252403,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "ABB8C2",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1414025303651934209/z1zvaKQI_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414025303651934209/z1zvaKQI_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2295567800/1624504752",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 303,
+            "favorite_count": 427,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 4,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1403834719628898313,
+    "quoted_status_id_str": "1403834719628898313",
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

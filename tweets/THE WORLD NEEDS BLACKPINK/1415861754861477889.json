@@ -1,0 +1,400 @@
+{
+    "created_at": "Fri Jul 16 02:32:02 +0000 2021",
+    "id": 1415861754861477889,
+    "id_str": "1415861754861477889",
+    "full_text": "RT @Yellow_BlackP: Y es por tiiiiiiii que late mi coraz\u00f3nnnn\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/Jpi1UPZeeE",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    87,
+                    92
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    93,
+                    103
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Yellow_BlackP",
+                "name": "A\u2122",
+                "id": 1414636081530740744,
+                "id_str": "1414636081530740744",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    104,
+                    114
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415854934860369923,
+                "id_str": "1415854934860369923",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Ygj83WEAMdvPj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Ygj83WEAMdvPj.jpg",
+                "url": "https://t.co/Jpi1UPZeeE",
+                "display_url": "pic.twitter.com/Jpi1UPZeeE",
+                "expanded_url": "https://twitter.com/Yellow_BlackP/status/1415854938853359618/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 977,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1242,
+                        "h": 1526,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 553,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415854938853359618,
+                "source_status_id_str": "1415854938853359618",
+                "source_user_id": 1414636081530740744,
+                "source_user_id_str": "1414636081530740744"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415854934860369923,
+                "id_str": "1415854934860369923",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Ygj83WEAMdvPj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Ygj83WEAMdvPj.jpg",
+                "url": "https://t.co/Jpi1UPZeeE",
+                "display_url": "pic.twitter.com/Jpi1UPZeeE",
+                "expanded_url": "https://twitter.com/Yellow_BlackP/status/1415854938853359618/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 977,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1242,
+                        "h": 1526,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 553,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415854938853359618,
+                "source_status_id_str": "1415854938853359618",
+                "source_user_id": 1414636081530740744,
+                "source_user_id_str": "1414636081530740744"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1280371149663342592,
+        "id_str": "1280371149663342592",
+        "name": "\ud835\uddc6\ud835\uddba\ud835\uddcc\ud835\uddba\ud835\uddc9\ud835\uddba\ud835\uddc6\ud83c\udf86",
+        "screen_name": "CamiilaCP_",
+        "location": "",
+        "description": "La verdad desde que conozco \u00e9l k-pop mi vida es mejor AAAA\ud83d\udc9e",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 162,
+        "friends_count": 422,
+        "listed_count": 0,
+        "created_at": "Tue Jul 07 05:21:59 +0000 2020",
+        "favourites_count": 5299,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2848,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396537350923210752/jpXlIKsP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396537350923210752/jpXlIKsP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280371149663342592/1614285416",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:04:57 +0000 2021",
+        "id": 1415854938853359618,
+        "id_str": "1415854938853359618",
+        "full_text": "Y es por tiiiiiiii que late mi coraz\u00f3nnnn\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/Jpi1UPZeeE",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            95
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        68,
+                        73
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        74,
+                        84
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        85,
+                        95
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415854934860369923,
+                    "id_str": "1415854934860369923",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ygj83WEAMdvPj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ygj83WEAMdvPj.jpg",
+                    "url": "https://t.co/Jpi1UPZeeE",
+                    "display_url": "pic.twitter.com/Jpi1UPZeeE",
+                    "expanded_url": "https://twitter.com/Yellow_BlackP/status/1415854938853359618/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 977,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 1526,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 553,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415854934860369923,
+                    "id_str": "1415854934860369923",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ygj83WEAMdvPj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ygj83WEAMdvPj.jpg",
+                    "url": "https://t.co/Jpi1UPZeeE",
+                    "display_url": "pic.twitter.com/Jpi1UPZeeE",
+                    "expanded_url": "https://twitter.com/Yellow_BlackP/status/1415854938853359618/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 977,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 1526,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 553,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1414636081530740744,
+            "id_str": "1414636081530740744",
+            "name": "A\u2122",
+            "screen_name": "Yellow_BlackP",
+            "location": "",
+            "description": "Only Blackpink / 5H",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 19,
+            "friends_count": 38,
+            "listed_count": 0,
+            "created_at": "Mon Jul 12 17:21:52 +0000 2021",
+            "favourites_count": 62,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 234,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414636780213637128/M9th3GLk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414636780213637128/M9th3GLk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414636081530740744/1626113721",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

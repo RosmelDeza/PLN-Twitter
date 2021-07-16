@@ -1,0 +1,339 @@
+{
+    "created_at": "Fri Jul 16 02:59:39 +0000 2021",
+    "id": 1415868705024663562,
+    "id_str": "1415868705024663562",
+    "full_text": "RT @lovesjiniret: no hay nada que me relaje m\u00e1s que la voz de ros\u00e9\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico \n@BLACKPINK https://t.co/dL9\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    94,
+                    99
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    100,
+                    110
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lovesjiniret",
+                "name": "Vale\u00b7\ud83c\udf40 lvs\ud83c\udf3b (\u25dc\u25e1\u25dd.)",
+                "id": 1361178284344696834,
+                "id_str": "1361178284344696834",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    112,
+                    122
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1369816785634140161,
+        "id_str": "1369816785634140161",
+        "name": "Ari",
+        "screen_name": "Arblink720",
+        "location": "",
+        "description": "\u2728\u2728\ud83d\udc97\nBest GG\nQueen \ud83d\udc97",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 152,
+        "friends_count": 127,
+        "listed_count": 0,
+        "created_at": "Thu Mar 11 01:06:22 +0000 2021",
+        "favourites_count": 1384,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6516,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410870380726820876/mxNDRsqw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410870380726820876/mxNDRsqw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369816785634140161/1625699262",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:29:59 +0000 2021",
+        "id": 1415861237792055297,
+        "id_str": "1415861237792055297",
+        "full_text": "no hay nada que me relaje m\u00e1s que la voz de ros\u00e9\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico \n@BLACKPINK https://t.co/dL9RPWIffh",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            104
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        76,
+                        81
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        82,
+                        92
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        94,
+                        104
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415860155040899073,
+                    "id_str": "1415860155040899073",
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415860155040899073/pu/img/-LtKE8eIMRIvm_yy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415860155040899073/pu/img/-LtKE8eIMRIvm_yy.jpg",
+                    "url": "https://t.co/dL9RPWIffh",
+                    "display_url": "pic.twitter.com/dL9RPWIffh",
+                    "expanded_url": "https://twitter.com/lovesjiniret/status/1415861237792055297/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 688,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 474,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 688,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415860155040899073,
+                    "id_str": "1415860155040899073",
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415860155040899073/pu/img/-LtKE8eIMRIvm_yy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415860155040899073/pu/img/-LtKE8eIMRIvm_yy.jpg",
+                    "url": "https://t.co/dL9RPWIffh",
+                    "display_url": "pic.twitter.com/dL9RPWIffh",
+                    "expanded_url": "https://twitter.com/lovesjiniret/status/1415861237792055297/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 688,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 474,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 688,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            30,
+                            43
+                        ],
+                        "duration_millis": 71983,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415860155040899073/pu/pl/MUrIc5tT3tU7ESRh.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415860155040899073/pu/vid/320x458/1YHG9BpjgxgRiiEB.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415860155040899073/pu/vid/480x688/yHBHaPTt5eNdfOQv.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1361178284344696834,
+            "id_str": "1361178284344696834",
+            "name": "Vale\u00b7\ud83c\udf40 lvs\ud83c\udf3b (\u25dc\u25e1\u25dd.)",
+            "screen_name": "lovesjiniret",
+            "location": "hyunjin mi happy place",
+            "description": "ros\u00e9 y yo viendo god's ddu-du ddu-du\n@HYFW08 \u2661 \u2601",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 99,
+            "friends_count": 201,
+            "listed_count": 2,
+            "created_at": "Mon Feb 15 05:00:01 +0000 2021",
+            "favourites_count": 13481,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7109,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414687685491429379/cbOAIYhB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414687685491429379/cbOAIYhB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361178284344696834/1626122700",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

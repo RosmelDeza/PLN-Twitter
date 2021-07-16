@@ -1,0 +1,235 @@
+{
+    "created_at": "Fri Jul 16 02:32:56 +0000 2021",
+    "id": 1415861980544573443,
+    "id_str": "1415861980544573443",
+    "full_text": "RT @lesblinkot4: Buscando nuevos mutis blinks q tengan como prioridad a las pinks q sean activos para votar, interactuar, para colapsar jun\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lesblinkot4",
+                "name": "les | ls1",
+                "id": 1303353360054132736,
+                "id_str": "1303353360054132736",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1233495784936615943,
+        "id_str": "1233495784936615943",
+        "name": "\ud835\udd7f\ud835\udd8d\ud835\udd86\ud835\udd92",
+        "screen_name": "thamalit0",
+        "location": "\ud835\udd30\ud835\udd25\ud835\udd22-\ud835\udd25\ud835\udd22\ud835\udd2f \ud83c\uddf5\ud83c\uddea",
+        "description": "\u00b0\ud835\ude2b\ud835\ude26\ud835\ude2f\ud835\ude2d\ud835\ude2a\ud835\ude34\ud835\ude22, \ud835\ude33\ud835\ude36\ud835\ude23\ud835\ude26\ud835\ude28\ud835\ude26\ud835\ude35\ud835\ude35\ud835\ude22, \ud835\ude26\ud835\ude34\ud835\ude30\ud835\ude34 4...\n\n\n\n\u00b0\ud835\ude23\ud835\ude2a",
+        "url": "https://t.co/5wTJTW4T22",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/5wTJTW4T22",
+                        "expanded_url": "https://thamalit0.carrd.co/",
+                        "display_url": "thamalit0.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 644,
+        "friends_count": 1783,
+        "listed_count": 11,
+        "created_at": "Fri Feb 28 20:54:56 +0000 2020",
+        "favourites_count": 42031,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13443,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413499833940316162/lNFrdygD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413499833940316162/lNFrdygD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1233495784936615943/1625839595",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:32:24 +0000 2021",
+        "id": 1415861846427439108,
+        "id_str": "1415861846427439108",
+        "full_text": "Buscando nuevos mutis blinks q tengan como prioridad a las pinks q sean activos para votar, interactuar, para colapsar juntos con nuevas actualizaciones y amigar. RT \u203c\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            222
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        195,
+                        200
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        201,
+                        211
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        212,
+                        222
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1303353360054132736,
+            "id_str": "1303353360054132736",
+            "name": "les | ls1",
+            "screen_name": "lesblinkot4",
+            "location": "only \u00a0\ube14\ub799 \ud551\ud06c",
+            "description": "21\u2014 @blackpink we some bitches you can't manage",
+            "url": "https://t.co/0QSRiEapGp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0QSRiEapGp",
+                            "expanded_url": "https://curiouscat.qa/lesblinkot4",
+                            "display_url": "curiouscat.qa/lesblinkot4",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4610,
+            "friends_count": 3348,
+            "listed_count": 15,
+            "created_at": "Tue Sep 08 15:24:11 +0000 2020",
+            "favourites_count": 5270,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9159,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414772870555832323/K1nNhSFc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414772870555832323/K1nNhSFc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303353360054132736/1626143111",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 34,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

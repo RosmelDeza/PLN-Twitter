@@ -1,0 +1,479 @@
+{
+    "created_at": "Fri Jul 16 01:57:48 +0000 2021",
+    "id": 1415853138914037771,
+    "id_str": "1415853138914037771",
+    "full_text": "RT @G0NEY0UTH: todos los d\u00edas las chicas rompen records enserio el verdadero poder\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    110,
+                    115
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    116,
+                    126
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "G0NEY0UTH",
+                "name": "lela #KesiRemix",
+                "id": 1347268985012834306,
+                "id_str": "1347268985012834306",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    127,
+                    137
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1343963806431666176,
+        "id_str": "1343963806431666176",
+        "name": "Stupidvenus\ud83e\udd84\ud83c\udde8\ud83c\uddf1",
+        "screen_name": "Stupidvenus1",
+        "location": "",
+        "description": "volv\u00ed a ocupar esta cuenta solo para votar por blackpink, si me siguen los sigo devuelta:(",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 399,
+        "friends_count": 485,
+        "listed_count": 0,
+        "created_at": "Tue Dec 29 16:56:02 +0000 2020",
+        "favourites_count": 8351,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13388,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408591270801514502/rSCYzdYE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408591270801514502/rSCYzdYE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343963806431666176/1619750738",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:36:43 +0000 2021",
+        "id": 1415847834826461189,
+        "id_str": "1415847834826461189",
+        "full_text": "todos los d\u00edas las chicas rompen records enserio el verdadero poder\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/Mx2jchJrju",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            122
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        95,
+                        100
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        101,
+                        111
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        112,
+                        122
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Mx2jchJrju",
+                    "expanded_url": "https://twitter.com/BLACKPINKVNZL/status/1415846083079680001",
+                    "display_url": "twitter.com/BLACKPINKVNZL/\u2026",
+                    "indices": [
+                        123,
+                        146
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1347268985012834306,
+            "id_str": "1347268985012834306",
+            "name": "lela #KesiRemix",
+            "screen_name": "G0NEY0UTH",
+            "location": "\u2661 shawn mendes \u2661",
+            "description": "- only for blackpink and shawn mendes \u2661",
+            "url": "https://t.co/tyhwE5c5do",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tyhwE5c5do",
+                            "expanded_url": "https://blackpink.xn--1ci06b",
+                            "display_url": "blackpink.\u2729\u2871",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 640,
+            "friends_count": 681,
+            "listed_count": 4,
+            "created_at": "Thu Jan 07 19:49:21 +0000 2021",
+            "favourites_count": 4336,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6003,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414366381156585474/4IjCy1ax_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414366381156585474/4IjCy1ax_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347268985012834306/1624938482",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415846083079680001,
+        "quoted_status_id_str": "1415846083079680001",
+        "quoted_status": {
+            "created_at": "Fri Jul 16 01:29:46 +0000 2021",
+            "id": 1415846083079680001,
+            "id_str": "1415846083079680001",
+            "full_text": "[ RANK\ud83d\udcca ] \u2014 15.07.21 \u2014\n\n\u25b6\ufe0f 'HOW YOU LIKE THAT ' ahora ha alcanzado los 21 millones de \"me gusta\" en YouTube\n\n\ud83d\udccdSe convierte en el primer MV de un artista femenino en lograr esta haza\u00f1a!\n\nVia: /BLACKPINK4WAYS\n\n#\ube14\ub799\ud551\ud06c #BLACKPINK @BLACKPINK\n\n~\ud83d\udc94~ https://t.co/AXce4XKTYt",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                240
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\ube14\ub799\ud551\ud06c",
+                        "indices": [
+                            208,
+                            213
+                        ]
+                    },
+                    {
+                        "text": "BLACKPINK",
+                        "indices": [
+                            214,
+                            224
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "BLACKPINK",
+                        "name": "BLACKPINKOFFICIAL",
+                        "id": 1273850774380883975,
+                        "id_str": "1273850774380883975",
+                        "indices": [
+                            225,
+                            235
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415844964735623169,
+                        "id_str": "1415844964735623169",
+                        "indices": [
+                            241,
+                            264
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/E6YXfnQXoAEDc5g.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6YXfnQXoAEDc5g.jpg",
+                        "url": "https://t.co/AXce4XKTYt",
+                        "display_url": "pic.twitter.com/AXce4XKTYt",
+                        "expanded_url": "https://twitter.com/BLACKPINKVNZL/status/1415846083079680001/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 770,
+                                "h": 370,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 770,
+                                "h": 370,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 327,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415844964735623169,
+                        "id_str": "1415844964735623169",
+                        "indices": [
+                            241,
+                            264
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/E6YXfnQXoAEDc5g.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6YXfnQXoAEDc5g.jpg",
+                        "url": "https://t.co/AXce4XKTYt",
+                        "display_url": "pic.twitter.com/AXce4XKTYt",
+                        "expanded_url": "https://twitter.com/BLACKPINKVNZL/status/1415846083079680001/photo/1",
+                        "type": "animated_gif",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 770,
+                                "h": 370,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 770,
+                                "h": 370,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 327,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                77,
+                                37
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/E6YXfnQXoAEDc5g.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1161388127514243073,
+                "id_str": "1161388127514243073",
+                "name": "BLACKPINK Venezuela",
+                "screen_name": "BLACKPINKVNZL",
+                "location": "",
+                "description": "\ud83d\udc51Cuenta Respaldo @BLACKPINKVZLA_ (Primera fanbase de BLACKPINK Venezuela PICS/TRAD/INFO)\ud83d\udc51",
+                "url": "https://t.co/AefVe7c5fI",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/AefVe7c5fI",
+                                "expanded_url": "https://www.facebook.com/BlackPinkVnzl/",
+                                "display_url": "facebook.com/BlackPinkVnzl/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 429,
+                "friends_count": 172,
+                "listed_count": 0,
+                "created_at": "Tue Aug 13 21:24:41 +0000 2019",
+                "favourites_count": 41,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 993,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1395385699201847297/3pYlMm8U_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395385699201847297/3pYlMm8U_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1161388127514243073/1621520854",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 6,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415846083079680001,
+    "quoted_status_id_str": "1415846083079680001",
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

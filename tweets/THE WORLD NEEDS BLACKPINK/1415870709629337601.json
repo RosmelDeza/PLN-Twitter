@@ -1,0 +1,217 @@
+{
+    "created_at": "Fri Jul 16 03:07:37 +0000 2021",
+    "id": 1415870709629337601,
+    "id_str": "1415870709629337601",
+    "full_text": "RT @iktloves: Hola, busco a m\u00e1s mutuals blinks, lo \u00fanico que me importa es que si se muevan por ellas \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KC\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    130,
+                    135
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "iktloves",
+                "name": "kriss |",
+                "id": 1373581203299659776,
+                "id_str": "1373581203299659776",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1207356051420598272,
+        "id_str": "1207356051420598272",
+        "name": "s\u1d1c\u1d0d\u1d0d\u1d07\u0280_\u0274\u026a\u0262\u029c\u1d1b \u23a2 -\ud835\udc11-",
+        "screen_name": "SNight39",
+        "location": "Favorite crime ",
+        "description": "\ud835\ude98\ud835\ude97\ud835\ude95\ud835\udea2 \ud835\ude8b\ud835\ude95\ud835\ude92\ud835\ude97\ud835\ude94 \u2661\n\n\ud835\ude71\ud835\ude7b\ud835\ude70\ud835\ude72\ud835\ude7a\ud835\ude7f\ud835\ude78\ud835\ude7d\ud835\ude7a \u2667\n\n\ud835\ude7e\ud835\ude95\ud835\ude92\ud835\ude9f\ud835\ude92\ud835\ude8a \ud835\ude81\ud835\ude98\ud835\ude8d\ud835\ude9b\ud835\ude92\ud835\ude90\ud835\ude98 \u2606",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 141,
+        "friends_count": 261,
+        "listed_count": 2,
+        "created_at": "Wed Dec 18 17:45:09 +0000 2019",
+        "favourites_count": 138710,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11330,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410413491178164226/XoAdyYfH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410413491178164226/XoAdyYfH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207356051420598272/1625141081",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:18:52 +0000 2021",
+        "id": 1415858441352998915,
+        "id_str": "1415858441352998915",
+        "full_text": "Hola, busco a m\u00e1s mutuals blinks, lo \u00fanico que me importa es que si se muevan por ellas \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            143
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        116,
+                        121
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        122,
+                        132
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        133,
+                        143
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1373581203299659776,
+            "id_str": "1373581203299659776",
+            "name": "kriss |",
+            "screen_name": "iktloves",
+            "location": "S!HER",
+            "description": "Blackpink first, \ube14\ub799\ud551\ud06c second",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 230,
+            "friends_count": 210,
+            "listed_count": 0,
+            "created_at": "Sun Mar 21 10:24:22 +0000 2021",
+            "favourites_count": 62,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 288,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415322317295525895/GZmtppo9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415322317295525895/GZmtppo9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1373581203299659776/1626104333",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 44,
+        "favorite_count": 25,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 44,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

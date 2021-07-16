@@ -1,0 +1,132 @@
+{
+    "created_at": "Fri Jul 16 03:18:22 +0000 2021",
+    "id": 1415873417258184706,
+    "id_str": "1415873417258184706",
+    "full_text": "@Kel76889642 @BLACKPINK No tengo con quien ,que sad jajaja pero no esta demas que practiques\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        24,
+        147
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    120,
+                    125
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    126,
+                    136
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Kel76889642",
+                "name": "Kel",
+                "id": 1387826683642892292,
+                "id_str": "1387826683642892292",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    13,
+                    23
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    137,
+                    147
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415873206116917248,
+    "in_reply_to_status_id_str": "1415873206116917248",
+    "in_reply_to_user_id": 1387826683642892292,
+    "in_reply_to_user_id_str": "1387826683642892292",
+    "in_reply_to_screen_name": "Kel76889642",
+    "user": {
+        "id": 1408107363165519877,
+        "id_str": "1408107363165519877",
+        "name": "Yeni Blink\ud83e\udd21\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "screen_name": "MerryMeLisa1997",
+        "location": "",
+        "description": "Venezolana\ud83c\uddfb\ud83c\uddeasi te sigo es porque pronto conoceras a las Pinks\nBias,Lisa and Jennie\u2764\ud83d\ude0d\njisoo and Ros\u00e9\ud83c\udf19\u2764mis amores tambien",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 303,
+        "friends_count": 312,
+        "listed_count": 0,
+        "created_at": "Thu Jun 24 16:59:09 +0000 2021",
+        "favourites_count": 3521,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3538,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415497928664363009/FHUOipyV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415497928664363009/FHUOipyV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408107363165519877/1624554175",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

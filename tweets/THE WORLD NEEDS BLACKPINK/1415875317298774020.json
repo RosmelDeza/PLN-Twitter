@@ -1,0 +1,112 @@
+{
+    "created_at": "Fri Jul 16 03:25:55 +0000 2021",
+    "id": 1415875317298774020,
+    "id_str": "1415875317298774020",
+    "full_text": "Aun sigo teniendo esperanzas de que saquen el nuevo episodio de 24/365 jajs \ud83d\ude14\ud83e\udd19\ud83c\udffb \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        135
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    108,
+                    113
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    114,
+                    124
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    125,
+                    135
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1202723568196304898,
+        "id_str": "1202723568196304898",
+        "name": "\ud835\udc74\ud835\udc8a\ud835\udc94\ud835\udc94 \ud835\udc78\ud835\udc96\ud835\udc86\ud835\udc86\ud835\udc8f\ud83c\uddf2\ud83c\uddfd",
+        "screen_name": "SkyPurple19",
+        "location": "",
+        "description": "\ua9c1\ud835\udc6b\ud835\udc86\ud835\udc83\ud835\udc8a\ud835\udc94\ud835\udc95\ud835\udc86 \ud835\udc89\ud835\udc82\ud835\udc83\ud835\udc86\ud835\udc93 \ud835\udc82\ud835\udc84\ud835\udc82\ud835\udc83\ud835\udc82\ud835\udc85\ud835\udc90 \ud835\udc84\ud835\udc90\ud835\udc8f\ud835\udc8e\ud835\udc8a\ud835\udc88\ud835\udc90 \ud835\udc84\ud835\udc96\ud835\udc82\ud835\udc8f\ud835\udc85\ud835\udc90 \ud835\udc95\ud835\udc96\ud835\udc97\ud835\udc8a\ud835\udc94\ud835\udc95\ud835\udc86 \ud835\udc8d\ud835\udc82 \ud835\udc90\ud835\udc91\ud835\udc90\ud835\udc93\ud835\udc95\ud835\udc96\ud835\udc8f\ud835\udc8a\ud835\udc85\ud835\udc82\ud835\udc85.~\ud835\udc01\ud835\udc0b\ud835\udc00\ud835\udc02\ud835\udc0a\ud835\udc0f\ud835\udc08\ud835\udc0d\ud835\udc0a\ua9c2",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1387,
+        "friends_count": 1527,
+        "listed_count": 2,
+        "created_at": "Thu Dec 05 22:57:09 +0000 2019",
+        "favourites_count": 3248,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4076,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1391605585263607813/Vl33HbZt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391605585263607813/Vl33HbZt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1202723568196304898/1620619617",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

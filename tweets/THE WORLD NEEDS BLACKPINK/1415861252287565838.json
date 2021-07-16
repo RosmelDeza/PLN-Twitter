@@ -1,0 +1,224 @@
+{
+    "created_at": "Fri Jul 16 02:30:02 +0000 2021",
+    "id": 1415861252287565838,
+    "id_str": "1415861252287565838",
+    "full_text": "RT @jatzi_jaurello: Pongan dos votos y les digo lo que mi hermano piensa de su perfil \ud83d\udc25\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKP\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    115,
+                    120
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    121,
+                    131
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jatzi_jaurello",
+                "name": "Chikencio Kim || TEAM KTL\ud83d\udd2b",
+                "id": 826814982079684609,
+                "id_str": "826814982079684609",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1396985546120040456,
+        "id_str": "1396985546120040456",
+        "name": "La mejor jisoonista \ud83d\udc23",
+        "screen_name": "Chiken_pinks",
+        "location": "BLACKPINK IN YOUR AREA",
+        "description": "She/Her\n\nSeamos felices no importa si somos algo o no \ud83e\udd7a\n\n~ Din\u00e1micas y stream para las pinks ~",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 265,
+        "friends_count": 282,
+        "listed_count": 0,
+        "created_at": "Tue May 25 00:24:55 +0000 2021",
+        "favourites_count": 474,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1484,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414401554963128323/T0OEORQs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414401554963128323/T0OEORQs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396985546120040456/1625595135",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:33:42 +0000 2021",
+        "id": 1415847074856325123,
+        "id_str": "1415847074856325123",
+        "full_text": "Pongan dos votos y les digo lo que mi hermano piensa de su perfil \ud83d\udc25\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            122
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        95,
+                        100
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        101,
+                        111
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        112,
+                        122
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 826814982079684609,
+            "id_str": "826814982079684609",
+            "name": "Chikencio Kim || TEAM KTL\ud83d\udd2b",
+            "screen_name": "jatzi_jaurello",
+            "location": "Tailandia",
+            "description": "BLACKPINK IS THE REVOLUTION \ud83c\uddf2\ud83c\uddfd\nBlackpink paved their own way \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1537,
+            "friends_count": 1438,
+            "listed_count": 1,
+            "created_at": "Wed Feb 01 15:30:28 +0000 2017",
+            "favourites_count": 3722,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13558,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414451048803184642/gTkZKlhQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414451048803184642/gTkZKlhQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/826814982079684609/1626148771",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 22,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

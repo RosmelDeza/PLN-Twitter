@@ -1,0 +1,242 @@
+{
+    "created_at": "Fri Jul 16 02:35:21 +0000 2021",
+    "id": 1415862588370472962,
+    "id_str": "1415862588370472962",
+    "full_text": "RT @BlinkforeverK: @Melmiyou Pos claro que si ning\u00fan var\u00f3n las ayud\u00f3 ella solas brillaron \n\nBLACKPINK PAVED THEIR OWN WAY\n\nTHE WORLD NEEDS\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BlinkforeverK",
+                "name": "K-blinkForever",
+                "id": 1356056603330551808,
+                "id_str": "1356056603330551808",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "Melmiyou",
+                "name": "\u2716 Melany \u2077\u00b9\u00b2\u00b9\u2077\u2078 -R-",
+                "id": 952612203160621058,
+                "id_str": "952612203160621058",
+                "indices": [
+                    19,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1398359216876892160,
+        "id_str": "1398359216876892160",
+        "name": "JISOO\ud83d\udc8c",
+        "screen_name": "bpmilka",
+        "location": "BLACKPINK PAVED THEIR OWN WAY",
+        "description": "4 + 1",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 214,
+        "friends_count": 319,
+        "listed_count": 1,
+        "created_at": "Fri May 28 19:23:26 +0000 2021",
+        "favourites_count": 180,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 19458,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415645823564722180/yDRWNuOD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415645823564722180/yDRWNuOD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1398359216876892160/1626224615",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:21:18 +0000 2021",
+        "id": 1415843953954500609,
+        "id_str": "1415843953954500609",
+        "full_text": "@Melmiyou Pos claro que si ning\u00fan var\u00f3n las ayud\u00f3 ella solas brillaron \n\nBLACKPINK PAVED THEIR OWN WAY\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            10,
+            157
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        130,
+                        135
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        136,
+                        146
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Melmiyou",
+                    "name": "\u2716 Melany \u2077\u00b9\u00b2\u00b9\u2077\u2078 -R-",
+                    "id": 952612203160621058,
+                    "id_str": "952612203160621058",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        147,
+                        157
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415843548872777730,
+        "in_reply_to_status_id_str": "1415843548872777730",
+        "in_reply_to_user_id": 952612203160621058,
+        "in_reply_to_user_id_str": "952612203160621058",
+        "in_reply_to_screen_name": "Melmiyou",
+        "user": {
+            "id": 1356056603330551808,
+            "id_str": "1356056603330551808",
+            "name": "K-blinkForever",
+            "screen_name": "BlinkforeverK",
+            "location": "He/Him \ud83c\uddec\ud83c\uddf9",
+            "description": "",
+            "url": "https://t.co/HLKg3Qqt3K",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/HLKg3Qqt3K",
+                            "expanded_url": "https://lsnls1.carrd.co/",
+                            "display_url": "lsnls1.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 423,
+            "friends_count": 519,
+            "listed_count": 0,
+            "created_at": "Mon Feb 01 01:47:51 +0000 2021",
+            "favourites_count": 2149,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4198,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411180639664193537/2b4AoNeB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411180639664193537/2b4AoNeB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356056603330551808/1620246199",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

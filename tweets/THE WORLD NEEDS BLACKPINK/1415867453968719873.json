@@ -1,0 +1,222 @@
+{
+    "created_at": "Fri Jul 16 02:54:41 +0000 2021",
+    "id": 1415867453968719873,
+    "id_str": "1415867453968719873",
+    "full_text": "RT @souzabutera7: Ustedes blinks q no votan por las pinks me dan pena, primero mi hermano blink del closet vota antes q ustedes, entienden\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "souzabutera7",
+                "name": "D BANANON\ud83e\udd96",
+                "id": 1317929084400316416,
+                "id_str": "1317929084400316416",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1387906912415633408,
+        "id_str": "1387906912415633408",
+        "name": "cArNe CoN yUkAaaaAa",
+        "screen_name": "AlexaMa75639869",
+        "location": "",
+        "description": "BP\u2661",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 298,
+        "friends_count": 297,
+        "listed_count": 0,
+        "created_at": "Thu Apr 29 23:09:38 +0000 2021",
+        "favourites_count": 1755,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2392,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415501490362454016/lTq9RpYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415501490362454016/lTq9RpYC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387906912415633408/1623037745",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:49:06 +0000 2021",
+        "id": 1415866049501798404,
+        "id_str": "1415866049501798404",
+        "full_text": "Ustedes blinks q no votan por las pinks me dan pena, primero mi hermano blink del closet vota antes q ustedes, entienden eso??? Lo entienden???\n(Claro, su bias es Jisoo) \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            225
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        198,
+                        203
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        204,
+                        214
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        215,
+                        225
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1317929084400316416,
+            "id_str": "1317929084400316416",
+            "name": "D BANANON\ud83e\udd96",
+            "screen_name": "souzabutera7",
+            "location": "",
+            "description": "\ud83d\udda4",
+            "url": "https://t.co/81Gnn1kXdy",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/81Gnn1kXdy",
+                            "expanded_url": "http://tiktok.com/@souzabutera7",
+                            "display_url": "tiktok.com/@souzabutera7",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1429,
+            "friends_count": 1017,
+            "listed_count": 8,
+            "created_at": "Sun Oct 18 20:42:44 +0000 2020",
+            "favourites_count": 10879,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 15352,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411725298727636993/ZG7UJLHy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411725298727636993/ZG7UJLHy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317929084400316416/1625416539",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

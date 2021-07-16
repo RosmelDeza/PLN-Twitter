@@ -1,0 +1,277 @@
+{
+    "created_at": "Fri Jul 16 01:55:23 +0000 2021",
+    "id": 1415852531851399168,
+    "id_str": "1415852531851399168",
+    "full_text": "RT @kimchi_419702: @turtler57483371 @BLACKPINK Dios m\u00edo me voy un rato y ya cambian \nJejej \n21\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    121,
+                    126
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    127,
+                    137
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kimchi_419702",
+                "name": "Jenchulichaeng",
+                "id": 941811711186735104,
+                "id_str": "941811711186735104",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "turtler57483371",
+                "name": "Turtle Rabbit \ud83c\uddf2\ud83c\uddfd\ud83d\udc22\ud83d\udc30\ud83e\udd55\ud83c\uddf2\ud83c\uddfd",
+                "id": 1391646059580043265,
+                "id_str": "1391646059580043265",
+                "indices": [
+                    19,
+                    35
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    36,
+                    46
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1377085696410845185,
+        "id_str": "1377085696410845185",
+        "name": "B\u00e1rbara | \ud83d\udd87",
+        "screen_name": "Jjkbvaa",
+        "location": "She/her",
+        "description": "\ud83c\udde8\ud83c\uddf1Que hablan de corte si yo soy el corte\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon't touch Ange \u2661 /",
+        "url": "https://t.co/Y9brftbZKA",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Y9brftbZKA",
+                        "expanded_url": "https://twitter.com/Jjkbvaa/status/1409749314193313795?s=19",
+                        "display_url": "twitter.com/Jjkbvaa/status\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1498,
+        "friends_count": 1481,
+        "listed_count": 4,
+        "created_at": "Wed Mar 31 02:30:12 +0000 2021",
+        "favourites_count": 7550,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 31297,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413973589653606400/bTcIntgi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413973589653606400/bTcIntgi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1377085696410845185/1625894211",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:54:56 +0000 2021",
+        "id": 1415852417808310281,
+        "id_str": "1415852417808310281",
+        "full_text": "@turtler57483371 @BLACKPINK Dios m\u00edo me voy un rato y ya cambian \nJejej \n21\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            28,
+            129
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        102,
+                        107
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        108,
+                        118
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "turtler57483371",
+                    "name": "Turtle Rabbit \ud83c\uddf2\ud83c\uddfd\ud83d\udc22\ud83d\udc30\ud83e\udd55\ud83c\uddf2\ud83c\uddfd",
+                    "id": 1391646059580043265,
+                    "id_str": "1391646059580043265",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        17,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        119,
+                        129
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415840608560861189,
+        "in_reply_to_status_id_str": "1415840608560861189",
+        "in_reply_to_user_id": 1391646059580043265,
+        "in_reply_to_user_id_str": "1391646059580043265",
+        "in_reply_to_screen_name": "turtler57483371",
+        "user": {
+            "id": 941811711186735104,
+            "id_str": "941811711186735104",
+            "name": "Jenchulichaeng",
+            "screen_name": "kimchi_419702",
+            "location": "",
+            "description": "blackpink is the revolution",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 196,
+            "friends_count": 491,
+            "listed_count": 0,
+            "created_at": "Fri Dec 15 23:26:24 +0000 2017",
+            "favourites_count": 9109,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9370,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1390889789667352577/K2vG_jbx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390889789667352577/K2vG_jbx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/941811711186735104/1614898134",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

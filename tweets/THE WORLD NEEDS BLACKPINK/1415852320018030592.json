@@ -1,0 +1,247 @@
+{
+    "created_at": "Fri Jul 16 01:54:33 +0000 2021",
+    "id": 1415852320018030592,
+    "id_str": "1415852320018030592",
+    "full_text": "RT @blinkcristi: Amo que jennie actualice m\u00e1s seguido \ud83d\ude2d\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        110
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    83,
+                    88
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    89,
+                    99
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "blinkcristi",
+                "name": "nini",
+                "id": 1350272212742393857,
+                "id_str": "1350272212742393857",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    100,
+                    110
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1396922016695980032,
+        "id_str": "1396922016695980032",
+        "name": "Isabella \ud83d\udc90",
+        "screen_name": "bpestodo",
+        "location": "CL - (ella)",
+        "description": "Como no ser fan de #JENNIE cuando ella... Existe y respira cada d\u00eda?",
+        "url": "https://t.co/Onvr5qN8Ye",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Onvr5qN8Ye",
+                        "expanded_url": "https://chaennie.xn--odi/",
+                        "display_url": "chaennie.\u273f",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 113,
+        "friends_count": 120,
+        "listed_count": 0,
+        "created_at": "Mon May 24 20:12:34 +0000 2021",
+        "favourites_count": 367,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1114,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415696104872714244/a3JVcm1q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415696104872714244/a3JVcm1q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396922016695980032/1626306312",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:35:21 +0000 2021",
+        "id": 1415847491669565442,
+        "id_str": "1415847491669565442",
+        "full_text": "Amo que jennie actualice m\u00e1s seguido \ud83d\ude2d\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            93
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        66,
+                        71
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        72,
+                        82
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        83,
+                        93
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1350272212742393857,
+            "id_str": "1350272212742393857",
+            "name": "nini",
+            "screen_name": "blinkcristi",
+            "location": "she/her",
+            "description": "cuenta con mucho swag :@cristiiblink",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1142,
+            "friends_count": 1045,
+            "listed_count": 0,
+            "created_at": "Sat Jan 16 02:42:51 +0000 2021",
+            "favourites_count": 9198,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5120,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408870149009166338/Rr7BcMC5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408870149009166338/Rr7BcMC5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350272212742393857/1625078683",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

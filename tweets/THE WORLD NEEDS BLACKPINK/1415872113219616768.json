@@ -1,0 +1,222 @@
+{
+    "created_at": "Fri Jul 16 03:13:12 +0000 2021",
+    "id": 1415872113219616768,
+    "id_str": "1415872113219616768",
+    "full_text": "RT @allforjenlisa: Blink que se respeta no comparte ni difunde contenido filtrado, Blink que se respeta valora el trabajo de las chicas y d\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "allforjenlisa",
+                "name": "Dulce\ud83d\udda4",
+                "id": 1117882113733341184,
+                "id_str": "1117882113733341184",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1317742327868411906,
+        "id_str": "1317742327868411906",
+        "name": "Karen\ud83c\udf19",
+        "screen_name": "Biaslalisapinks",
+        "location": "bla\u0254kpink",
+        "description": "Enamorada de cuatro diosas \u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 205,
+        "friends_count": 265,
+        "listed_count": 1,
+        "created_at": "Sun Oct 18 08:20:40 +0000 2020",
+        "favourites_count": 3718,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38419,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1379175482323832837/oVtzMcEp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379175482323832837/oVtzMcEp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317742327868411906/1617656032",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:11:42 +0000 2021",
+        "id": 1415871738001383428,
+        "id_str": "1415871738001383428",
+        "full_text": "Blink que se respeta no comparte ni difunde contenido filtrado, Blink que se respeta valora el trabajo de las chicas y denuncia esas publicaciones, gracias.\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            211
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        184,
+                        189
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        190,
+                        200
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        201,
+                        211
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1117882113733341184,
+            "id_str": "1117882113733341184",
+            "name": "Dulce\ud83d\udda4",
+            "screen_name": "allforjenlisa",
+            "location": "Coachella, CA",
+            "description": "\"Watch your mouth when you speak my name, Jennie\u201d. \ud83d\udda4 TS13\u2728women paved their own way in the industry.",
+            "url": "https://t.co/Fkq6FdHN6p",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Fkq6FdHN6p",
+                            "expanded_url": "http://Nieeh.com",
+                            "display_url": "Nieeh.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3644,
+            "friends_count": 920,
+            "listed_count": 7,
+            "created_at": "Mon Apr 15 20:07:19 +0000 2019",
+            "favourites_count": 29170,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 51033,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412465301254406145/C9ht24cg_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412465301254406145/C9ht24cg_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117882113733341184/1625593508",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

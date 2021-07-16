@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 07 17:05:02 +0000 2021",
+    "id": 1412819962046124039,
+    "id_str": "1412819962046124039",
+    "full_text": "RT @SraPalta: Oe despierten a Salvador del Solar para que haga su entrada a lo WWE en el Congreso, y ya luego vuelva a su cama.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        127
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SraPalta",
+                "name": "Peque\u00f1a y agresiva con la vida",
+                "id": 724428459846590464,
+                "id_str": "724428459846590464",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 62736159,
+        "id_str": "62736159",
+        "name": "Katiuska Flores\ud83c\udf08 Fujimori NUNCA M\u00c1S",
+        "screen_name": "katiuskaflores",
+        "location": "Lima - Per\u00fa",
+        "description": "una perra curvil\u00ednea y elocuente magn\u00edficamente colosal\nextravagante y animal. ALTO EN PENDEJADAS\nEl dinero alcanza cuando no se roba.",
+        "url": "https://t.co/7cuLe50nJ6",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/7cuLe50nJ6",
+                        "expanded_url": "http://katiuskaflores.com",
+                        "display_url": "katiuskaflores.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11994,
+        "friends_count": 1751,
+        "listed_count": 156,
+        "created_at": "Tue Aug 04 06:14:25 +0000 2009",
+        "favourites_count": 5622,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 257832,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1340890166609768448/HQMdaK7__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1340890166609768448/HQMdaK7__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/62736159/1614438961",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EDEDED",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 07 17:04:03 +0000 2021",
+        "id": 1412819713240018958,
+        "id_str": "1412819713240018958",
+        "full_text": "Oe despierten a Salvador del Solar para que haga su entrada a lo WWE en el Congreso, y ya luego vuelva a su cama.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            113
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 724428459846590464,
+            "id_str": "724428459846590464",
+            "name": "Peque\u00f1a y agresiva con la vida",
+            "screen_name": "SraPalta",
+            "location": "Lima, Per\u00fa",
+            "description": "Nac\u00ed, crec\u00ed, me reproduje, as\u00ed que solo me queda una cosa. Estudi\u00e9 derecho gracias a una serie de eventos -ya no tan- desafortunados. Antipatriarcal.25.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16076,
+            "friends_count": 1985,
+            "listed_count": 19,
+            "created_at": "Mon Apr 25 02:42:58 +0000 2016",
+            "favourites_count": 29462,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 33107,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1395127739963822083/n_7-SQPP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395127739963822083/n_7-SQPP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/724428459846590464/1621459442",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 55,
+        "favorite_count": 699,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 55,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

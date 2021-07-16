@@ -1,0 +1,380 @@
+{
+    "created_at": "Sun Jul 11 00:48:13 +0000 2021",
+    "id": 1414023688186441728,
+    "id_str": "1414023688186441728",
+    "full_text": "RT @dadoeterno: El @congresoperu no acepta que estamos en #Dictadura Caviar. \nEl fin de la democracia se inici\u00f3 con el #GolpeDeEstado de @M\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Dictadura",
+                "indices": [
+                    58,
+                    68
+                ]
+            },
+            {
+                "text": "GolpeDeEstado",
+                "indices": [
+                    119,
+                    133
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dadoeterno",
+                "name": "Eduardo Olivos Meza \ud83c\udfca",
+                "id": 346946541,
+                "id_str": "346946541",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "congresoperu",
+                "name": "Congreso del Per\u00fa",
+                "id": 78889373,
+                "id_str": "78889373",
+                "indices": [
+                    19,
+                    32
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 206799616,
+        "id_str": "206799616",
+        "name": "Juan Manuel Cubas",
+        "screen_name": "JMCubasP",
+        "location": "Chiclayo, Per\u00fa",
+        "description": "Peruano, economista, Hombre Libre y de Buenas Costumbres.  CEO Grupo C",
+        "url": "https://t.co/R23CZrYWTE",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/R23CZrYWTE",
+                        "expanded_url": "http://grupoc.com.pe",
+                        "display_url": "grupoc.com.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 323,
+        "friends_count": 711,
+        "listed_count": 0,
+        "created_at": "Sat Oct 23 19:09:09 +0000 2010",
+        "favourites_count": 15111,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10429,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "130B14",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/426614800165003264/ufC8R8ak_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/426614800165003264/ufC8R8ak_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 19:27:52 +0000 2021",
+        "id": 1413943070823960577,
+        "id_str": "1413943070823960577",
+        "full_text": "El @congresoperu no acepta que estamos en #Dictadura Caviar. \nEl fin de la democracia se inici\u00f3 con el #GolpeDeEstado de @MartinVizcarraC, el 30SET2019, luego que perdonaran a Salvador del Solar @saldelsol haber ingresado a patadas al Pleno para imponer su capricho caviar. https://t.co/IJfATPXE0O",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            273
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Dictadura",
+                    "indices": [
+                        42,
+                        52
+                    ]
+                },
+                {
+                    "text": "GolpeDeEstado",
+                    "indices": [
+                        103,
+                        117
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "congresoperu",
+                    "name": "Congreso del Per\u00fa",
+                    "id": 78889373,
+                    "id_str": "78889373",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "MartinVizcarraC",
+                    "name": "Mart\u00edn Vizcarra",
+                    "id": 4825296327,
+                    "id_str": "4825296327",
+                    "indices": [
+                        121,
+                        137
+                    ]
+                },
+                {
+                    "screen_name": "saldelsol",
+                    "name": "Salvador del Solar",
+                    "id": 52137645,
+                    "id_str": "52137645",
+                    "indices": [
+                        195,
+                        205
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/IJfATPXE0O",
+                    "expanded_url": "https://twitter.com/congresoperu/status/1413918616194539520",
+                    "display_url": "twitter.com/congresoperu/s\u2026",
+                    "indices": [
+                        274,
+                        297
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 346946541,
+            "id_str": "346946541",
+            "name": "Eduardo Olivos Meza \ud83c\udfca",
+            "screen_name": "dadoeterno",
+            "location": "Lima, Per\u00fa",
+            "description": "Peruano. Economista - PUCP. Regulaci\u00f3n P\u00fablica y Derechos Humanos.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2001,
+            "friends_count": 309,
+            "listed_count": 1,
+            "created_at": "Tue Aug 02 02:20:52 +0000 2011",
+            "favourites_count": 33575,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 27451,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404327472846544899/QkcJejWx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404327472846544899/QkcJejWx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/346946541/1624737152",
+            "profile_link_color": "678894",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1413918616194539520,
+        "quoted_status_id_str": "1413918616194539520",
+        "quoted_status": {
+            "created_at": "Sat Jul 10 17:50:42 +0000 2021",
+            "id": 1413918616194539520,
+            "id_str": "1413918616194539520",
+            "full_text": "La Junta de Portavoces, que se realizar\u00e1 este lunes, tratar\u00e1 el tema con prioridad. El equilibrio y control de poderes no debiera judicializarse, m\u00e1xime cuando no hay decisi\u00f3n sobre la designaci\u00f3n de magistrados al Tribunal Constitucional.",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                239
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1413918459990249476,
+            "in_reply_to_status_id_str": "1413918459990249476",
+            "in_reply_to_user_id": 78889373,
+            "in_reply_to_user_id_str": "78889373",
+            "in_reply_to_screen_name": "congresoperu",
+            "user": {
+                "id": 78889373,
+                "id_str": "78889373",
+                "name": "Congreso del Per\u00fa",
+                "screen_name": "congresoperu",
+                "location": "Lima, Per\u00fa",
+                "description": "Cuenta oficial. Informaci\u00f3n sobre las actividades del Parlamento.",
+                "url": "https://t.co/EmxkdVYtvS",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/EmxkdVYtvS",
+                                "expanded_url": "http://www.congreso.gob.pe",
+                                "display_url": "congreso.gob.pe",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 814755,
+                "friends_count": 563,
+                "listed_count": 1656,
+                "created_at": "Thu Oct 01 12:21:24 +0000 2009",
+                "favourites_count": 329,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 73424,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1365632651323994119/VviH93gF_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365632651323994119/VviH93gF_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/78889373/1609967620",
+                "profile_link_color": "D11F1F",
+                "profile_sidebar_border_color": "700000",
+                "profile_sidebar_fill_color": "700000",
+                "profile_text_color": "FFFFFF",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 97,
+            "favorite_count": 327,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1413918616194539520,
+    "quoted_status_id_str": "1413918616194539520",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

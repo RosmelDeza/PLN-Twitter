@@ -1,0 +1,234 @@
+{
+    "created_at": "Fri Jul 16 02:54:00 +0000 2021",
+    "id": 1415867284040654851,
+    "id_str": "1415867284040654851",
+    "full_text": "RT @jatzi_jaurello: Que bonito el tag, est\u00e1 como para hacerlo tendencia \ud83e\udd38\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        128
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    101,
+                    106
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    107,
+                    117
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jatzi_jaurello",
+                "name": "Chikencio Kim || TEAM KTL\ud83d\udd2b",
+                "id": 826814982079684609,
+                "id_str": "826814982079684609",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    118,
+                    128
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1351701303555141635,
+        "id_str": "1351701303555141635",
+        "name": "Melody's Melod\u00eda",
+        "screen_name": "MelodysMelodia",
+        "location": "",
+        "description": "Eng/Esp. She/her.\nFor Blackpink, Selena Gomez, Olivia Rodrigo and Anime.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1184,
+        "friends_count": 1167,
+        "listed_count": 2,
+        "created_at": "Wed Jan 20 01:22:37 +0000 2021",
+        "favourites_count": 8978,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10375,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414796141389099009/EIiUue10_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414796141389099009/EIiUue10_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1351701303555141635/1626149012",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:09:33 +0000 2021",
+        "id": 1415840997871869953,
+        "id_str": "1415840997871869953",
+        "full_text": "Que bonito el tag, est\u00e1 como para hacerlo tendencia \ud83e\udd38\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            108
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        81,
+                        86
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        87,
+                        97
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        98,
+                        108
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 826814982079684609,
+            "id_str": "826814982079684609",
+            "name": "Chikencio Kim || TEAM KTL\ud83d\udd2b",
+            "screen_name": "jatzi_jaurello",
+            "location": "Tailandia",
+            "description": "BLACKPINK IS THE REVOLUTION \ud83c\uddf2\ud83c\uddfd\nBlackpink paved their own way \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1537,
+            "friends_count": 1438,
+            "listed_count": 1,
+            "created_at": "Wed Feb 01 15:30:28 +0000 2017",
+            "favourites_count": 3722,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13558,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414451048803184642/gTkZKlhQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414451048803184642/gTkZKlhQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/826814982079684609/1626148771",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,117 @@
+{
+    "created_at": "Sun Jul 11 16:57:26 +0000 2021",
+    "id": 1414267599806947328,
+    "id_str": "1414267599806947328",
+    "full_text": "@PolloFarsantePe @oscardiazperu @julianaoxenford \u00bfLa se\u00f1ora de la imagen , no es la mam\u00e1 del actor Salvador del Solar????",
+    "truncated": false,
+    "display_text_range": [
+        49,
+        121
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PolloFarsantePe",
+                "name": "ElPolloFarsante",
+                "id": 1409887097838841857,
+                "id_str": "1409887097838841857",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "oscardiazperu",
+                "name": "Oscar D\u00edaz Moscoso",
+                "id": 3917434100,
+                "id_str": "3917434100",
+                "indices": [
+                    17,
+                    31
+                ]
+            },
+            {
+                "screen_name": "julianaoxenford",
+                "name": "julianaoxenford",
+                "id": 1271961894685937670,
+                "id_str": "1271961894685937670",
+                "indices": [
+                    32,
+                    48
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414006612054917120,
+    "in_reply_to_status_id_str": "1414006612054917120",
+    "in_reply_to_user_id": 1409887097838841857,
+    "in_reply_to_user_id_str": "1409887097838841857",
+    "in_reply_to_screen_name": "PolloFarsantePe",
+    "user": {
+        "id": 76499431,
+        "id_str": "76499431",
+        "name": "Jose Luis",
+        "screen_name": "JL_ValeraC",
+        "location": "Lima, Peru",
+        "description": "\u201cSi ves un fraude y no dices que es un fraude, el fraude eres t\u00fa\u201d Nassim Nicholas Taleb\n\nNo pienses en las formas en las que te puedes equivocar",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 180,
+        "friends_count": 379,
+        "listed_count": 0,
+        "created_at": "Wed Sep 23 00:12:51 +0000 2009",
+        "favourites_count": 27906,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 29781,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1260048075353198595/X2tOKcZ7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260048075353198595/X2tOKcZ7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76499431/1555873305",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

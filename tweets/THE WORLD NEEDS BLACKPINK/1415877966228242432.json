@@ -1,0 +1,132 @@
+{
+    "created_at": "Fri Jul 16 03:36:27 +0000 2021",
+    "id": 1415877966228242432,
+    "id_str": "1415877966228242432",
+    "full_text": "@rosemylof @BLACKPINK De la ..... Fjsjaja, no he dormido bien desde que v\u00ed a Lisa llorar\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        22,
+        142
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    115,
+                    120
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    121,
+                    131
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "rosemylof",
+                "name": "An",
+                "id": 1395049971767037958,
+                "id_str": "1395049971767037958",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    11,
+                    21
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    132,
+                    142
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415876161125629956,
+    "in_reply_to_status_id_str": "1415876161125629956",
+    "in_reply_to_user_id": 1395049971767037958,
+    "in_reply_to_user_id_str": "1395049971767037958",
+    "in_reply_to_screen_name": "rosemylof",
+    "user": {
+        "id": 1407825599222194176,
+        "id_str": "1407825599222194176",
+        "name": "Cristhian BP 4+1 \ud83d\udda4 IloveLisa",
+        "screen_name": "Cheems57329613",
+        "location": "",
+        "description": "Perdidamente enamorada de Lisa, Jennie,   Jisoo y Ros\u00e9. :'v \ud83d\udda4",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 52,
+        "friends_count": 217,
+        "listed_count": 0,
+        "created_at": "Wed Jun 23 22:19:25 +0000 2021",
+        "favourites_count": 759,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 789,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415000924146257923/y4nDmRBI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415000924146257923/y4nDmRBI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1407825599222194176/1626197483",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,463 @@
+{
+    "created_at": "Fri Jul 16 02:08:36 +0000 2021",
+    "id": 1415855859167498242,
+    "id_str": "1415855859167498242",
+    "full_text": "RT @Lisa_ismylife: Help, en M\u00e9xico solo es un papel que se despinta solo con verlo\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    110,
+                    115
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    116,
+                    126
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Lisa_ismylife",
+                "name": "Blink~OT4// Romi",
+                "id": 1389242644488933378,
+                "id_str": "1389242644488933378",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    127,
+                    137
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1267588246755774464,
+        "id_str": "1267588246755774464",
+        "name": "~Diana~\ud83c\uddf2\ud83c\uddfd",
+        "screen_name": "Diiana_Cruzz",
+        "location": "",
+        "description": "BLINK X ONCE \ud83d\udc93",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 204,
+        "friends_count": 339,
+        "listed_count": 1,
+        "created_at": "Mon Jun 01 22:49:15 +0000 2020",
+        "favourites_count": 5544,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4030,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402126995174088705/RYQZtS-E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402126995174088705/RYQZtS-E_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267588246755774464/1620008401",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:22:26 +0000 2021",
+        "id": 1415844240928567298,
+        "id_str": "1415844240928567298",
+        "full_text": "Help, en M\u00e9xico solo es un papel que se despinta solo con verlo\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/ZTsiZsB5pJ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            118
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        91,
+                        96
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        97,
+                        107
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        108,
+                        118
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ZTsiZsB5pJ",
+                    "expanded_url": "https://twitter.com/legendharmony/status/1415843294190325761",
+                    "display_url": "twitter.com/legendharmony/\u2026",
+                    "indices": [
+                        119,
+                        142
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1389242644488933378,
+            "id_str": "1389242644488933378",
+            "name": "Blink~OT4// Romi",
+            "screen_name": "Lisa_ismylife",
+            "location": "\ud83c\uddf2\ud83c\uddfd",
+            "description": "Only for Blackpink // waiting LS1",
+            "url": "https://t.co/WWBX4sZkkv",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/WWBX4sZkkv",
+                            "expanded_url": "https://lsnls1.carrd.co/",
+                            "display_url": "lsnls1.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2218,
+            "friends_count": 1512,
+            "listed_count": 2,
+            "created_at": "Mon May 03 15:37:21 +0000 2021",
+            "favourites_count": 1124,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 16659,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414050384801189890/2IBzlR61_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414050384801189890/2IBzlR61_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389242644488933378/1625990481",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415843294190325761,
+        "quoted_status_id_str": "1415843294190325761",
+        "quoted_status": {
+            "created_at": "Fri Jul 16 01:18:41 +0000 2021",
+            "id": 1415843294190325761,
+            "id_str": "1415843294190325761",
+            "full_text": "BLACKPINK THE MOVIE TICKETS IN JAPAN \ud83e\udd29 https://t.co/hRC4QNXk47",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                38
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415843286250496001,
+                        "id_str": "1415843286250496001",
+                        "indices": [
+                            39,
+                            62
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6YV96aVIAEVjUu.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6YV96aVIAEVjUu.jpg",
+                        "url": "https://t.co/hRC4QNXk47",
+                        "display_url": "pic.twitter.com/hRC4QNXk47",
+                        "expanded_url": "https://twitter.com/LEGENDHARMONY/status/1415843294190325761/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1079,
+                                "h": 822,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 518,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1079,
+                                "h": 822,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415843286250496001,
+                        "id_str": "1415843286250496001",
+                        "indices": [
+                            39,
+                            62
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6YV96aVIAEVjUu.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6YV96aVIAEVjUu.jpg",
+                        "url": "https://t.co/hRC4QNXk47",
+                        "display_url": "pic.twitter.com/hRC4QNXk47",
+                        "expanded_url": "https://twitter.com/LEGENDHARMONY/status/1415843294190325761/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1079,
+                                "h": 822,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 518,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1079,
+                                "h": 822,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1415843286246248448,
+                        "id_str": "1415843286246248448",
+                        "indices": [
+                            39,
+                            62
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6YV96ZUUAA19mC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6YV96ZUUAA19mC.jpg",
+                        "url": "https://t.co/hRC4QNXk47",
+                        "display_url": "pic.twitter.com/hRC4QNXk47",
+                        "expanded_url": "https://twitter.com/LEGENDHARMONY/status/1415843294190325761/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1023,
+                                "h": 1023,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1023,
+                                "h": 1023,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 580584352,
+                "id_str": "580584352",
+                "name": "\u064b",
+                "screen_name": "LEGENDHARMONY",
+                "location": "jenchulichaeng",
+                "description": "#BLACKPINK: first, never second",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 16724,
+                "friends_count": 3780,
+                "listed_count": 36,
+                "created_at": "Tue May 15 05:39:26 +0000 2012",
+                "favourites_count": 34186,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 86410,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1404978128712200197/O-ihOFDV_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404978128712200197/O-ihOFDV_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/580584352/1616128423",
+                "profile_link_color": "0099CC",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 421,
+            "favorite_count": 2322,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 9,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415843294190325761,
+    "quoted_status_id_str": "1415843294190325761",
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

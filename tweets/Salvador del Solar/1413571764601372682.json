@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Jul 09 18:52:26 +0000 2021",
+    "id": 1413571764601372682,
+    "id_str": "1413571764601372682",
+    "full_text": "@SalvadorHeresi @esquinabaja Salvador ser\u00e1 el pr\u00f3ximo presidente.\nSi Salvador del solar, porque t\u00fa ni de APAFA.",
+    "truncated": false,
+    "display_text_range": [
+        29,
+        111
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SalvadorHeresi",
+                "name": "Salvador Heresi",
+                "id": 350460605,
+                "id_str": "350460605",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "esquinabaja",
+                "name": "Carla Garc\u00eda B \ud83d\udc9a",
+                "id": 19729967,
+                "id_str": "19729967",
+                "indices": [
+                    16,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1413558989741248515,
+    "in_reply_to_status_id_str": "1413558989741248515",
+    "in_reply_to_user_id": 350460605,
+    "in_reply_to_user_id_str": "350460605",
+    "in_reply_to_screen_name": "SalvadorHeresi",
+    "user": {
+        "id": 173619319,
+        "id_str": "173619319",
+        "name": "\ud835\udc68\ud835\udc8d\ud835\udc90\ud835\udc8f\ud835\udc94\ud835\udc90 \ud83c\uddf5\ud83c\uddea",
+        "screen_name": "Oscarcito182",
+        "location": "Per\u00fa",
+        "description": "Me acusan de rebelde, agitador y revolucionario. Por no pensar lo mismo y decirlo.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 143,
+        "friends_count": 281,
+        "listed_count": 2,
+        "created_at": "Sun Aug 01 23:14:32 +0000 2010",
+        "favourites_count": 6744,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8110,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328261774802554881/zO-LDI9W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328261774802554881/zO-LDI9W_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/173619319/1606086951",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

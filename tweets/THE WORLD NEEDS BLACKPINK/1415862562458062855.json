@@ -1,0 +1,367 @@
+{
+    "created_at": "Fri Jul 16 02:35:15 +0000 2021",
+    "id": 1415862562458062855,
+    "id_str": "1415862562458062855",
+    "full_text": "RT @SVBLACKPINK: Les recordamos que nuestros amigos de @CinepolisSV tienen a la pre-venta los boletos para poder ver The Movie, la pel\u00edcula\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SVBLACKPINK",
+                "name": "BLACKPINK EL SALVADOR \ud83c\uddf8\ud83c\uddfb",
+                "id": 1260268299511889922,
+                "id_str": "1260268299511889922",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "CinepolisSV",
+                "name": "Cin\u00e9polis El Salvador",
+                "id": 301175868,
+                "id_str": "301175868",
+                "indices": [
+                    55,
+                    67
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1390341112104169481,
+        "id_str": "1390341112104169481",
+        "name": "Anna\ud83d\udda4",
+        "screen_name": "bp_bbma04",
+        "location": "",
+        "description": "Account dedicated to support and love Blackpink",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 640,
+        "friends_count": 1307,
+        "listed_count": 0,
+        "created_at": "Thu May 06 16:22:33 +0000 2021",
+        "favourites_count": 8879,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23483,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412028500505247748/hwVpv1vf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412028500505247748/hwVpv1vf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390341112104169481/1625643608",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:59:56 +0000 2021",
+        "id": 1415853676615409667,
+        "id_str": "1415853676615409667",
+        "full_text": "Les recordamos que nuestros amigos de @CinepolisSV tienen a la pre-venta los boletos para poder ver The Movie, la pel\u00edcula estar\u00e1 desde el 4 al 8 de agosto\ud83d\ude0e\n\nTHE WORLD NEEDS BLACKPINK\n#ROSE #BLACKPINK #KCAMexico @BLACKPINK\n\nhttps://t.co/otuey3Ts2x",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            247
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ROSE",
+                    "indices": [
+                        184,
+                        189
+                    ]
+                },
+                {
+                    "text": "BLACKPINK",
+                    "indices": [
+                        190,
+                        200
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        201,
+                        211
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CinepolisSV",
+                    "name": "Cin\u00e9polis El Salvador",
+                    "id": 301175868,
+                    "id_str": "301175868",
+                    "indices": [
+                        38,
+                        50
+                    ]
+                },
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        212,
+                        222
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415235404840591365,
+                    "id_str": "1415235404840591365",
+                    "indices": [
+                        224,
+                        247
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415235404840591365/pu/img/lMBLz5nWH-1hd2xH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415235404840591365/pu/img/lMBLz5nWH-1hd2xH.jpg",
+                    "url": "https://t.co/otuey3Ts2x",
+                    "display_url": "pic.twitter.com/otuey3Ts2x",
+                    "expanded_url": "https://twitter.com/BLACKPINK/status/1415235949160636417/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415235949160636417,
+                    "source_status_id_str": "1415235949160636417",
+                    "source_user_id": 1273850774380883975,
+                    "source_user_id_str": "1273850774380883975"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415235404840591365,
+                    "id_str": "1415235404840591365",
+                    "indices": [
+                        224,
+                        247
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415235404840591365/pu/img/lMBLz5nWH-1hd2xH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415235404840591365/pu/img/lMBLz5nWH-1hd2xH.jpg",
+                    "url": "https://t.co/otuey3Ts2x",
+                    "display_url": "pic.twitter.com/otuey3Ts2x",
+                    "expanded_url": "https://twitter.com/BLACKPINK/status/1415235949160636417/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415235949160636417,
+                    "source_status_id_str": "1415235949160636417",
+                    "source_user_id": 1273850774380883975,
+                    "source_user_id_str": "1273850774380883975",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 74366,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415235404840591365/pu/vid/480x270/wLpevHaII3XBTua6.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415235404840591365/pu/pl/-VNsvl-DYprYclGy.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415235404840591365/pu/vid/1280x720/qbT9TV3yzLFvvpnv.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415235404840591365/pu/vid/640x360/Z3XWVzolSKMS4CHE.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1260268299511889922,
+            "id_str": "1260268299511889922",
+            "name": "BLACKPINK EL SALVADOR \ud83c\uddf8\ud83c\uddfb",
+            "screen_name": "SVBLACKPINK",
+            "location": "El Salvador",
+            "description": "Primera fanbase de BLACKPINK en El Salvador \ud83c\uddf8\ud83c\uddfb para apoyar a BLACKPINK y a BLINKS Salvadore\u00f1os.",
+            "url": "https://t.co/xF86lJXukg",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xF86lJXukg",
+                            "expanded_url": "https://instagram.com/blackpink.sv",
+                            "display_url": "instagram.com/blackpink.sv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1243,
+            "friends_count": 144,
+            "listed_count": 6,
+            "created_at": "Tue May 12 18:00:20 +0000 2020",
+            "favourites_count": 18295,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4991,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1397273294898880515/fkR4xuCc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397273294898880515/fkR4xuCc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260268299511889922/1610337039",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

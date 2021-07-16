@@ -1,0 +1,125 @@
+{
+    "created_at": "Fri Jul 16 02:45:57 +0000 2021",
+    "id": 1415865256681877505,
+    "id_str": "1415865256681877505",
+    "full_text": "cada vez q me meto a tw, las pinks est\u00e1n en tendencia, amamos aqu\u00ed \n\nTHE WORLD NEEDS BLACKPINK\n#ROSE #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        122
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ROSE",
+                "indices": [
+                    95,
+                    100
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    101,
+                    111
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    112,
+                    122
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1302852256648376321,
+        "id_str": "1302852256648376321",
+        "name": "isa; \u200e\ud83c\udf40",
+        "screen_name": "lixiedior",
+        "location": "\ub110 \ub193\ub294\ub2e4\ub294 \uac8c \ub450\ub824\uc6e0\uc5c8\uc9c0\ub9cc \ub193\uc744 \uc218\ubc16\uc5d0 \uc5c6\uc5b4 \ub09c It's all good now  \u2605 MEOW \ud83d\udc08\ud83d\udcbf ",
+        "description": "",
+        "url": "https://t.co/H5wpQVVrqG",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/H5wpQVVrqG",
+                        "expanded_url": "https://lixiedior02.carrd.co/",
+                        "display_url": "lixiedior02.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 310,
+        "friends_count": 314,
+        "listed_count": 9,
+        "created_at": "Mon Sep 07 06:12:53 +0000 2020",
+        "favourites_count": 11330,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5494,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408509808588824582/IZGJPKY6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408509808588824582/IZGJPKY6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1302852256648376321/1622696054",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

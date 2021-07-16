@@ -1,0 +1,204 @@
+{
+    "created_at": "Fri Jul 16 01:21:49 +0000 2021",
+    "id": 1415844086376972290,
+    "id_str": "1415844086376972290",
+    "full_text": "RT @pjlu: @el_analista2020 Ah\u00ed si no te apoyo para nada....Salvador del Solar..es del grupo de los mismos de siempre...negocios raros con e\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pjlu",
+                "name": "pjlu",
+                "id": 54100251,
+                "id_str": "54100251",
+                "indices": [
+                    3,
+                    8
+                ]
+            },
+            {
+                "screen_name": "el_analista2020",
+                "name": "El Analista",
+                "id": 1313270797679681537,
+                "id_str": "1313270797679681537",
+                "indices": [
+                    10,
+                    26
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3098310713,
+        "id_str": "3098310713",
+        "name": "JERIK",
+        "screen_name": "jericos5",
+        "location": "",
+        "description": "EL ALEGRE",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 107,
+        "friends_count": 190,
+        "listed_count": 2,
+        "created_at": "Fri Mar 20 03:42:19 +0000 2015",
+        "favourites_count": 13933,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 48772,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733029618605805570/tfCocyXr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/733029618605805570/tfCocyXr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3098310713/1463602961",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 23:17:22 +0000 2021",
+        "id": 1415812766418542592,
+        "id_str": "1415812766418542592",
+        "full_text": "@el_analista2020 Ah\u00ed si no te apoyo para nada....Salvador del Solar..es del grupo de los mismos de siempre...negocios raros con el lagarto Vizcarra que se debiera profundizar m\u00e1s esa investigaci\u00f3n porque ahora es un poco dif\u00edcil ya que todo esta copado x gente del entorno de Vizcarrista",
+        "truncated": false,
+        "display_text_range": [
+            17,
+            287
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "el_analista2020",
+                    "name": "El Analista",
+                    "id": 1313270797679681537,
+                    "id_str": "1313270797679681537",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1415811662544834572,
+        "in_reply_to_status_id_str": "1415811662544834572",
+        "in_reply_to_user_id": 1313270797679681537,
+        "in_reply_to_user_id_str": "1313270797679681537",
+        "in_reply_to_screen_name": "el_analista2020",
+        "user": {
+            "id": 54100251,
+            "id_str": "54100251",
+            "name": "pjlu",
+            "screen_name": "pjlu",
+            "location": "lima-per\u00fa",
+            "description": "\u263a",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 212,
+            "friends_count": 192,
+            "listed_count": 1,
+            "created_at": "Mon Jul 06 03:28:45 +0000 2009",
+            "favourites_count": 7081,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6532,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1397676137447309321/W1mUwGHe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397676137447309321/W1mUwGHe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54100251/1602452253",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 23,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

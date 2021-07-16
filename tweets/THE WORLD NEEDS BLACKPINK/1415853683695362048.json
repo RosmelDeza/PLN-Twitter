@@ -1,0 +1,227 @@
+{
+    "created_at": "Fri Jul 16 01:59:58 +0000 2021",
+    "id": 1415853683695362048,
+    "id_str": "1415853683695362048",
+    "full_text": "lo que son los tickets para the movie en otros pa\u00edses mientras que ac\u00e1 en latam nos van a dar un papel despintado de cinepolis, triste ser tercermundista \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/Wfw06oTqBt",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        209
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    182,
+                    187
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    188,
+                    198
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    199,
+                    209
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415853678616092674,
+                "id_str": "1415853678616092674",
+                "indices": [
+                    210,
+                    233
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Yfa0_XoAIvwg_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Yfa0_XoAIvwg_.jpg",
+                "url": "https://t.co/Wfw06oTqBt",
+                "display_url": "pic.twitter.com/Wfw06oTqBt",
+                "expanded_url": "https://twitter.com/gldnsvage/status/1415853683695362048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1079,
+                        "h": 822,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 518,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1079,
+                        "h": 822,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415853678616092674,
+                "id_str": "1415853678616092674",
+                "indices": [
+                    210,
+                    233
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Yfa0_XoAIvwg_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Yfa0_XoAIvwg_.jpg",
+                "url": "https://t.co/Wfw06oTqBt",
+                "display_url": "pic.twitter.com/Wfw06oTqBt",
+                "expanded_url": "https://twitter.com/gldnsvage/status/1415853683695362048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1079,
+                        "h": 822,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 518,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1079,
+                        "h": 822,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415853678607618059,
+                "id_str": "1415853678607618059",
+                "indices": [
+                    210,
+                    233
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Yfa09WUAsPCAm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Yfa09WUAsPCAm.jpg",
+                "url": "https://t.co/Wfw06oTqBt",
+                "display_url": "pic.twitter.com/Wfw06oTqBt",
+                "expanded_url": "https://twitter.com/gldnsvage/status/1415853683695362048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 336169246,
+        "id_str": "336169246",
+        "name": "a \u22ac",
+        "screen_name": "gldnsvage",
+        "location": "camila_cabello: fvck this love",
+        "description": "\u2800\u2800 \u2800\u2800 louist91 & harrystyles",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11804,
+        "friends_count": 7846,
+        "listed_count": 45,
+        "created_at": "Fri Jul 15 21:12:55 +0000 2011",
+        "favourites_count": 2465,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 118523,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406993250213314562/_yxRjLRi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406993250213314562/_yxRjLRi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/336169246/1624288322",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "9EA3B8",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

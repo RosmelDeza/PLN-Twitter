@@ -1,0 +1,110 @@
+{
+    "created_at": "Thu Jul 15 23:19:49 +0000 2021",
+    "id": 1415813382180114432,
+    "id_str": "1415813382180114432",
+    "full_text": "@el_analista2020 Salvador Del Solar es recordado como el Premier del cierre del congreso, tiene todos los anticuerpos de la derecha tradicional y ultra. \u00c9l mismo tampoco postular\u00eda por un partido as\u00ed. Imposible su candidato.",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        224
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "el_analista2020",
+                "name": "El Analista",
+                "id": 1313270797679681537,
+                "id_str": "1313270797679681537",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415811662544834572,
+    "in_reply_to_status_id_str": "1415811662544834572",
+    "in_reply_to_user_id": 1313270797679681537,
+    "in_reply_to_user_id_str": "1313270797679681537",
+    "in_reply_to_screen_name": "el_analista2020",
+    "user": {
+        "id": 97488885,
+        "id_str": "97488885",
+        "name": "Diego Leo F\u00e9lix",
+        "screen_name": "el10delpueblo",
+        "location": "Per\u00fa",
+        "description": "Futbolero, analista pol\u00edtico frustrado y Embajador del Reino de Dios en la Tierra.\n\nPodcast: 10 y 10 (Spotify)\nYoutube: Diego Leo Felix\nTwitch: DFelix_10",
+        "url": "https://t.co/QKgJfWIgiz",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/QKgJfWIgiz",
+                        "expanded_url": "https://www.instagram.com/felix_el10/",
+                        "display_url": "instagram.com/felix_el10/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 783,
+        "friends_count": 698,
+        "listed_count": 1,
+        "created_at": "Thu Dec 17 17:36:39 +0000 2009",
+        "favourites_count": 20030,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10935,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1367541187737976835/mkoCy5DZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367541187737976835/mkoCy5DZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/97488885/1355521046",
+        "profile_link_color": "0D40D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "616161",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

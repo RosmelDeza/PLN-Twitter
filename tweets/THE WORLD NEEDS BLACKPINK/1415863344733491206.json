@@ -1,0 +1,125 @@
+{
+    "created_at": "Fri Jul 16 02:38:21 +0000 2021",
+    "id": 1415863344733491206,
+    "id_str": "1415863344733491206",
+    "full_text": "bien es momento de calmarme, me va a dar algo\n\nsolo falta q lancen algo m\u00e1s de LS1 para terminar de morirme hoy\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        166
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    139,
+                    144
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    145,
+                    155
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    156,
+                    166
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1347268985012834306,
+        "id_str": "1347268985012834306",
+        "name": "lela #KesiRemix",
+        "screen_name": "G0NEY0UTH",
+        "location": "\u2661 shawn mendes \u2661",
+        "description": "- only for blackpink and shawn mendes \u2661",
+        "url": "https://t.co/tyhwE5c5do",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/tyhwE5c5do",
+                        "expanded_url": "https://blackpink.xn--1ci06b",
+                        "display_url": "blackpink.\u2729\u2871",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 640,
+        "friends_count": 681,
+        "listed_count": 4,
+        "created_at": "Thu Jan 07 19:49:21 +0000 2021",
+        "favourites_count": 4336,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6003,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414366381156585474/4IjCy1ax_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414366381156585474/4IjCy1ax_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347268985012834306/1624938482",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

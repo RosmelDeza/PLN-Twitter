@@ -1,0 +1,204 @@
+{
+    "created_at": "Fri Jul 16 02:55:09 +0000 2021",
+    "id": 1415867570767400960,
+    "id_str": "1415867570767400960",
+    "full_text": "ASI DE FELIZ QUIERO VERLA SIEMPRE \nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/eB8bzVLePg",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    61,
+                    66
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    67,
+                    77
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    78,
+                    88
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415867568104124423,
+                "id_str": "1415867568104124423",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YsDTXXsAcOW7S.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YsDTXXsAcOW7S.jpg",
+                "url": "https://t.co/eB8bzVLePg",
+                "display_url": "pic.twitter.com/eB8bzVLePg",
+                "expanded_url": "https://twitter.com/CleoDarck/status/1415867570767400960/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 549,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 970,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1242,
+                        "h": 1537,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415867568104124423,
+                "id_str": "1415867568104124423",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YsDTXXsAcOW7S.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YsDTXXsAcOW7S.jpg",
+                "url": "https://t.co/eB8bzVLePg",
+                "display_url": "pic.twitter.com/eB8bzVLePg",
+                "expanded_url": "https://twitter.com/CleoDarck/status/1415867570767400960/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 549,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 970,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1242,
+                        "h": 1537,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 992838734767968256,
+        "id_str": "992838734767968256",
+        "name": "\u00a9",
+        "screen_name": "CleoDarck",
+        "location": "Argentina",
+        "description": "\ud83d\udda4",
+        "url": "https://t.co/4rKtqiau3a",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/4rKtqiau3a",
+                        "expanded_url": "https://youtu.be/CKZvWhCqx1s",
+                        "display_url": "youtu.be/CKZvWhCqx1s",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 32,
+        "friends_count": 96,
+        "listed_count": 0,
+        "created_at": "Sat May 05 18:49:35 +0000 2018",
+        "favourites_count": 10149,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2397,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409651789213929473/BNAnpG5M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409651789213929473/BNAnpG5M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/992838734767968256/1624476247",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

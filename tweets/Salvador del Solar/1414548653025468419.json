@@ -1,0 +1,229 @@
+{
+    "created_at": "Mon Jul 12 11:34:14 +0000 2021",
+    "id": 1414548653025468419,
+    "id_str": "1414548653025468419",
+    "full_text": "(Les Corts desbloquean el solar de la Calle del Salvador sin contar con los vecinos) - Lee m\u00e1s a trav\u00e9s del siguiente link https://t.co/frkh5I1vlj\n\n@AjuntamentVLC @cortsval @F_vecinos_VLC https://t.co/IM6AuNDS4K",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        187
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AjuntamentVLC",
+                "name": "Ajuntament Val\u00e8ncia",
+                "id": 784421263779430400,
+                "id_str": "784421263779430400",
+                "indices": [
+                    148,
+                    162
+                ]
+            },
+            {
+                "screen_name": "cortsval",
+                "name": "Corts Valencianes",
+                "id": 370658603,
+                "id_str": "370658603",
+                "indices": [
+                    163,
+                    172
+                ]
+            },
+            {
+                "screen_name": "F_vecinos_VLC",
+                "name": "Fed. AA.VV. Valencia",
+                "id": 717593178203885568,
+                "id_str": "717593178203885568",
+                "indices": [
+                    173,
+                    187
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/frkh5I1vlj",
+                "expanded_url": "https://valencianews.es/valencia/les-corts-desbloquean-el-solar-de-la-calle-del-salvador-sin-contar-con-los-vecinos/",
+                "display_url": "valencianews.es/valencia/les-c\u2026",
+                "indices": [
+                    123,
+                    146
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1414548650051743749,
+                "id_str": "1414548650051743749",
+                "indices": [
+                    188,
+                    211
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6F8gKvXsAUoQwx.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6F8gKvXsAUoQwx.png",
+                "url": "https://t.co/IM6AuNDS4K",
+                "display_url": "pic.twitter.com/IM6AuNDS4K",
+                "expanded_url": "https://twitter.com/ValenciaNews_es/status/1414548653025468419/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 779,
+                        "h": 575,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 779,
+                        "h": 575,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414548650051743749,
+                "id_str": "1414548650051743749",
+                "indices": [
+                    188,
+                    211
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6F8gKvXsAUoQwx.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6F8gKvXsAUoQwx.png",
+                "url": "https://t.co/IM6AuNDS4K",
+                "display_url": "pic.twitter.com/IM6AuNDS4K",
+                "expanded_url": "https://twitter.com/ValenciaNews_es/status/1414548653025468419/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 779,
+                        "h": 575,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 779,
+                        "h": 575,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://valencianews.es/\" rel=\"nofollow\">Valencia News</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1175646685,
+        "id_str": "1175646685",
+        "name": "VAL\u00c9NCIA NEWS",
+        "screen_name": "ValenciaNews_es",
+        "location": "VAL\u00c9NCIA",
+        "description": "Diario digital Valenciano Independiente\n\nhttps://t.co/iLWswk6tsU",
+        "url": "https://t.co/kcqd4KLnpq",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/kcqd4KLnpq",
+                        "expanded_url": "http://www.valencianews.es",
+                        "display_url": "valencianews.es",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/iLWswk6tsU",
+                        "expanded_url": "http://t.me/ValenciaNews_es",
+                        "display_url": "t.me/ValenciaNews_es",
+                        "indices": [
+                            41,
+                            64
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 12593,
+        "friends_count": 862,
+        "listed_count": 269,
+        "created_at": "Wed Feb 13 15:27:06 +0000 2013",
+        "favourites_count": 3090,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 82604,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1313350450486423552/hP45I46R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313350450486423552/hP45I46R_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1175646685/1610889323",
+        "profile_link_color": "003995",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

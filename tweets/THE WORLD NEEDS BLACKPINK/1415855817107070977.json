@@ -1,0 +1,444 @@
+{
+    "created_at": "Fri Jul 16 02:08:26 +0000 2021",
+    "id": 1415855817107070977,
+    "id_str": "1415855817107070977",
+    "full_text": "RT @lesblinkot4: Las entradas de The Movie en Jap\u00f3n,  y una vez m\u00e1s, saquenme de Latam \ud83d\udc80 \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLAC\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    117,
+                    122
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    123,
+                    133
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lesblinkot4",
+                "name": "les | ls1",
+                "id": 1303353360054132736,
+                "id_str": "1303353360054132736",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1129419259740925952,
+        "id_str": "1129419259740925952",
+        "name": "\ud835\udd38\ud835\udd5f\ud835\udd52\u2661\ud83e\udd40\ud83e\udd8b | Inactiva por \ud83d\udcda",
+        "screen_name": "Agms_Blink",
+        "location": "\u2661 BLACKPINK & Ariana \u2661 ",
+        "description": "\u2661\u262e~\u2022 \ud835\ude09\ud835\ude13\ud835\ude08\ud835\ude0a\ud835\ude12\ud835\ude17\ud835\ude10\ud835\ude15\ud835\ude12 \ud835\ude10\ud835\ude1a \ud835\ude1b\ud835\ude0f\ud835\ude0c \ud835\ude19\ud835\ude0c\ud835\ude1d\ud835\ude16\ud835\ude13\ud835\ude1c\ud835\ude1b\ud835\ude10\ud835\ude16\ud835\ude15 \u2022~\u262e\u2661 OT4 \u2661 LS1 IS COMING!!\n\nCuenta secundaria: @Blink_AKMP",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 548,
+        "friends_count": 511,
+        "listed_count": 1,
+        "created_at": "Fri May 17 16:11:49 +0000 2019",
+        "favourites_count": 1650,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16907,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414784554326499330/5_Lp5Trx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414784554326499330/5_Lp5Trx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129419259740925952/1624726859",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:06:36 +0000 2021",
+        "id": 1415855353590337537,
+        "id_str": "1415855353590337537",
+        "full_text": "Las entradas de The Movie en Jap\u00f3n,  y una vez m\u00e1s, saquenme de Latam \ud83d\udc80 \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/r1DhLLzskG",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        100,
+                        105
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        106,
+                        116
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        117,
+                        127
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415854060981395461,
+                    "id_str": "1415854060981395461",
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YfxFaXIAUjdfk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YfxFaXIAUjdfk.jpg",
+                    "url": "https://t.co/r1DhLLzskG",
+                    "display_url": "pic.twitter.com/r1DhLLzskG",
+                    "expanded_url": "https://twitter.com/allforjenlisa/status/1415854081256706050/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415854081256706050,
+                    "source_status_id_str": "1415854081256706050",
+                    "source_user_id": 1117882113733341184,
+                    "source_user_id_str": "1117882113733341184"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415854060981395461,
+                    "id_str": "1415854060981395461",
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YfxFaXIAUjdfk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YfxFaXIAUjdfk.jpg",
+                    "url": "https://t.co/r1DhLLzskG",
+                    "display_url": "pic.twitter.com/r1DhLLzskG",
+                    "expanded_url": "https://twitter.com/allforjenlisa/status/1415854081256706050/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415854081256706050,
+                    "source_status_id_str": "1415854081256706050",
+                    "source_user_id": 1117882113733341184,
+                    "source_user_id_str": "1117882113733341184"
+                },
+                {
+                    "id": 1415854061589499907,
+                    "id_str": "1415854061589499907",
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YfxHrWEAMfU-G.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YfxHrWEAMfU-G.jpg",
+                    "url": "https://t.co/r1DhLLzskG",
+                    "display_url": "pic.twitter.com/r1DhLLzskG",
+                    "expanded_url": "https://twitter.com/allforjenlisa/status/1415854081256706050/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415854081256706050,
+                    "source_status_id_str": "1415854081256706050",
+                    "source_user_id": 1117882113733341184,
+                    "source_user_id_str": "1117882113733341184"
+                },
+                {
+                    "id": 1415854061836963854,
+                    "id_str": "1415854061836963854",
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YfxImWEA4Lc0W.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YfxImWEA4Lc0W.jpg",
+                    "url": "https://t.co/r1DhLLzskG",
+                    "display_url": "pic.twitter.com/r1DhLLzskG",
+                    "expanded_url": "https://twitter.com/allforjenlisa/status/1415854081256706050/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415854081256706050,
+                    "source_status_id_str": "1415854081256706050",
+                    "source_user_id": 1117882113733341184,
+                    "source_user_id_str": "1117882113733341184"
+                },
+                {
+                    "id": 1415854062961111052,
+                    "id_str": "1415854062961111052",
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YfxMyXMAwtxVz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YfxMyXMAwtxVz.jpg",
+                    "url": "https://t.co/r1DhLLzskG",
+                    "display_url": "pic.twitter.com/r1DhLLzskG",
+                    "expanded_url": "https://twitter.com/allforjenlisa/status/1415854081256706050/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 567,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 749,
+                            "h": 624,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 749,
+                            "h": 624,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415854081256706050,
+                    "source_status_id_str": "1415854081256706050",
+                    "source_user_id": 1117882113733341184,
+                    "source_user_id_str": "1117882113733341184"
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1303353360054132736,
+            "id_str": "1303353360054132736",
+            "name": "les | ls1",
+            "screen_name": "lesblinkot4",
+            "location": "only \u00a0\ube14\ub799 \ud551\ud06c",
+            "description": "21\u2014 @blackpink we some bitches you can't manage",
+            "url": "https://t.co/0QSRiEapGp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0QSRiEapGp",
+                            "expanded_url": "https://curiouscat.qa/lesblinkot4",
+                            "display_url": "curiouscat.qa/lesblinkot4",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4610,
+            "friends_count": 3348,
+            "listed_count": 15,
+            "created_at": "Tue Sep 08 15:24:11 +0000 2020",
+            "favourites_count": 5270,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9159,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414772870555832323/K1nNhSFc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414772870555832323/K1nNhSFc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303353360054132736/1626143111",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}
