@@ -1,0 +1,211 @@
+{
+    "created_at": "Sun Jul 11 23:19:32 +0000 2021",
+    "id": 1414363759884357635,
+    "id_str": "1414363759884357635",
+    "full_text": "\u2022 Mejor DT \ud83d\udc68\u200d\ud83d\udcbc: Ricardo Gareca.\n\u2022 Mejor Jugador \ud83d\udc64: Lionel Messi.\n\u2022 Mejor Portero \ud83e\udde4: Emiliano Mart\u00ednez.\n\u2022 Mejor Defensa \ud83d\udee1: Marquinhos.\n\u2022 Mejor Volante \ud83c\udfaf: Rodrigo De Paul.\n\u2022 Mejor Delantero \u26bd\ufe0f: Gianluca Lapadula.\n\u2022 Revelaci\u00f3n \ud83d\udd0e: Luis D\u00edaz. https://t.co/J9sflZrv5c",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        237
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/J9sflZrv5c",
+                "expanded_url": "https://twitter.com/LaPizarraDelDT_/status/1414209329390043138",
+                "display_url": "twitter.com/LaPizarraDelDT\u2026",
+                "indices": [
+                    238,
+                    261
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3347001616,
+        "id_str": "3347001616",
+        "name": "Angelo S\u00e1nchez",
+        "screen_name": "AngeloWSanchez",
+        "location": "La Guaira, Venezuela",
+        "description": "18. | Comunicaci\u00f3n Social. | Mi Podcast: #EnelVAR | Analizo el f\u00fatbol mundial. | ''S\u00e9 fiel a los sue\u00f1os de tu juventud.''",
+        "url": "https://t.co/5NL9FIqd5V",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/5NL9FIqd5V",
+                        "expanded_url": "https://youtube.com/channel/UCJC2kDE6Z0yYI8rCJQYVbMQ",
+                        "display_url": "youtube.com/channel/UCJC2k\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 114,
+        "friends_count": 665,
+        "listed_count": 0,
+        "created_at": "Fri Jun 26 21:33:55 +0000 2015",
+        "favourites_count": 2239,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1227,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408249659231977472/T1IWpL1b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408249659231977472/T1IWpL1b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3347001616/1613882180",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414209329390043138,
+    "quoted_status_id_str": "1414209329390043138",
+    "quoted_status": {
+        "created_at": "Sun Jul 11 13:05:53 +0000 2021",
+        "id": 1414209329390043138,
+        "id_str": "1414209329390043138",
+        "full_text": "Ya con el final Copa Am\u00e9rica, queremos saber sus opiniones para el XI.\n\n\u2022 Mejor DT \ud83d\udc68\u200d\ud83d\udcbc:\n\u2022 Mejor Jugador \ud83d\udc64:\n\u2022 Mejor Portero \ud83e\udde4:\n\u2022 Mejor Defensa \ud83d\udee1:\n\u2022 Mejor Volante \ud83c\udfaf:\n\u2022 Mejor Delantero \u26bd\ufe0f:\n\u2022 Revelaci\u00f3n \ud83d\udd0e:\n\nLos leemos muchachos.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            224
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 127297677,
+            "id_str": "127297677",
+            "name": "La Pizarra del DT",
+            "screen_name": "LaPizarraDelDT_",
+            "location": "Davie, Florida",
+            "description": "Cursos, an\u00e1lisis, E-Sports y Scouting. Hablamos de f\u00fatbol en Am\u00e9rica. | contacto@lapizarradeldt.com",
+            "url": "https://t.co/v2eqWVZnZB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/v2eqWVZnZB",
+                            "expanded_url": "http://www.lapizarradeldt.com",
+                            "display_url": "lapizarradeldt.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 45350,
+            "friends_count": 830,
+            "listed_count": 291,
+            "created_at": "Sun Mar 28 18:58:10 +0000 2010",
+            "favourites_count": 14014,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 134412,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1290425121484599296/otr63ctN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290425121484599296/otr63ctN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/127297677/1596496316",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

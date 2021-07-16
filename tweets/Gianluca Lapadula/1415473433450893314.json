@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Jul 15 00:48:59 +0000 2021",
+    "id": 1415473433450893314,
+    "id_str": "1415473433450893314",
+    "full_text": "@Bettosp_71 \ud83c\udde8\ud83c\uddf1 Nicol\u00e1s Castillo\n\ud83c\uddfa\ud83c\uddfe Juan Ignacio Ram\u00edrez\n\ud83c\uddf5\ud83c\uddea Gianluca Lapadula\n\ud83c\uddfb\ud83c\uddea Josef Mart\u00ednez\n\ud83c\udde6\ud83c\uddf7 Germ\u00e1n Cano",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        109
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Bettosp_71",
+                "name": "Bettosp\u02e2\u1d56\u1da0\u1d9c 1\u226001",
+                "id": 1063136929,
+                "id_str": "1063136929",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415472666975346696,
+    "in_reply_to_status_id_str": "1415472666975346696",
+    "in_reply_to_user_id": 1063136929,
+    "in_reply_to_user_id_str": "1063136929",
+    "in_reply_to_screen_name": "Bettosp_71",
+    "user": {
+        "id": 758406154758291456,
+        "id_str": "758406154758291456",
+        "name": "Edilton \ud83c\uddfe\ud83c\uddea\u2b50\u2b50\u2b50",
+        "screen_name": "Castolo90",
+        "location": "Salvador Ba",
+        "description": "Torcedor Fan\u00e1tico pelo @SaoPauloFC e @FCBarcelona, F\u00e3 da serie Pro Evolution Soccer @Officialpes \u26bd",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1382,
+        "friends_count": 874,
+        "listed_count": 21,
+        "created_at": "Wed Jul 27 20:58:12 +0000 2016",
+        "favourites_count": 695789,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 658967,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407522415450669056/6jE2bJnl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407522415450669056/6jE2bJnl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/758406154758291456/1598482753",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

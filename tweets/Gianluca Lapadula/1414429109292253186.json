@@ -1,0 +1,120 @@
+{
+    "created_at": "Mon Jul 12 03:39:13 +0000 2021",
+    "id": 1414429109292253186,
+    "id_str": "1414429109292253186",
+    "full_text": "Italia campe\u00f3n de la Euro: Hinchas recuerdan a Lapadula tras t\u00edtulo 'Azzurri' https://t.co/hcLJduWHG4 a trav\u00e9s de @liberoperu",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        125
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "liberoperu",
+                "name": "L\u00edbero Per\u00fa",
+                "id": 1095458060041039872,
+                "id_str": "1095458060041039872",
+                "indices": [
+                    114,
+                    125
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/hcLJduWHG4",
+                "expanded_url": "https://libero.pe/ocio/redes-sociales/2021/07/11/gianluca-lapadula-tendencia-italia-campeon-eurocopa-memes-redes-sociales-facebook-twitter-fb-noticia-8582",
+                "display_url": "libero.pe/ocio/redes-soc\u2026",
+                "indices": [
+                    78,
+                    101
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2680050019,
+        "id_str": "2680050019",
+        "name": "Maritza Asencios",
+        "screen_name": "Maritzasen",
+        "location": "Lima, Per\u00fa",
+        "description": "Periodista. En el maravilloso Ca\u00f1\u00f3n del Sonche, Amazonas. Pueden leer mis art\u00edculos en Agencia Andina e IPS. Rtt no es adhesi\u00f3n.",
+        "url": "https://t.co/4vvGiHPjqg",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/4vvGiHPjqg",
+                        "expanded_url": "http://bit.ly/2HmgdfO",
+                        "display_url": "bit.ly/2HmgdfO",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2277,
+        "friends_count": 4997,
+        "listed_count": 47,
+        "created_at": "Fri Jul 25 16:59:22 +0000 2014",
+        "favourites_count": 80985,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 63552,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/749835774758117377/rbbgc7rk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/749835774758117377/rbbgc7rk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun Jul 11 05:23:33 +0000 2021",
+    "id": 1414092978637864964,
+    "id_str": "1414092978637864964",
+    "full_text": "Pol\u00edtica:  Gianluca Lapadula agradece el cari\u00f1o de los peruanos - AS Peru https://t.co/yI4Oq9ewYB #GianlucaLapadula #Selecci\u00f3nperuanaf\u00fatbol #CopaAm\u00e9rica https://t.co/8CL5W2ksAn",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        152
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "GianlucaLapadula",
+                "indices": [
+                    98,
+                    115
+                ]
+            },
+            {
+                "text": "Selecci\u00f3nperuanaf\u00fatbol",
+                "indices": [
+                    116,
+                    139
+                ]
+            },
+            {
+                "text": "CopaAm\u00e9rica",
+                "indices": [
+                    140,
+                    152
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/yI4Oq9ewYB",
+                "expanded_url": "http://dlvr.it/S3TzPD",
+                "display_url": "dlvr.it/S3TzPD",
+                "indices": [
+                    74,
+                    97
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1414092977027182592,
+                "id_str": "1414092977027182592",
+                "indices": [
+                    153,
+                    176
+                ],
+                "media_url": "http://pbs.twimg.com/media/E5_eEgcUcAAcbqg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E5_eEgcUcAAcbqg.jpg",
+                "url": "https://t.co/8CL5W2ksAn",
+                "display_url": "pic.twitter.com/8CL5W2ksAn",
+                "expanded_url": "https://twitter.com/UniversidadPe/status/1414092978637864964/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414092977027182592,
+                "id_str": "1414092977027182592",
+                "indices": [
+                    153,
+                    176
+                ],
+                "media_url": "http://pbs.twimg.com/media/E5_eEgcUcAAcbqg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E5_eEgcUcAAcbqg.jpg",
+                "url": "https://t.co/8CL5W2ksAn",
+                "display_url": "pic.twitter.com/8CL5W2ksAn",
+                "expanded_url": "https://twitter.com/UniversidadPe/status/1414092978637864964/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2617443576,
+        "id_str": "2617443576",
+        "name": "S\u00f3crates",
+        "screen_name": "UniversidadPe",
+        "location": "Per\u00fa",
+        "description": "Fuente de noticias del Per\u00fa, #Am\u00e9ricaLatina y el Mundo. S\u00f3lo hay un bien: el conocimiento. S\u00f3lo hay un mal: la ignorancia. #covid19 #coronavirus #oms",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1127,
+        "friends_count": 1467,
+        "listed_count": 29,
+        "created_at": "Fri Jul 11 14:26:47 +0000 2014",
+        "favourites_count": 6,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 383715,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139403744909508609/4_fFV5YK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139403744909508609/4_fFV5YK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2617443576/1405106821",
+        "profile_link_color": "FF002B",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

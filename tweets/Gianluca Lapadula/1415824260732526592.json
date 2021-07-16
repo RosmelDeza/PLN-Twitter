@@ -1,0 +1,183 @@
+{
+    "created_at": "Fri Jul 16 00:03:03 +0000 2021",
+    "id": 1415824260732526592,
+    "id_str": "1415824260732526592",
+    "full_text": "RT @ErrorArbitralTR: El Benevento no ha considerado a Gianluca Lapadula para el retiro de pretemporada, por lo que queda bastante claro que\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ErrorArbitralTR",
+                "name": "Error ArbitraI",
+                "id": 1291860085388582918,
+                "id_str": "1291860085388582918",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1262186386284777475,
+        "id_str": "1262186386284777475",
+        "name": "Videsos EA",
+        "screen_name": "VideosErAr",
+        "location": "",
+        "description": "Cuenta de contenido audiovisual.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 393,
+        "friends_count": 15,
+        "listed_count": 1,
+        "created_at": "Mon May 18 01:01:13 +0000 2020",
+        "favourites_count": 5139,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 422,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1390853124764708868/lWkK2ODV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390853124764708868/lWkK2ODV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262186386284777475/1620440258",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 21:52:05 +0000 2021",
+        "id": 1415791303141494786,
+        "id_str": "1415791303141494786",
+        "full_text": "El Benevento no ha considerado a Gianluca Lapadula para el retiro de pretemporada, por lo que queda bastante claro que Lapadula no seguir\u00e1 en el equipo italiano.\n\nEsperemos que pronto se anuncie su nuevo equipo y que pueda ganarse su lugar como titular.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            253
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1291860085388582918,
+            "id_str": "1291860085388582918",
+            "name": "Error ArbitraI",
+            "screen_name": "ErrorArbitralTR",
+            "location": "Lima, Peru",
+            "description": "F\u00fatbol peruano y f\u00fatbol, en ese orden.\n\nSeguimos esperando que Twitter nos devuelva @ErrorArbitral . Si quieres que te respondamos algo: DM.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12330,
+            "friends_count": 49,
+            "listed_count": 12,
+            "created_at": "Fri Aug 07 22:14:25 +0000 2020",
+            "favourites_count": 2737,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4110,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399789469964898312/z2cLE-RV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399789469964898312/z2cLE-RV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291860085388582918/1620255796",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 536,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

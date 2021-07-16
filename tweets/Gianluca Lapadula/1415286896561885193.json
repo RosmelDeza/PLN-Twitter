@@ -1,0 +1,164 @@
+{
+    "created_at": "Wed Jul 14 12:27:45 +0000 2021",
+    "id": 1415286896561885193,
+    "id_str": "1415286896561885193",
+    "full_text": "Gianluca Lapadula caus\u00f3 furor entre los hinchas durante visita a centro comercial https://t.co/XYjngOh9tC",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        81
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415286887451856899,
+                "id_str": "1415286887451856899",
+                "indices": [
+                    82,
+                    105
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Qb7PXWEAM9vQz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Qb7PXWEAM9vQz.jpg",
+                "url": "https://t.co/XYjngOh9tC",
+                "display_url": "pic.twitter.com/XYjngOh9tC",
+                "expanded_url": "https://twitter.com/ChrissyHumphre8/status/1415286896561885193/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415286887451856899,
+                "id_str": "1415286887451856899",
+                "indices": [
+                    82,
+                    105
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Qb7PXWEAM9vQz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Qb7PXWEAM9vQz.jpg",
+                "url": "https://t.co/XYjngOh9tC",
+                "display_url": "pic.twitter.com/XYjngOh9tC",
+                "expanded_url": "https://twitter.com/ChrissyHumphre8/status/1415286896561885193/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1284490881840615424,
+        "id_str": "1284490881840615424",
+        "name": "\u5fae\u7b11\u662f\u6211\u7684\u4f2a\u88c5",
+        "screen_name": "ChrissyHumphre8",
+        "location": "",
+        "description": "\u6240\u6709\u7f1d\u9699\u90fd\u662f\u5149\u7167\u8fdb\u6765\u7684\u65b9\u5411",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Sat Jul 18 14:11:51 +0000 2020",
+        "favourites_count": 7,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413812343604137985/DyOtnnzO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413812343604137985/DyOtnnzO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

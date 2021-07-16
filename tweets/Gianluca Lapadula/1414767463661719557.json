@@ -1,0 +1,97 @@
+{
+    "created_at": "Tue Jul 13 02:03:43 +0000 2021",
+    "id": 1414767463661719557,
+    "id_str": "1414767463661719557",
+    "full_text": "@PrensaFutbol Luis D\u00edaz no es centro delantero. En mi opini\u00f3n en el puesto de Aranguiz iba De Paul, D\u00edaz por izquierda, Neymar al medio y de 9 Gianluca Lapadula.",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        161
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PrensaFutbol",
+                "name": "Prensaf\u00fatbol (desde \ud83c\udfe0)",
+                "id": 14605976,
+                "id_str": "14605976",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414766531892977666,
+    "in_reply_to_status_id_str": "1414766531892977666",
+    "in_reply_to_user_id": 14605976,
+    "in_reply_to_user_id_str": "14605976",
+    "in_reply_to_screen_name": "PrensaFutbol",
+    "user": {
+        "id": 193704131,
+        "id_str": "193704131",
+        "name": "Yair Neuman",
+        "screen_name": "YairNeuman",
+        "location": "",
+        "description": "Amante de Colo Colo y la Premier League.\n4-4-2 en el FIFA y en la vida.\nMe gusta twittear como si tuviera 50.000 seguidores.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 139,
+        "friends_count": 361,
+        "listed_count": 1,
+        "created_at": "Wed Sep 22 13:59:42 +0000 2010",
+        "favourites_count": 3229,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 646,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1189000485950369793/XeGbZCmC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189000485950369793/XeGbZCmC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193704131/1572314783",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Tue Jul 13 14:45:42 +0000 2021",
+    "id": 1414959226296877064,
+    "id_str": "1414959226296877064",
+    "full_text": "Gianluca Lapadula capt\u00f3 la atenci\u00f3n del Trabzonspor tras la Copa Am\u00e9rica: https://t.co/F0bTLhcs2w",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        97
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/F0bTLhcs2w",
+                "expanded_url": "http://dld.bz/jyEbr",
+                "display_url": "dld.bz/jyEbr",
+                "indices": [
+                    74,
+                    97
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 75684101,
+        "id_str": "75684101",
+        "name": "Per\u00fa News \ud83c\uddf5\ud83c\uddea",
+        "screen_name": "PeruNews",
+        "location": "",
+        "description": "Todas las #Noticias del #Per\u00fa \u25aa La m\u00e1s completa fuente de informaci\u00f3n \u25aa #Per\u00faNews \u25aa RT \u2260 endoso",
+        "url": "https://t.co/IIlHx7R9NQ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/IIlHx7R9NQ",
+                        "expanded_url": "http://perunews.info",
+                        "display_url": "perunews.info",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 314206,
+        "friends_count": 129266,
+        "listed_count": 2090,
+        "created_at": "Sun Sep 20 00:56:14 +0000 2009",
+        "favourites_count": 57198,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 579661,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EB0E0E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/736975260885520384/D3Ob4e0h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/736975260885520384/D3Ob4e0h_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75684101/1523747134",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

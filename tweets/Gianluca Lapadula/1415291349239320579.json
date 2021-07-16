@@ -1,0 +1,228 @@
+{
+    "created_at": "Wed Jul 14 12:45:27 +0000 2021",
+    "id": 1415291349239320579,
+    "id_str": "1415291349239320579",
+    "full_text": "RT @MovistarDeporPe: El delantero peruano despert\u00f3 el inter\u00e9s de otro equipo de Europa tras sus grandes actuaciones en la @CopaAmerica. \ud83c\uddf5\ud83c\uddea\u26bd\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MovistarDeporPe",
+                "name": "Movistar Deportes",
+                "id": 376334337,
+                "id_str": "376334337",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "CopaAmerica",
+                "name": "Copa Am\u00e9rica",
+                "id": 3159711265,
+                "id_str": "3159711265",
+                "indices": [
+                    122,
+                    134
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 298221325,
+        "id_str": "298221325",
+        "name": "Andr\u00e9s Mel\u00e9ndez",
+        "screen_name": "SkywalkerAbad",
+        "location": "Lima, Per\u00fa",
+        "description": "Nunca triste siempre locos",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 295,
+        "friends_count": 2021,
+        "listed_count": 6,
+        "created_at": "Fri May 13 22:58:56 +0000 2011",
+        "favourites_count": 1732,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 42213,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1342905342129278981/57sqz6si_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342905342129278981/57sqz6si_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/298221325/1617330781",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 18:02:16 +0000 2021",
+        "id": 1415008690344808449,
+        "id_str": "1415008690344808449",
+        "full_text": "El delantero peruano despert\u00f3 el inter\u00e9s de otro equipo de Europa tras sus grandes actuaciones en la @CopaAmerica. \ud83c\uddf5\ud83c\uddea\u26bd \n\nhttps://t.co/gcunxzJuwv",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            144
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CopaAmerica",
+                    "name": "Copa Am\u00e9rica",
+                    "id": 3159711265,
+                    "id_str": "3159711265",
+                    "indices": [
+                        101,
+                        113
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/gcunxzJuwv",
+                    "expanded_url": "https://movistardeportes.pe/noticias/gianluca-lapadula-y-un-nuevo-pretendiente-el-trabzonspor-de-turquia/",
+                    "display_url": "movistardeportes.pe/noticias/gianl\u2026",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 376334337,
+            "id_str": "376334337",
+            "name": "Movistar Deportes",
+            "screen_name": "MovistarDeporPe",
+            "location": "",
+            "description": "Lo mejor del deporte est\u00e1 aqu\u00ed en Movistar Deportes. Liga Femenina, Clasificatorias y tambi\u00e9n la mejor cobertura de #LaCopaxMD \u00bfTe sumas? \ud83d\ude0f\ud83c\uddf5\ud83c\uddea\ud83c\udf0e",
+            "url": "https://t.co/2SPctQTw4U",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2SPctQTw4U",
+                            "expanded_url": "http://bit.ly/2MtAZy7",
+                            "display_url": "bit.ly/2MtAZy7",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 199244,
+            "friends_count": 696,
+            "listed_count": 376,
+            "created_at": "Mon Sep 19 18:13:55 +0000 2011",
+            "favourites_count": 3529,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 64833,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1259853726191321090/BXk05gei_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1259853726191321090/BXk05gei_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/376334337/1622481066",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 36,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

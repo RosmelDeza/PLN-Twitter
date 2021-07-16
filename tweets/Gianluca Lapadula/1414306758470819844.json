@@ -1,0 +1,250 @@
+{
+    "created_at": "Sun Jul 11 19:33:02 +0000 2021",
+    "id": 1414306758470819844,
+    "id_str": "1414306758470819844",
+    "full_text": "RT @tuitdepor: Con Lapadula: los peruanos que cambiar\u00edan de equipo luego de la Copa Am\u00e9rica 2021 https://t.co/ObWhB9dX92",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        120
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tuitdepor",
+                "name": "depor",
+                "id": 819188347314851843,
+                "id_str": "819188347314851843",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/ObWhB9dX92",
+                "expanded_url": "http://dozz.es/bek_a3",
+                "display_url": "dozz.es/bek_a3",
+                "indices": [
+                    97,
+                    120
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 734775583956164613,
+        "id_str": "734775583956164613",
+        "name": "Henry Mantilla Pr\u00edncipe",
+        "screen_name": "henrymp_",
+        "location": "",
+        "description": "ADVENTISTA DEL S\u00c9PTIMO D\u00cdA \n\nNUEVO HENRY\n\n\ud83e\udd1c\ud83e\udd1b",
+        "url": "https://t.co/lbFaIfaDlT",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/lbFaIfaDlT",
+                        "expanded_url": "https://www.facebook.com/henrymantillaprincipe",
+                        "display_url": "facebook.com/henrymantillap\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 993,
+        "friends_count": 135,
+        "listed_count": 64,
+        "created_at": "Mon May 23 15:58:45 +0000 2016",
+        "favourites_count": 4656,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 418366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415013961322438656/JFsDuP_8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415013961322438656/JFsDuP_8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/734775583956164613/1626200595",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 19:27:00 +0000 2021",
+        "id": 1414305240518733826,
+        "id_str": "1414305240518733826",
+        "full_text": "Con Lapadula: los peruanos que cambiar\u00edan de equipo luego de la Copa Am\u00e9rica 2021 https://t.co/ObWhB9dX92",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            105
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ObWhB9dX92",
+                    "expanded_url": "http://dozz.es/bek_a3",
+                    "display_url": "dozz.es/bek_a3",
+                    "indices": [
+                        82,
+                        105
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://besocy.com\" rel=\"nofollow\">Besocy_Oficial</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 819188347314851843,
+            "id_str": "819188347314851843",
+            "name": "depor",
+            "screen_name": "tuitdepor",
+            "location": "",
+            "description": "Toda la actualidad del deporte mundial, la encontrar\u00e1s aqu\u00ed. \u00a1Queremos saber qu\u00e9 piensas!\nhttps://t.co/ejf2tdzKL7\nhttps://t.co/4hk8x6QAZr",
+            "url": "https://t.co/FbNQASekTY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FbNQASekTY",
+                            "expanded_url": "http://depor.com",
+                            "display_url": "depor.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ejf2tdzKL7",
+                            "expanded_url": "http://facebook.com/deporperu",
+                            "display_url": "facebook.com/deporperu",
+                            "indices": [
+                                90,
+                                113
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/4hk8x6QAZr",
+                            "expanded_url": "http://Instagram.com/deporcom",
+                            "display_url": "Instagram.com/deporcom",
+                            "indices": [
+                                114,
+                                137
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 55420,
+            "friends_count": 453,
+            "listed_count": 187,
+            "created_at": "Wed Jan 11 14:24:56 +0000 2017",
+            "favourites_count": 107,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 161460,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1331274801491697665/_miSvx0K_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331274801491697665/_miSvx0K_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/819188347314851843/1621286153",
+            "profile_link_color": "D1D728",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

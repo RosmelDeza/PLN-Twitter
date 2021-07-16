@@ -1,0 +1,302 @@
+{
+    "created_at": "Sun Jul 11 06:18:47 +0000 2021",
+    "id": 1414106877923897347,
+    "id_str": "1414106877923897347",
+    "full_text": "RT @FabianOlea1924: Lionel Messi \ud83c\udde6\ud83c\uddf7 y Luis D\u00edaz \ud83c\udde8\ud83c\uddf4 (4) terminaron como los GOLEADORES \u26bd\ufe0f de esta #CopaAm\u00e9rica 2021, pero \u00bfQui\u00e9n se meti\u00f3 en\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CopaAm\u00e9rica",
+                "indices": [
+                    97,
+                    109
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FabianOlea1924",
+                "name": "Fabi\u00e1n Olea \ud83d\udca5 (En Casa \ud83c\udfe1)",
+                "id": 1347615672,
+                "id_str": "1347615672",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 178039154,
+        "id_str": "178039154",
+        "name": "\u30a2\u30ed\u30f3\u30bd \u2651 \u0623\u0644\u0648\u0646\u0633\u0648\ud83c\udf7fCOVID21",
+        "screen_name": "SChonso17",
+        "location": "Peru",
+        "description": "Business Administrator, VGC MasterPlayer 2021, Co-founder of a politic ideslism Llapan Atic, looking for a better World.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 210,
+        "friends_count": 102,
+        "listed_count": 7,
+        "created_at": "Fri Aug 13 18:20:11 +0000 2010",
+        "favourites_count": 3996,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 124322,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1342534631317450755/-COMaLrL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342534631317450755/-COMaLrL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/178039154/1608920172",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "90D3F5",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 04:14:37 +0000 2021",
+        "id": 1414075629750919174,
+        "id_str": "1414075629750919174",
+        "full_text": "Lionel Messi \ud83c\udde6\ud83c\uddf7 y Luis D\u00edaz \ud83c\udde8\ud83c\uddf4 (4) terminaron como los GOLEADORES \u26bd\ufe0f de esta #CopaAm\u00e9rica 2021, pero \u00bfQui\u00e9n se meti\u00f3 en el TOP 3? Este se\u00f1or \ud83c\uddf5\ud83c\uddea\u2764\ufe0f. Gianluca Lapadula Vargas termin\u00f3 tercero con 3 goles, delante de Lautaro Mart\u00ednez \ud83c\udde6\ud83c\uddf7 con la misma cantidad.\n\n@Barrio_Futbol https://t.co/2AYOZQbmcJ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            270
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CopaAm\u00e9rica",
+                    "indices": [
+                        77,
+                        89
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Barrio_Futbol",
+                    "name": "Barrio F\u00fatbol | Per\u00fa",
+                    "id": 348289467,
+                    "id_str": "348289467",
+                    "indices": [
+                        256,
+                        270
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414071925203247104,
+                    "id_str": "1414071925203247104",
+                    "indices": [
+                        271,
+                        294
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_K7ISXoAAZ9Pv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_K7ISXoAAZ9Pv.jpg",
+                    "url": "https://t.co/2AYOZQbmcJ",
+                    "display_url": "pic.twitter.com/2AYOZQbmcJ",
+                    "expanded_url": "https://twitter.com/FabianOlea1924/status/1414075629750919174/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1324,
+                            "h": 745,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414071925203247104,
+                    "id_str": "1414071925203247104",
+                    "indices": [
+                        271,
+                        294
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_K7ISXoAAZ9Pv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_K7ISXoAAZ9Pv.jpg",
+                    "url": "https://t.co/2AYOZQbmcJ",
+                    "display_url": "pic.twitter.com/2AYOZQbmcJ",
+                    "expanded_url": "https://twitter.com/FabianOlea1924/status/1414075629750919174/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1324,
+                            "h": 745,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1347615672,
+            "id_str": "1347615672",
+            "name": "Fabi\u00e1n Olea \ud83d\udca5 (En Casa \ud83c\udfe1)",
+            "screen_name": "FabianOlea1924",
+            "location": "Lima, Peru",
+            "description": "\ud83d\udccd\ud83c\uddf5\ud83c\uddea | 21 a\u00f1os. Comunicaciones en @_USIL \ud83d\udcda.\n\u21a9\ufe0f Antes en: @ElDiarioCrema, @FPP_Noticias y @VocesFutbolPeru.\n\ud83d\udcf2 Apoyo en: @Barrio_Futbol | \u270d\ufe0f: @DeportesTotal8.",
+            "url": "https://t.co/DgrZMH5KGm",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/DgrZMH5KGm",
+                            "expanded_url": "https://www.instagram.com/fabianolea00/",
+                            "display_url": "instagram.com/fabianolea00/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1478,
+            "friends_count": 4556,
+            "listed_count": 0,
+            "created_at": "Fri Apr 12 20:05:55 +0000 2013",
+            "favourites_count": 126756,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 36870,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1388264989992050690/syKmChiy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388264989992050690/syKmChiy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347615672/1615873097",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 71,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

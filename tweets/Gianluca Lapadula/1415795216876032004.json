@@ -1,0 +1,237 @@
+{
+    "created_at": "Thu Jul 15 22:07:38 +0000 2021",
+    "id": 1415795216876032004,
+    "id_str": "1415795216876032004",
+    "full_text": "Todos aman a @G_Lapadula \ud83d\ude00\ud83d\udc93\ud83c\uddf5\ud83c\uddea\n #Gianluca #Lapadula #lapadulaeltanqueinca https://t.co/C7Lpk5uTak",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        72
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Gianluca",
+                "indices": [
+                    31,
+                    40
+                ]
+            },
+            {
+                "text": "Lapadula",
+                "indices": [
+                    41,
+                    50
+                ]
+            },
+            {
+                "text": "lapadulaeltanqueinca",
+                "indices": [
+                    51,
+                    72
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "G_Lapadula",
+                "name": "GLapadula",
+                "id": 2493053869,
+                "id_str": "2493053869",
+                "indices": [
+                    13,
+                    24
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415795052182441986,
+                "id_str": "1415795052182441986",
+                "indices": [
+                    73,
+                    96
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415795052182441986/pu/img/hU4Sf8Eu-9gZaolU.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415795052182441986/pu/img/hU4Sf8Eu-9gZaolU.jpg",
+                "url": "https://t.co/C7Lpk5uTak",
+                "display_url": "pic.twitter.com/C7Lpk5uTak",
+                "expanded_url": "https://twitter.com/peru_claudia/status/1415795216876032004/video/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 480,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 453,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415795052182441986,
+                "id_str": "1415795052182441986",
+                "indices": [
+                    73,
+                    96
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415795052182441986/pu/img/hU4Sf8Eu-9gZaolU.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415795052182441986/pu/img/hU4Sf8Eu-9gZaolU.jpg",
+                "url": "https://t.co/C7Lpk5uTak",
+                "display_url": "pic.twitter.com/C7Lpk5uTak",
+                "expanded_url": "https://twitter.com/peru_claudia/status/1415795216876032004/video/1",
+                "type": "video",
+                "sizes": {
+                    "large": {
+                        "w": 480,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 453,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        2,
+                        3
+                    ],
+                    "duration_millis": 23434,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415795052182441986/pu/vid/320x480/6MV4MvHGNAwIsg1w.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 950000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415795052182441986/pu/vid/480x720/QS3KOZ6qdNns_7pE.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415795052182441986/pu/pl/9w6LpiMWGy86WjPK.m3u8?tag=12&container=fmp4"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 730538339418423296,
+        "id_str": "730538339418423296",
+        "name": "\ud83c\uddf5\ud83c\uddea Clau \u2661\u00a4\u2661",
+        "screen_name": "peru_claudia",
+        "location": "Lima, Peru",
+        "description": "gratitud \ud83d\ude0a\n\n#\u30b7\u30c9 \u2661 #\uc288\ud37c\uc8fc\ub2c8\uc5b4 \ud83d\udc99 \n\nLicenciada en Gesti\u00f3n Empresarial.\n\n\u79c1\u306f\u65e5\u672c\u8a9e\u304c\u5927\u597d\u304d\u3067\u3059\u3002\ud83d\udc97\n\nMy dog saved my life. \ud83d\udc36",
+        "url": "https://t.co/SRVpNxy6Ww",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/SRVpNxy6Ww",
+                        "expanded_url": "http://www.instagram.com/peru.claudiandrea",
+                        "display_url": "instagram.com/peru.claudiand\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 345,
+        "friends_count": 554,
+        "listed_count": 0,
+        "created_at": "Wed May 11 23:21:27 +0000 2016",
+        "favourites_count": 13306,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10771,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402654122877272068/KO2DjBj5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402654122877272068/KO2DjBj5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/730538339418423296/1589174494",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

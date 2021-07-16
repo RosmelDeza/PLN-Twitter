@@ -1,0 +1,297 @@
+{
+    "created_at": "Tue Jul 13 11:23:17 +0000 2021",
+    "id": 1414908283199053824,
+    "id_str": "1414908283199053824",
+    "full_text": "RT @RPPNoticias: \ud83c\uddf5\ud83c\uddea\ud83d\udcaa \"Tiene un pie izquierdo potente\": Gianluca Lapadula \"sue\u00f1a\" con jugar en el Torino en la Serie A. https://t.co/G6V4OV5\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RPPNoticias",
+                "name": "RPP Noticias",
+                "id": 9075022,
+                "id_str": "9075022",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1182817461978255361,
+        "id_str": "1182817461978255361",
+        "name": "LA MOSCA: La Voz de Maracaibo.",
+        "screen_name": "lamoscaweb",
+        "location": "Maracaibo - Estado Zulia",
+        "description": "LA MOSCA: La Voz de Maracaibo. Sin Mordaza de conciencia,  te contamos la verdad, S\u00edgueme y te sigo   Mi cuenta en Instagram es  @la_mosca_web",
+        "url": "https://t.co/58TrDU3uko",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/58TrDU3uko",
+                        "expanded_url": "http://www.lamosca.com.ve",
+                        "display_url": "lamosca.com.ve",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 406,
+        "friends_count": 2223,
+        "listed_count": 1,
+        "created_at": "Sat Oct 12 00:38:16 +0000 2019",
+        "favourites_count": 2323,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3717,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1182818010760957953/oWQe-3aH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182818010760957953/oWQe-3aH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 11:19:16 +0000 2021",
+        "id": 1414907273521123331,
+        "id_str": "1414907273521123331",
+        "full_text": "\ud83c\uddf5\ud83c\uddea\ud83d\udcaa \"Tiene un pie izquierdo potente\": Gianluca Lapadula \"sue\u00f1a\" con jugar en el Torino en la Serie A. https://t.co/G6V4OV5D5j https://t.co/3NivzqFg1N",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            125
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/G6V4OV5D5j",
+                    "expanded_url": "https://rpp.pe/p/1346944",
+                    "display_url": "rpp.pe/p/1346944",
+                    "indices": [
+                        102,
+                        125
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414907177827962886,
+                    "id_str": "1414907177827962886",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6LClOyWEAYERza.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6LClOyWEAYERza.png",
+                    "url": "https://t.co/3NivzqFg1N",
+                    "display_url": "pic.twitter.com/3NivzqFg1N",
+                    "expanded_url": "https://twitter.com/RPPNoticias/status/1414907273521123331/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 604,
+                            "h": 339,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 604,
+                            "h": 339,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 604,
+                            "h": 339,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414907177827962886,
+                    "id_str": "1414907177827962886",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6LClOyWEAYERza.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6LClOyWEAYERza.png",
+                    "url": "https://t.co/3NivzqFg1N",
+                    "display_url": "pic.twitter.com/3NivzqFg1N",
+                    "expanded_url": "https://twitter.com/RPPNoticias/status/1414907273521123331/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 604,
+                            "h": 339,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 604,
+                            "h": 339,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 604,
+                            "h": 339,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 9075022,
+            "id_str": "9075022",
+            "name": "RPP Noticias",
+            "screen_name": "RPPNoticias",
+            "location": "Lima, Peru",
+            "description": "Noticias del Per\u00fa y el mundo actualizadas desde nuestra redacci\u00f3n minuto a minuto.",
+            "url": "https://t.co/qd1Hy59Hqa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/qd1Hy59Hqa",
+                            "expanded_url": "http://rpp.pe/",
+                            "display_url": "rpp.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2123968,
+            "friends_count": 601,
+            "listed_count": 4981,
+            "created_at": "Mon Sep 24 18:45:40 +0000 2007",
+            "favourites_count": 8513,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 458263,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1053736134994472960/DvevWIQI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053736134994472960/DvevWIQI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/9075022/1623338664",
+            "profile_link_color": "A68F0B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 93,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

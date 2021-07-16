@@ -1,0 +1,110 @@
+{
+    "created_at": "Mon Jul 12 13:32:31 +0000 2021",
+    "id": 1414578418960715777,
+    "id_str": "1414578418960715777",
+    "full_text": "https://t.co/DwTzW3cAN7\n\nRecordando cuando le decian de todo a Lapadula.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        72
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/DwTzW3cAN7",
+                "expanded_url": "https://bolavip.com/pe/seleccionperuana/Ni-el-Boys-te-va-a-querer-algunos-comentarios-que-recibia-Gianluca-Lapadula-en-el-2016-cuando-se-puso-la-camiseta-de-Italia-20210709-0010.html?fbclid=IwAR2NdhMq7hxcQ2j537sRw8HaNAdxMrHfjlyalrRHTDVrfBd0lxVmB_b4Q20",
+                "display_url": "bolavip.com/pe/seleccionpe\u2026",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1349626857860292609,
+        "id_str": "1349626857860292609",
+        "name": "Cesar Chavez",
+        "screen_name": "CesarChavezP29",
+        "location": "",
+        "description": "Economista sanmarquino y barranque\u00f1o. Esta no es una cuenta profesional (esta si @CesarChavezP23). Comento cosas que te haran enojar.",
+        "url": "https://t.co/k2AWHcEV9t",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/k2AWHcEV9t",
+                        "expanded_url": "https://sites.google.com/view/cesarchavezp/p%C3%A1gina-principal",
+                        "display_url": "sites.google.com/view/cesarchav\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 439,
+        "friends_count": 752,
+        "listed_count": 1,
+        "created_at": "Thu Jan 14 07:58:20 +0000 2021",
+        "favourites_count": 14799,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8827,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414272718896238596/ew3-Vn4-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414272718896238596/ew3-Vn4-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1349626857860292609/1620449658",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

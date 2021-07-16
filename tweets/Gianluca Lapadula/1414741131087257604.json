@@ -1,0 +1,229 @@
+{
+    "created_at": "Tue Jul 13 00:19:04 +0000 2021",
+    "id": 1414741131087257604,
+    "id_str": "1414741131087257604",
+    "full_text": "RT @GOLPERUoficial: \u00bfEn qu\u00e9 equipo deber\u00eda continuar su carrera Gianluca Lapadula \u26bd\ud83c\uddf5\ud83c\uddea? \n\nLos resultados hoy en #10X10 \ud83d\udcfa desde las 10:00 PM.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "10X10",
+                "indices": [
+                    111,
+                    117
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GOLPERUoficial",
+                "name": "GOLPERU",
+                "id": 721832788983484416,
+                "id_str": "721832788983484416",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 723725755352530944,
+        "id_str": "723725755352530944",
+        "name": "\ud835\udd78\ud835\udd8e\ud835\udd90\ud835\udd86\ud835\udd8a\ud835\udd91",
+        "screen_name": "itsMikel_",
+        "location": "",
+        "description": "No calles, hazlo. Gobernante del Ducado Real de Lima. O sea, comeme la **ja si no te gusta lo que pongo.\nInstagram: https://t.co/BjdqdD0ClB\u2026",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/BjdqdD0ClB",
+                        "expanded_url": "http://instagram.com/bymikel_/?hl=e",
+                        "display_url": "instagram.com/bymikel_/?hl=e",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 174,
+        "friends_count": 2028,
+        "listed_count": 0,
+        "created_at": "Sat Apr 23 04:10:41 +0000 2016",
+        "favourites_count": 79208,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 31654,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1315363117438828551/VONu_Gr3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315363117438828551/VONu_Gr3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/723725755352530944/1602441916",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 00:15:38 +0000 2021",
+        "id": 1414740264812429313,
+        "id_str": "1414740264812429313",
+        "full_text": "\u00bfEn qu\u00e9 equipo deber\u00eda continuar su carrera Gianluca Lapadula \u26bd\ud83c\uddf5\ud83c\uddea? \n\nLos resultados hoy en #10X10 \ud83d\udcfa desde las 10:00 PM.\n\n#AlientaDesdeCasa",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            138
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "10X10",
+                    "indices": [
+                        91,
+                        97
+                    ]
+                },
+                {
+                    "text": "AlientaDesdeCasa",
+                    "indices": [
+                        121,
+                        138
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 721832788983484416,
+            "id_str": "721832788983484416",
+            "name": "GOLPERU",
+            "screen_name": "GOLPERUoficial",
+            "location": "Peru",
+            "description": "Cuenta oficial de GOLPERU, el canal del f\u00fatbol. \ud83d\udcfa 14 - 714 HD de Movistar FB: GOLPERU14 TW: GOLPERUoficial IG: golperuoficial YT: GOLPERUoficial",
+            "url": "https://t.co/4zFNOOXHGs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4zFNOOXHGs",
+                            "expanded_url": "http://www.golperu.pe",
+                            "display_url": "golperu.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 169250,
+            "friends_count": 320,
+            "listed_count": 278,
+            "created_at": "Sun Apr 17 22:48:42 +0000 2016",
+            "favourites_count": 5487,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 108861,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/721832788983484416/1626354940",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

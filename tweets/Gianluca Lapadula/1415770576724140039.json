@@ -1,0 +1,277 @@
+{
+    "created_at": "Thu Jul 15 20:29:43 +0000 2021",
+    "id": 1415770576724140039,
+    "id_str": "1415770576724140039",
+    "full_text": "te quiero mucho Gianluca Lapadula https://t.co/WEEChXW2hR",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        33
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/WEEChXW2hR",
+                "expanded_url": "https://twitter.com/G_Lapadula/status/1415749014109270030",
+                "display_url": "twitter.com/G_Lapadula/sta\u2026",
+                "indices": [
+                    34,
+                    57
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1250906523846561795,
+        "id_str": "1250906523846561795",
+        "name": "min \u2661 estre \u00a6",
+        "screen_name": "prttwnguk",
+        "location": "\u301c \u2a69 \u2709\ufe0e \u3082\u3046\u4e8c\u4eba\u306f\u9065\u304b\u9060\u3044 \u4e00 \ud835\uddd5\ud835\uddd4\ud835\udde1\ud835\uddda\ud835\udde7\ud835\uddd4\ud835\udde1 \ud835\udde6\ud835\udde2\ud835\udde1\ud835\uddec\ud835\uddd8\ud835\udde2\ud835\udde1\ud835\uddd7\ud835\uddd4\ud835\udde1 (^o^) \u3064\u306e\u306f\u305a\u306a\u306e\u306b \u4eca\u3067\u306f\u50d5\u3089\u3092 \u5f69\u308b\u7d75\u306e\u5177\u306a\u3069 \ufe6b\ud835\uddba\ud835\uddc5\ud835\uddd0\ud835\uddba\ud835\uddd2\ud835\uddcc \ud835\uddcc\ud835\uddbe\ud835\uddcf\ud835\uddbe\ud835\uddc7 \u2077 \u2605 \u2606",
+        "description": "",
+        "url": "https://t.co/RPeNS0fV7w",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/RPeNS0fV7w",
+                        "expanded_url": "http://koocereza.carrd.co",
+                        "display_url": "koocereza.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1058,
+        "friends_count": 985,
+        "listed_count": 4,
+        "created_at": "Thu Apr 16 21:59:03 +0000 2020",
+        "favourites_count": 20078,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23236,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415811822675009536/eE6-Bo59_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415811822675009536/eE6-Bo59_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250906523846561795/1626291644",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415749014109270030,
+    "quoted_status_id_str": "1415749014109270030",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 19:04:02 +0000 2021",
+        "id": 1415749014109270030,
+        "id_str": "1415749014109270030",
+        "full_text": "\ud83c\uddf5\ud83c\uddea https://t.co/ZFK25W57nM",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            2
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415749005032689666,
+                    "id_str": "1415749005032689666",
+                    "indices": [
+                        3,
+                        26
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XAOBgWEAIEo2z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XAOBgWEAIEo2z.jpg",
+                    "url": "https://t.co/ZFK25W57nM",
+                    "display_url": "pic.twitter.com/ZFK25W57nM",
+                    "expanded_url": "https://twitter.com/G_Lapadula/status/1415749014109270030/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 719,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 674,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415749005032689666,
+                    "id_str": "1415749005032689666",
+                    "indices": [
+                        3,
+                        26
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XAOBgWEAIEo2z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XAOBgWEAIEo2z.jpg",
+                    "url": "https://t.co/ZFK25W57nM",
+                    "display_url": "pic.twitter.com/ZFK25W57nM",
+                    "expanded_url": "https://twitter.com/G_Lapadula/status/1415749014109270030/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 719,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 674,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2493053869,
+            "id_str": "2493053869",
+            "name": "GLapadula",
+            "screen_name": "G_Lapadula",
+            "location": "Milano, Italy",
+            "description": "\u26bd\ufe0f Benevento Calcio                 \ud83c\uddf5\ud83c\uddea Selecci\u00f3n Peruana                \ud83d\udce9 info@starbridgeagency.com",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 136023,
+            "friends_count": 32,
+            "listed_count": 144,
+            "created_at": "Tue May 13 14:11:56 +0000 2014",
+            "favourites_count": 41,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 366,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413771395557900292/Povmv1R5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413771395557900292/Povmv1R5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2493053869/1471541827",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1257,
+        "favorite_count": 14924,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

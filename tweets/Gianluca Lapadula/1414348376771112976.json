@@ -1,0 +1,110 @@
+{
+    "created_at": "Sun Jul 11 22:18:25 +0000 2021",
+    "id": 1414348376771112976,
+    "id_str": "1414348376771112976",
+    "full_text": "Mi XI Ideal de la @CopaAmerica:\n\nDavid Ospina; Aldo Corzo, Marquinhos, Nicol\u00e1s Otamendi, Eugenio Mena; Wilmar Barrios, Rodrigo De Paul; Neymar Jr, Luis D\u00edaz, Lionel Messi, Gianluca Lapadula.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        190
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CopaAmerica",
+                "name": "Copa Am\u00e9rica",
+                "id": 3159711265,
+                "id_str": "3159711265",
+                "indices": [
+                    18,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1304066517882015744,
+        "id_str": "1304066517882015744",
+        "name": "Breinner Arteta Ca\u00f1izares",
+        "screen_name": "ArtetaBreinner",
+        "location": "Barranquilla, Colombia",
+        "description": "Comunicador Social Periodista de la @UAutonoma. Presentador en @LasNoticiasTel y corresponsal de @NoticiasUno, soy @AcordColombia1. #OpinionesPersonales.",
+        "url": "https://t.co/ZzCZiCq3os",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ZzCZiCq3os",
+                        "expanded_url": "https://instagram.com/breinnerartetac?igshid=ukxmmi89ac3e",
+                        "display_url": "instagram.com/breinnerarteta\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1989,
+        "friends_count": 1790,
+        "listed_count": 8,
+        "created_at": "Thu Sep 10 14:37:52 +0000 2020",
+        "favourites_count": 17483,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5942,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328657605007380480/f6M8uclf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328657605007380480/f6M8uclf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1304066517882015744/1599771928",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

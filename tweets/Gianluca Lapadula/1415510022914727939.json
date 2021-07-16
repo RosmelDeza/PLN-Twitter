@@ -1,0 +1,446 @@
+{
+    "created_at": "Thu Jul 15 03:14:23 +0000 2021",
+    "id": 1415510022914727939,
+    "id_str": "1415510022914727939",
+    "full_text": "RT @GOLPERUoficial: @maximend92 @jkieffersolari @milenamerino @ClubALoficial @Universitario @ClubSCristal \u23f0 #Ahora @milenamerino en #C\u00d3DIGO\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Ahora",
+                "indices": [
+                    108,
+                    114
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GOLPERUoficial",
+                "name": "GOLPERU",
+                "id": 721832788983484416,
+                "id_str": "721832788983484416",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "maximend92",
+                "name": "Maxi Menda\u00f1a",
+                "id": 721009491307851777,
+                "id_str": "721009491307851777",
+                "indices": [
+                    20,
+                    31
+                ]
+            },
+            {
+                "screen_name": "jkieffersolari",
+                "name": "Jorge Kieffer Solari",
+                "id": 157031257,
+                "id_str": "157031257",
+                "indices": [
+                    32,
+                    47
+                ]
+            },
+            {
+                "screen_name": "milenamerino",
+                "name": "Milena Merino",
+                "id": 208101726,
+                "id_str": "208101726",
+                "indices": [
+                    48,
+                    61
+                ]
+            },
+            {
+                "screen_name": "ClubALoficial",
+                "name": "Club Alianza Lima",
+                "id": 551512173,
+                "id_str": "551512173",
+                "indices": [
+                    62,
+                    76
+                ]
+            },
+            {
+                "screen_name": "Universitario",
+                "name": "Universitario",
+                "id": 246980132,
+                "id_str": "246980132",
+                "indices": [
+                    77,
+                    91
+                ]
+            },
+            {
+                "screen_name": "ClubSCristal",
+                "name": "Club Sporting Cristal",
+                "id": 314726578,
+                "id_str": "314726578",
+                "indices": [
+                    92,
+                    105
+                ]
+            },
+            {
+                "screen_name": "milenamerino",
+                "name": "Milena Merino",
+                "id": 208101726,
+                "id_str": "208101726",
+                "indices": [
+                    115,
+                    128
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 141437505,
+        "id_str": "141437505",
+        "name": "Carlos Yepez",
+        "screen_name": "caliyepez",
+        "location": "",
+        "description": "Hincha de Alianza Lima | Sino te saludo por la calle es porque tengo miopia :D |",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 151,
+        "friends_count": 721,
+        "listed_count": 0,
+        "created_at": "Sat May 08 03:03:32 +0000 2010",
+        "favourites_count": 19347,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6219,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195847356740231173/cadbJ0Hv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195847356740231173/cadbJ0Hv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/141437505/1416447945",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 03:01:02 +0000 2021",
+        "id": 1415506665630228489,
+        "id_str": "1415506665630228489",
+        "full_text": "@maximend92 @jkieffersolari @milenamerino @ClubALoficial @Universitario @ClubSCristal \u23f0 #Ahora @milenamerino en #C\u00d3DIGOF\u00daTBOL \ud83d\udcfa: \"Me comunicaron que hay una posible opci\u00f3n de Gianluca Lapadula con el AS M\u00f3naco. Le cay\u00f3 bien la Copa Am\u00e9rica, estoy segura que va a tener un equipo competitivo\". #AlientaDesdeCasa https://t.co/eQAasA0rbp",
+        "truncated": false,
+        "display_text_range": [
+            86,
+            310
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Ahora",
+                    "indices": [
+                        88,
+                        94
+                    ]
+                },
+                {
+                    "text": "C\u00d3DIGOF\u00daTBOL",
+                    "indices": [
+                        112,
+                        125
+                    ]
+                },
+                {
+                    "text": "AlientaDesdeCasa",
+                    "indices": [
+                        293,
+                        310
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "maximend92",
+                    "name": "Maxi Menda\u00f1a",
+                    "id": 721009491307851777,
+                    "id_str": "721009491307851777",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "jkieffersolari",
+                    "name": "Jorge Kieffer Solari",
+                    "id": 157031257,
+                    "id_str": "157031257",
+                    "indices": [
+                        12,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "milenamerino",
+                    "name": "Milena Merino",
+                    "id": 208101726,
+                    "id_str": "208101726",
+                    "indices": [
+                        28,
+                        41
+                    ]
+                },
+                {
+                    "screen_name": "ClubALoficial",
+                    "name": "Club Alianza Lima",
+                    "id": 551512173,
+                    "id_str": "551512173",
+                    "indices": [
+                        42,
+                        56
+                    ]
+                },
+                {
+                    "screen_name": "Universitario",
+                    "name": "Universitario",
+                    "id": 246980132,
+                    "id_str": "246980132",
+                    "indices": [
+                        57,
+                        71
+                    ]
+                },
+                {
+                    "screen_name": "ClubSCristal",
+                    "name": "Club Sporting Cristal",
+                    "id": 314726578,
+                    "id_str": "314726578",
+                    "indices": [
+                        72,
+                        85
+                    ]
+                },
+                {
+                    "screen_name": "milenamerino",
+                    "name": "Milena Merino",
+                    "id": 208101726,
+                    "id_str": "208101726",
+                    "indices": [
+                        95,
+                        108
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415505846532968452,
+                    "id_str": "1415505846532968452",
+                    "indices": [
+                        311,
+                        334
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TjEVgWEAQv_BH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TjEVgWEAQv_BH.jpg",
+                    "url": "https://t.co/eQAasA0rbp",
+                    "display_url": "pic.twitter.com/eQAasA0rbp",
+                    "expanded_url": "https://twitter.com/GOLPERUoficial/status/1415506665630228489/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1526,
+                            "h": 827,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 369,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 650,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415505846532968452,
+                    "id_str": "1415505846532968452",
+                    "indices": [
+                        311,
+                        334
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TjEVgWEAQv_BH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TjEVgWEAQv_BH.jpg",
+                    "url": "https://t.co/eQAasA0rbp",
+                    "display_url": "pic.twitter.com/eQAasA0rbp",
+                    "expanded_url": "https://twitter.com/GOLPERUoficial/status/1415506665630228489/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1526,
+                            "h": 827,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 369,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 650,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1415498743760228355,
+        "in_reply_to_status_id_str": "1415498743760228355",
+        "in_reply_to_user_id": 721832788983484416,
+        "in_reply_to_user_id_str": "721832788983484416",
+        "in_reply_to_screen_name": "GOLPERUoficial",
+        "user": {
+            "id": 721832788983484416,
+            "id_str": "721832788983484416",
+            "name": "GOLPERU",
+            "screen_name": "GOLPERUoficial",
+            "location": "Peru",
+            "description": "Cuenta oficial de GOLPERU, el canal del f\u00fatbol. \ud83d\udcfa 14 - 714 HD de Movistar FB: GOLPERU14 TW: GOLPERUoficial IG: golperuoficial YT: GOLPERUoficial",
+            "url": "https://t.co/4zFNOOXHGs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4zFNOOXHGs",
+                            "expanded_url": "http://www.golperu.pe",
+                            "display_url": "golperu.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 169250,
+            "friends_count": 320,
+            "listed_count": 278,
+            "created_at": "Sun Apr 17 22:48:42 +0000 2016",
+            "favourites_count": 5487,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 108861,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/721832788983484416/1626354940",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

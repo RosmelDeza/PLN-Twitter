@@ -1,0 +1,318 @@
+{
+    "created_at": "Mon Jul 12 02:19:12 +0000 2021",
+    "id": 1414408974858866688,
+    "id_str": "1414408974858866688",
+    "full_text": "RT @DeChalacaFutInt: #CopaAm\u00e9rica \ud83c\udf0e\nTercer y cuarto puesto\n\n#Colombia \ud83c\udde8\ud83c\uddf4 3\u20e3 (Juan Cuadrado, Luis Fernando D\u00edaz x2)\n#Per\u00fa \ud83c\uddf5\ud83c\uddea 2\u20e3 (Yoshimar Yo\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CopaAm\u00e9rica",
+                "indices": [
+                    21,
+                    33
+                ]
+            },
+            {
+                "text": "Colombia",
+                "indices": [
+                    60,
+                    69
+                ]
+            },
+            {
+                "text": "Per\u00fa",
+                "indices": [
+                    115,
+                    120
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DeChalacaFutInt",
+                "name": "DeChalaca F\u00fatbol Internacional",
+                "id": 1318438163086442496,
+                "id_str": "1318438163086442496",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 45888354,
+        "id_str": "45888354",
+        "name": "DeChalaca",
+        "screen_name": "DeChalaca",
+        "location": "Per\u00fa",
+        "description": "F\u00fatbol para el que la conoce. Transmisi\u00f3n de partidos v\u00eda Twitter de f\u00fatbol peruano e internacional (Copa Libertadores, Sudamericana y Champions League).",
+        "url": "https://t.co/xqCstpxUQu",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/xqCstpxUQu",
+                        "expanded_url": "http://DeChalaca.com",
+                        "display_url": "DeChalaca.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 220482,
+        "friends_count": 1233,
+        "listed_count": 496,
+        "created_at": "Tue Jun 09 17:25:45 +0000 2009",
+        "favourites_count": 418827,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 410390,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B4CF18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278039252945833985/h8nqDaGo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278039252945833985/h8nqDaGo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45888354/1619927896",
+        "profile_link_color": "00B300",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "ECF0CD",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 02:24:57 +0000 2021",
+        "id": 1413685646623916043,
+        "id_str": "1413685646623916043",
+        "full_text": "#CopaAm\u00e9rica \ud83c\udf0e\nTercer y cuarto puesto\n\n#Colombia \ud83c\udde8\ud83c\uddf4 3\u20e3 (Juan Cuadrado, Luis Fernando D\u00edaz x2)\n#Per\u00fa \ud83c\uddf5\ud83c\uddea 2\u20e3 (Yoshimar Yot\u00fan, Gianluca Lapadula)\n\nColombia no derrotaba a Per\u00fa por Copa Am\u00e9rica desde hace 20 a\u00f1os. En Armenia, lo gole\u00f3 3-0 por los cuartos de la edici\u00f3n de 2001. https://t.co/jEpiGye8sd",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CopaAm\u00e9rica",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "text": "Colombia",
+                    "indices": [
+                        39,
+                        48
+                    ]
+                },
+                {
+                    "text": "Per\u00fa",
+                    "indices": [
+                        94,
+                        99
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413685560787587073,
+                    "id_str": "1413685560787587073",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55rhwrX0AEcfeo.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E55rhwrX0AEcfeo.png",
+                    "url": "https://t.co/jEpiGye8sd",
+                    "display_url": "pic.twitter.com/jEpiGye8sd",
+                    "expanded_url": "https://twitter.com/DeChalacaFutInt/status/1413685646623916043/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 898,
+                            "h": 598,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 898,
+                            "h": 598,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413685560787587073,
+                    "id_str": "1413685560787587073",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55rhwrX0AEcfeo.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E55rhwrX0AEcfeo.png",
+                    "url": "https://t.co/jEpiGye8sd",
+                    "display_url": "pic.twitter.com/jEpiGye8sd",
+                    "expanded_url": "https://twitter.com/DeChalacaFutInt/status/1413685646623916043/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 898,
+                            "h": 598,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 898,
+                            "h": 598,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1318438163086442496,
+            "id_str": "1318438163086442496",
+            "name": "DeChalaca F\u00fatbol Internacional",
+            "screen_name": "DeChalacaFutInt",
+            "location": "Peru",
+            "description": "Cuenta de f\u00fatbol internacional de @DeChalaca",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 346,
+            "friends_count": 28,
+            "listed_count": 2,
+            "created_at": "Tue Oct 20 06:25:44 +0000 2020",
+            "favourites_count": 209,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3318,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1319132283182469120/Z6rMNPvM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319132283182469120/Z6rMNPvM_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

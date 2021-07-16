@@ -1,0 +1,275 @@
+{
+    "created_at": "Tue Jul 13 17:02:36 +0000 2021",
+    "id": 1414993676258922503,
+    "id_str": "1414993676258922503",
+    "full_text": "RT @stylexhardy: Ahora que Lapadula esta de regreso a Italia falta que lo quieran de nuevo pa ellos. JAAAAAAA, Gianluca ya est\u00e1... https://\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "stylexhardy",
+                "name": "anya \ud83c\uddf5\ud83c\uddea",
+                "id": 1113161330,
+                "id_str": "1113161330",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1391547730271612934,
+        "id_str": "1391547730271612934",
+        "name": "\ud835\ude73\ud835\ude70\ud835\ude7c\ud835\ude70\ud835\ude81\ud835\ude78\ud835\ude82 \u1d56\u1d57\u1d48 \ud83e\udd20\ud83c\udfdc\ufe0f\u23ceEN EL HOSPITAL",
+        "screen_name": "damaris_ym20",
+        "location": "BTS PAVED THE WAY",
+        "description": "\u2a69\ud835\uddd5\ud835\udde7\ud835\udde6 \ud835\udde3\ud835\uddd4\ud835\udde9\ud835\uddd8\ud835\uddd7 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\uddea\ud835\uddd4\ud835\uddec\u2a69\ud835\udde2\ud835\udde1\ud835\udddf\ud835\uddec \ud835\uddd4\ud835\udde5\ud835\udde0\ud835\uddec\u2a69\n\n\n\n\n\n\n\n\n\n#NAMJOON #JIN #YOONGI #HOSEOK #JIMIN #TAEHYUNG #JUNGKOOK los amo \u10e6",
+        "url": "https://t.co/w6GjD6dTZp",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/w6GjD6dTZp",
+                        "expanded_url": "https://la-mejor-yoonginista.carrd.co/",
+                        "display_url": "la-mejor-yoonginista.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1194,
+        "friends_count": 1126,
+        "listed_count": 0,
+        "created_at": "Mon May 10 00:17:06 +0000 2021",
+        "favourites_count": 15508,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14956,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415139776257314822/eWV_d0WX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415139776257314822/eWV_d0WX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391547730271612934/1626144295",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 16:58:32 +0000 2021",
+        "id": 1414992655403126786,
+        "id_str": "1414992655403126786",
+        "full_text": "Ahora que Lapadula esta de regreso a Italia falta que lo quieran de nuevo pa ellos. JAAAAAAA, Gianluca ya est\u00e1... https://t.co/SqFDXpKtEn",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            113
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414992651368247301,
+                    "id_str": "1414992651368247301",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MQUciXsAUOgdL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MQUciXsAUOgdL.jpg",
+                    "url": "https://t.co/SqFDXpKtEn",
+                    "display_url": "pic.twitter.com/SqFDXpKtEn",
+                    "expanded_url": "https://twitter.com/stylexhardy/status/1414992655403126786/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1080,
+                            "h": 590,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 371,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 590,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414992651368247301,
+                    "id_str": "1414992651368247301",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MQUciXsAUOgdL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MQUciXsAUOgdL.jpg",
+                    "url": "https://t.co/SqFDXpKtEn",
+                    "display_url": "pic.twitter.com/SqFDXpKtEn",
+                    "expanded_url": "https://twitter.com/stylexhardy/status/1414992655403126786/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1080,
+                            "h": 590,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 371,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 590,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1113161330,
+            "id_str": "1113161330",
+            "name": "anya \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "stylexhardy",
+            "location": "",
+            "description": "\u210b\u2661\naveces me pregunto porqu\u00e9 tanta gente buena me rodea, pero luego pienso que si estoy en su vida... tal vez no son tan buenas personas.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7196,
+            "friends_count": 4480,
+            "listed_count": 37,
+            "created_at": "Wed Jan 23 01:54:36 +0000 2013",
+            "favourites_count": 32578,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 61131,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411508343173230596/gEpAdHEF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411508343173230596/gEpAdHEF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1113161330/1625468176",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 80,
+        "favorite_count": 384,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 80,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

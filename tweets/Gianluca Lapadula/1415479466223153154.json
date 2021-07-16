@@ -1,0 +1,272 @@
+{
+    "created_at": "Thu Jul 15 01:12:57 +0000 2021",
+    "id": 1415479466223153154,
+    "id_str": "1415479466223153154",
+    "full_text": "RT @diarioElamague: \u25b6\ufe0f 23va EDICI\u00d3N | EN LA JUGADA\n\n\u203c\ufe0f\u2705 El futuro de Luis Abram, Gianluca Lapadula y Wilder Cartagena. Adem\u00e1s, el an\u00e1lisis\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "diarioElamague",
+                "name": "El Amague",
+                "id": 949847456342335491,
+                "id_str": "949847456342335491",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1298337891718967296,
+        "id_str": "1298337891718967296",
+        "name": "Roland Alessandro Luna Ulario",
+        "screen_name": "luna_ulario",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 36,
+        "friends_count": 890,
+        "listed_count": 1,
+        "created_at": "Tue Aug 25 19:14:41 +0000 2020",
+        "favourites_count": 9418,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5668,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1298338740658724870/bD2Njt-0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1298338740658724870/bD2Njt-0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 22:07:31 +0000 2021",
+        "id": 1415432799461548035,
+        "id_str": "1415432799461548035",
+        "full_text": "\u25b6\ufe0f 23va EDICI\u00d3N | EN LA JUGADA\n\n\u203c\ufe0f\u2705 El futuro de Luis Abram, Gianluca Lapadula y Wilder Cartagena. Adem\u00e1s, el an\u00e1lisis del Sporting Cristal vs. Arsenal de Sarand\u00ed y el Bloque de Cienciano.\n\n\ud83d\udcfd\ufe0f Eng\u00e1nchate al programa desde las 9:00 pm por el Facebook y Youtube de @diarioElamague. https://t.co/xN4OAzazMu",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "diarioElamague",
+                    "name": "El Amague",
+                    "id": 949847456342335491,
+                    "id_str": "949847456342335491",
+                    "indices": [
+                        263,
+                        278
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415430437657272331,
+                    "id_str": "1415430437657272331",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6See9jWYAsxbld.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6See9jWYAsxbld.jpg",
+                    "url": "https://t.co/xN4OAzazMu",
+                    "display_url": "pic.twitter.com/xN4OAzazMu",
+                    "expanded_url": "https://twitter.com/diarioElamague/status/1415432799461548035/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415430437657272331,
+                    "id_str": "1415430437657272331",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6See9jWYAsxbld.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6See9jWYAsxbld.jpg",
+                    "url": "https://t.co/xN4OAzazMu",
+                    "display_url": "pic.twitter.com/xN4OAzazMu",
+                    "expanded_url": "https://twitter.com/diarioElamague/status/1415432799461548035/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 949847456342335491,
+            "id_str": "949847456342335491",
+            "name": "El Amague",
+            "screen_name": "diarioElamague",
+            "location": "Lima",
+            "description": "Primer diario digital deportivo peruano.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1669,
+            "friends_count": 789,
+            "listed_count": 2,
+            "created_at": "Sun Jan 07 03:37:35 +0000 2018",
+            "favourites_count": 5575,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9858,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/949852267338981376/bWAu27x9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/949852267338981376/bWAu27x9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/949847456342335491/1624893887",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

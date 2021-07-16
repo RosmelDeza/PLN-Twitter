@@ -1,0 +1,108 @@
+{
+    "created_at": "Sun Jul 11 19:45:32 +0000 2021",
+    "id": 1414309903162920960,
+    "id_str": "1414309903162920960",
+    "full_text": "Diario Depor: Registros que valen: Lapadula termina entre los 3 jugadores m\u00e1s decisivos de la Copa Am\u00e9rica.\nhttps://t.co/TrP9pGRN4s\n\na trav\u00e9s de @GoogleNews",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        156
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "googlenews",
+                "name": "Google News",
+                "id": 33584794,
+                "id_str": "33584794",
+                "indices": [
+                    145,
+                    156
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/TrP9pGRN4s",
+                "expanded_url": "https://depor.com/futbol-peruano/copa-america/seleccion-peruana-gianluca-lapadula-termina-entre-los-3-jugadores-mas-decisivos-de-la-copa-america-2021-noticia/",
+                "display_url": "depor.com/futbol-peruano\u2026",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 872096885380665346,
+        "id_str": "872096885380665346",
+        "name": "Dragoncito71",
+        "screen_name": "Dragoncito71",
+        "location": "Lima 14,  Per\u00fa ",
+        "description": "Trabaj\u00f3 en Asia como mil oficios, en  Uezu Ing,  C & M Distr  Ferr  Pueblo Libre y San Borja en Ferreter\u00eda\n\nTodas las opiniones son muy respetables",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 65,
+        "friends_count": 936,
+        "listed_count": 0,
+        "created_at": "Tue Jun 06 14:24:35 +0000 2017",
+        "favourites_count": 12885,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8939,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394356431822987271/QedW73vU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394356431822987271/QedW73vU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/872096885380665346/1621997348",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

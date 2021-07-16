@@ -1,0 +1,275 @@
+{
+    "created_at": "Sun Jul 11 06:24:53 +0000 2021",
+    "id": 1414108414440001539,
+    "id_str": "1414108414440001539",
+    "full_text": "RT @Losconvocadospe: Gianluca Lapadula jug\u00f3 con el tabique fracturado los \u00faltimos 3 partidos de la selecci\u00f3n, y por s\u00ed fuera poco, ayer se\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Losconvocadospe",
+                "name": "Los Convocados Per\u00fa",
+                "id": 1128166695733006336,
+                "id_str": "1128166695733006336",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1327122544185516034,
+        "id_str": "1327122544185516034",
+        "name": "Nicole",
+        "screen_name": "CarrascoDayane",
+        "location": "Lima, Peru",
+        "description": "la fe, la fe, es lo m\u00e1s lindo de la vida\ud83e\udd0d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 68,
+        "friends_count": 400,
+        "listed_count": 1,
+        "created_at": "Fri Nov 13 05:34:19 +0000 2020",
+        "favourites_count": 8226,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3249,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413294801294970880/i7CJkPK0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413294801294970880/i7CJkPK0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327122544185516034/1623120288",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 14:30:38 +0000 2021",
+        "id": 1413868271527469058,
+        "id_str": "1413868271527469058",
+        "full_text": "Gianluca Lapadula jug\u00f3 con el tabique fracturado los \u00faltimos 3 partidos de la selecci\u00f3n, y por s\u00ed fuera poco, ayer se le vio cojeando en el segundo tiempo. En esas condiciones fue a buscar el empate y lo consigui\u00f3. La revelaci\u00f3n de la Copa Am\u00e9rica, \u201cEl Bambino\u201d. \ud83c\uddf5\ud83c\uddea\ud83e\uddb8\u200d\u2642\ufe0f https://t.co/03cs2ls4eD",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            269
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413868263264641028,
+                    "id_str": "1413868263264641028",
+                    "indices": [
+                        270,
+                        293
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E58RsccWYAQTDJj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E58RsccWYAQTDJj.jpg",
+                    "url": "https://t.co/03cs2ls4eD",
+                    "display_url": "pic.twitter.com/03cs2ls4eD",
+                    "expanded_url": "https://twitter.com/Losconvocadospe/status/1413868271527469058/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 902,
+                            "h": 902,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 902,
+                            "h": 902,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413868263264641028,
+                    "id_str": "1413868263264641028",
+                    "indices": [
+                        270,
+                        293
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E58RsccWYAQTDJj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E58RsccWYAQTDJj.jpg",
+                    "url": "https://t.co/03cs2ls4eD",
+                    "display_url": "pic.twitter.com/03cs2ls4eD",
+                    "expanded_url": "https://twitter.com/Losconvocadospe/status/1413868271527469058/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 902,
+                            "h": 902,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 902,
+                            "h": 902,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1128166695733006336,
+            "id_str": "1128166695733006336",
+            "name": "Los Convocados Per\u00fa",
+            "screen_name": "Losconvocadospe",
+            "location": "Peru",
+            "description": "\u00a1Vivimos el f\u00fatbol, compartimos la misma pasi\u00f3n!",
+            "url": "https://t.co/opionGrok3",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/opionGrok3",
+                            "expanded_url": "https://www.instagram.com/losconvocadosp/",
+                            "display_url": "instagram.com/losconvocadosp/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5526,
+            "friends_count": 437,
+            "listed_count": 15,
+            "created_at": "Tue May 14 05:14:35 +0000 2019",
+            "favourites_count": 3244,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 5117,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1327831252783796225/LF4U1ZoX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327831252783796225/LF4U1ZoX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128166695733006336/1587530832",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 270,
+        "favorite_count": 2588,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 270,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

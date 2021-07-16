@@ -1,0 +1,219 @@
+{
+    "created_at": "Sun Jul 11 14:19:31 +0000 2021",
+    "id": 1414227859762208771,
+    "id_str": "1414227859762208771",
+    "full_text": "\u2022 Mejor DT \ud83d\udc68\u200d\ud83d\udcbc: Lionel Scaloni\n\u2022 Mejor Jugador \ud83d\udc64: Lionel Messi\n\u2022 Mejor Portero \ud83e\udde4: \"Dibu\" Mart\u00ednez\n\u2022 Mejor Defensa \ud83d\udee1: Marquinhos\n\u2022 Mejor Volante \ud83c\udfaf: Rodrigo De Paul\n\u2022 Mejor Delantero \u26bd\ufe0f: Luis D\u00edaz\n\u2022 Revelaci\u00f3n \ud83d\udd0e: Gianluca Lapadula\n\n#CopaAmerica https://t.co/9rxB0mmKUL",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        242
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CopaAmerica",
+                "indices": [
+                    230,
+                    242
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/9rxB0mmKUL",
+                "expanded_url": "https://twitter.com/LaPizarraDelDT_/status/1414209329390043138",
+                "display_url": "twitter.com/LaPizarraDelDT\u2026",
+                "indices": [
+                    243,
+                    266
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 160541190,
+        "id_str": "160541190",
+        "name": "Ra\u00fal Zambrano Cabello",
+        "screen_name": "RaulZambrano7",
+        "location": "Venezuela, Caracas",
+        "description": "Periodista \u270d\ud83c\udffc\n\ud83d\udde3\ufe0f Panelista de @mundounbalon\n\u2022\nCoordinador de f\u00fatbol\u26bd\ufe0f en @SportsVZLA2. Escribo en @eldiariony",
+        "url": "https://t.co/1cL84Fpm8q",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1cL84Fpm8q",
+                        "expanded_url": "https://instagram.com/ZambranoPoesia",
+                        "display_url": "instagram.com/ZambranoPoesia",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3604,
+        "friends_count": 2373,
+        "listed_count": 34,
+        "created_at": "Mon Jun 28 13:15:07 +0000 2010",
+        "favourites_count": 2818,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 38370,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "590D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1378820832412192771/vKHXUg2X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378820832412192771/vKHXUg2X_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/160541190/1622071570",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414209329390043138,
+    "quoted_status_id_str": "1414209329390043138",
+    "quoted_status": {
+        "created_at": "Sun Jul 11 13:05:53 +0000 2021",
+        "id": 1414209329390043138,
+        "id_str": "1414209329390043138",
+        "full_text": "Ya con el final Copa Am\u00e9rica, queremos saber sus opiniones para el XI.\n\n\u2022 Mejor DT \ud83d\udc68\u200d\ud83d\udcbc:\n\u2022 Mejor Jugador \ud83d\udc64:\n\u2022 Mejor Portero \ud83e\udde4:\n\u2022 Mejor Defensa \ud83d\udee1:\n\u2022 Mejor Volante \ud83c\udfaf:\n\u2022 Mejor Delantero \u26bd\ufe0f:\n\u2022 Revelaci\u00f3n \ud83d\udd0e:\n\nLos leemos muchachos.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            224
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 127297677,
+            "id_str": "127297677",
+            "name": "La Pizarra del DT",
+            "screen_name": "LaPizarraDelDT_",
+            "location": "Davie, Florida",
+            "description": "Cursos, an\u00e1lisis, E-Sports y Scouting. Hablamos de f\u00fatbol en Am\u00e9rica. | contacto@lapizarradeldt.com",
+            "url": "https://t.co/v2eqWVZnZB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/v2eqWVZnZB",
+                            "expanded_url": "http://www.lapizarradeldt.com",
+                            "display_url": "lapizarradeldt.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 45350,
+            "friends_count": 830,
+            "listed_count": 291,
+            "created_at": "Sun Mar 28 18:58:10 +0000 2010",
+            "favourites_count": 14014,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 134412,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1290425121484599296/otr63ctN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290425121484599296/otr63ctN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/127297677/1596496316",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,180 @@
+{
+    "created_at": "Thu Jul 15 23:53:07 +0000 2021",
+    "id": 1415821762579902464,
+    "id_str": "1415821762579902464",
+    "full_text": "\u00bf\u00bfA D\u00d3NDE IR\u00c1 LAPADULA??\n\nGianluca #Lapadula ,a pesar de tener contrato hasta 2023, no fue considerado en la lista de jugadores convocados para la pretemporada del #Benevento (Serie B)\n\nCagliari, Torino y Hellas Verona preguntaron por Gianluca Lapadula. https://t.co/m8pVZlbT0K",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        253
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Lapadula",
+                "indices": [
+                    35,
+                    44
+                ]
+            },
+            {
+                "text": "Benevento",
+                "indices": [
+                    164,
+                    174
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415821759631314944,
+                "id_str": "1415821759631314944",
+                "indices": [
+                    254,
+                    277
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YCY5gX0AAyT4w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YCY5gX0AAyT4w.jpg",
+                "url": "https://t.co/m8pVZlbT0K",
+                "display_url": "pic.twitter.com/m8pVZlbT0K",
+                "expanded_url": "https://twitter.com/pasionyfutbol_/status/1415821762579902464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415821759631314944,
+                "id_str": "1415821759631314944",
+                "indices": [
+                    254,
+                    277
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YCY5gX0AAyT4w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YCY5gX0AAyT4w.jpg",
+                "url": "https://t.co/m8pVZlbT0K",
+                "display_url": "pic.twitter.com/m8pVZlbT0K",
+                "expanded_url": "https://twitter.com/pasionyfutbol_/status/1415821762579902464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1404672478862004227,
+        "id_str": "1404672478862004227",
+        "name": "Pasi\u00f3n y F\u00fatbol",
+        "screen_name": "pasionyfutbol_",
+        "location": "Lima, Peru",
+        "description": "F\u00fatbol peruano e internacional\u26bd\ufe0f / martes y jueves de 5 a 6pm por BHtv / canal 703 de #cablemasperu",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5,
+        "friends_count": 25,
+        "listed_count": 0,
+        "created_at": "Tue Jun 15 05:30:17 +0000 2021",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404672723817803777/J-lDxtvv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404672723817803777/J-lDxtvv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404672478862004227/1625779817",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

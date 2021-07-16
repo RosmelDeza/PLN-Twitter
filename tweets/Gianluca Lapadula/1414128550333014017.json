@@ -1,0 +1,110 @@
+{
+    "created_at": "Sun Jul 11 07:44:54 +0000 2021",
+    "id": 1414128550333014017,
+    "id_str": "1414128550333014017",
+    "full_text": "Gianluca Lapadula, el 'bambino' de Los Andes https://t.co/umIweJj1xL",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        68
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/umIweJj1xL",
+                "expanded_url": "https://ift.tt/3qZXAn8",
+                "display_url": "ift.tt/3qZXAn8",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1205517112111980546,
+        "id_str": "1205517112111980546",
+        "name": "Wilkin Garc\u00eda",
+        "screen_name": "wilbowow",
+        "location": "L'Hospitalet de Llobregat",
+        "description": "Slim Shady \ud83d\ude0f\ud83d\ude0e Bot\u00e1nico\ud83c\udf33/Locutor/Fan \u26bd\ufe0f\ud83d\udcfa\ud83c\udf9e\ud83c\udfb6/Content Creator/Colaboro en @OyeRadio /Produzco @lacitydelgeek",
+        "url": "https://t.co/gdAev0HPBB",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/gdAev0HPBB",
+                        "expanded_url": "https://linktr.ee/wilkinmentefria",
+                        "display_url": "linktr.ee/wilkinmentefria",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 203,
+        "friends_count": 181,
+        "listed_count": 0,
+        "created_at": "Fri Dec 13 15:57:41 +0000 2019",
+        "favourites_count": 2899,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9476,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412534498634387462/-ZHUMX26_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412534498634387462/-ZHUMX26_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1205517112111980546/1606901195",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

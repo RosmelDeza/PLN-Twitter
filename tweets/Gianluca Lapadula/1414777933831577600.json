@@ -1,0 +1,228 @@
+{
+    "created_at": "Tue Jul 13 02:45:19 +0000 2021",
+    "id": 1414777933831577600,
+    "id_str": "1414777933831577600",
+    "full_text": "RT @ExpresoPeru: \u26bd\ufe0f\ud83c\uddf5\ud83c\uddea Gianluca Lapadula en la mira del Torino, seg\u00fan prensa italiana https://t.co/IjJGggtRuB",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        108
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ExpresoPeru",
+                "name": "Diario Expreso",
+                "id": 225232891,
+                "id_str": "225232891",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/IjJGggtRuB",
+                "expanded_url": "https://www.expreso.com.pe/deportes/gianluca-lapadula-en-la-mira-del-torino-segun-prensa-italiana/",
+                "display_url": "expreso.com.pe/deportes/gianl\u2026",
+                "indices": [
+                    85,
+                    108
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 166251754,
+        "id_str": "166251754",
+        "name": "Fernando Merlin",
+        "screen_name": "bramer10",
+        "location": "Lima - Per\u00fa",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1222,
+        "friends_count": 2305,
+        "listed_count": 4,
+        "created_at": "Tue Jul 13 18:16:15 +0000 2010",
+        "favourites_count": 137864,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 50214,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/896451610829889537/JiZd5A4u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/896451610829889537/JiZd5A4u_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/166251754/1502565626",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 00:18:40 +0000 2021",
+        "id": 1414741029048262656,
+        "id_str": "1414741029048262656",
+        "full_text": "\u26bd\ufe0f\ud83c\uddf5\ud83c\uddea Gianluca Lapadula en la mira del Torino, seg\u00fan prensa italiana https://t.co/IjJGggtRuB",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            91
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/IjJGggtRuB",
+                    "expanded_url": "https://www.expreso.com.pe/deportes/gianluca-lapadula-en-la-mira-del-torino-segun-prensa-italiana/",
+                    "display_url": "expreso.com.pe/deportes/gianl\u2026",
+                    "indices": [
+                        68,
+                        91
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225232891,
+            "id_str": "225232891",
+            "name": "Diario Expreso",
+            "screen_name": "ExpresoPeru",
+            "location": "Per\u00fa",
+            "description": "Suscr\u00edbete a nuestra edici\u00f3n digital y mantente informado con noticias del Per\u00fa y el mundo, aqu\u00ed \u27a1\ufe0f https://t.co/gdt1Wu5SQo",
+            "url": "https://t.co/OqgZho3oIW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/OqgZho3oIW",
+                            "expanded_url": "http://www.expreso.com.pe",
+                            "display_url": "expreso.com.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/gdt1Wu5SQo",
+                            "expanded_url": "https://bit.ly/33XfIDk",
+                            "display_url": "bit.ly/33XfIDk",
+                            "indices": [
+                                100,
+                                123
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 314921,
+            "friends_count": 543,
+            "listed_count": 660,
+            "created_at": "Sat Dec 11 01:55:08 +0000 2010",
+            "favourites_count": 116,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 136344,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1331431423371321345/mel3jc9g_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331431423371321345/mel3jc9g_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225232891/1625398874",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 38,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

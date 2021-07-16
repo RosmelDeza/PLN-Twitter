@@ -1,0 +1,228 @@
+{
+    "created_at": "Wed Jul 14 05:29:26 +0000 2021",
+    "id": 1415181624090705920,
+    "id_str": "1415181624090705920",
+    "full_text": "RT @ADamericatv: Aqu\u00ed todos los detalles. https://t.co/DzydRfeeMK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        65
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ADamericatv",
+                "name": "Am\u00e9rica Deportes",
+                "id": 393662485,
+                "id_str": "393662485",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/DzydRfeeMK",
+                "expanded_url": "https://www.americatv.com.pe/deportes/futbol-mundial/gianluca-lapadula-opcion-trabzonspor-segun-prensa-turca-n419330",
+                "display_url": "americatv.com.pe/deportes/futbo\u2026",
+                "indices": [
+                    42,
+                    65
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 143510156,
+        "id_str": "143510156",
+        "name": "Manuel N\u00fa\u00f1ez",
+        "screen_name": "manuelnunezof",
+        "location": "Lima - Per\u00fa",
+        "description": "\ud83d\udcfa Periodista Deportivo de Am\u00e9rica TV\n\ud83c\udf99\ufe0f Reportero de F\u00fatbol en Am\u00e9rica y Am\u00e9rica Deportes\n\ud83d\udde3\ufe0f Conductor de 'Los Bichos TV'\nInstagram: @manuelnunezof",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3268,
+        "friends_count": 3096,
+        "listed_count": 12,
+        "created_at": "Thu May 13 17:26:12 +0000 2010",
+        "favourites_count": 25676,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14984,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278183598387007488/5qwTpYDC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278183598387007488/5qwTpYDC_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143510156/1593576332",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 04:41:15 +0000 2021",
+        "id": 1415169496747323394,
+        "id_str": "1415169496747323394",
+        "full_text": "Aqu\u00ed todos los detalles. https://t.co/DzydRfeeMK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            48
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/DzydRfeeMK",
+                    "expanded_url": "https://www.americatv.com.pe/deportes/futbol-mundial/gianluca-lapadula-opcion-trabzonspor-segun-prensa-turca-n419330",
+                    "display_url": "americatv.com.pe/deportes/futbo\u2026",
+                    "indices": [
+                        25,
+                        48
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 393662485,
+            "id_str": "393662485",
+            "name": "Am\u00e9rica Deportes",
+            "screen_name": "ADamericatv",
+            "location": "Lima - Per\u00fa",
+            "description": "#Am\u00e9ricaDeportes m\u00edralo por @AmericaTVGO\nSuscr\u00edbete AQU\u00cd \u25ba https://t.co/MbeK35aNM0",
+            "url": "https://t.co/oK9XXHfpHC",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/oK9XXHfpHC",
+                            "expanded_url": "http://www.americatv.com.pe/deportes/",
+                            "display_url": "americatv.com.pe/deportes/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/MbeK35aNM0",
+                            "expanded_url": "https://bit.ly/twatvgo",
+                            "display_url": "bit.ly/twatvgo",
+                            "indices": [
+                                59,
+                                82
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 29351,
+            "friends_count": 117,
+            "listed_count": 81,
+            "created_at": "Tue Oct 18 21:47:18 +0000 2011",
+            "favourites_count": 7,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 27290,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1227999672201027584/S_J48CjN_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227999672201027584/S_J48CjN_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/393662485/1623689346",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

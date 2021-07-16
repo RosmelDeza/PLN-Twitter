@@ -1,0 +1,362 @@
+{
+    "created_at": "Mon Jul 12 20:23:13 +0000 2021",
+    "id": 1414681774383419392,
+    "id_str": "1414681774383419392",
+    "full_text": "RT @erdh19: Gianluca Lapadula fue elegido como el mejor jugador peruano de la Copa Am\u00e9rica 2021, por la CONMEBOL. https://t.co/GaUM02oH7J",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "erdh19",
+                "name": "El Rinc\u00f3n Del Hincha",
+                "id": 1228924605445922816,
+                "id_str": "1228924605445922816",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414681671618674689,
+                "id_str": "1414681671618674689",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6H1fCsWQAEhUxu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6H1fCsWQAEhUxu.jpg",
+                "url": "https://t.co/GaUM02oH7J",
+                "display_url": "pic.twitter.com/GaUM02oH7J",
+                "expanded_url": "https://twitter.com/erdh19/status/1414681674990989317/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1010,
+                        "h": 1262,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414681674990989317,
+                "source_status_id_str": "1414681674990989317",
+                "source_user_id": 1228924605445922816,
+                "source_user_id_str": "1228924605445922816"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414681671618674689,
+                "id_str": "1414681671618674689",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6H1fCsWQAEhUxu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6H1fCsWQAEhUxu.jpg",
+                "url": "https://t.co/GaUM02oH7J",
+                "display_url": "pic.twitter.com/GaUM02oH7J",
+                "expanded_url": "https://twitter.com/erdh19/status/1414681674990989317/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1010,
+                        "h": 1262,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414681674990989317,
+                "source_status_id_str": "1414681674990989317",
+                "source_user_id": 1228924605445922816,
+                "source_user_id_str": "1228924605445922816"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1406520081111293952,
+        "id_str": "1406520081111293952",
+        "name": "\ud835\udc7d\ud835\udc8a\ud835\udc84\ud835\udc95\ud835\udc90\ud835\udc93 \ud835\udc77\ud835\udc82\ud835\udc84\ud835\udc89\ud835\udc86\ud835\udc84\ud835\udc90",
+        "screen_name": "victorpachecoa_",
+        "location": "",
+        "description": "Comunicaciones, USMP|| Amante del f\u00fatbol\u26bd|| \u270d\ud83c\udffb y \ud83c\udfac en @erdh19 || IG: @victorpachecoa_",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 44,
+        "listed_count": 0,
+        "created_at": "Sun Jun 20 07:52:06 +0000 2021",
+        "favourites_count": 1145,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 220,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407791137046335496/d5fA512q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407791137046335496/d5fA512q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1406520081111293952/1626317938",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 20:22:49 +0000 2021",
+        "id": 1414681674990989317,
+        "id_str": "1414681674990989317",
+        "full_text": "Gianluca Lapadula fue elegido como el mejor jugador peruano de la Copa Am\u00e9rica 2021, por la CONMEBOL. https://t.co/GaUM02oH7J",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            101
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414681671618674689,
+                    "id_str": "1414681671618674689",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6H1fCsWQAEhUxu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6H1fCsWQAEhUxu.jpg",
+                    "url": "https://t.co/GaUM02oH7J",
+                    "display_url": "pic.twitter.com/GaUM02oH7J",
+                    "expanded_url": "https://twitter.com/erdh19/status/1414681674990989317/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1010,
+                            "h": 1262,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414681671618674689,
+                    "id_str": "1414681671618674689",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6H1fCsWQAEhUxu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6H1fCsWQAEhUxu.jpg",
+                    "url": "https://t.co/GaUM02oH7J",
+                    "display_url": "pic.twitter.com/GaUM02oH7J",
+                    "expanded_url": "https://twitter.com/erdh19/status/1414681674990989317/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1010,
+                            "h": 1262,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1228924605445922816,
+            "id_str": "1228924605445922816",
+            "name": "El Rinc\u00f3n Del Hincha",
+            "screen_name": "erdh19",
+            "location": "Lima, Peru",
+            "description": "\ud83d\udccc Resultados del f\u00fatbol. \ud83d\udccc Mercado de traspasos. \ud83d\udccc Datos extra. \ud83d\udce9 rincondelhincha19@gmail.com",
+            "url": "https://t.co/hXPw0CcRIh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/hXPw0CcRIh",
+                            "expanded_url": "https://instagram.com/elrincondelhincha19?igshid=r5bsy15fxofc",
+                            "display_url": "instagram.com/elrincondelhin\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 106,
+            "friends_count": 127,
+            "listed_count": 1,
+            "created_at": "Sun Feb 16 06:10:42 +0000 2020",
+            "favourites_count": 1311,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 787,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1331454240242458625/gfIEkURP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331454240242458625/gfIEkURP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228924605445922816/1607125657",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

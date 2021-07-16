@@ -1,0 +1,283 @@
+{
+    "created_at": "Thu Jul 15 23:44:53 +0000 2021",
+    "id": 1415819688550993921,
+    "id_str": "1415819688550993921",
+    "full_text": "RT @ExpressFutbolCL: Seg\u00fan cuenta @NicoSchira: Cagliari, Torino y Hellas Verona son los tres clubes de la Serie A que han mostrado inter\u00e9s\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ExpressFutbolCL",
+                "name": "Express Futbol",
+                "id": 954145213,
+                "id_str": "954145213",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "NicoSchira",
+                "name": "Nicol\u00f2 Schira",
+                "id": 603219931,
+                "id_str": "603219931",
+                "indices": [
+                    34,
+                    45
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1850144527,
+        "id_str": "1850144527",
+        "name": "Diego Recalde",
+        "screen_name": "diegoreka93",
+        "location": "Paraguay",
+        "description": "Sin riesgos, no hay cambios\r\nF\u00fatbol y algo m\u00e1s\n\u00d1emby - Paraguay",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 142,
+        "friends_count": 667,
+        "listed_count": 2,
+        "created_at": "Tue Sep 10 02:38:21 +0000 2013",
+        "favourites_count": 52448,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 48306,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888260618087616514/3ER4n9ge_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888260618087616514/3ER4n9ge_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850144527/1400605714",
+        "profile_link_color": "B30000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 22:59:23 +0000 2021",
+        "id": 1415808239866978309,
+        "id_str": "1415808239866978309",
+        "full_text": "Seg\u00fan cuenta @NicoSchira: Cagliari, Torino y Hellas Verona son los tres clubes de la Serie A que han mostrado inter\u00e9s en Gianluca Lapadula (31|\ud83c\uddf5\ud83c\uddea).\n\n\ud83d\uddd2\ufe0fLa directiva de Tranbzonspor tambi\u00e9n eval\u00faa la situaci\u00f3n del delantero perteneciente al Benevento.\n\n\ud83c\udfc6De muy buena Copa Am\u00e9rica. https://t.co/jFTP6sE77q",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NicoSchira",
+                    "name": "Nicol\u00f2 Schira",
+                    "id": 603219931,
+                    "id_str": "603219931",
+                    "indices": [
+                        13,
+                        24
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415808237451059203,
+                    "id_str": "1415808237451059203",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6X2FzdXoAM6Avn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6X2FzdXoAM6Avn.jpg",
+                    "url": "https://t.co/jFTP6sE77q",
+                    "display_url": "pic.twitter.com/jFTP6sE77q",
+                    "expanded_url": "https://twitter.com/ExpressFutbolCL/status/1415808239866978309/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415808237451059203,
+                    "id_str": "1415808237451059203",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6X2FzdXoAM6Avn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6X2FzdXoAM6Avn.jpg",
+                    "url": "https://t.co/jFTP6sE77q",
+                    "display_url": "pic.twitter.com/jFTP6sE77q",
+                    "expanded_url": "https://twitter.com/ExpressFutbolCL/status/1415808239866978309/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 954145213,
+            "id_str": "954145213",
+            "name": "Express Futbol",
+            "screen_name": "ExpressFutbolCL",
+            "location": "CONMEBOL, UEFA, CONCACAF",
+            "description": "\ud83d\udcf1Twitter Oficial. F\u00fatbol. Informaci\u00f3n, an\u00e1lisis y fichajes. \ud83d\udcf8Instagram: @ExpressFutbolCL",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 89450,
+            "friends_count": 4642,
+            "listed_count": 300,
+            "created_at": "Sat Nov 17 19:00:26 +0000 2012",
+            "favourites_count": 11342,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 105078,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1345546189605896193/SzM5H9li_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345546189605896193/SzM5H9li_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/954145213/1607393361",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 73,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

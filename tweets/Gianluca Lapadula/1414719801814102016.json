@@ -1,0 +1,261 @@
+{
+    "created_at": "Mon Jul 12 22:54:19 +0000 2021",
+    "id": 1414719801814102016,
+    "id_str": "1414719801814102016",
+    "full_text": "RT @ErrorArbitralTR: Gianluca Lapadula ha sido elegido como el Mejor Jugador peruano en la Copa Am\u00e9rica, por la Conmebol. \n\nPretends to be\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ErrorArbitralTR",
+                "name": "Error ArbitraI",
+                "id": 1291860085388582918,
+                "id_str": "1291860085388582918",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 814920773160861696,
+        "id_str": "814920773160861696",
+        "name": "Luis Marcelo Diaz",
+        "screen_name": "LuisMX25",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 145,
+        "friends_count": 1225,
+        "listed_count": 0,
+        "created_at": "Fri Dec 30 19:47:07 +0000 2016",
+        "favourites_count": 115423,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25252,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400685729861226497/jV_F892O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400685729861226497/jV_F892O_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 20:11:01 +0000 2021",
+        "id": 1414678704240971784,
+        "id_str": "1414678704240971784",
+        "full_text": "Gianluca Lapadula ha sido elegido como el Mejor Jugador peruano en la Copa Am\u00e9rica, por la Conmebol. \n\nPretends to be shocked (?). https://t.co/304xUbuv2A",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            130
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414678700403089412,
+                    "id_str": "1414678700403089412",
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HyyGDWYAQ8Mpq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HyyGDWYAQ8Mpq.jpg",
+                    "url": "https://t.co/304xUbuv2A",
+                    "display_url": "pic.twitter.com/304xUbuv2A",
+                    "expanded_url": "https://twitter.com/ErrorArbitralTR/status/1414678704240971784/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1010,
+                            "h": 1262,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414678700403089412,
+                    "id_str": "1414678700403089412",
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HyyGDWYAQ8Mpq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HyyGDWYAQ8Mpq.jpg",
+                    "url": "https://t.co/304xUbuv2A",
+                    "display_url": "pic.twitter.com/304xUbuv2A",
+                    "expanded_url": "https://twitter.com/ErrorArbitralTR/status/1414678704240971784/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1010,
+                            "h": 1262,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1291860085388582918,
+            "id_str": "1291860085388582918",
+            "name": "Error ArbitraI",
+            "screen_name": "ErrorArbitralTR",
+            "location": "Lima, Peru",
+            "description": "F\u00fatbol peruano y f\u00fatbol, en ese orden.\n\nSeguimos esperando que Twitter nos devuelva @ErrorArbitral . Si quieres que te respondamos algo: DM.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12330,
+            "friends_count": 49,
+            "listed_count": 12,
+            "created_at": "Fri Aug 07 22:14:25 +0000 2020",
+            "favourites_count": 2737,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4110,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399789469964898312/z2cLE-RV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399789469964898312/z2cLE-RV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291860085388582918/1620255796",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 119,
+        "favorite_count": 2127,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 119,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

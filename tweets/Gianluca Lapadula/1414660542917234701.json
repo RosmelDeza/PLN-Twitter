@@ -1,0 +1,367 @@
+{
+    "created_at": "Mon Jul 12 18:58:51 +0000 2021",
+    "id": 1414660542917234701,
+    "id_str": "1414660542917234701",
+    "full_text": "RT @luchvr_g: Gracias a @jmarin7, comparto mi an\u00e1lisis t\u00e1ctico para @tuitdepor sobre la Copa Am\u00e9rica de Gianluca Lapadula con Per\u00fa.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "luchvr_g",
+                "name": "Luis Alfredo Gonzales",
+                "id": 1377308512276058112,
+                "id_str": "1377308512276058112",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "jmarin7",
+                "name": "Jos\u00e9 Mar\u00edn",
+                "id": 330974371,
+                "id_str": "330974371",
+                "indices": [
+                    24,
+                    32
+                ]
+            },
+            {
+                "screen_name": "tuitdepor",
+                "name": "depor",
+                "id": 819188347314851843,
+                "id_str": "819188347314851843",
+                "indices": [
+                    68,
+                    78
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1333400611497406473,
+        "id_str": "1333400611497406473",
+        "name": "*",
+        "screen_name": "luchvrvid",
+        "location": "",
+        "description": "Replace - No sigan esta cuenta, sigan a @luchvr_g.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 21,
+        "friends_count": 16,
+        "listed_count": 0,
+        "created_at": "Mon Nov 30 13:21:06 +0000 2020",
+        "favourites_count": 22,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 165,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 15:03:03 +0000 2021",
+        "id": 1414601201862197254,
+        "id_str": "1414601201862197254",
+        "full_text": "Gracias a @jmarin7, comparto mi an\u00e1lisis t\u00e1ctico para @tuitdepor sobre la Copa Am\u00e9rica de Gianluca Lapadula con Per\u00fa. https://t.co/iTrS0lVOdJ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            117
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jmarin7",
+                    "name": "Jos\u00e9 Mar\u00edn",
+                    "id": 330974371,
+                    "id_str": "330974371",
+                    "indices": [
+                        10,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "tuitdepor",
+                    "name": "depor",
+                    "id": 819188347314851843,
+                    "id_str": "819188347314851843",
+                    "indices": [
+                        54,
+                        64
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/iTrS0lVOdJ",
+                    "expanded_url": "https://twitter.com/tuitdepor/status/1414597082330058756",
+                    "display_url": "twitter.com/tuitdepor/stat\u2026",
+                    "indices": [
+                        118,
+                        141
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1377308512276058112,
+            "id_str": "1377308512276058112",
+            "name": "Luis Alfredo Gonzales",
+            "screen_name": "luchvr_g",
+            "location": "Lima, Peru",
+            "description": "Analista de f\u00fatbol. El rumor no es noticia.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 533,
+            "friends_count": 986,
+            "listed_count": 5,
+            "created_at": "Wed Mar 31 17:15:23 +0000 2021",
+            "favourites_count": 9116,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1651,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407829958454558721/O85yu5vC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407829958454558721/O85yu5vC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1377308512276058112/1624719423",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414597082330058756,
+        "quoted_status_id_str": "1414597082330058756",
+        "quoted_status": {
+            "created_at": "Mon Jul 12 14:46:41 +0000 2021",
+            "id": 1414597082330058756,
+            "id_str": "1414597082330058756",
+            "full_text": "El \u2018Bambino\u2019 bajo la lupa: Lapadula y lo que dej\u00f3 su rendimiento en la Copa Am\u00e9rica [AN\u00c1LISIS] https://t.co/IH7ctcFD3h",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                118
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/IH7ctcFD3h",
+                        "expanded_url": "http://dozz.es/9rwd61",
+                        "display_url": "dozz.es/9rwd61",
+                        "indices": [
+                            95,
+                            118
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://besocy.com\" rel=\"nofollow\">Besocy_Oficial</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 819188347314851843,
+                "id_str": "819188347314851843",
+                "name": "depor",
+                "screen_name": "tuitdepor",
+                "location": "",
+                "description": "Toda la actualidad del deporte mundial, la encontrar\u00e1s aqu\u00ed. \u00a1Queremos saber qu\u00e9 piensas!\nhttps://t.co/ejf2tdzKL7\nhttps://t.co/4hk8x6QAZr",
+                "url": "https://t.co/FbNQASekTY",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/FbNQASekTY",
+                                "expanded_url": "http://depor.com",
+                                "display_url": "depor.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ejf2tdzKL7",
+                                "expanded_url": "http://facebook.com/deporperu",
+                                "display_url": "facebook.com/deporperu",
+                                "indices": [
+                                    90,
+                                    113
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/4hk8x6QAZr",
+                                "expanded_url": "http://Instagram.com/deporcom",
+                                "display_url": "Instagram.com/deporcom",
+                                "indices": [
+                                    114,
+                                    137
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 55420,
+                "friends_count": 453,
+                "listed_count": 187,
+                "created_at": "Wed Jan 11 14:24:56 +0000 2017",
+                "favourites_count": 107,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 161460,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1331274801491697665/_miSvx0K_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331274801491697665/_miSvx0K_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/819188347314851843/1621286153",
+                "profile_link_color": "D1D728",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 12,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414597082330058756,
+    "quoted_status_id_str": "1414597082330058756",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

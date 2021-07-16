@@ -1,0 +1,244 @@
+{
+    "created_at": "Wed Jul 14 00:56:56 +0000 2021",
+    "id": 1415113044858974215,
+    "id_str": "1415113044858974215",
+    "full_text": "Y eso demuestra dos cosas: ignorancia y necedad. Preocupa que en la esfera de la FPF piensen as\u00ed. Ya queda claro que, de verdad, estuvimos cerca de ignorar a Gianluca Lapadula. Fue un error no seguir insistiendo. Afortunadamente se sum\u00f3 a la selecci\u00f3n. No debe volver a ocurrir. https://t.co/7zx2Zf7Nsv",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        278
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/7zx2Zf7Nsv",
+                "expanded_url": "https://twitter.com/adriancabp/status/1415109917564940291",
+                "display_url": "twitter.com/adriancabp/sta\u2026",
+                "indices": [
+                    279,
+                    302
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1403416080,
+        "id_str": "1403416080",
+        "name": "Renzo Galiano",
+        "screen_name": "RenzoGaliano",
+        "location": "Lima, Peru",
+        "description": "Periodista. Corresponsal en Per\u00fa para @diarioas \ud83d\uddde | Colaborador en @ovacionweb \ud83d\udcfb | Coordinador web en Migrantes del Bal\u00f3n \ud83d\udcbb | Forjado en El Comercio \ud83d\udcdd",
+        "url": "https://t.co/lWQKIbYkEJ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/lWQKIbYkEJ",
+                        "expanded_url": "https://peru.as.com/autor/renzo_galiano_sedan/a/",
+                        "display_url": "peru.as.com/autor/renzo_ga\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6284,
+        "friends_count": 662,
+        "listed_count": 47,
+        "created_at": "Sat May 04 21:28:44 +0000 2013",
+        "favourites_count": 230153,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 67684,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1012879603344527361/Qmr5J9Lz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012879603344527361/Qmr5J9Lz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1403416080/1611438540",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415109917564940291,
+    "quoted_status_id_str": "1415109917564940291",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 00:44:30 +0000 2021",
+        "id": 1415109917564940291,
+        "id_str": "1415109917564940291",
+        "full_text": "El se\u00f1or Garc\u00eda Pye insisti\u00f3 hoy en Exitosa que Lapadula tendr\u00eda que haber trabajado cinco a\u00f1os en el Per\u00fa para sacar la nacionalidad antes del 2018. Ah, tambi\u00e9n llam\u00f3, \"geniecillos de Twitter\" a los que exponen su desinformaci\u00f3n desde hace a\u00f1os.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            246
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 65827454,
+            "id_str": "65827454",
+            "name": "ACP",
+            "screen_name": "adriancabp",
+            "location": "Lima, Per\u00fa",
+            "description": "Comunicador. Geniecillo de Twitter. Trabajo para viajar y viajo para vivir.",
+            "url": "https://t.co/NJXVox90Y3",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/NJXVox90Y3",
+                            "expanded_url": "https://www.instagram.com/adriancabp/",
+                            "display_url": "instagram.com/adriancabp/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3760,
+            "friends_count": 830,
+            "listed_count": 38,
+            "created_at": "Sat Aug 15 04:42:29 +0000 2009",
+            "favourites_count": 22636,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 105763,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415117096413970438/A_wox7ft_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415117096413970438/A_wox7ft_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/65827454/1612398514",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "01fd50ae72f37614",
+            "url": "https://api.twitter.com/1.1/geo/id/01fd50ae72f37614.json",
+            "place_type": "city",
+            "name": "Miraflores",
+            "full_name": "Miraflores, Peru",
+            "country_code": "PE",
+            "country": "Peru",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.0508950413993,
+                            -12.1361010253546
+                        ],
+                        [
+                            -77.0001620403941,
+                            -12.1361010253546
+                        ],
+                        [
+                            -77.0001620403941,
+                            -12.1035889843246
+                        ],
+                        [
+                            -77.0508950413993,
+                            -12.1035889843246
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 44,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 7,
+    "favorite_count": 56,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

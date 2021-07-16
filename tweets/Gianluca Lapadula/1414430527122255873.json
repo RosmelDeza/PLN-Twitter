@@ -1,0 +1,288 @@
+{
+    "created_at": "Mon Jul 12 03:44:51 +0000 2021",
+    "id": 1414430527122255873,
+    "id_str": "1414430527122255873",
+    "full_text": "@G_Lapadula mira que bonito hilo gianluca, amamos tu amistad con cueva \ud83e\udd19 https://t.co/qZlWqIDwO2",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        72
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "G_Lapadula",
+                "name": "GLapadula",
+                "id": 2493053869,
+                "id_str": "2493053869",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/qZlWqIDwO2",
+                "expanded_url": "https://twitter.com/killxhigh/status/1413708421946298373",
+                "display_url": "twitter.com/killxhigh/stat\u2026",
+                "indices": [
+                    73,
+                    96
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2493053869,
+    "in_reply_to_user_id_str": "2493053869",
+    "in_reply_to_screen_name": "G_Lapadula",
+    "user": {
+        "id": 1312150839100932096,
+        "id_str": "1312150839100932096",
+        "name": "Ale\u2661 | #KesiRemix",
+        "screen_name": "Roseslov2",
+        "location": "\ud83c\uddf5\ud83c\uddea// 5sos",
+        "description": "# Ariana my healing \ud83d\udc9b\n03/12/2020",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1762,
+        "friends_count": 1877,
+        "listed_count": 22,
+        "created_at": "Fri Oct 02 22:02:06 +0000 2020",
+        "favourites_count": 8484,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10478,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414427285252460546/fSTXzhkj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414427285252460546/fSTXzhkj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1312150839100932096/1626288335",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1413708421946298373,
+    "quoted_status_id_str": "1413708421946298373",
+    "quoted_status": {
+        "created_at": "Sat Jul 10 03:55:27 +0000 2021",
+        "id": 1413708421946298373,
+        "id_str": "1413708421946298373",
+        "full_text": "~ Abro hilo de la amistad entre Lapadula y Cueva ~ https://t.co/OyrolPpOdp",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            50
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413708419513659392,
+                    "id_str": "1413708419513659392",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E56AUUEXMAAV6Dq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E56AUUEXMAAV6Dq.jpg",
+                    "url": "https://t.co/OyrolPpOdp",
+                    "display_url": "pic.twitter.com/OyrolPpOdp",
+                    "expanded_url": "https://twitter.com/killxhigh/status/1413708421946298373/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1500,
+                            "h": 1330,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 603,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1064,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413708419513659392,
+                    "id_str": "1413708419513659392",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E56AUUEXMAAV6Dq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E56AUUEXMAAV6Dq.jpg",
+                    "url": "https://t.co/OyrolPpOdp",
+                    "display_url": "pic.twitter.com/OyrolPpOdp",
+                    "expanded_url": "https://twitter.com/killxhigh/status/1413708421946298373/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1500,
+                            "h": 1330,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 603,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1064,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1267840376653713415,
+            "id_str": "1267840376653713415",
+            "name": "jime lvs ange \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "killxhigh",
+            "location": "moonlight",
+            "description": "#louis  : you're perfect now \n\ud83c\udfe0 @braveisLou",
+            "url": "https://t.co/2T7LdWgIBe",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2T7LdWgIBe",
+                            "expanded_url": "https://5sos.xn--c6h/",
+                            "display_url": "5sos.\u2661",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1141,
+            "friends_count": 1265,
+            "listed_count": 27,
+            "created_at": "Tue Jun 02 15:28:04 +0000 2020",
+            "favourites_count": 14199,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 15684,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415798271981797380/XVi9egxe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415798271981797380/XVi9egxe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267840376653713415/1625934615",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 518,
+        "favorite_count": 2796,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

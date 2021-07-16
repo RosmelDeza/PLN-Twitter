@@ -1,0 +1,216 @@
+{
+    "created_at": "Wed Jul 14 21:04:53 +0000 2021",
+    "id": 1415417036512104453,
+    "id_str": "1415417036512104453",
+    "full_text": "RT @elcomercio_peru: Yot\u00fan, los frutos de una brillante Copa Am\u00e9rica: equipo ideal del torneo y propuestas de Europa \n\n\ud83d\udcf0 Contenido solo par\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elcomercio_peru",
+                "name": "El Comercio",
+                "id": 233033221,
+                "id_str": "233033221",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1169295055099555840,
+        "id_str": "1169295055099555840",
+        "name": "Rosario Legal",
+        "screen_name": "LegalRosario",
+        "location": "Trujillo, Peru",
+        "description": "Soy abogada y considero que la libertad de expresi\u00f3n es un derecho esencial del ser humano y de una sociedad democr\u00e1tica.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 59,
+        "friends_count": 363,
+        "listed_count": 0,
+        "created_at": "Wed Sep 04 17:04:16 +0000 2019",
+        "favourites_count": 7164,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7188,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404652020150251521/VAvyEnX4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404652020150251521/VAvyEnX4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 19:40:02 +0000 2021",
+        "id": 1415395684426129410,
+        "id_str": "1415395684426129410",
+        "full_text": "Yot\u00fan, los frutos de una brillante Copa Am\u00e9rica: equipo ideal del torneo y propuestas de Europa \n\n\ud83d\udcf0 Contenido solo para suscriptores de El Comercio. Suscr\u00edbete aqu\u00ed para leer m\u00e1s informes \u25ba https://t.co/eBU5bbP31L\n\nhttps://t.co/wLzlJybE78",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            238
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/eBU5bbP31L",
+                    "expanded_url": "http://bit.ly/3qRNOCA",
+                    "display_url": "bit.ly/3qRNOCA",
+                    "indices": [
+                        190,
+                        213
+                    ]
+                },
+                {
+                    "url": "https://t.co/wLzlJybE78",
+                    "expanded_url": "http://dozz.es/3d9as6",
+                    "display_url": "dozz.es/3d9as6",
+                    "indices": [
+                        215,
+                        238
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://besocy.com\" rel=\"nofollow\">Besocy_Oficial</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 233033221,
+            "id_str": "233033221",
+            "name": "El Comercio",
+            "screen_name": "elcomercio_peru",
+            "location": "Lima, Per\u00fa",
+            "description": "El Comercio reporta en Twitter las noticias del Per\u00fa y el mundo, reportajes, opini\u00f3n y an\u00e1lisis.",
+            "url": "http://t.co/XhN9dEE6vj",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/XhN9dEE6vj",
+                            "expanded_url": "http://elcomercio.pe",
+                            "display_url": "elcomercio.pe",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 702622,
+            "friends_count": 416,
+            "listed_count": 1183,
+            "created_at": "Sun Jan 02 02:52:20 +0000 2011",
+            "favourites_count": 585,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 259609,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1330133483155566607/D9cdgHzR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330133483155566607/D9cdgHzR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/233033221/1620156734",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "CCCCCC",
+            "profile_sidebar_fill_color": "FFF2F2",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

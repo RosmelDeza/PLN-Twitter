@@ -1,0 +1,207 @@
+{
+    "created_at": "Tue Jul 13 15:26:50 +0000 2021",
+    "id": 1414969577814077443,
+    "id_str": "1414969577814077443",
+    "full_text": "RT @exitosape: \ud83d\udd34\ud83d\udd35Gianluca Lapadula volvi\u00f3 a Italia luego de culminar su participaci\u00f3n con la selecci\u00f3n peruana, pero antes de ingresar al a\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "exitosape",
+                "name": "Exitosa Noticias",
+                "id": 2205328350,
+                "id_str": "2205328350",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1396372199188189186,
+        "id_str": "1396372199188189186",
+        "name": "p \u2606",
+        "screen_name": "Paola242171",
+        "location": "Lima, Peru",
+        "description": "muri\u00f3 el amor ,solo te pido dios ay\u00fadame a sanar \ud83e\udd17\ud83e\udd70\ud83d\ude4f\u2764\u2763\ud83d\udcaa.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 89,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Sun May 23 07:47:57 +0000 2021",
+        "favourites_count": 7584,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7047,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415541008532713474/HmYrYdwB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415541008532713474/HmYrYdwB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396372199188189186/1626188239",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 15:22:02 +0000 2021",
+        "id": 1414968366855598082,
+        "id_str": "1414968366855598082",
+        "full_text": "\ud83d\udd34\ud83d\udd35Gianluca Lapadula volvi\u00f3 a Italia luego de culminar su participaci\u00f3n con la selecci\u00f3n peruana, pero antes de ingresar al aeropuerto le envi\u00f3 un saludo a todo el pa\u00eds.\n\nhttps://t.co/PK24JYOO3y",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            193
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/PK24JYOO3y",
+                    "expanded_url": "https://exitosanoticias.pe/v1/lapadula-quiero-agradecer-al-pais-por-todo-el-carino-que-me-han-dado/",
+                    "display_url": "exitosanoticias.pe/v1/lapadula-qu\u2026",
+                    "indices": [
+                        170,
+                        193
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2205328350,
+            "id_str": "2205328350",
+            "name": "Exitosa Noticias",
+            "screen_name": "exitosape",
+            "location": "Lima, Peru",
+            "description": "#ExitosaPer\u00fa: La voz de los que no tienen voz. \ud83d\udcfbEn Lima 95.5 FM",
+            "url": "https://t.co/PMmEKio6wx",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PMmEKio6wx",
+                            "expanded_url": "http://www.exitosanoticias.pe",
+                            "display_url": "exitosanoticias.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 563573,
+            "friends_count": 823,
+            "listed_count": 862,
+            "created_at": "Wed Nov 20 17:52:12 +0000 2013",
+            "favourites_count": 1097,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 193964,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1364286164946010115/HMNqrY3j_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1364286164946010115/HMNqrY3j_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2205328350/1614106141",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 42,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

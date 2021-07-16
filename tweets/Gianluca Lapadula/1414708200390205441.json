@@ -1,0 +1,110 @@
+{
+    "created_at": "Mon Jul 12 22:08:13 +0000 2021",
+    "id": 1414708200390205441,
+    "id_str": "1414708200390205441",
+    "full_text": "LO \u00daLTIMO \u00bfDijo a qu\u00e9 equipo se va? \u2b07\ufe0f\u26bd\ud83c\uddf5\ud83c\uddea\u2764\ufe0f\nEl delantero peruano pis\u00f3 el aeropuerto Jorge Ch\u00e1vez y se anim\u00f3 a agradecer al pa\u00eds como a sus compa\u00f1eros por las muestras de cari\u00f1o. \u00a1Gracias por todo, 'Lapa'!\nhttps://t.co/wRUMbqMPwW",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        228
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/wRUMbqMPwW",
+                "expanded_url": "https://libero.pe/futbol-peruano/seleccion-peruana/2021/07/12/gianluca-lapadula-seleccion-peruana-volvio-italia-futuro-equipo-serie-jugar-copa-america-peru-video-noticia-8729",
+                "display_url": "libero.pe/futbol-peruano\u2026",
+                "indices": [
+                    205,
+                    228
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1095458060041039872,
+        "id_str": "1095458060041039872",
+        "name": "L\u00edbero Per\u00fa",
+        "screen_name": "liberoperu",
+        "location": "Lima, Peru",
+        "description": "Sigue de cerca toda la pasi\u00f3n por el deporte rey en L\u00edbero: Tu f\u00fatbol, tu pasi\u00f3n.",
+        "url": "https://t.co/BUJS1Ya8eU",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/BUJS1Ya8eU",
+                        "expanded_url": "https://libero.pe/",
+                        "display_url": "libero.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11386,
+        "friends_count": 694,
+        "listed_count": 58,
+        "created_at": "Tue Feb 12 23:02:09 +0000 2019",
+        "favourites_count": 285,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 86153,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1333975198958280707/wFrIhjzW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333975198958280707/wFrIhjzW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095458060041039872/1619700243",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

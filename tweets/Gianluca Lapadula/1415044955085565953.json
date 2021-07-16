@@ -1,0 +1,218 @@
+{
+    "created_at": "Tue Jul 13 20:26:22 +0000 2021",
+    "id": 1415044955085565953,
+    "id_str": "1415044955085565953",
+    "full_text": "RT @tromepe: Gianluca Lapadula considerado como \u2018Pase del a\u00f1o\u2019 ante posible llegada a Club Am\u00e9rica https://t.co/LoxsQeB5dg",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        122
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tromepe",
+                "name": "Diario Trome",
+                "id": 125737181,
+                "id_str": "125737181",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/LoxsQeB5dg",
+                "expanded_url": "http://dozz.es/ssez21",
+                "display_url": "dozz.es/ssez21",
+                "indices": [
+                    99,
+                    122
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 839252595445223424,
+        "id_str": "839252595445223424",
+        "name": "\ud83d\udc99I\u142f\u15e9\u144e \ud83d\udc9b",
+        "screen_name": "somosaguilas24",
+        "location": "",
+        "description": "\u15e9\u146d\u15e9SIO\u144e\u15e9\u15eaO \u15e9\u14aa \u15b4IT\u144e\u15f4SS Y SOY \u157cI\u144e\u1455\u157c\u15e9 \u15ea\u15f4\u14aa \u15f0\u15e9S \u161c\u1587\u15e9\u144e\u15ea\u15f4 #\u1455\u14aa\u144c\u15f7\u15e9\u15f0\u15f4\u1587I\u1455\u15e9",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 217,
+        "friends_count": 257,
+        "listed_count": 1,
+        "created_at": "Tue Mar 07 23:13:06 +0000 2017",
+        "favourites_count": 32213,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 34262,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414759283137433600/3wxSSMWb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414759283137433600/3wxSSMWb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/839252595445223424/1626139871",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 08 18:07:25 +0000 2021",
+        "id": 1413198050626056193,
+        "id_str": "1413198050626056193",
+        "full_text": "Gianluca Lapadula considerado como \u2018Pase del a\u00f1o\u2019 ante posible llegada a Club Am\u00e9rica https://t.co/LoxsQeB5dg",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            109
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/LoxsQeB5dg",
+                    "expanded_url": "http://dozz.es/ssez21",
+                    "display_url": "dozz.es/ssez21",
+                    "indices": [
+                        86,
+                        109
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://besocy.com\" rel=\"nofollow\">Besocy_Oficial</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 125737181,
+            "id_str": "125737181",
+            "name": "Diario Trome",
+            "screen_name": "tromepe",
+            "location": "Lima",
+            "description": "Somos el diario en espa\u00f1ol m\u00e1s le\u00eddo del planeta. Lo \u00faltimo de actualidad, deportes, far\u00e1ndula y los mejores consejos para ti. Vis\u00edtanos en Trome.pe",
+            "url": "http://t.co/z4m8Ocf12K",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/z4m8Ocf12K",
+                            "expanded_url": "http://trome.pe/",
+                            "display_url": "trome.pe",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 675708,
+            "friends_count": 2038,
+            "listed_count": 1559,
+            "created_at": "Tue Mar 23 18:18:09 +0000 2010",
+            "favourites_count": 1000,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 356565,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1331383265962418181/tvCuEY0o_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331383265962418181/tvCuEY0o_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/125737181/1625673568",
+            "profile_link_color": "EB6D1E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 53,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

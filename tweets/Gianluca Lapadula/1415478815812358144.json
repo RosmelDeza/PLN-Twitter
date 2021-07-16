@@ -1,0 +1,418 @@
+{
+    "created_at": "Thu Jul 15 01:10:22 +0000 2021",
+    "id": 1415478815812358144,
+    "id_str": "1415478815812358144",
+    "full_text": "RT @luchvr_g: Gianluca Lapadula (Per\u00fa) vs Colombia. https://t.co/xdpMZNNv5W",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        75
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "luchvr_g",
+                "name": "Luis Alfredo Gonzales",
+                "id": 1377308512276058112,
+                "id_str": "1377308512276058112",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1413693961596719105,
+                "id_str": "1413693961596719105",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413693961596719105/pu/img/FLTgJd7uwj2mZLk7.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413693961596719105/pu/img/FLTgJd7uwj2mZLk7.jpg",
+                "url": "https://t.co/xdpMZNNv5W",
+                "display_url": "pic.twitter.com/xdpMZNNv5W",
+                "expanded_url": "https://twitter.com/luchvrvid/status/1413694496466948098/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1413694496466948098,
+                "source_status_id_str": "1413694496466948098",
+                "source_user_id": 1333400611497406473,
+                "source_user_id_str": "1333400611497406473"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1413693961596719105,
+                "id_str": "1413693961596719105",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413693961596719105/pu/img/FLTgJd7uwj2mZLk7.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413693961596719105/pu/img/FLTgJd7uwj2mZLk7.jpg",
+                "url": "https://t.co/xdpMZNNv5W",
+                "display_url": "pic.twitter.com/xdpMZNNv5W",
+                "expanded_url": "https://twitter.com/luchvrvid/status/1413694496466948098/video/1",
+                "type": "video",
+                "sizes": {
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1413694496466948098,
+                "source_status_id_str": "1413694496466948098",
+                "source_user_id": 1333400611497406473,
+                "source_user_id_str": "1333400611497406473",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 89120,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1413693961596719105/pu/vid/640x360/RqA-mZG6vLd0dUDn.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1413693961596719105/pu/pl/2PODJ2PQVwHgAFH2.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1413693961596719105/pu/vid/480x270/rhVA7nXg9Y74Pzxy.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1413693961596719105/pu/vid/1024x576/4fNNHXDSJ7tyCxiE.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1298337891718967296,
+        "id_str": "1298337891718967296",
+        "name": "Roland Alessandro Luna Ulario",
+        "screen_name": "luna_ulario",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 36,
+        "friends_count": 890,
+        "listed_count": 1,
+        "created_at": "Tue Aug 25 19:14:41 +0000 2020",
+        "favourites_count": 9418,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5668,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1298338740658724870/bD2Njt-0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1298338740658724870/bD2Njt-0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 03:00:38 +0000 2021",
+        "id": 1413694623827075075,
+        "id_str": "1413694623827075075",
+        "full_text": "Gianluca Lapadula (Per\u00fa) vs Colombia. https://t.co/xdpMZNNv5W",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            61
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413693961596719105,
+                    "id_str": "1413693961596719105",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413693961596719105/pu/img/FLTgJd7uwj2mZLk7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413693961596719105/pu/img/FLTgJd7uwj2mZLk7.jpg",
+                    "url": "https://t.co/xdpMZNNv5W",
+                    "display_url": "pic.twitter.com/xdpMZNNv5W",
+                    "expanded_url": "https://twitter.com/luchvrvid/status/1413694496466948098/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1413694496466948098,
+                    "source_status_id_str": "1413694496466948098",
+                    "source_user_id": 1333400611497406473,
+                    "source_user_id_str": "1333400611497406473"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413693961596719105,
+                    "id_str": "1413693961596719105",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413693961596719105/pu/img/FLTgJd7uwj2mZLk7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413693961596719105/pu/img/FLTgJd7uwj2mZLk7.jpg",
+                    "url": "https://t.co/xdpMZNNv5W",
+                    "display_url": "pic.twitter.com/xdpMZNNv5W",
+                    "expanded_url": "https://twitter.com/luchvrvid/status/1413694496466948098/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1413694496466948098,
+                    "source_status_id_str": "1413694496466948098",
+                    "source_user_id": 1333400611497406473,
+                    "source_user_id_str": "1333400611497406473",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 89120,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1413693961596719105/pu/vid/640x360/RqA-mZG6vLd0dUDn.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1413693961596719105/pu/pl/2PODJ2PQVwHgAFH2.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1413693961596719105/pu/vid/480x270/rhVA7nXg9Y74Pzxy.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1413693961596719105/pu/vid/1024x576/4fNNHXDSJ7tyCxiE.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1413687987578224649,
+        "in_reply_to_status_id_str": "1413687987578224649",
+        "in_reply_to_user_id": 1377308512276058112,
+        "in_reply_to_user_id_str": "1377308512276058112",
+        "in_reply_to_screen_name": "luchvr_g",
+        "user": {
+            "id": 1377308512276058112,
+            "id_str": "1377308512276058112",
+            "name": "Luis Alfredo Gonzales",
+            "screen_name": "luchvr_g",
+            "location": "Lima, Peru",
+            "description": "Analista de f\u00fatbol. El rumor no es noticia.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 533,
+            "friends_count": 986,
+            "listed_count": 5,
+            "created_at": "Wed Mar 31 17:15:23 +0000 2021",
+            "favourites_count": 9116,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1651,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407829958454558721/O85yu5vC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407829958454558721/O85yu5vC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1377308512276058112/1624719423",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

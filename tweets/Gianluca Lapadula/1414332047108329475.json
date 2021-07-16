@@ -1,0 +1,279 @@
+{
+    "created_at": "Sun Jul 11 21:13:31 +0000 2021",
+    "id": 1414332047108329475,
+    "id_str": "1414332047108329475",
+    "full_text": "GIANLUCA LAPADULA M\u00c1S PERUCHO QUE NUNCA CON NUEVO LOOK Y CERVECERO \nhttps://t.co/1i66GannTL",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        91
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414331176928546821,
+                "id_str": "1414331176928546821",
+                "indices": [
+                    68,
+                    91
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414331176928546821/pu/img/I3da85vsbQuajwVs.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414331176928546821/pu/img/I3da85vsbQuajwVs.jpg",
+                "url": "https://t.co/1i66GannTL",
+                "display_url": "pic.twitter.com/1i66GannTL",
+                "expanded_url": "https://twitter.com/arsyugsoul/status/1414331231077081088/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414331231077081088,
+                "source_status_id_str": "1414331231077081088",
+                "source_user_id": 1079098891813994496,
+                "source_user_id_str": "1079098891813994496"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414331176928546821,
+                "id_str": "1414331176928546821",
+                "indices": [
+                    68,
+                    91
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414331176928546821/pu/img/I3da85vsbQuajwVs.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414331176928546821/pu/img/I3da85vsbQuajwVs.jpg",
+                "url": "https://t.co/1i66GannTL",
+                "display_url": "pic.twitter.com/1i66GannTL",
+                "expanded_url": "https://twitter.com/arsyugsoul/status/1414331231077081088/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414331231077081088,
+                "source_status_id_str": "1414331231077081088",
+                "source_user_id": 1079098891813994496,
+                "source_user_id_str": "1079098891813994496",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 6000,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414331176928546821/pu/vid/720x1280/RIldul3sF2xjv3IQ.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 950000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414331176928546821/pu/vid/480x852/3Nqg9ZDY9_5ha5nZ.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1414331176928546821/pu/pl/pcjMeBsD3yj0HEPw.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414331176928546821/pu/vid/320x568/BS1VexV2UFJMUCnq.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 1079098891813994496,
+                        "id_str": "1079098891813994496",
+                        "name": "\u2696\ufe0f \u511a\u3044POV: kiaugh",
+                        "screen_name": "arsyugsoul",
+                        "location": "human",
+                        "description": "Necesito una selca SUNKI no importa cuando veas esto",
+                        "url": "https://t.co/PoBEmsTNAV",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/PoBEmsTNAV",
+                                        "expanded_url": "https://bamlove.xn--6s9h",
+                                        "display_url": "bamlove.\ud83e\udd87",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 651,
+                        "friends_count": 649,
+                        "listed_count": 1,
+                        "created_at": "Sat Dec 29 19:36:39 +0000 2018",
+                        "favourites_count": 75257,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": false,
+                        "statuses_count": 60789,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1412973379209113600/HL5XDuWK_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412973379209113600/HL5XDuWK_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079098891813994496/1625714283",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1079098891813994496,
+        "id_str": "1079098891813994496",
+        "name": "\u2696\ufe0f \u511a\u3044POV: kiaugh",
+        "screen_name": "arsyugsoul",
+        "location": "human",
+        "description": "Necesito una selca SUNKI no importa cuando veas esto",
+        "url": "https://t.co/PoBEmsTNAV",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/PoBEmsTNAV",
+                        "expanded_url": "https://bamlove.xn--6s9h",
+                        "display_url": "bamlove.\ud83e\udd87",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 651,
+        "friends_count": 649,
+        "listed_count": 1,
+        "created_at": "Sat Dec 29 19:36:39 +0000 2018",
+        "favourites_count": 75257,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 60789,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412973379209113600/HL5XDuWK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412973379209113600/HL5XDuWK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079098891813994496/1625714283",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

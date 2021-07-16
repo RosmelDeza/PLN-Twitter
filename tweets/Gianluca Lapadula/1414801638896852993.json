@@ -1,0 +1,296 @@
+{
+    "created_at": "Tue Jul 13 04:19:31 +0000 2021",
+    "id": 1414801638896852993,
+    "id_str": "1414801638896852993",
+    "full_text": "RT @PaulPerezRioja: Gianluca Lapadula es relacionado con el Torino de la Serie A. El equipo emblem\u00e1tico -de la ciudad donde naci\u00f3 el '9'- p\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PaulPerezRioja",
+                "name": "Paul P\u00e9rez Rioja",
+                "id": 227170348,
+                "id_str": "227170348",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 55264030,
+        "id_str": "55264030",
+        "name": "Daniel R",
+        "screen_name": "Draezfar",
+        "location": "Lima limon",
+        "description": "So\u00f1ador como el principito. Hincha crema de nacimiento.",
+        "url": "https://t.co/yLUWIBj66P",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yLUWIBj66P",
+                        "expanded_url": "http://depormar.blogspot.com/",
+                        "display_url": "depormar.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 464,
+        "friends_count": 1579,
+        "listed_count": 2,
+        "created_at": "Thu Jul 09 15:18:27 +0000 2009",
+        "favourites_count": 48145,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21273,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1339209685937909770/xP-hWAkf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339209685937909770/xP-hWAkf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55264030/1609388047",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 13:28:45 +0000 2021",
+        "id": 1414577470355935237,
+        "id_str": "1414577470355935237",
+        "full_text": "Gianluca Lapadula es relacionado con el Torino de la Serie A. El equipo emblem\u00e1tico -de la ciudad donde naci\u00f3 el '9'- pretende un cambio con Benevento que involucre a Simone Zaza.\n\nV\u00eda: Tuttosport\n@RPPDeportes @RPPNoticias https://t.co/wnxOv6Pieu",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            222
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RPPDeportes",
+                    "name": "F\u00fatbol Como Cancha - Oficial",
+                    "id": 41609283,
+                    "id_str": "41609283",
+                    "indices": [
+                        197,
+                        209
+                    ]
+                },
+                {
+                    "screen_name": "RPPNoticias",
+                    "name": "RPP Noticias",
+                    "id": 9075022,
+                    "id_str": "9075022",
+                    "indices": [
+                        210,
+                        222
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414577459308240900,
+                    "id_str": "1414577459308240900",
+                    "indices": [
+                        223,
+                        246
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6GWtFlXoAQxNfs.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6GWtFlXoAQxNfs.jpg",
+                    "url": "https://t.co/wnxOv6Pieu",
+                    "display_url": "pic.twitter.com/wnxOv6Pieu",
+                    "expanded_url": "https://twitter.com/PaulPerezRioja/status/1414577470355935237/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 957,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 318,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 561,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414577459308240900,
+                    "id_str": "1414577459308240900",
+                    "indices": [
+                        223,
+                        246
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6GWtFlXoAQxNfs.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6GWtFlXoAQxNfs.jpg",
+                    "url": "https://t.co/wnxOv6Pieu",
+                    "display_url": "pic.twitter.com/wnxOv6Pieu",
+                    "expanded_url": "https://twitter.com/PaulPerezRioja/status/1414577470355935237/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 957,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 318,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 561,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 227170348,
+            "id_str": "227170348",
+            "name": "Paul P\u00e9rez Rioja",
+            "screen_name": "PaulPerezRioja",
+            "location": "Chiclayo",
+            "description": "Comunicador social. M\u00e1s chiclayano que la torta de choclo. Hijo de V\u00edctor y Pepa, los culpables de todo lo bueno que me pasa.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9481,
+            "friends_count": 945,
+            "listed_count": 31,
+            "created_at": "Thu Dec 16 03:22:30 +0000 2010",
+            "favourites_count": 11330,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 18957,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1214558729942646784/vJXkrnoz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214558729942646784/vJXkrnoz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/227170348/1615810437",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 52,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,275 @@
+{
+    "created_at": "Tue Jul 13 16:53:09 +0000 2021",
+    "id": 1414991299258814468,
+    "id_str": "1414991299258814468",
+    "full_text": "RT @ErrorArbitralTR: La Conmebol eligi\u00f3 a Yoshimar Yot\u00fan en el Equipo Ideal de la Copa Am\u00e9rica, pero no a Gianluca Lapadula.\n\nEl \"Estoy fel\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ErrorArbitralTR",
+                "name": "Error ArbitraI",
+                "id": 1291860085388582918,
+                "id_str": "1291860085388582918",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 280720727,
+        "id_str": "280720727",
+        "name": "Galo Vallejos Espinosa",
+        "screen_name": "GaloVallejosE",
+        "location": "Quito, Ecuador",
+        "description": "Periodista independiente, escritor, investigador y docente de la Comunicaci\u00f3n. Doctorando @upvehu.",
+        "url": "https://t.co/pXbmXTPDRs",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/pXbmXTPDRs",
+                        "expanded_url": "http://gvallejose.wix.com/periodismoecuador",
+                        "display_url": "gvallejose.wix.com/periodismoecua\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 661,
+        "friends_count": 1155,
+        "listed_count": 19,
+        "created_at": "Mon Apr 11 22:29:41 +0000 2011",
+        "favourites_count": 10260,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28473,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1334949601376407554/0T2j8MAT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334949601376407554/0T2j8MAT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/280720727/1449006143",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 14:57:58 +0000 2021",
+        "id": 1414962311450738689,
+        "id_str": "1414962311450738689",
+        "full_text": "La Conmebol eligi\u00f3 a Yoshimar Yot\u00fan en el Equipo Ideal de la Copa Am\u00e9rica, pero no a Gianluca Lapadula.\n\nEl \"Estoy feliz y enojado\" m\u00e1s claro de la historia del Internet. https://t.co/bero1aZgGw",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            170
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414962308476977160,
+                    "id_str": "1414962308476977160",
+                    "indices": [
+                        171,
+                        194
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6L0uQdWQAghhmb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6L0uQdWQAghhmb.jpg",
+                    "url": "https://t.co/bero1aZgGw",
+                    "display_url": "pic.twitter.com/bero1aZgGw",
+                    "expanded_url": "https://twitter.com/ErrorArbitralTR/status/1414962311450738689/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414962308476977160,
+                    "id_str": "1414962308476977160",
+                    "indices": [
+                        171,
+                        194
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6L0uQdWQAghhmb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6L0uQdWQAghhmb.jpg",
+                    "url": "https://t.co/bero1aZgGw",
+                    "display_url": "pic.twitter.com/bero1aZgGw",
+                    "expanded_url": "https://twitter.com/ErrorArbitralTR/status/1414962311450738689/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1291860085388582918,
+            "id_str": "1291860085388582918",
+            "name": "Error ArbitraI",
+            "screen_name": "ErrorArbitralTR",
+            "location": "Lima, Peru",
+            "description": "F\u00fatbol peruano y f\u00fatbol, en ese orden.\n\nSeguimos esperando que Twitter nos devuelva @ErrorArbitral . Si quieres que te respondamos algo: DM.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12330,
+            "friends_count": 49,
+            "listed_count": 12,
+            "created_at": "Fri Aug 07 22:14:25 +0000 2020",
+            "favourites_count": 2737,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4110,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399789469964898312/z2cLE-RV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399789469964898312/z2cLE-RV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291860085388582918/1620255796",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 72,
+        "favorite_count": 893,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 72,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

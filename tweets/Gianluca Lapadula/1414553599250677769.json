@@ -1,0 +1,228 @@
+{
+    "created_at": "Mon Jul 12 11:53:53 +0000 2021",
+    "id": 1414553599250677769,
+    "id_str": "1414553599250677769",
+    "full_text": "RT @elpais_america: \ud83c\uddf5\ud83c\uddea Gianluca Lapadula: una historia de desamor italiano. \n\nEste es el camino de un delantero que renunci\u00f3 a la Azzurra.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elpais_america",
+                "name": "EL PA\u00cdS Am\u00e9rica",
+                "id": 1244357988,
+                "id_str": "1244357988",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1173008672,
+        "id_str": "1173008672",
+        "name": "Maritza Escalante S.",
+        "screen_name": "Itzadesign",
+        "location": "Lima, Peru \ud83c\uddf5\ud83c\uddea ",
+        "description": "Fashion Designer -\nSiraq / Pach'asta -\nDise\u00f1adora de Indumentaria",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 463,
+        "friends_count": 1704,
+        "listed_count": 4,
+        "created_at": "Tue Feb 12 20:30:25 +0000 2013",
+        "favourites_count": 190858,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 90742,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1073566117652774913/6U2NrLgu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073566117652774913/6U2NrLgu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1173008672/1501082161",
+        "profile_link_color": "FFFFFF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 05 15:16:14 +0000 2021",
+        "id": 1412067805936095238,
+        "id_str": "1412067805936095238",
+        "full_text": "\ud83c\uddf5\ud83c\uddea Gianluca Lapadula: una historia de desamor italiano. \n\nEste es el camino de un delantero que renunci\u00f3 a la Azzurra. El goleador que emociona a Per\u00fa con sus goles decidi\u00f3 nacionalizarse ante el desaire de la selecci\u00f3n de Italia\n\n\ud83d\udd8b\ufe0f @diego_mandel\n\nhttps://t.co/anw483UTds",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "diego_mandel",
+                    "name": "Diego Mancera",
+                    "id": 96252225,
+                    "id_str": "96252225",
+                    "indices": [
+                        234,
+                        247
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/anw483UTds",
+                    "expanded_url": "https://elpais.com/deportes/copa-america-futbol/2021-07-05/gianluca-lapadula-una-historia-de-desamor-italiano.html?utm_medium=Social&utm_source=Twitter&ssm=TW_CM_AME#Echobox=1625497243",
+                    "display_url": "elpais.com/deportes/copa-\u2026",
+                    "indices": [
+                        249,
+                        272
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1244357988,
+            "id_str": "1244357988",
+            "name": "EL PA\u00cdS Am\u00e9rica",
+            "screen_name": "elpais_america",
+            "location": "",
+            "description": "Contamos un continente al mundo y el mundo a un continente. Cuenta oficial de #ELPA\u00cdSAm\u00e9rica\nSuscr\u00edbete a los hechos: https://t.co/Jm80AcYYcR",
+            "url": "https://t.co/XtODM9em2M",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/XtODM9em2M",
+                            "expanded_url": "http://elpais.com",
+                            "display_url": "elpais.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Jm80AcYYcR",
+                            "expanded_url": "https://bit.ly/3aGKF00",
+                            "display_url": "bit.ly/3aGKF00",
+                            "indices": [
+                                118,
+                                141
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 397149,
+            "friends_count": 1247,
+            "listed_count": 3981,
+            "created_at": "Tue Mar 05 18:41:17 +0000 2013",
+            "favourites_count": 2223,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 245399,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1236564599929016320/quWNwlEv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236564599929016320/quWNwlEv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244357988/1583654950",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 153,
+        "favorite_count": 822,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 153,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

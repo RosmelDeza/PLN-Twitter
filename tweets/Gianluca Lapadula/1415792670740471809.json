@@ -1,0 +1,189 @@
+{
+    "created_at": "Thu Jul 15 21:57:31 +0000 2021",
+    "id": 1415792670740471809,
+    "id_str": "1415792670740471809",
+    "full_text": "\u00a1\u00daLTIMA HORA! \ud83d\udea8 Gianluca Lapadula NO fue convocado a la Mini Pretemporada del @bncalcio \ud83c\uddee\ud83c\uddf9. \u00bfSalida inminente o simplemente descanso? El futuro del Bambino se sabr\u00e1 en los pr\u00f3ximos d\u00edas. https://t.co/L5u9S5YFAQ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        186
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bncalcio",
+                "name": "Benevento Calcio",
+                "id": 812265993196146688,
+                "id_str": "812265993196146688",
+                "indices": [
+                    78,
+                    87
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415792668152631298,
+                "id_str": "1415792668152631298",
+                "indices": [
+                    187,
+                    210
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Xn7jTXEAIUS5R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Xn7jTXEAIUS5R.jpg",
+                "url": "https://t.co/L5u9S5YFAQ",
+                "display_url": "pic.twitter.com/L5u9S5YFAQ",
+                "expanded_url": "https://twitter.com/pedro_cortez07/status/1415792670740471809/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 989,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 560,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1076,
+                        "h": 1306,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415792668152631298,
+                "id_str": "1415792668152631298",
+                "indices": [
+                    187,
+                    210
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Xn7jTXEAIUS5R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Xn7jTXEAIUS5R.jpg",
+                "url": "https://t.co/L5u9S5YFAQ",
+                "display_url": "pic.twitter.com/L5u9S5YFAQ",
+                "expanded_url": "https://twitter.com/pedro_cortez07/status/1415792670740471809/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 989,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 560,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1076,
+                        "h": 1306,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1410807308653936651,
+        "id_str": "1410807308653936651",
+        "name": "Pedro Cortez",
+        "screen_name": "pedro_cortez07",
+        "location": "Ca\u00f1ete, Lima - Per\u00fa",
+        "description": "Docente y Periodista deportivo.\nTrabaja en Mega Deportes Per\u00fa, DLStv y Club Deportivo Walter Orme\u00f1o de Ca\u00f1ete. Panelista en Radio A1",
+        "url": "https://t.co/TOFGK0NouM",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/TOFGK0NouM",
+                        "expanded_url": "https://www.facebook.com/Pepeluchocortez20/",
+                        "display_url": "facebook.com/Pepeluchocorte\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 48,
+        "friends_count": 101,
+        "listed_count": 0,
+        "created_at": "Fri Jul 02 03:47:55 +0000 2021",
+        "favourites_count": 42,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 557,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410807595716251648/bQYfDWaa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410807595716251648/bQYfDWaa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410807308653936651/1625784653",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

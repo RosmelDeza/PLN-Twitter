@@ -1,0 +1,226 @@
+{
+    "created_at": "Sun Jul 11 04:41:28 +0000 2021",
+    "id": 1414082388150345730,
+    "id_str": "1414082388150345730",
+    "full_text": "RT @VZaferson: #9 #Zurdos #Per\u00fa\n\n1) Gianluca Lapadula (2021)\n2) Santiago Orme\u00f1o (2021)\n3) Alex Valera (2021)\n4) Mat\u00edas Succar (2020)\n5) Iv\u00e1\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Zurdos",
+                "indices": [
+                    18,
+                    25
+                ]
+            },
+            {
+                "text": "Per\u00fa",
+                "indices": [
+                    26,
+                    31
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VZaferson",
+                "name": "V\u00edctor Zaferson M",
+                "id": 443142729,
+                "id_str": "443142729",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3091431154,
+        "id_str": "3091431154",
+        "name": "Alonso Arica",
+        "screen_name": "AlonsoArica29",
+        "location": "",
+        "description": "Periodista \ud83c\uddf5\ud83c\uddea",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 264,
+        "friends_count": 1999,
+        "listed_count": 0,
+        "created_at": "Fri Mar 13 17:51:50 +0000 2015",
+        "favourites_count": 13814,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2051,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1017292811505422341/Im7R8Kod_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017292811505422341/Im7R8Kod_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3091431154/1531512064",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 03:45:24 +0000 2021",
+        "id": 1414068277853237252,
+        "id_str": "1414068277853237252",
+        "full_text": "#9 #Zurdos #Per\u00fa\n\n1) Gianluca Lapadula (2021)\n2) Santiago Orme\u00f1o (2021)\n3) Alex Valera (2021)\n4) Mat\u00edas Succar (2020)\n5) Iv\u00e1n Bulos (2016)\n6) Andr\u00e9s Mendoza (1999)\n7) Alberto 'Tanque' Ram\u00edrez (1995)\n8) Carlos Dolorier (1995)\n9) Ronald Baroni (1993)\n10) Waldir S\u00e1enz (1993)",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Zurdos",
+                    "indices": [
+                        3,
+                        10
+                    ]
+                },
+                {
+                    "text": "Per\u00fa",
+                    "indices": [
+                        11,
+                        16
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 443142729,
+            "id_str": "443142729",
+            "name": "V\u00edctor Zaferson M",
+            "screen_name": "VZaferson",
+            "location": "victorzaferson@gmail.com",
+            "description": "\ud83c\uddf5\ud83c\uddeaFootball Scout | Ex Bayer 04 DataScout | Journalist | Football Consultant | Master at @Cruyff_Inst_PE | Teacher at @isilpe\ud83c\uddf5\ud83c\uddea | victorzaferson@gmail.com",
+            "url": "https://t.co/JeqPPWXrfN",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/JeqPPWXrfN",
+                            "expanded_url": "https://futbolcontent.blogspot.com/",
+                            "display_url": "futbolcontent.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9573,
+            "friends_count": 9565,
+            "listed_count": 74,
+            "created_at": "Wed Dec 21 21:26:46 +0000 2011",
+            "favourites_count": 11736,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 80711,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/624405732205678592/U0tFxx3q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/624405732205678592/U0tFxx3q_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/443142729/1593913066",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 40,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

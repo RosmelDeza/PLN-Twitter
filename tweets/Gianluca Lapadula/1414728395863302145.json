@@ -1,0 +1,189 @@
+{
+    "created_at": "Mon Jul 12 23:28:28 +0000 2021",
+    "id": 1414728395863302145,
+    "id_str": "1414728395863302145",
+    "full_text": "La @SeleccionPeru \ud83c\uddf5\ud83c\uddea en la Copa Am\u00e9rica 2021:\n\n\ud83c\udfc5 4to puesto en 7 partidos (3 triunfos, 1 empate y 3 derrotas)\n\n\u26bd\ufe0f 10 goles a favor (4 vs. \ud83c\udde8\ud83c\uddf4, 3 vs. \ud83c\uddf5\ud83c\uddfe, 2 vs. \ud83c\uddea\ud83c\udde8 y 1 vs. \ud83c\uddfb\ud83c\uddea) y 14 en contra (5 vs. \ud83c\udde7\ud83c\uddf7, 4 vs. \ud83c\udde8\ud83c\uddf4, 3 vs. \ud83c\uddf5\ud83c\uddfe y 2 vs. \ud83c\uddea\ud83c\udde8)\n\n\ud83d\udc5f Goleador: Gianluca Lapadula \ud83c\uddf5\ud83c\uddea (3 goles) https://t.co/ldcX3lCj27",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        273
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SeleccionPeru",
+                "name": "Selecci\u00f3n Peruana \ud83c\uddf5\ud83c\uddea",
+                "id": 1170209287,
+                "id_str": "1170209287",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414728389328621573,
+                "id_str": "1414728389328621573",
+                "indices": [
+                    274,
+                    297
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6If-XuX0AU9BvA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6If-XuX0AU9BvA.jpg",
+                "url": "https://t.co/ldcX3lCj27",
+                "display_url": "pic.twitter.com/ldcX3lCj27",
+                "expanded_url": "https://twitter.com/luisandresvr22/status/1414728395863302145/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 682,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 682,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414728389328621573,
+                "id_str": "1414728389328621573",
+                "indices": [
+                    274,
+                    297
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6If-XuX0AU9BvA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6If-XuX0AU9BvA.jpg",
+                "url": "https://t.co/ldcX3lCj27",
+                "display_url": "pic.twitter.com/ldcX3lCj27",
+                "expanded_url": "https://twitter.com/luisandresvr22/status/1414728395863302145/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 682,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 682,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2268352079,
+        "id_str": "2268352079",
+        "name": "Luis Andr\u00e9s V\u00e1squez",
+        "screen_name": "luisandresvr22",
+        "location": "Lima, Peru",
+        "description": "\ud83d\udcda Estudio Comunicaci\u00f3n en @udelima || \u270d\ud83c\udffc Redacto en @asieselfutbol_ || \u26bd\ufe0f Escribo y opino sobre f\u00fatbol || \ud83d\udcf7 Ig: @luisandresvr22",
+        "url": "https://t.co/69qgZ7YQYo",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/69qgZ7YQYo",
+                        "expanded_url": "https://www.instagram.com/luisandresvr22/?hl=es-la",
+                        "display_url": "instagram.com/luisandresvr22\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1095,
+        "friends_count": 1349,
+        "listed_count": 2,
+        "created_at": "Wed Jan 08 07:26:56 +0000 2014",
+        "favourites_count": 82309,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15573,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399758284064792579/NP20oLGB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399758284064792579/NP20oLGB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2268352079/1580532153",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

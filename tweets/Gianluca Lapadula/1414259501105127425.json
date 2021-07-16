@@ -1,0 +1,108 @@
+{
+    "created_at": "Sun Jul 11 16:25:15 +0000 2021",
+    "id": 1414259501105127425,
+    "id_str": "1414259501105127425",
+    "full_text": "Ruid\u00edaz deber\u00eda ser titular contra Uruguay.  Comparto la columna en @elcomercio_peru .\n\nhttps://t.co/Oa0f85m9em",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        111
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elcomercio_peru",
+                "name": "El Comercio",
+                "id": 233033221,
+                "id_str": "233033221",
+                "indices": [
+                    68,
+                    84
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Oa0f85m9em",
+                "expanded_url": "https://elcomercio.pe/deporte-total/seleccion/seleccion-peruana-sin-gianluca-lapadula-ha-llegado-la-hora-para-la-revancha-de-raul-ruidiaz-paolo-guerrero-ricardo-gareca-eliminatorias-qatar-2022-nczd-dtcc-noticia/elcomercio.pe/deporte-total/seleccion/seleccion-peruana-sin-gianluca-lapadula-ha-llegado-la-hora-para-la-revancha-de-raul-ruidiaz-paolo-guerrero-ricardo-gareca-eliminatorias-qatar-2022-nczd-dtcc-noticia/",
+                "display_url": "elcomercio.pe/deporte-total/\u2026",
+                "indices": [
+                    88,
+                    111
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 271417614,
+        "id_str": "271417614",
+        "name": "Ricardo Montoya Descalzi",
+        "screen_name": "RMontoyaDes",
+        "location": "",
+        "description": "#Psic\u00f3logo #Periodista #Docente. Pap\u00e1 de Julieta y Ricky. Instagram : ricardomontoyadescalzi . Conductor en: @enla_grada . Columnista en: @elcomercio_peru",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 13082,
+        "friends_count": 1282,
+        "listed_count": 62,
+        "created_at": "Thu Mar 24 13:30:31 +0000 2011",
+        "favourites_count": 21777,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18465,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1285407290569428994/_-u7MI1G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285407290569428994/_-u7MI1G_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/271417614/1595277059",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,249 @@
+{
+    "created_at": "Mon Jul 12 23:52:32 +0000 2021",
+    "id": 1414734453608435715,
+    "id_str": "1414734453608435715",
+    "full_text": "RT @GOLPERUoficial: \u00a1TODO ACORDADO! Gianluca Lapadula, delantero de la @SeleccionPeru y Benevento, tendr\u00eda todo listo para fichar por un hi\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GOLPERUoficial",
+                "name": "GOLPERU",
+                "id": 721832788983484416,
+                "id_str": "721832788983484416",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "SeleccionPeru",
+                "name": "Selecci\u00f3n Peruana \ud83c\uddf5\ud83c\uddea",
+                "id": 1170209287,
+                "id_str": "1170209287",
+                "indices": [
+                    71,
+                    85
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1315400918385467397,
+        "id_str": "1315400918385467397",
+        "name": "Andre Farfan",
+        "screen_name": "AndreFarfan10",
+        "location": "Huaral - Per\u00fa",
+        "description": "Welcome to Andre Farfan living in Huaral - Per\u00fa",
+        "url": "https://t.co/hVWWvOdL4E",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/hVWWvOdL4E",
+                        "expanded_url": "https://www.google.com.pe/",
+                        "display_url": "google.com.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 106,
+        "friends_count": 108,
+        "listed_count": 0,
+        "created_at": "Sun Oct 11 21:16:48 +0000 2020",
+        "favourites_count": 63477,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 51953,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401479212188540929/8r-GYl4Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401479212188540929/8r-GYl4Z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315400918385467397/1622979651",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 23:39:42 +0000 2021",
+        "id": 1414731222819954689,
+        "id_str": "1414731222819954689",
+        "full_text": "\u00a1TODO ACORDADO! Gianluca Lapadula, delantero de la @SeleccionPeru y Benevento, tendr\u00eda todo listo para fichar por un hist\u00f3rico club de la Serie A \ud83c\uddf5\ud83c\uddea\ud83c\udfc6\ud83c\uddee\ud83c\uddf9 #AlientaDesdeCasa https://t.co/Igp1oOusPH",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            193
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlientaDesdeCasa",
+                    "indices": [
+                        152,
+                        169
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SeleccionPeru",
+                    "name": "Selecci\u00f3n Peruana \ud83c\uddf5\ud83c\uddea",
+                    "id": 1170209287,
+                    "id_str": "1170209287",
+                    "indices": [
+                        51,
+                        65
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Igp1oOusPH",
+                    "expanded_url": "http://golperu.pe/ligas-internacionales/serie-a/gianluca-lapadula-seria-nuevo-jugador-de-historico-equipo-de-la-serie-a-torino-29548",
+                    "display_url": "golperu.pe/ligas-internac\u2026",
+                    "indices": [
+                        170,
+                        193
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 721832788983484416,
+            "id_str": "721832788983484416",
+            "name": "GOLPERU",
+            "screen_name": "GOLPERUoficial",
+            "location": "Peru",
+            "description": "Cuenta oficial de GOLPERU, el canal del f\u00fatbol. \ud83d\udcfa 14 - 714 HD de Movistar FB: GOLPERU14 TW: GOLPERUoficial IG: golperuoficial YT: GOLPERUoficial",
+            "url": "https://t.co/4zFNOOXHGs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4zFNOOXHGs",
+                            "expanded_url": "http://www.golperu.pe",
+                            "display_url": "golperu.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 169250,
+            "friends_count": 320,
+            "listed_count": 278,
+            "created_at": "Sun Apr 17 22:48:42 +0000 2016",
+            "favourites_count": 5487,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 108861,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/721832788983484416/1626354940",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 96,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

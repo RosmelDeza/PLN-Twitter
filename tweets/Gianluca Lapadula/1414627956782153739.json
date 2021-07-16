@@ -1,0 +1,291 @@
+{
+    "created_at": "Mon Jul 12 16:49:22 +0000 2021",
+    "id": 1414627956782153739,
+    "id_str": "1414627956782153739",
+    "full_text": "RT @gustavolopezs: En la #CopaAmerica de los Su\u00e1rez, Cavani, Duv\u00e1n, Muriel, Firmino, Lautaro o Gabigol\u2026 El mejor centrodelantero del torneo\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CopaAmerica",
+                "indices": [
+                    25,
+                    37
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gustavolopezs",
+                "name": "Gustavo L\u00f3pez \ud83c\udf99",
+                "id": 105373449,
+                "id_str": "105373449",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 243708968,
+        "id_str": "243708968",
+        "name": "Daniel Vega",
+        "screen_name": "DvegaRomero",
+        "location": "Lima",
+        "description": "Supersonic",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 171,
+        "friends_count": 3993,
+        "listed_count": 3,
+        "created_at": "Thu Jan 27 16:57:54 +0000 2011",
+        "favourites_count": 16879,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21335,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3484889555/553371fa180d3cfbba8fab15a76871e6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3484889555/553371fa180d3cfbba8fab15a76871e6_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/243708968/1556382241",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 16:48:26 +0000 2021",
+        "id": 1414627722119233537,
+        "id_str": "1414627722119233537",
+        "full_text": "En la #CopaAmerica de los Su\u00e1rez, Cavani, Duv\u00e1n, Muriel, Firmino, Lautaro o Gabigol\u2026 El mejor centrodelantero del torneo. 3 goles, 2.3 remates de promedio por partido y asistencia: Gianluca Lapadula \ud83c\uddf5\ud83c\uddea https://t.co/jODoNQZ95W",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            201
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CopaAmerica",
+                    "indices": [
+                        6,
+                        18
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414627716524036100,
+                    "id_str": "1414627716524036100",
+                    "indices": [
+                        202,
+                        225
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HEacTWUAQ3-ym.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HEacTWUAQ3-ym.jpg",
+                    "url": "https://t.co/jODoNQZ95W",
+                    "display_url": "pic.twitter.com/jODoNQZ95W",
+                    "expanded_url": "https://twitter.com/gustavolopezs/status/1414627722119233537/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 828,
+                            "h": 540,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 828,
+                            "h": 540,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414627716524036100,
+                    "id_str": "1414627716524036100",
+                    "indices": [
+                        202,
+                        225
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HEacTWUAQ3-ym.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HEacTWUAQ3-ym.jpg",
+                    "url": "https://t.co/jODoNQZ95W",
+                    "display_url": "pic.twitter.com/jODoNQZ95W",
+                    "expanded_url": "https://twitter.com/gustavolopezs/status/1414627722119233537/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 828,
+                            "h": 540,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 828,
+                            "h": 540,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 105373449,
+            "id_str": "105373449",
+            "name": "Gustavo L\u00f3pez \ud83c\udf99",
+            "screen_name": "gustavolopezs",
+            "location": "Lima, Per\u00fa",
+            "description": "Relator en @goltv Conductor. Tambi\u00e9n en @ovacionweb y @ToqueyTacoRadio Instagram: gustavolopez23",
+            "url": "https://t.co/ukOziggV1G",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ukOziggV1G",
+                            "expanded_url": "https://m.facebook.com/gustavolopezsa/",
+                            "display_url": "m.facebook.com/gustavolopezsa/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10758,
+            "friends_count": 1001,
+            "listed_count": 99,
+            "created_at": "Sat Jan 16 04:39:49 +0000 2010",
+            "favourites_count": 10392,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 31473,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1327793250292424704/6sAgMQN__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327793250292424704/6sAgMQN__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/105373449/1597932866",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 126,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

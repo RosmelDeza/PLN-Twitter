@@ -1,0 +1,262 @@
+{
+    "created_at": "Mon Jul 12 20:57:08 +0000 2021",
+    "id": 1414690309397614593,
+    "id_str": "1414690309397614593",
+    "full_text": "RT @Gutila5ta: Finalmente, en la Copa Am\u00e9rica, el mejor centro delantero del torneo, Gianluca Lapadula, igual tuvo un buen paso por la Seri\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Gutila5ta",
+                "name": "Guti",
+                "id": 210553064,
+                "id_str": "210553064",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 68887819,
+        "id_str": "68887819",
+        "name": "Soto Ur\u00edas",
+        "screen_name": "Soto_RI",
+        "location": "M\u00e9xico",
+        "description": "Villamel\u00f3n certificado. Rafapuentismo como forma de vida. Urquidysta desde el 2019. #SP11 Team",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 765,
+        "friends_count": 3149,
+        "listed_count": 4,
+        "created_at": "Wed Aug 26 03:13:43 +0000 2009",
+        "favourites_count": 9458,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20953,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1378842824351834115/RUlZK9ma_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378842824351834115/RUlZK9ma_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68887819/1623956397",
+        "profile_link_color": "B30000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 14:49:23 +0000 2021",
+        "id": 1414597764017623045,
+        "id_str": "1414597764017623045",
+        "full_text": "Finalmente, en la Copa Am\u00e9rica, el mejor centro delantero del torneo, Gianluca Lapadula, igual tuvo un buen paso por la Serie B que le permiti\u00f3 dar el salto. Ah\u00ed es donde vemos la importancia de una buena segunda divisi\u00f3n, y nos damos cuenta que tan lejos est\u00e1 M\u00e9xico de la elite. https://t.co/kBFQ08Einx",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414597761870143491,
+                    "id_str": "1414597761870143491",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6GpK2hVIAMwWT_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6GpK2hVIAMwWT_.jpg",
+                    "url": "https://t.co/kBFQ08Einx",
+                    "display_url": "pic.twitter.com/kBFQ08Einx",
+                    "expanded_url": "https://twitter.com/Gutila5ta/status/1414597764017623045/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414597761870143491,
+                    "id_str": "1414597761870143491",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6GpK2hVIAMwWT_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6GpK2hVIAMwWT_.jpg",
+                    "url": "https://t.co/kBFQ08Einx",
+                    "display_url": "pic.twitter.com/kBFQ08Einx",
+                    "expanded_url": "https://twitter.com/Gutila5ta/status/1414597764017623045/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1414597760368603136,
+        "in_reply_to_status_id_str": "1414597760368603136",
+        "in_reply_to_user_id": 210553064,
+        "in_reply_to_user_id_str": "210553064",
+        "in_reply_to_screen_name": "Gutila5ta",
+        "user": {
+            "id": 210553064,
+            "id_str": "210553064",
+            "name": "Guti",
+            "screen_name": "Gutila5ta",
+            "location": "",
+            "description": "Experto en equipos que si daban miedo. Escribo MUCHO de Calcio.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11094,
+            "friends_count": 552,
+            "listed_count": 39,
+            "created_at": "Sun Oct 31 18:21:41 +0000 2010",
+            "favourites_count": 31778,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 60985,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414643095526776838/FOJKXsxh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414643095526776838/FOJKXsxh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/210553064/1622499687",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 195,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

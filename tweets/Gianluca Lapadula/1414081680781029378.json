@@ -1,0 +1,190 @@
+{
+    "created_at": "Sun Jul 11 04:38:39 +0000 2021",
+    "id": 1414081680781029378,
+    "id_str": "1414081680781029378",
+    "full_text": "@FabianOlea1924 @Barrio_Futbol @G_Lapadula @SeleccionPeru @sondatos_noop @CopaAmerica @VZaferson @alonso_inca @NickNegriniG Una pena para el gran Gianluca",
+    "truncated": false,
+    "display_text_range": [
+        124,
+        154
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FabianOlea1924",
+                "name": "Fabi\u00e1n Olea \ud83d\udca5 (En Casa \ud83c\udfe1)",
+                "id": 1347615672,
+                "id_str": "1347615672",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "Barrio_Futbol",
+                "name": "Barrio F\u00fatbol | Per\u00fa",
+                "id": 348289467,
+                "id_str": "348289467",
+                "indices": [
+                    16,
+                    30
+                ]
+            },
+            {
+                "screen_name": "G_Lapadula",
+                "name": "GLapadula",
+                "id": 2493053869,
+                "id_str": "2493053869",
+                "indices": [
+                    31,
+                    42
+                ]
+            },
+            {
+                "screen_name": "SeleccionPeru",
+                "name": "Selecci\u00f3n Peruana \ud83c\uddf5\ud83c\uddea",
+                "id": 1170209287,
+                "id_str": "1170209287",
+                "indices": [
+                    43,
+                    57
+                ]
+            },
+            {
+                "screen_name": "sondatos_noop",
+                "name": "Son Datos No Opiniones (Jes\u00fas Chirinos)",
+                "id": 1093454389304545280,
+                "id_str": "1093454389304545280",
+                "indices": [
+                    58,
+                    72
+                ]
+            },
+            {
+                "screen_name": "CopaAmerica",
+                "name": "Copa Am\u00e9rica",
+                "id": 3159711265,
+                "id_str": "3159711265",
+                "indices": [
+                    73,
+                    85
+                ]
+            },
+            {
+                "screen_name": "VZaferson",
+                "name": "V\u00edctor Zaferson M",
+                "id": 443142729,
+                "id_str": "443142729",
+                "indices": [
+                    86,
+                    96
+                ]
+            },
+            {
+                "screen_name": "alonso_inca",
+                "name": "Alonso El Inca",
+                "id": 1148844227750531073,
+                "id_str": "1148844227750531073",
+                "indices": [
+                    97,
+                    109
+                ]
+            },
+            {
+                "screen_name": "NickNegriniG",
+                "name": "Nick Negrini",
+                "id": 1158516395476471816,
+                "id_str": "1158516395476471816",
+                "indices": [
+                    110,
+                    123
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1414081471124492296,
+    "in_reply_to_status_id_str": "1414081471124492296",
+    "in_reply_to_user_id": 1347615672,
+    "in_reply_to_user_id_str": "1347615672",
+    "in_reply_to_screen_name": "FabianOlea1924",
+    "user": {
+        "id": 383331783,
+        "id_str": "383331783",
+        "name": "Antonio Yataco",
+        "screen_name": "antonio_yatacob",
+        "location": "Per\u00fa, Lima,",
+        "description": "Gerente de Riesgo de Fraude, Integridad y Cumplimiento Corporativo en @eyb_asesores | Antes Consultor & Auditor en @adeccoperu, @eyperu, @RSM_peru_, @worldcompl",
+        "url": "https://t.co/JBu7oJMrky",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/JBu7oJMrky",
+                        "expanded_url": "http://www.eybasesores.pe",
+                        "display_url": "eybasesores.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 117,
+        "friends_count": 1570,
+        "listed_count": 0,
+        "created_at": "Sat Oct 01 17:51:10 +0000 2011",
+        "favourites_count": 99708,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25289,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1332810990640115713/ra_-Drnn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332810990640115713/ra_-Drnn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/383331783/1532815659",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

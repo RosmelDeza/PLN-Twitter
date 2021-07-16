@@ -1,0 +1,165 @@
+{
+    "created_at": "Tue Jul 13 15:00:01 +0000 2021",
+    "id": 1414962829711446016,
+    "id_str": "1414962829711446016",
+    "full_text": "#Deportes| \u00a1Como todo un rockstar! \u00a1Lapadula se tuvo que correr de los hinchas antes de partir a Italia!\ud83d\ude31\ud83d\ude02\ud83e\udd7a\n\u25bahttps://t.co/QYKUFENMK4\n#Lapadula #Selecci\u00f3nPeruana #Italia #CentroComercial",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        185
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Deportes",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "text": "Lapadula",
+                "indices": [
+                    133,
+                    142
+                ]
+            },
+            {
+                "text": "Selecci\u00f3nPeruana",
+                "indices": [
+                    143,
+                    160
+                ]
+            },
+            {
+                "text": "Italia",
+                "indices": [
+                    161,
+                    168
+                ]
+            },
+            {
+                "text": "CentroComercial",
+                "indices": [
+                    169,
+                    185
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/QYKUFENMK4",
+                "expanded_url": "https://bit.ly/3xHRURi",
+                "display_url": "bit.ly/3xHRURi",
+                "indices": [
+                    109,
+                    132
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 135279014,
+        "id_str": "135279014",
+        "name": "Radio Onda Cero",
+        "screen_name": "radioondacero",
+        "location": "Lima - Per\u00fa",
+        "description": "Twitter oficial de Radio Onda Cero 98.1 \u00a1Te Activa! 441 3050 - 954 177 614 Descarga la app Google Play:https://t.co/1wDNRZtWxg App Store:https://t.co/F0120x05LF",
+        "url": "https://t.co/Lucz6uWYuY",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Lucz6uWYuY",
+                        "expanded_url": "http://www.ondacero.com.pe",
+                        "display_url": "ondacero.com.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1wDNRZtWxg",
+                        "expanded_url": "http://cutt.ly/vutJ9xzP",
+                        "display_url": "cutt.ly/vutJ9xzP",
+                        "indices": [
+                            103,
+                            126
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/F0120x05LF",
+                        "expanded_url": "http://cutt.ly/GutLjx7n",
+                        "display_url": "cutt.ly/GutLjx7n",
+                        "indices": [
+                            137,
+                            160
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 83157,
+        "friends_count": 224,
+        "listed_count": 192,
+        "created_at": "Tue Apr 20 21:23:17 +0000 2010",
+        "favourites_count": 4926,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 81618,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415033560533291009/3X38jiyX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415033560533291009/3X38jiyX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135279014/1617636916",
+        "profile_link_color": "0F7306",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F0E50E",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

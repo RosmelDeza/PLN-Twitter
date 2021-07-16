@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun Jul 11 07:17:54 +0000 2021",
+    "id": 1414121758190354436,
+    "id_str": "1414121758190354436",
+    "full_text": "Gianluca Lapadula, el 'bambino' de Los Andes Tweet by Maria Derwick Bernadette and Joel Francisco D' Agostino https://t.co/S1uzOaKpUW  ofac \u00daltimas noticias | Diario AS https://t.co/CV7gBjOB4j https://t.co/VHGK2Erkxo",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        192
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/S1uzOaKpUW",
+                "expanded_url": "https://ift.tt/3qZXAn8",
+                "display_url": "ift.tt/3qZXAn8",
+                "indices": [
+                    110,
+                    133
+                ]
+            },
+            {
+                "url": "https://t.co/CV7gBjOB4j",
+                "expanded_url": "https://www.youtube.com/watch?v=T8yEdNx4dB0",
+                "display_url": "youtube.com/watch?v=T8yEdN\u2026",
+                "indices": [
+                    169,
+                    192
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1414121756852428802,
+                "id_str": "1414121756852428802",
+                "indices": [
+                    193,
+                    216
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/E5_4PtpXIAI6qai.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E5_4PtpXIAI6qai.jpg",
+                "url": "https://t.co/VHGK2Erkxo",
+                "display_url": "pic.twitter.com/VHGK2Erkxo",
+                "expanded_url": "https://twitter.com/redcup2020/status/1414121758190354436/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414121756852428802,
+                "id_str": "1414121756852428802",
+                "indices": [
+                    193,
+                    216
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/E5_4PtpXIAI6qai.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E5_4PtpXIAI6qai.jpg",
+                "url": "https://t.co/VHGK2Erkxo",
+                "display_url": "pic.twitter.com/VHGK2Erkxo",
+                "expanded_url": "https://twitter.com/redcup2020/status/1414121758190354436/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        4,
+                        3
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/E5_4PtpXIAI6qai.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1301915557936148481,
+        "id_str": "1301915557936148481",
+        "name": "Mar\u00eda Bernadette Gutierrez de Francisco D'Agostino",
+        "screen_name": "redcup2020",
+        "location": "Amsterdam",
+        "description": "Haci\u00e9ndome un masajito",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 15,
+        "friends_count": 97,
+        "listed_count": 0,
+        "created_at": "Fri Sep 04 16:10:38 +0000 2020",
+        "favourites_count": 122,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4692,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1301915693814894594/13AWMBbl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1301915693814894594/13AWMBbl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1301915557936148481/1599248030",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

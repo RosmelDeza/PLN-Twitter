@@ -1,0 +1,127 @@
+{
+    "created_at": "Thu Jul 15 16:17:27 +0000 2021",
+    "id": 1415707089612201996,
+    "id_str": "1415707089612201996",
+    "full_text": "Olha ai @juliocasares_SP @SaoPauloFC @MuricyRamalho6 e @Crespo Os nomes abaixo de Centro Avante \n\n\ud83c\udde8\ud83c\uddf1 Nicol\u00e1s Castillo\n\ud83c\uddfa\ud83c\uddfe Juan Ignacio Ram\u00edrez\n\ud83c\uddf5\ud83c\uddea Gianluca Lapadula\n\ud83c\uddfb\ud83c\uddea Josef Mart\u00ednez\n\ud83c\udde6\ud83c\uddf7 Germ\u00e1n Cano",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        195
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "juliocasares_SP",
+                "name": "Julio Casares",
+                "id": 195424195,
+                "id_str": "195424195",
+                "indices": [
+                    8,
+                    24
+                ]
+            },
+            {
+                "screen_name": "SaoPauloFC",
+                "name": "S\u00e3o Paulo FC",
+                "id": 24920669,
+                "id_str": "24920669",
+                "indices": [
+                    25,
+                    36
+                ]
+            },
+            {
+                "screen_name": "MuricyRamalho6",
+                "name": "Muricy Ramalho",
+                "id": 854786309763870720,
+                "id_str": "854786309763870720",
+                "indices": [
+                    37,
+                    52
+                ]
+            },
+            {
+                "screen_name": "Crespo",
+                "name": "Hernan Crespo",
+                "id": 1064528635,
+                "id_str": "1064528635",
+                "indices": [
+                    55,
+                    62
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1202341754214797317,
+        "id_str": "1202341754214797317",
+        "name": "Andr\u00e9_Rodrigues",
+        "screen_name": "Andre_red3",
+        "location": "",
+        "description": "Deus Fam\u00edlia e @Saopaulofc \ud83d\udd34\u26aa\u26ab",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 889,
+        "friends_count": 2793,
+        "listed_count": 0,
+        "created_at": "Wed Dec 04 21:40:09 +0000 2019",
+        "favourites_count": 487,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2636,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202342421897646082/6RDKSimh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202342421897646082/6RDKSimh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1202341754214797317/1577918496",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

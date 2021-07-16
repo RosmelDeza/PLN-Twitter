@@ -1,0 +1,197 @@
+{
+    "created_at": "Wed Jul 14 12:34:03 +0000 2021",
+    "id": 1415288480754774018,
+    "id_str": "1415288480754774018",
+    "full_text": "RT @jorgedlq: \"Gianluca no se va a adaptar al grupo\" \"No sabe ni hablar espa\u00f1ol\".... 3 doritos depu\u00e9s, Gianluca bailando El Cervecero con C\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jorgedlq",
+                "name": "Jorge De La Quintana",
+                "id": 226580746,
+                "id_str": "226580746",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 875906535033057280,
+        "id_str": "875906535033057280",
+        "name": "Sergio Le\u00f3n Roca",
+        "screen_name": "SergioLenRoca2",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5,
+        "friends_count": 53,
+        "listed_count": 0,
+        "created_at": "Sat Jun 17 02:42:46 +0000 2017",
+        "favourites_count": 2359,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1458,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 03 02:52:08 +0000 2021",
+        "id": 1411155772499705859,
+        "id_str": "1411155772499705859",
+        "full_text": "\"Gianluca no se va a adaptar al grupo\" \"No sabe ni hablar espa\u00f1ol\".... 3 doritos depu\u00e9s, Gianluca bailando El Cervecero con Carrillo y Cuevita. #VamosPeru #Lapadula",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            164
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "VamosPeru",
+                    "indices": [
+                        144,
+                        154
+                    ]
+                },
+                {
+                    "text": "Lapadula",
+                    "indices": [
+                        155,
+                        164
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 226580746,
+            "id_str": "226580746",
+            "name": "Jorge De La Quintana",
+            "screen_name": "jorgedlq",
+            "location": "",
+            "description": "Comunicador Audiovisual de profesi\u00f3n, corresponsal en Lima de @cgtnamerica, guitarrista de @alhambrehc e hincha de @universitario",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 370,
+            "friends_count": 616,
+            "listed_count": 5,
+            "created_at": "Tue Dec 14 14:53:16 +0000 2010",
+            "favourites_count": 1820,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2647,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3278983149/6e127961b7c1ad1129f5d30f565f7bc9_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3278983149/6e127961b7c1ad1129f5d30f565f7bc9_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/226580746/1617849061",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 491,
+        "favorite_count": 5348,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 491,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

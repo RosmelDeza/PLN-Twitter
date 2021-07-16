@@ -1,0 +1,342 @@
+{
+    "created_at": "Mon Jul 12 20:41:34 +0000 2021",
+    "id": 1414686391880069126,
+    "id_str": "1414686391880069126",
+    "full_text": "RT @Barrio_Futbol: \ud83e\udd41 Con ustedes: el MEJOR JUGADOR PERUANO de la #CopaAm\u00e9rica 2\u20e30\u20e32\u20e31\u20e3: Gianluca Lapadula, v\u00eda @CONMEBOL. \ud83c\udfc6\n\n\u2705 3 goles \u26bd\ufe0f\n\u2705\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CopaAm\u00e9rica",
+                "indices": [
+                    65,
+                    77
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Barrio_Futbol",
+                "name": "Barrio F\u00fatbol | Per\u00fa",
+                "id": 348289467,
+                "id_str": "348289467",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "CONMEBOL",
+                "name": "CONMEBOL.com",
+                "id": 1265260098,
+                "id_str": "1265260098",
+                "indices": [
+                    111,
+                    120
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2996486134,
+        "id_str": "2996486134",
+        "name": "Piero D\u00e1vila \u24ca",
+        "screen_name": "pierodav_bless",
+        "location": "",
+        "description": "Crema toda la vida || \u00bfQu\u00e9 miras pavicag\u00f3n, te doli\u00f3 mi tweet? || Ingenier\u00eda Ambiental || Fan de Cobra Kai\ud83d\udc0d\ud83e\udd4b",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 64,
+        "friends_count": 419,
+        "listed_count": 0,
+        "created_at": "Sat Jan 24 20:04:32 +0000 2015",
+        "favourites_count": 11702,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9682,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1374368131544662016/eV458R-h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1374368131544662016/eV458R-h_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2996486134/1568086858",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 20:37:43 +0000 2021",
+        "id": 1414685424195411971,
+        "id_str": "1414685424195411971",
+        "full_text": "\ud83e\udd41 Con ustedes: el MEJOR JUGADOR PERUANO de la #CopaAm\u00e9rica 2\u20e30\u20e32\u20e31\u20e3: Gianluca Lapadula, v\u00eda @CONMEBOL. \ud83c\udfc6\n\n\u2705 3 goles \u26bd\ufe0f\n\u2705 1 asistencia \ud83c\udfaf\n\n\u00a1Felicidades, @G_Lapadula! \ud83c\uddf5\ud83c\uddea\ud83d\udc4f\n\n\ud83d\udd0a @RadioUnionPeru https://t.co/yOgvUZiccx",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            186
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CopaAm\u00e9rica",
+                    "indices": [
+                        46,
+                        58
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CONMEBOL",
+                    "name": "CONMEBOL.com",
+                    "id": 1265260098,
+                    "id_str": "1265260098",
+                    "indices": [
+                        92,
+                        101
+                    ]
+                },
+                {
+                    "screen_name": "G_Lapadula",
+                    "name": "GLapadula",
+                    "id": 2493053869,
+                    "id_str": "2493053869",
+                    "indices": [
+                        151,
+                        162
+                    ]
+                },
+                {
+                    "screen_name": "RadioUnionPeru",
+                    "name": "Radio Uni\u00f3n",
+                    "id": 288237812,
+                    "id_str": "288237812",
+                    "indices": [
+                        171,
+                        186
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414685231068631045,
+                    "id_str": "1414685231068631045",
+                    "indices": [
+                        187,
+                        210
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6H4uOrWUAUt49k.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6H4uOrWUAUt49k.jpg",
+                    "url": "https://t.co/yOgvUZiccx",
+                    "display_url": "pic.twitter.com/yOgvUZiccx",
+                    "expanded_url": "https://twitter.com/Barrio_Futbol/status/1414685424195411971/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1344,
+                            "h": 756,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414685231068631045,
+                    "id_str": "1414685231068631045",
+                    "indices": [
+                        187,
+                        210
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6H4uOrWUAUt49k.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6H4uOrWUAUt49k.jpg",
+                    "url": "https://t.co/yOgvUZiccx",
+                    "display_url": "pic.twitter.com/yOgvUZiccx",
+                    "expanded_url": "https://twitter.com/Barrio_Futbol/status/1414685424195411971/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1344,
+                            "h": 756,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 348289467,
+            "id_str": "348289467",
+            "name": "Barrio F\u00fatbol | Per\u00fa",
+            "screen_name": "Barrio_Futbol",
+            "location": "Lima, Per\u00fa",
+            "description": "\ud83c\udf99 Conducido por Paco Baz\u00e1n, @tuleenomas y @NestorBlancoH.\n\ud83d\uddd3 Lunes a Viernes de \u23f0 5 a 6 p.m. por @RadioUnionPeru 103.3 FM.\n\ud83d\udcfb https://t.co/LxmdB7SlAc",
+            "url": "https://t.co/fgSKC4mQCw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fgSKC4mQCw",
+                            "expanded_url": "https://www.instagram.com/barriofutbol.pe/",
+                            "display_url": "instagram.com/barriofutbol.p\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LxmdB7SlAc",
+                            "expanded_url": "http://radios.com.pe/union",
+                            "display_url": "radios.com.pe/union",
+                            "indices": [
+                                124,
+                                147
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 26116,
+            "friends_count": 948,
+            "listed_count": 97,
+            "created_at": "Thu Aug 04 05:29:21 +0000 2011",
+            "favourites_count": 4438,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17420,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/902169731800731648/zHKPm7A__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/902169731800731648/zHKPm7A__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/348289467/1597692716",
+            "profile_link_color": "4A990C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

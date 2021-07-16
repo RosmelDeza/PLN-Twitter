@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 12 05:34:16 +0000 2021",
+    "id": 1414458065693421571,
+    "id_str": "1414458065693421571",
+    "full_text": "@David11392060 @GxlDePaulinho Y Gianluca Lapadula ha empatado en goles con Messi. Que quieres decir?",
+    "truncated": false,
+    "display_text_range": [
+        30,
+        100
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "David11392060",
+                "name": "CetebeSimp",
+                "id": 1322573578638888968,
+                "id_str": "1322573578638888968",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "GxlDePaulinho",
+                "name": "Manu.",
+                "id": 1346802361361170432,
+                "id_str": "1346802361361170432",
+                "indices": [
+                    15,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414413829363191813,
+    "in_reply_to_status_id_str": "1414413829363191813",
+    "in_reply_to_user_id": 1322573578638888968,
+    "in_reply_to_user_id_str": "1322573578638888968",
+    "in_reply_to_screen_name": "David11392060",
+    "user": {
+        "id": 3398694863,
+        "id_str": "3398694863",
+        "name": "Manu.",
+        "screen_name": "PasedeModric",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 230,
+        "friends_count": 290,
+        "listed_count": 1,
+        "created_at": "Sat Aug 01 13:11:31 +0000 2015",
+        "favourites_count": 22661,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7779,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414394741211508740/Oerc9KNb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414394741211508740/Oerc9KNb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3398694863/1626053013",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

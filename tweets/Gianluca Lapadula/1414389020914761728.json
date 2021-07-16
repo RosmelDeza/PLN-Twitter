@@ -1,0 +1,118 @@
+{
+    "created_at": "Mon Jul 12 00:59:55 +0000 2021",
+    "id": 1414389020914761728,
+    "id_str": "1414389020914761728",
+    "full_text": "According to @diarioas this was the #CopaAm\u00e9rica XI of the tournament:\n\nEmiliano Martinez \ud83c\udde6\ud83c\uddf7\nNicolas Otamendi \ud83c\udde6\ud83c\uddf7\nMarquinhos \ud83c\udde7\ud83c\uddf7\nYerry Mina \ud83c\udde8\ud83c\uddf4\nAndr\u00e9 Carrillo \ud83c\uddf5\ud83c\uddea\nRodrigo de Paul \ud83c\udde6\ud83c\uddf7\nLuca Paquet\u00e1 \ud83c\udde7\ud83c\uddf7\nLuis Diaz \ud83c\udde8\ud83c\uddf4\nLionel Messi \ud83c\udde6\ud83c\uddf7\nGianluca Lapadula \ud83c\uddf5\ud83c\uddea\nNeymar \ud83c\udde7\ud83c\uddf7",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        253
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CopaAm\u00e9rica",
+                "indices": [
+                    36,
+                    48
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "diarioas",
+                "name": "Diario AS",
+                "id": 7996522,
+                "id_str": "7996522",
+                "indices": [
+                    13,
+                    22
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 57743546,
+        "id_str": "57743546",
+        "name": "Diego Montalvan",
+        "screen_name": "DMontalvan",
+        "location": "Per\u00fa || RI || CT || NY || MA",
+        "description": "\ud83c\uddf5\ud83c\uddea@TelemundoSports|@tocaypasaperu \ud83d\udcfa|@PeruWaltz\ud83c\udf99|@Dosis_Futbolera\ud83d\udcdd. English. Espa\u00f1ol. CV: @ESPNDeportes & @ESPNFC. Views my own. Freelance work available",
+        "url": "https://t.co/wHWEHKlsBK",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/wHWEHKlsBK",
+                        "expanded_url": "https://www.linkedin.com/in/diego-montalvan-32734112/",
+                        "display_url": "linkedin.com/in/diego-monta\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2729,
+        "friends_count": 487,
+        "listed_count": 38,
+        "created_at": "Fri Jul 17 20:11:34 +0000 2009",
+        "favourites_count": 50822,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43334,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393054414563430400/K4kG6nuU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393054414563430400/K4kG6nuU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57743546/1528931115",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 61,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

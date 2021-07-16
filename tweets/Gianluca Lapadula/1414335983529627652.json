@@ -1,0 +1,128 @@
+{
+    "created_at": "Sun Jul 11 21:29:10 +0000 2021",
+    "id": 1414335983529627652,
+    "id_str": "1414335983529627652",
+    "full_text": "@G_Lapadula @SeleccionPeru Gianluca estamos con Italia en la #uefaeurofinal  Muchas Gracias por darnos momentos emotivos a 32 millones de Peruanos.",
+    "truncated": false,
+    "display_text_range": [
+        27,
+        147
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "uefaeurofinal",
+                "indices": [
+                    61,
+                    75
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "G_Lapadula",
+                "name": "GLapadula",
+                "id": 2493053869,
+                "id_str": "2493053869",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "SeleccionPeru",
+                "name": "Selecci\u00f3n Peruana \ud83c\uddf5\ud83c\uddea",
+                "id": 1170209287,
+                "id_str": "1170209287",
+                "indices": [
+                    12,
+                    26
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1413771287844040704,
+    "in_reply_to_status_id_str": "1413771287844040704",
+    "in_reply_to_user_id": 2493053869,
+    "in_reply_to_user_id_str": "2493053869",
+    "in_reply_to_screen_name": "G_Lapadula",
+    "user": {
+        "id": 1016205152,
+        "id_str": "1016205152",
+        "name": "Sin Fronteras World",
+        "screen_name": "SinFronteraPeru",
+        "location": "USA",
+        "description": "A Communications Enterprise for a Better World.\r\nEmpresa de Comunicaciones para un Mundo Mejor",
+        "url": "http://t.co/fJJDsJJ8J7",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/fJJDsJJ8J7",
+                        "expanded_url": "http://www.facebook.com/SinFronterasWorld",
+                        "display_url": "facebook.com/SinFronterasWo\u2026",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 130,
+        "friends_count": 1261,
+        "listed_count": 4,
+        "created_at": "Sun Dec 16 22:24:49 +0000 2012",
+        "favourites_count": 2523,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10489,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2985365543/c1f71398d430bd452add668cc0f0846a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2985365543/c1f71398d430bd452add668cc0f0846a_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1016205152/1415145869",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

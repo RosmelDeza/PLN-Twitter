@@ -1,0 +1,288 @@
+{
+    "created_at": "Mon Jul 12 13:45:27 +0000 2021",
+    "id": 1414581674176811010,
+    "id_str": "1414581674176811010",
+    "full_text": "RT @PortalLabs_FP: \ud83c\uddf5\ud83c\uddea Evoluci\u00f3n de Gianluca Lapadula con Per\u00fa en la #CopaAmerica  \n\n\u25b6 Promedio de Calf: 6,8\n\u25b6\ufe0f Minutos Jugados: 600\n-&gt; Prom\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CopaAmerica",
+                "indices": [
+                    68,
+                    80
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PortalLabs_FP",
+                "name": "Portal Labs Per\u00fa \ud83d\udcc8\ud83c\uddf5\ud83c\uddea",
+                "id": 1379595040440336386,
+                "id_str": "1379595040440336386",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 911370070923862017,
+        "id_str": "911370070923862017",
+        "name": "Kevin Spears",
+        "screen_name": "kspears8889",
+        "location": "",
+        "description": "Si no sufrimos, no vale!!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 49,
+        "listed_count": 0,
+        "created_at": "Fri Sep 22 23:22:12 +0000 2017",
+        "favourites_count": 4561,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2669,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1335023534716952579/KhtZjN0z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1335023534716952579/KhtZjN0z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/911370070923862017/1607129753",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 23:23:49 +0000 2021",
+        "id": 1414002450730782727,
+        "id_str": "1414002450730782727",
+        "full_text": "\ud83c\uddf5\ud83c\uddea Evoluci\u00f3n de Gianluca Lapadula con Per\u00fa en la #CopaAmerica  \n\n\u25b6 Promedio de Calf: 6,8\n\u25b6\ufe0f Minutos Jugados: 600\n-&gt; Promedio: 85,7\n\u26bd Goles (asistencias): 3 (1)\n\ud83d\udfe2 Remates: 16\n\u27a1\ufe0f Pases Acertados: 72\n\ud83c\udd9a Duelos Ganados: 12\n\u23fa Toques: 176\n\ud83d\udd34 Faltas: 10 https://t.co/atZMP2lXlw",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            247
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CopaAmerica",
+                    "indices": [
+                        49,
+                        61
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414002275345907713,
+                    "id_str": "1414002275345907713",
+                    "indices": [
+                        248,
+                        271
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5-Lk-WWQAE3a9W.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5-Lk-WWQAE3a9W.jpg",
+                    "url": "https://t.co/atZMP2lXlw",
+                    "display_url": "pic.twitter.com/atZMP2lXlw",
+                    "expanded_url": "https://twitter.com/PortalLabs_FP/status/1414002450730782727/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414002275345907713,
+                    "id_str": "1414002275345907713",
+                    "indices": [
+                        248,
+                        271
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5-Lk-WWQAE3a9W.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5-Lk-WWQAE3a9W.jpg",
+                    "url": "https://t.co/atZMP2lXlw",
+                    "display_url": "pic.twitter.com/atZMP2lXlw",
+                    "expanded_url": "https://twitter.com/PortalLabs_FP/status/1414002450730782727/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1414000915984564235,
+        "in_reply_to_status_id_str": "1414000915984564235",
+        "in_reply_to_user_id": 1379595040440336386,
+        "in_reply_to_user_id_str": "1379595040440336386",
+        "in_reply_to_screen_name": "PortalLabs_FP",
+        "user": {
+            "id": 1379595040440336386,
+            "id_str": "1379595040440336386",
+            "name": "Portal Labs Per\u00fa \ud83d\udcc8\ud83c\uddf5\ud83c\uddea",
+            "screen_name": "PortalLabs_FP",
+            "location": "",
+            "description": "Somos Portal Labs. Perfil dedicado a publicar todo tipo de estad\u00edsticas de Per\u00fa.\nPuedes seguirnos en nuestro canal de Youtube: https://t.co/moma9xrRGw",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/moma9xrRGw",
+                            "expanded_url": "http://n9.cl/0e5e",
+                            "display_url": "n9.cl/0e5e",
+                            "indices": [
+                                127,
+                                150
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 40,
+            "friends_count": 92,
+            "listed_count": 0,
+            "created_at": "Wed Apr 07 00:41:14 +0000 2021",
+            "favourites_count": 1,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 140,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1379595649797271555/jEj4pX5J_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379595649797271555/jEj4pX5J_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1379595040440336386/1619206443",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,282 @@
+{
+    "created_at": "Mon Jul 12 01:28:47 +0000 2021",
+    "id": 1414396286804054018,
+    "id_str": "1414396286804054018",
+    "full_text": "RT @365ScoresApp: \ud83c\udfc6 Concluida la Copa Am\u00e9rica 2021, te presentamos a los 3 jugadores revelaci\u00f3n de 365Scores:\n\n\ud83e\udd47 Luis D\u00edaz \ud83c\udde8\ud83c\uddf4 \n\ud83e\udd48 Gianluca L\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "365ScoresApp",
+                "name": "365Scores (desde \ud83c\udfe0)",
+                "id": 927556948324732929,
+                "id_str": "927556948324732929",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1286397950562885633,
+        "id_str": "1286397950562885633",
+        "name": "Christopher W",
+        "screen_name": "Crix92902342",
+        "location": "Lima, Peru",
+        "description": "Industrial Engineer \ud83d\udc77\u200d\u2642\ufe0f -\n rock and roll  \ud83c\udfb8\nAsesor\u00edas matem\u00e1ticas: https://t.co/K9Rd9b6TRY",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/K9Rd9b6TRY",
+                        "expanded_url": "https://www.instagram.com/asesorias_matematicas_lima/",
+                        "display_url": "instagram.com/asesorias_mate\u2026",
+                        "indices": [
+                            68,
+                            91
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 25,
+        "friends_count": 475,
+        "listed_count": 0,
+        "created_at": "Thu Jul 23 20:29:15 +0000 2020",
+        "favourites_count": 7152,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4905,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328193759767572482/34lW-gdA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328193759767572482/34lW-gdA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286397950562885633/1602713130",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 01:27:55 +0000 2021",
+        "id": 1414396067559444483,
+        "id_str": "1414396067559444483",
+        "full_text": "\ud83c\udfc6 Concluida la Copa Am\u00e9rica 2021, te presentamos a los 3 jugadores revelaci\u00f3n de 365Scores:\n\n\ud83e\udd47 Luis D\u00edaz \ud83c\udde8\ud83c\uddf4 \n\ud83e\udd48 Gianluca Lapadula \ud83c\uddf5\ud83c\uddea \n\ud83e\udd49 Ben Brereton \ud83c\udde8\ud83c\uddf1\n\n3 delanteros con mucha potencia en ataque. Dieron muchas alegr\u00edas a sus selecciones. Gran torneo.\n\nGoles y emoci\u00f3n \ud83c\udf1f\ud83d\udc4f https://t.co/s2w54ErAUB",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            269
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414396061129625601,
+                    "id_str": "1414396061129625601",
+                    "indices": [
+                        270,
+                        293
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6DxuUtX0AEqI3n.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6DxuUtX0AEqI3n.jpg",
+                    "url": "https://t.co/s2w54ErAUB",
+                    "display_url": "pic.twitter.com/s2w54ErAUB",
+                    "expanded_url": "https://twitter.com/365ScoresApp/status/1414396067559444483/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414396061129625601,
+                    "id_str": "1414396061129625601",
+                    "indices": [
+                        270,
+                        293
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6DxuUtX0AEqI3n.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6DxuUtX0AEqI3n.jpg",
+                    "url": "https://t.co/s2w54ErAUB",
+                    "display_url": "pic.twitter.com/s2w54ErAUB",
+                    "expanded_url": "https://twitter.com/365ScoresApp/status/1414396067559444483/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 927556948324732929,
+            "id_str": "927556948324732929",
+            "name": "365Scores (desde \ud83c\udfe0)",
+            "screen_name": "365ScoresApp",
+            "location": "",
+            "description": "App de deportes donde podr\u00e1s encontrar notificaciones en vivo, noticias actualizadas, videos de los goles y m\u00e1s. Descargala gratis: https://t.co/SvMta1JX4t",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/SvMta1JX4t",
+                            "expanded_url": "http://m.onelink.me/32383b15",
+                            "display_url": "m.onelink.me/32383b15",
+                            "indices": [
+                                132,
+                                155
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 30037,
+            "friends_count": 2564,
+            "listed_count": 90,
+            "created_at": "Mon Nov 06 15:23:04 +0000 2017",
+            "favourites_count": 3091,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 23798,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1277600138811379714/yK5zI9bw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277600138811379714/yK5zI9bw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/927556948324732929/1547130388",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 71,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

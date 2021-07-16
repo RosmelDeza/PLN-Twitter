@@ -1,0 +1,223 @@
+{
+    "created_at": "Tue Jul 13 01:17:54 +0000 2021",
+    "id": 1414755936594505728,
+    "id_str": "1414755936594505728",
+    "full_text": "RT @DeportesLR: \ud83d\udea8#AHORA | Lapadula retorna a Italia: \"Quiero agradecer al pa\u00eds por el cari\u00f1o que me da\"\n\nGianluca Lapadula enrumb\u00f3 a Italia\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AHORA",
+                "indices": [
+                    17,
+                    23
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DeportesLR",
+                "name": "DeportesLR",
+                "id": 329302657,
+                "id_str": "329302657",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 264017858,
+        "id_str": "264017858",
+        "name": "Luis Escarreola",
+        "screen_name": "luisescarreola",
+        "location": "Lima, Per\u00fa",
+        "description": "Si te gustan los juegos de mesa, mandame un DM.\n\nNo juzgues el pasado con los valores de hoy. \ud83e\udd57\ud83e\udd57\n\nhe/him/\u00e9l",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 889,
+        "friends_count": 1148,
+        "listed_count": 24,
+        "created_at": "Fri Mar 11 05:08:41 +0000 2011",
+        "favourites_count": 128494,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 202051,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1022641959985467392/Xvkmn_6H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022641959985467392/Xvkmn_6H_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/264017858/1434234136",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 23:15:32 +0000 2021",
+        "id": 1414725138860462086,
+        "id_str": "1414725138860462086",
+        "full_text": "\ud83d\udea8#AHORA | Lapadula retorna a Italia: \"Quiero agradecer al pa\u00eds por el cari\u00f1o que me da\"\n\nGianluca Lapadula enrumb\u00f3 a Italia luego de su destacada actuaci\u00f3n en la Copa Am\u00e9rica 2021, donde termin\u00f3 siendo el goleador de la selecci\u00f3n peruana.\nhttps://t.co/vV0ZHYtEcU",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            262
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AHORA",
+                    "indices": [
+                        1,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/vV0ZHYtEcU",
+                    "expanded_url": "https://larepublica.pe/deportes/2021/07/12/lapadula-retorna-a-italia-tras-la-copa-america-quiero-agradecer-al-pais-por-el-carino-que-me-da/",
+                    "display_url": "larepublica.pe/deportes/2021/\u2026",
+                    "indices": [
+                        239,
+                        262
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 329302657,
+            "id_str": "329302657",
+            "name": "DeportesLR",
+            "screen_name": "DeportesLR",
+            "location": "",
+            "description": "La Rep\u00fablica tambi\u00e9n te informa en Twitter sobre todo lo que ocurre en el mundo de los deportes nacionales e internacionales.",
+            "url": "http://t.co/Z1lJHGgHHI",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/Z1lJHGgHHI",
+                            "expanded_url": "http://www.larepublica.pe/deportes/",
+                            "display_url": "larepublica.pe/deportes/",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33084,
+            "friends_count": 482,
+            "listed_count": 279,
+            "created_at": "Mon Jul 04 21:14:33 +0000 2011",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 134900,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/948901205132169216/L_mrZJ67_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/948901205132169216/L_mrZJ67_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/329302657/1564875022",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 234,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

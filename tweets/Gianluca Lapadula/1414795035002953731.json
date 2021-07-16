@@ -1,0 +1,211 @@
+{
+    "created_at": "Tue Jul 13 03:53:16 +0000 2021",
+    "id": 1414795035002953731,
+    "id_str": "1414795035002953731",
+    "full_text": "Gianluca Lapadula se regres\u00f3 a Italia, porqu\u00e9 no se habr\u00e1 quedado https://t.co/yDic9bSocS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        65
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414795024286593026,
+                "id_str": "1414795024286593026",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/E6JclCSXsAIuJD8.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6JclCSXsAIuJD8.jpg",
+                "url": "https://t.co/yDic9bSocS",
+                "display_url": "pic.twitter.com/yDic9bSocS",
+                "expanded_url": "https://twitter.com/GersinB/status/1414795035002953731/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 498,
+                        "h": 498,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 498,
+                        "h": 498,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 498,
+                        "h": 498,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414795024286593026,
+                "id_str": "1414795024286593026",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/E6JclCSXsAIuJD8.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6JclCSXsAIuJD8.jpg",
+                "url": "https://t.co/yDic9bSocS",
+                "display_url": "pic.twitter.com/yDic9bSocS",
+                "expanded_url": "https://twitter.com/GersinB/status/1414795035002953731/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 498,
+                        "h": 498,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 498,
+                        "h": 498,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 498,
+                        "h": 498,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/E6JclCSXsAIuJD8.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 108408242,
+        "id_str": "108408242",
+        "name": "Gersin Beron",
+        "screen_name": "GersinB",
+        "location": "Peru",
+        "description": "Soy contador p\u00fablico colegiado del Colegio de Contadores P\u00fablicos del Callao y emprendedor, creo en el libre mercado. Prospecto de nerd. Antisocialista.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1340,
+        "friends_count": 1716,
+        "listed_count": 7,
+        "created_at": "Mon Jan 25 21:17:56 +0000 2010",
+        "favourites_count": 80215,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43654,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409689798588219394/RHa_pOyd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409689798588219394/RHa_pOyd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108408242/1625110844",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00b9b6e734ad1849",
+        "url": "https://api.twitter.com/1.1/geo/id/00b9b6e734ad1849.json",
+        "place_type": "city",
+        "name": "Chorrillos",
+        "full_name": "Chorrillos, Peru",
+        "country_code": "PE",
+        "country": "Peru",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.0400619178694,
+                        -12.232257030261
+                    ],
+                    [
+                        -76.9698889232541,
+                        -12.232257030261
+                    ],
+                    [
+                        -76.9698889232541,
+                        -12.1566819563191
+                    ],
+                    [
+                        -77.0400619178694,
+                        -12.1566819563191
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

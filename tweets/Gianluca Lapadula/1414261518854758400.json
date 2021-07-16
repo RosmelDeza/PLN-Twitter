@@ -1,0 +1,198 @@
+{
+    "created_at": "Sun Jul 11 16:33:16 +0000 2021",
+    "id": 1414261518854758400,
+    "id_str": "1414261518854758400",
+    "full_text": "\ud83d\udccdJhegson M\u00e9ndez\n\ud83d\udccdBen Brereton\n\ud83d\udccdGianluca Lapadula \n\nEsos tres sin duda. De Venezuela me quedo con Adri\u00e1n Mart\u00ednez y Edson Castillo. Gran impacto \ud83d\udd1d https://t.co/modW8bQBo2",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        145
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/modW8bQBo2",
+                "expanded_url": "https://twitter.com/lapizarradeldt_/status/1414256836749021188",
+                "display_url": "twitter.com/lapizarradeldt\u2026",
+                "indices": [
+                    146,
+                    169
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2655567014,
+        "id_str": "2655567014",
+        "name": "Javier Semeler",
+        "screen_name": "JavierSemeler00",
+        "location": "Venezuela",
+        "description": "Admirador de los deportes I An\u00e1lisis de f\u00fatbol I Comunicador Social UCAB I \ud83d\udcdd@LaPizarraDelDT_ I \ud83d\udcfb @mundounbalon",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 661,
+        "friends_count": 566,
+        "listed_count": 8,
+        "created_at": "Fri Jul 18 03:30:22 +0000 2014",
+        "favourites_count": 58415,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18455,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1348071921406115841/v1LkyOA7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348071921406115841/v1LkyOA7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2655567014/1579635139",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414256836749021188,
+    "quoted_status_id_str": "1414256836749021188",
+    "quoted_status": {
+        "created_at": "Sun Jul 11 16:14:40 +0000 2021",
+        "id": 1414256836749021188,
+        "id_str": "1414256836749021188",
+        "full_text": "Una vez culminada la Copa Am\u00e9rica, les queremos preguntar por los llamados \"Underdogs\"\u2026\n\n\u00bfCu\u00e1l jugador les sorprendi\u00f3? \u00bfA cu\u00e1l o cu\u00e1les seguir\u00e1n m\u00e1s de cerca de ahora en adelante?\n\nLos leemos \ud83d\udc40",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            193
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 127297677,
+            "id_str": "127297677",
+            "name": "La Pizarra del DT",
+            "screen_name": "LaPizarraDelDT_",
+            "location": "Davie, Florida",
+            "description": "Cursos, an\u00e1lisis, E-Sports y Scouting. Hablamos de f\u00fatbol en Am\u00e9rica. | contacto@lapizarradeldt.com",
+            "url": "https://t.co/v2eqWVZnZB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/v2eqWVZnZB",
+                            "expanded_url": "http://www.lapizarradeldt.com",
+                            "display_url": "lapizarradeldt.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 45350,
+            "friends_count": 830,
+            "listed_count": 291,
+            "created_at": "Sun Mar 28 18:58:10 +0000 2010",
+            "favourites_count": 14014,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 134412,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1290425121484599296/otr63ctN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290425121484599296/otr63ctN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/127297677/1596496316",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

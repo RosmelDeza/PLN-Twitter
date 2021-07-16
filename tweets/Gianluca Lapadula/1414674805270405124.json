@@ -1,0 +1,319 @@
+{
+    "created_at": "Mon Jul 12 19:55:31 +0000 2021",
+    "id": 1414674805270405124,
+    "id_str": "1414674805270405124",
+    "full_text": "Gianluca Lapadula dentro de los futbolistas que brillaron en la Copa Am\u00e9rica. \ud83c\udfc6\ud83c\uddf5\ud83c\uddea\n\n\u2018Il Peruviano\u2019 anot\u00f3 03 goles y brind\u00f3 01 asistencia en 07 partidos disputados en el certamen. \u26bd\ufe0f\ud83d\udca5\n\nNuestro nuevo \u20189\u2019. Un crack. \ud83c\udfaf\ud83d\udd1d https://t.co/R9aBIYvutv",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        214
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/R9aBIYvutv",
+                "expanded_url": "https://twitter.com/copaamerica/status/1414672156982616070",
+                "display_url": "twitter.com/copaamerica/st\u2026",
+                "indices": [
+                    215,
+                    238
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1403416080,
+        "id_str": "1403416080",
+        "name": "Renzo Galiano",
+        "screen_name": "RenzoGaliano",
+        "location": "Lima, Peru",
+        "description": "Periodista. Corresponsal en Per\u00fa para @diarioas \ud83d\uddde | Colaborador en @ovacionweb \ud83d\udcfb | Coordinador web en Migrantes del Bal\u00f3n \ud83d\udcbb | Forjado en El Comercio \ud83d\udcdd",
+        "url": "https://t.co/lWQKIbYkEJ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/lWQKIbYkEJ",
+                        "expanded_url": "https://peru.as.com/autor/renzo_galiano_sedan/a/",
+                        "display_url": "peru.as.com/autor/renzo_ga\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6284,
+        "friends_count": 662,
+        "listed_count": 47,
+        "created_at": "Sat May 04 21:28:44 +0000 2013",
+        "favourites_count": 230153,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 67684,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1012879603344527361/Qmr5J9Lz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012879603344527361/Qmr5J9Lz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1403416080/1611438540",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414672156982616070,
+    "quoted_status_id_str": "1414672156982616070",
+    "quoted_status": {
+        "created_at": "Mon Jul 12 19:45:00 +0000 2021",
+        "id": 1414672156982616070,
+        "id_str": "1414672156982616070",
+        "full_text": "ATAJADAS, TALENTO Y GOLES \u2b50\n\nLos jugadores de cada selecci\u00f3n que m\u00e1s brillaron en esta CONMEBOL #CopaAm\u00e9rica \u2728\ud83c\udfc6 \n\n#VibraElContinente\n\nDEFESAS, TALENTO E GOLS \u2b50\n\nOs jogadores de cada sele\u00e7\u00e3o que mais brilharam nesta CONMEBOL #CopaAm\u00e9rica \u2728\ud83c\udfc6 \n\n#VibraOContinente https://t.co/RNcqw74dmp",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            259
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CopaAm\u00e9rica",
+                    "indices": [
+                        96,
+                        108
+                    ]
+                },
+                {
+                    "text": "VibraElContinente",
+                    "indices": [
+                        114,
+                        132
+                    ]
+                },
+                {
+                    "text": "CopaAm\u00e9rica",
+                    "indices": [
+                        224,
+                        236
+                    ]
+                },
+                {
+                    "text": "VibraOContinente",
+                    "indices": [
+                        242,
+                        259
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414668193113726985,
+                    "id_str": "1414668193113726985",
+                    "indices": [
+                        260,
+                        283
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HpOfWWYAkhnG0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HpOfWWYAkhnG0.jpg",
+                    "url": "https://t.co/RNcqw74dmp",
+                    "display_url": "pic.twitter.com/RNcqw74dmp",
+                    "expanded_url": "https://twitter.com/CopaAmerica/status/1414672156982616070/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 576,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1611,
+                            "h": 1902,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1016,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414668193113726985,
+                    "id_str": "1414668193113726985",
+                    "indices": [
+                        260,
+                        283
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HpOfWWYAkhnG0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HpOfWWYAkhnG0.jpg",
+                    "url": "https://t.co/RNcqw74dmp",
+                    "display_url": "pic.twitter.com/RNcqw74dmp",
+                    "expanded_url": "https://twitter.com/CopaAmerica/status/1414672156982616070/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 576,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1611,
+                            "h": 1902,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1016,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3159711265,
+            "id_str": "3159711265",
+            "name": "Copa Am\u00e9rica",
+            "screen_name": "CopaAmerica",
+            "location": "Paraguay",
+            "description": "Conta oficial do torneio continental mais antigo do mundo. Desde 1916.\n\nCuenta oficial del torneo continental m\u00e1s antiguo del mundo. Desde 1916.",
+            "url": "https://t.co/Tx7lTXbAMh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Tx7lTXbAMh",
+                            "expanded_url": "https://copaamerica.com",
+                            "display_url": "copaamerica.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 556469,
+            "friends_count": 227,
+            "listed_count": 1542,
+            "created_at": "Thu Apr 16 13:26:19 +0000 2015",
+            "favourites_count": 1405,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 8505,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1397566412164681732/pu-65keH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397566412164681732/pu-65keH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3159711265/1623554405",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 158,
+        "favorite_count": 1414,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

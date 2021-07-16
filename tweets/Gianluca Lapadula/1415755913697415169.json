@@ -1,0 +1,176 @@
+{
+    "created_at": "Thu Jul 15 19:31:27 +0000 2021",
+    "id": 1415755913697415169,
+    "id_str": "1415755913697415169",
+    "full_text": "@G_Lapadula te amo, te amo, te amo gracias por devolvernos la f\u00e9 de ganar una posible copa am\u00e9rica y de siempre estar unidos ante todo, eres un luz para nuestra oscuridad que atraves\u00f3 el pa\u00eds, gracias Gianluca lapagol. Siempre te vamos a extra\u00f1ar \ud83d\udc9e\ud83d\udc9e\ud83d\udc93\ud83d\udc93\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea https://t.co/dHYogzRSlm",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        255
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "G_Lapadula",
+                "name": "GLapadula",
+                "id": 2493053869,
+                "id_str": "2493053869",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415755903383519234,
+                "id_str": "1415755903383519234",
+                "indices": [
+                    256,
+                    279
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XGfj3WQAIt-48.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6XGfj3WQAIt-48.png",
+                "url": "https://t.co/dHYogzRSlm",
+                "display_url": "pic.twitter.com/dHYogzRSlm",
+                "expanded_url": "https://twitter.com/__YamBetsey/status/1415755913697415169/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 566,
+                        "h": 341,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 566,
+                        "h": 341,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 566,
+                        "h": 341,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415755903383519234,
+                "id_str": "1415755903383519234",
+                "indices": [
+                    256,
+                    279
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XGfj3WQAIt-48.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6XGfj3WQAIt-48.png",
+                "url": "https://t.co/dHYogzRSlm",
+                "display_url": "pic.twitter.com/dHYogzRSlm",
+                "expanded_url": "https://twitter.com/__YamBetsey/status/1415755913697415169/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 566,
+                        "h": 341,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 566,
+                        "h": 341,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 566,
+                        "h": 341,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415749014109270030,
+    "in_reply_to_status_id_str": "1415749014109270030",
+    "in_reply_to_user_id": 2493053869,
+    "in_reply_to_user_id_str": "2493053869",
+    "in_reply_to_screen_name": "G_Lapadula",
+    "user": {
+        "id": 1095094540892020738,
+        "id_str": "1095094540892020738",
+        "name": "Nah \ud83e\udd1d",
+        "screen_name": "__YamBetsey",
+        "location": "Peru \ud83c\uddf5\ud83c\uddea",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 36,
+        "friends_count": 216,
+        "listed_count": 0,
+        "created_at": "Mon Feb 11 22:57:39 +0000 2019",
+        "favourites_count": 18384,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5089,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396612215910932487/C-n4aYsH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396612215910932487/C-n4aYsH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095094540892020738/1593552508",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

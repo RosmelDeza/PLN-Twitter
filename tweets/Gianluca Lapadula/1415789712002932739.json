@@ -1,0 +1,275 @@
+{
+    "created_at": "Thu Jul 15 21:45:46 +0000 2021",
+    "id": 1415789712002932739,
+    "id_str": "1415789712002932739",
+    "full_text": "RT @Jasonsb1: Gianluca Lapadula \ud83c\uddf5\ud83c\uddea fue recibido de esta manera por su familia al regresar a Italia \ud83c\uddee\ud83c\uddf9. Hoy el medio turco Radyo Gol, inform\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Jasonsb1",
+                "name": "Jason Sanchez",
+                "id": 202851419,
+                "id_str": "202851419",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 133873461,
+        "id_str": "133873461",
+        "name": "BaekMin_Love\u2665\u2665\u2606:-)",
+        "screen_name": "bblumi",
+        "location": "Lima Peru",
+        "description": "Fan #1 de Nu'est, Chris Evans, BSB Mis Amores: Baekho, Ren, Minhyun, JR, Aron Nick,AJ,Kevin,Howie,Brian \u2665.\u2665 Dejenme vivir mi vida..... yo no soy mala con nadie",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 440,
+        "friends_count": 990,
+        "listed_count": 3,
+        "created_at": "Fri Apr 16 21:37:39 +0000 2010",
+        "favourites_count": 16384,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33489,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406264400437207043/95Fw7RAS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406264400437207043/95Fw7RAS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133873461/1608925593",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 20:32:47 +0000 2021",
+        "id": 1415771345204523010,
+        "id_str": "1415771345204523010",
+        "full_text": "Gianluca Lapadula \ud83c\uddf5\ud83c\uddea fue recibido de esta manera por su familia al regresar a Italia \ud83c\uddee\ud83c\uddf9. Hoy el medio turco Radyo Gol, inform\u00f3 que los directivos del Trabzonspor \ud83c\uddf9\ud83c\uddf7 habr\u00edan recomendado el fichaje de Lapadula y el DT del equipo ,Abdullah Avci, solicit\u00f3 un informe de exploraci\u00f3n. https://t.co/rI8stqwtGR",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415771335259738117,
+                    "id_str": "1415771335259738117",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XUh0FWUAUkWAU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XUh0FWUAUkWAU.jpg",
+                    "url": "https://t.co/rI8stqwtGR",
+                    "display_url": "pic.twitter.com/rI8stqwtGR",
+                    "expanded_url": "https://twitter.com/Jasonsb1/status/1415771345204523010/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 828,
+                            "h": 1463,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 385,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 679,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415771335259738117,
+                    "id_str": "1415771335259738117",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XUh0FWUAUkWAU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XUh0FWUAUkWAU.jpg",
+                    "url": "https://t.co/rI8stqwtGR",
+                    "display_url": "pic.twitter.com/rI8stqwtGR",
+                    "expanded_url": "https://twitter.com/Jasonsb1/status/1415771345204523010/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 828,
+                            "h": 1463,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 385,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 679,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 202851419,
+            "id_str": "202851419",
+            "name": "Jason Sanchez",
+            "screen_name": "Jasonsb1",
+            "location": "Peru",
+            "description": "Pap\u00e1 de Zoe y periodista en Latina Deportes",
+            "url": "https://t.co/H2Eag0M59J",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/H2Eag0M59J",
+                            "expanded_url": "https://www.instagram.com/jasonsanchezb/",
+                            "display_url": "instagram.com/jasonsanchezb/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1456,
+            "friends_count": 1165,
+            "listed_count": 7,
+            "created_at": "Thu Oct 14 23:43:12 +0000 2010",
+            "favourites_count": 1334,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2979,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1357988987818885122/XVWUGLu3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357988987818885122/XVWUGLu3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/202851419/1612604866",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

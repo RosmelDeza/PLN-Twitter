@@ -1,0 +1,255 @@
+{
+    "created_at": "Mon Jul 12 22:27:47 +0000 2021",
+    "id": 1414713122955354113,
+    "id_str": "1414713122955354113",
+    "full_text": "Gianluca Lapadula: \"Quiero agradecer al pa\u00eds por todo el cari\u00f1o que me da\"\n#Selecci\u00f3nperuana #Per\u00fa #CopaAm\u00e9rica2021 #Lapadula #GianlucaLapadula \n\u2705 Reportero: Alexis Bernal\nCamar\u00f3grafo: Nilton La Rosa\n\ud83d\udc49 Tv online en vivo \u25b6\ufe0f https://t.co/YyWn0Gxbcd https://t.co/09DQ9dsUnI",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        246
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Selecci\u00f3nperuana",
+                "indices": [
+                    75,
+                    92
+                ]
+            },
+            {
+                "text": "Per\u00fa",
+                "indices": [
+                    93,
+                    98
+                ]
+            },
+            {
+                "text": "CopaAm\u00e9rica2021",
+                "indices": [
+                    99,
+                    115
+                ]
+            },
+            {
+                "text": "Lapadula",
+                "indices": [
+                    116,
+                    125
+                ]
+            },
+            {
+                "text": "GianlucaLapadula",
+                "indices": [
+                    126,
+                    143
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/YyWn0Gxbcd",
+                "expanded_url": "https://bestcableperu.com.pe/tv6.html",
+                "display_url": "bestcableperu.com.pe/tv6.html",
+                "indices": [
+                    223,
+                    246
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1414712578325028867,
+                "id_str": "1414712578325028867",
+                "indices": [
+                    247,
+                    270
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414712578325028867/pu/img/dr6mdQnFSbMcESkt.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414712578325028867/pu/img/dr6mdQnFSbMcESkt.jpg",
+                "url": "https://t.co/09DQ9dsUnI",
+                "display_url": "pic.twitter.com/09DQ9dsUnI",
+                "expanded_url": "https://twitter.com/bcscanal6/status/1414713122955354113/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414712578325028867,
+                "id_str": "1414712578325028867",
+                "indices": [
+                    247,
+                    270
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414712578325028867/pu/img/dr6mdQnFSbMcESkt.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414712578325028867/pu/img/dr6mdQnFSbMcESkt.jpg",
+                "url": "https://t.co/09DQ9dsUnI",
+                "display_url": "pic.twitter.com/09DQ9dsUnI",
+                "expanded_url": "https://twitter.com/bcscanal6/status/1414713122955354113/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 84017,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414712578325028867/pu/vid/1280x720/51R9cl4rQFXKE6LO.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1414712578325028867/pu/pl/_PjjHIQAOfxdchU-.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414712578325028867/pu/vid/480x270/ijFkAhKDB0vjUVbc.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414712578325028867/pu/vid/640x360/fxHJFj2Z6akGPbYm.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1392867427768279045,
+        "id_str": "1392867427768279045",
+        "name": "Best Cable Sports Canal 6 - Oficial",
+        "screen_name": "bcscanal6",
+        "location": "",
+        "description": "Canal exclusivo de Best Cable.",
+        "url": "https://t.co/vdHG23TEpi",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/vdHG23TEpi",
+                        "expanded_url": "https://bestcableperu.com.pe/tv6.html",
+                        "display_url": "bestcableperu.com.pe/tv6.html",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 46,
+        "friends_count": 228,
+        "listed_count": 0,
+        "created_at": "Thu May 13 15:41:04 +0000 2021",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 47,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1392867744480169989/G7USJ1xl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392867744480169989/G7USJ1xl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392867427768279045/1621459663",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

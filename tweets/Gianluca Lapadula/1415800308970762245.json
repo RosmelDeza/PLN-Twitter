@@ -1,0 +1,371 @@
+{
+    "created_at": "Thu Jul 15 22:27:52 +0000 2021",
+    "id": 1415800308970762245,
+    "id_str": "1415800308970762245",
+    "full_text": "@SeleccionPeru @erickosoresp @crdelapiedra @oscardelportal @fifacom_es @FOXSportsMX @SC_ESPN @FOXDeportes @fifaworldcup_es @FIFAcom @EASPORTSFIFA @CONMEBOL los periodistas deportivo mira al jugador de la selecci\u00f3n peruana gianluca lapadula regres\u00f3 a su casa en italia emocionado juntos con su familia espero q regrese en septiembre frente a uruguay complicado por eso nesecitamos asegurar como goles anotados en copa am\u00e9rica suerte.\ud83d\ude14\ud83d\udc4d https://t.co/kE24Ky6wys",
+    "truncated": false,
+    "display_text_range": [
+        156,
+        434
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SeleccionPeru",
+                "name": "Selecci\u00f3n Peruana \ud83c\uddf5\ud83c\uddea",
+                "id": 1170209287,
+                "id_str": "1170209287",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "erickosoresp",
+                "name": "Erick Osores",
+                "id": 1200206216993087488,
+                "id_str": "1200206216993087488",
+                "indices": [
+                    15,
+                    28
+                ]
+            },
+            {
+                "screen_name": "crdelapiedra",
+                "name": "Richard De La Piedra",
+                "id": 240451924,
+                "id_str": "240451924",
+                "indices": [
+                    29,
+                    42
+                ]
+            },
+            {
+                "screen_name": "oscardelportal",
+                "name": "Oscar Del Portal",
+                "id": 1669364101,
+                "id_str": "1669364101",
+                "indices": [
+                    43,
+                    58
+                ]
+            },
+            {
+                "screen_name": "fifacom_es",
+                "name": "FIFA.com en espa\u00f1ol",
+                "id": 142295586,
+                "id_str": "142295586",
+                "indices": [
+                    59,
+                    70
+                ]
+            },
+            {
+                "screen_name": "FOXSportsMX",
+                "name": "FOX Sports MX",
+                "id": 123681659,
+                "id_str": "123681659",
+                "indices": [
+                    71,
+                    83
+                ]
+            },
+            {
+                "screen_name": "SC_ESPN",
+                "name": "SportsCenter",
+                "id": 524531680,
+                "id_str": "524531680",
+                "indices": [
+                    84,
+                    92
+                ]
+            },
+            {
+                "screen_name": "FOXDeportes",
+                "name": "FOX Deportes",
+                "id": 195947234,
+                "id_str": "195947234",
+                "indices": [
+                    93,
+                    105
+                ]
+            },
+            {
+                "screen_name": "fifaworldcup_es",
+                "name": "Copa Mundial FIFA \ud83c\udfc6",
+                "id": 142296675,
+                "id_str": "142296675",
+                "indices": [
+                    106,
+                    122
+                ]
+            },
+            {
+                "screen_name": "FIFAcom",
+                "name": "FIFA.com",
+                "id": 140070953,
+                "id_str": "140070953",
+                "indices": [
+                    123,
+                    131
+                ]
+            },
+            {
+                "screen_name": "EASPORTSFIFA",
+                "name": "EA SPORTS FIFA",
+                "id": 105297123,
+                "id_str": "105297123",
+                "indices": [
+                    132,
+                    145
+                ]
+            },
+            {
+                "screen_name": "CONMEBOL",
+                "name": "CONMEBOL.com",
+                "id": 1265260098,
+                "id_str": "1265260098",
+                "indices": [
+                    146,
+                    155
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415800281275805696,
+                "id_str": "1415800281275805696",
+                "indices": [
+                    435,
+                    458
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Xu2sZXsAA_EN-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Xu2sZXsAA_EN-.jpg",
+                "url": "https://t.co/kE24Ky6wys",
+                "display_url": "pic.twitter.com/kE24Ky6wys",
+                "expanded_url": "https://twitter.com/elnenexx20/status/1415800308970762245/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 939,
+                        "h": 750,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 939,
+                        "h": 750,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 543,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415800281275805696,
+                "id_str": "1415800281275805696",
+                "indices": [
+                    435,
+                    458
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Xu2sZXsAA_EN-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Xu2sZXsAA_EN-.jpg",
+                "url": "https://t.co/kE24Ky6wys",
+                "display_url": "pic.twitter.com/kE24Ky6wys",
+                "expanded_url": "https://twitter.com/elnenexx20/status/1415800308970762245/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 939,
+                        "h": 750,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 939,
+                        "h": 750,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 543,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415800289836343296,
+                "id_str": "1415800289836343296",
+                "indices": [
+                    435,
+                    458
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Xu3MSXIAAyhtV.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Xu3MSXIAAyhtV.jpg",
+                "url": "https://t.co/kE24Ky6wys",
+                "display_url": "pic.twitter.com/kE24Ky6wys",
+                "expanded_url": "https://twitter.com/elnenexx20/status/1415800308970762245/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 889,
+                        "h": 717,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 548,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 889,
+                        "h": 717,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415800300351414277,
+                "id_str": "1415800300351414277",
+                "indices": [
+                    435,
+                    458
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Xu3zdWYAU5KCa.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Xu3zdWYAU5KCa.jpg",
+                "url": "https://t.co/kE24Ky6wys",
+                "display_url": "pic.twitter.com/kE24Ky6wys",
+                "expanded_url": "https://twitter.com/elnenexx20/status/1415800308970762245/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 842,
+                        "h": 696,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 562,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 842,
+                        "h": 696,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415054558485692431,
+    "in_reply_to_status_id_str": "1415054558485692431",
+    "in_reply_to_user_id": 410487154,
+    "in_reply_to_user_id_str": "410487154",
+    "in_reply_to_screen_name": "elnenexx20",
+    "user": {
+        "id": 410487154,
+        "id_str": "410487154",
+        "name": "Elnenexx Rivera V.",
+        "screen_name": "elnenexx20",
+        "location": "Lima, Peru",
+        "description": "La Historia del Futuro, Clarividencia, Mentalista y la Predicci\u00f3n de los famosos internacionales, los pol\u00edticos y futbolistas en futuro todos puede suceder.\ud83d\ude07\ud83d\ude4f",
+        "url": "https://t.co/UYG1R1NU0g",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/UYG1R1NU0g",
+                        "expanded_url": "https://www.google.com.pe/maps/@-11.8602189,-77.1259387,16.5z",
+                        "display_url": "google.com.pe/maps/@-11.8602\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 62,
+        "friends_count": 366,
+        "listed_count": 4,
+        "created_at": "Sat Nov 12 05:04:55 +0000 2011",
+        "favourites_count": 523,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5177,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/910832636838506496/RvKXRLyW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/910832636838506496/RvKXRLyW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/410487154/1608507448",
+        "profile_link_color": "0C00B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

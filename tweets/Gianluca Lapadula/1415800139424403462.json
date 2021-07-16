@@ -1,0 +1,407 @@
+{
+    "created_at": "Thu Jul 15 22:27:12 +0000 2021",
+    "id": 1415800139424403462,
+    "id_str": "1415800139424403462",
+    "full_text": "RT @Jasonsb1: Gianluca Lapadula NO ha sido convocado para la pretemporada del Benevento que se desarrollar\u00e1 en Cascia del 15 al 31 de julio\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Jasonsb1",
+                "name": "Jason Sanchez",
+                "id": 202851419,
+                "id_str": "202851419",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 282671488,
+        "id_str": "282671488",
+        "name": "\ud835\udc3f\ud835\udc62\ud835\udc59\u00fa \ud83d\udd25\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "Lulumensajes",
+        "location": "",
+        "description": "AUTOPROCLAMADA PRESIDENTA INTERINA DE PER\u00da DEL NORTE. \ud83c\uddf5\ud83c\uddea\nHincha n\u00famero uno de la selecci\u00f3n de v\u00f3ley y f\u00fatbol. INDEPENDIENTE",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2096,
+        "friends_count": 1205,
+        "listed_count": 2,
+        "created_at": "Fri Apr 15 17:29:44 +0000 2011",
+        "favourites_count": 129449,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 119808,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404842480026128386/b4cRBjce_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404842480026128386/b4cRBjce_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/282671488/1626376905",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 22:26:29 +0000 2021",
+        "id": 1415799959635603456,
+        "id_str": "1415799959635603456",
+        "full_text": "Gianluca Lapadula NO ha sido convocado para la pretemporada del Benevento que se desarrollar\u00e1 en Cascia del 15 al 31 de julio con miras a la participaci\u00f3n en la Serie B. \nPese a que Lapadula tiene contrato hasta el 2023, todo hace indicar que su salida del Benevento es inminente. https://t.co/wjgeriiClA https://t.co/il75hEN4fs",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            304
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wjgeriiClA",
+                    "expanded_url": "https://twitter.com/bncalcio/status/1415762857321369600",
+                    "display_url": "twitter.com/bncalcio/statu\u2026",
+                    "indices": [
+                        281,
+                        304
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415799952895262720,
+                    "id_str": "1415799952895262720",
+                    "indices": [
+                        305,
+                        328
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XujlFWQAAkQzu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XujlFWQAAkQzu.jpg",
+                    "url": "https://t.co/il75hEN4fs",
+                    "display_url": "pic.twitter.com/il75hEN4fs",
+                    "expanded_url": "https://twitter.com/Jasonsb1/status/1415799959635603456/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 380,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 740,
+                            "h": 414,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 740,
+                            "h": 414,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415799952895262720,
+                    "id_str": "1415799952895262720",
+                    "indices": [
+                        305,
+                        328
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XujlFWQAAkQzu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XujlFWQAAkQzu.jpg",
+                    "url": "https://t.co/il75hEN4fs",
+                    "display_url": "pic.twitter.com/il75hEN4fs",
+                    "expanded_url": "https://twitter.com/Jasonsb1/status/1415799959635603456/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 380,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 740,
+                            "h": 414,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 740,
+                            "h": 414,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 202851419,
+            "id_str": "202851419",
+            "name": "Jason Sanchez",
+            "screen_name": "Jasonsb1",
+            "location": "Peru",
+            "description": "Pap\u00e1 de Zoe y periodista en Latina Deportes",
+            "url": "https://t.co/H2Eag0M59J",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/H2Eag0M59J",
+                            "expanded_url": "https://www.instagram.com/jasonsanchezb/",
+                            "display_url": "instagram.com/jasonsanchezb/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1456,
+            "friends_count": 1165,
+            "listed_count": 7,
+            "created_at": "Thu Oct 14 23:43:12 +0000 2010",
+            "favourites_count": 1334,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2979,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1357988987818885122/XVWUGLu3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357988987818885122/XVWUGLu3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/202851419/1612604866",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415762857321369600,
+        "quoted_status_id_str": "1415762857321369600",
+        "quoted_status": {
+            "created_at": "Thu Jul 15 19:59:03 +0000 2021",
+            "id": 1415762857321369600,
+            "id_str": "1415762857321369600",
+            "full_text": "#CASCIA2021: I CONVOCATI https://t.co/IsnvzbwEa8",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                48
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "CASCIA2021",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/IsnvzbwEa8",
+                        "expanded_url": "https://www.beneventocalcio.club/news/notizie/3943/cascia2021-i-convocati.shtml?utm_source=dlvr.it&utm_medium=twitter",
+                        "display_url": "beneventocalcio.club/news/notizie/3\u2026",
+                        "indices": [
+                            25,
+                            48
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 812265993196146688,
+                "id_str": "812265993196146688",
+                "name": "Benevento Calcio",
+                "screen_name": "bncalcio",
+                "location": "Benevento, Campania",
+                "description": "Benvenuti nella twitter page UFFICIALE del Benevento Calcio.",
+                "url": "https://t.co/i4Rgd0ukLN",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/i4Rgd0ukLN",
+                                "expanded_url": "http://www.beneventocalcio.club",
+                                "display_url": "beneventocalcio.club",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 30329,
+                "friends_count": 37,
+                "listed_count": 417,
+                "created_at": "Fri Dec 23 11:57:58 +0000 2016",
+                "favourites_count": 626,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 4798,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1179319601483702272/bapkRZH7_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179319601483702272/bapkRZH7_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/812265993196146688/1602609992",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 17,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 3,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415762857321369600,
+    "quoted_status_id_str": "1415762857321369600",
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

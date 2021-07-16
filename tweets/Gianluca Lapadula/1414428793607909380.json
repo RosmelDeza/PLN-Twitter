@@ -1,0 +1,377 @@
+{
+    "created_at": "Mon Jul 12 03:37:57 +0000 2021",
+    "id": 1414428793607909380,
+    "id_str": "1414428793607909380",
+    "full_text": "RT @Barrio_Futbol: En una, Gianluca Lapadula en el @acmilan con un tal Gianluigi Donnarumma. En otra, gritando un gol con la selecci\u00f3n ital\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Barrio_Futbol",
+                "name": "Barrio F\u00fatbol | Per\u00fa",
+                "id": 348289467,
+                "id_str": "348289467",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "acmilan",
+                "name": "AC Milan",
+                "id": 186386857,
+                "id_str": "186386857",
+                "indices": [
+                    51,
+                    59
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4394086580,
+        "id_str": "4394086580",
+        "name": "\ud835\ude48\ud835\ude5e\ud835\ude58\ud835\ude5d\ud835\ude56\ud835\ude5a\ud835\ude61 \ud835\ude51\ud835\ude5a\ud835\ude67\ud835\ude5c\ud835\ude56\ud835\ude67\ud835\ude56\ud835\ude6e \ud835\ude47\ud835\ude61\ud835\ude64\ud835\ude63\ud835\ude56",
+        "screen_name": "VergarayLlona",
+        "location": "Mundo",
+        "description": "\ud835\ude13\ud835\ude22 \ud835\ude37\ud835\ude2a\ud835\ude25\ud835\ude22 \ud835\ude2f\ud835\ude30 \ud835\ude26\ud835\ude34 \ud835\ude26\ud835\ude34\ud835\ude31\ud835\ude26\ud835\ude33\ud835\ude22\ud835\ude33 \ud835\ude22 \ud835\ude32\ud835\ude36\ud835\ude26 \ud835\ude31\ud835\ude22\ud835\ude34\ud835\ude26 \ud835\ude2d\ud835\ude22 \ud835\ude35\ud835\ude30\ud835\ude33\ud835\ude2e\ud835\ude26\ud835\ude2f\ud835\ude35\ud835\ude22,\ud835\ude26\ud835\ude34 \ud835\ude22\ud835\ude31\ud835\ude33\ud835\ude26\ud835\ude2f\ud835\ude25\ud835\ude26\ud835\ude33 \ud835\ude22 \ud835\ude25\ud835\ude22\ud835\ude2f\ud835\ude3b\ud835\ude22\ud835\ude33 \ud835\ude23\ud835\ude22\ud835\ude2b\ud835\ude30 \ud835\ude2d\ud835\ude22 \ud835\ude2d\ud835\ude2d\ud835\ude36\ud835\ude37\ud835\ude2a\ud835\ude22.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 139,
+        "listed_count": 1,
+        "created_at": "Sun Nov 29 01:44:27 +0000 2015",
+        "favourites_count": 11872,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6462,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381515163740774404/iTbgfpYp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381515163740774404/iTbgfpYp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4394086580/1618213946",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 02:53:11 +0000 2021",
+        "id": 1414417526159822851,
+        "id_str": "1414417526159822851",
+        "full_text": "En una, Gianluca Lapadula en el @acmilan con un tal Gianluigi Donnarumma. En otra, gritando un gol con la selecci\u00f3n italiana.\n\nHoy, #ITA sali\u00f3 campe\u00f3n de la #EURO2020 con el arquero 'azzurri' de h\u00e9roe en la tanda de penales. \ud83d\udc40\n\n\u00a1Cel\u00e9bralo, @G_Lapadula! \ud83c\uddf5\ud83c\uddea\ud83c\udfc6\ud83c\uddee\ud83c\uddf9\n\n\ud83d\udd0a @RadioUnionPeru https://t.co/x4VDZv3xs0",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ITA",
+                    "indices": [
+                        132,
+                        136
+                    ]
+                },
+                {
+                    "text": "EURO2020",
+                    "indices": [
+                        157,
+                        166
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "acmilan",
+                    "name": "AC Milan",
+                    "id": 186386857,
+                    "id_str": "186386857",
+                    "indices": [
+                        32,
+                        40
+                    ]
+                },
+                {
+                    "screen_name": "G_Lapadula",
+                    "name": "GLapadula",
+                    "id": 2493053869,
+                    "id_str": "2493053869",
+                    "indices": [
+                        240,
+                        251
+                    ]
+                },
+                {
+                    "screen_name": "RadioUnionPeru",
+                    "name": "Radio Uni\u00f3n",
+                    "id": 288237812,
+                    "id_str": "288237812",
+                    "indices": [
+                        262,
+                        277
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414417496355057665,
+                    "id_str": "1414417496355057665",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6EFOBJXMAE5_Md.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6EFOBJXMAE5_Md.jpg",
+                    "url": "https://t.co/x4VDZv3xs0",
+                    "display_url": "pic.twitter.com/x4VDZv3xs0",
+                    "expanded_url": "https://twitter.com/Barrio_Futbol/status/1414417526159822851/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 800,
+                            "h": 533,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 800,
+                            "h": 533,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414417496355057665,
+                    "id_str": "1414417496355057665",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6EFOBJXMAE5_Md.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6EFOBJXMAE5_Md.jpg",
+                    "url": "https://t.co/x4VDZv3xs0",
+                    "display_url": "pic.twitter.com/x4VDZv3xs0",
+                    "expanded_url": "https://twitter.com/Barrio_Futbol/status/1414417526159822851/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 800,
+                            "h": 533,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 800,
+                            "h": 533,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414416982879899649,
+                    "id_str": "1414416982879899649",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6EEwITWEAEHRxC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6EEwITWEAEHRxC.jpg",
+                    "url": "https://t.co/x4VDZv3xs0",
+                    "display_url": "pic.twitter.com/x4VDZv3xs0",
+                    "expanded_url": "https://twitter.com/Barrio_Futbol/status/1414417526159822851/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 498,
+                            "h": 612,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 498,
+                            "h": 612,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 498,
+                            "h": 612,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 348289467,
+            "id_str": "348289467",
+            "name": "Barrio F\u00fatbol | Per\u00fa",
+            "screen_name": "Barrio_Futbol",
+            "location": "Lima, Per\u00fa",
+            "description": "\ud83c\udf99 Conducido por Paco Baz\u00e1n, @tuleenomas y @NestorBlancoH.\n\ud83d\uddd3 Lunes a Viernes de \u23f0 5 a 6 p.m. por @RadioUnionPeru 103.3 FM.\n\ud83d\udcfb https://t.co/LxmdB7SlAc",
+            "url": "https://t.co/fgSKC4mQCw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fgSKC4mQCw",
+                            "expanded_url": "https://www.instagram.com/barriofutbol.pe/",
+                            "display_url": "instagram.com/barriofutbol.p\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LxmdB7SlAc",
+                            "expanded_url": "http://radios.com.pe/union",
+                            "display_url": "radios.com.pe/union",
+                            "indices": [
+                                124,
+                                147
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 26116,
+            "friends_count": 948,
+            "listed_count": 97,
+            "created_at": "Thu Aug 04 05:29:21 +0000 2011",
+            "favourites_count": 4438,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17420,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/902169731800731648/zHKPm7A__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/902169731800731648/zHKPm7A__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/348289467/1597692716",
+            "profile_link_color": "4A990C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 43,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

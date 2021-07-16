@@ -1,0 +1,273 @@
+{
+    "created_at": "Wed Jul 14 20:08:14 +0000 2021",
+    "id": 1415402780496474119,
+    "id_str": "1415402780496474119",
+    "full_text": "RT @fanaticospe: \u00a1Gianluca Lapadula en FIFA \ud83c\udfae\ud83c\uddf5\ud83c\uddea! El delantero peruano y su carta especial para el FIFA Ultimate Team con una valoraci\u00f3n de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "fanaticospe",
+                "name": "Fan\u00e1ticos del F\u00fatbol \ud83c\uddf5\ud83c\uddea",
+                "id": 1040303851675545600,
+                "id_str": "1040303851675545600",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1299076519151755266,
+        "id_str": "1299076519151755266",
+        "name": "Kiomy",
+        "screen_name": "kiomibm",
+        "location": "Trujillo, Peru",
+        "description": "Peruana de \ud83e\udd0d\ud83c\uddf5\ud83c\uddea",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 68,
+        "friends_count": 211,
+        "listed_count": 0,
+        "created_at": "Thu Aug 27 20:09:56 +0000 2020",
+        "favourites_count": 9288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3895,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412180699159859203/h-Hre9pA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412180699159859203/h-Hre9pA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1299076519151755266/1615434480",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 09 17:36:00 +0000 2021",
+        "id": 1413552528596344835,
+        "id_str": "1413552528596344835",
+        "full_text": "\u00a1Gianluca Lapadula en FIFA \ud83c\udfae\ud83c\uddf5\ud83c\uddea! El delantero peruano y su carta especial para el FIFA Ultimate Team con una valoraci\u00f3n de 93 de media, a causa de sus destacadas actuaciones en la @CopaAmerica \ud83d\udc4f\ud83c\udffc. https://t.co/pnCiJOKbsX",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            195
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CopaAmerica",
+                    "name": "Copa Am\u00e9rica",
+                    "id": 3159711265,
+                    "id_str": "3159711265",
+                    "indices": [
+                        179,
+                        191
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413552518089555973,
+                    "id_str": "1413552518089555973",
+                    "indices": [
+                        196,
+                        219
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E53yhqAWQAUVPmf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E53yhqAWQAUVPmf.jpg",
+                    "url": "https://t.co/pnCiJOKbsX",
+                    "display_url": "pic.twitter.com/pnCiJOKbsX",
+                    "expanded_url": "https://twitter.com/fanaticospe/status/1413552528596344835/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1033,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 585,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1763,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413552518089555973,
+                    "id_str": "1413552518089555973",
+                    "indices": [
+                        196,
+                        219
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E53yhqAWQAUVPmf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E53yhqAWQAUVPmf.jpg",
+                    "url": "https://t.co/pnCiJOKbsX",
+                    "display_url": "pic.twitter.com/pnCiJOKbsX",
+                    "expanded_url": "https://twitter.com/fanaticospe/status/1413552528596344835/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1033,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 585,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1763,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1040303851675545600,
+            "id_str": "1040303851675545600",
+            "name": "Fan\u00e1ticos del F\u00fatbol \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "fanaticospe",
+            "location": "Lima, Peru",
+            "description": "\ud83d\udd1d La mayor informaci\u00f3n del f\u00fatbol peruano e internacional | Embajadores de @doradobet | Contacto: fanaticosfutbol360@gmail.com",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1745,
+            "friends_count": 517,
+            "listed_count": 4,
+            "created_at": "Thu Sep 13 18:19:00 +0000 2018",
+            "favourites_count": 3441,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3649,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1336464437834813443/Sl5HfJyV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336464437834813443/Sl5HfJyV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040303851675545600/1617656735",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 286,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

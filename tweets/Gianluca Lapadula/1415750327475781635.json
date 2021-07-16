@@ -1,0 +1,196 @@
+{
+    "created_at": "Thu Jul 15 19:09:16 +0000 2021",
+    "id": 1415750327475781635,
+    "id_str": "1415750327475781635",
+    "full_text": "RT @franztamayo29: \ud83d\udcddPude averiguar con gente del \ud83c\uddf9\ud83c\uddf7Trabzonspor sobre el inter\u00e9s por Gianluca Lapadula. El delantero peruano est\u00e1 en agenda\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "franztamayo29",
+                "name": "Franz Tamayo",
+                "id": 743608304337850368,
+                "id_str": "743608304337850368",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1119772607975440386,
+        "id_str": "1119772607975440386",
+        "name": "Gabriel Angeles Llerena #L\u00c1RGATECOMIZZO",
+        "screen_name": "gabo_crema",
+        "location": "Magdalena del Mar, Per\u00fa",
+        "description": "Hincha de @Universitario, @TuFPF y @realmadrid \n#YDALEU \u24ca\nGustos: El \u26bd, la \u24ca y la \ud83c\udfb5",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 128,
+        "friends_count": 4998,
+        "listed_count": 2,
+        "created_at": "Sun Apr 21 01:19:28 +0000 2019",
+        "favourites_count": 66978,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39608,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1220485862686908416/QIAYClnJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1220485862686908416/QIAYClnJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1119772607975440386/1580275930",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 21:22:16 +0000 2021",
+        "id": 1415421413205454849,
+        "id_str": "1415421413205454849",
+        "full_text": "\ud83d\udcddPude averiguar con gente del \ud83c\uddf9\ud83c\uddf7Trabzonspor sobre el inter\u00e9s por Gianluca Lapadula. El delantero peruano est\u00e1 en agenda pero todav\u00eda no han presentado alguna oferta por \u00e9l. El equipo disputar\u00e1 esta temporada la Conference League.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            229
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 743608304337850368,
+            "id_str": "743608304337850368",
+            "name": "Franz Tamayo",
+            "screen_name": "franztamayo29",
+            "location": "",
+            "description": "Periodista Deportivo | @tuitdepor | Fundador @sportyMKT | \ud83c\uddf5\ud83c\uddea\ud83c\udde7\ud83c\uddf4 |",
+            "url": "https://t.co/205dJz1tcX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/205dJz1tcX",
+                            "expanded_url": "https://www.instagram.com/franztamayo/",
+                            "display_url": "instagram.com/franztamayo/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3912,
+            "friends_count": 4999,
+            "listed_count": 21,
+            "created_at": "Fri Jun 17 00:56:50 +0000 2016",
+            "favourites_count": 17398,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 13573,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1066023258347249664/tAL0cokq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1066023258347249664/tAL0cokq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/743608304337850368/1493785202",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 69,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

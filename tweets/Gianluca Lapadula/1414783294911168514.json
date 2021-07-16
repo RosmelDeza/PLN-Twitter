@@ -1,0 +1,275 @@
+{
+    "created_at": "Tue Jul 13 03:06:37 +0000 2021",
+    "id": 1414783294911168514,
+    "id_str": "1414783294911168514",
+    "full_text": "RT @ErrorArbitralTR: Gianluca Lapadula ha sido elegido como el Mejor Jugador peruano en la Copa Am\u00e9rica, por la Conmebol. \n\nPretends to be\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ErrorArbitralTR",
+                "name": "Error ArbitraI",
+                "id": 1291860085388582918,
+                "id_str": "1291860085388582918",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 67224932,
+        "id_str": "67224932",
+        "name": "Julio Espejo M.",
+        "screen_name": "julioespejom",
+        "location": "Lima- Per\u00fa",
+        "description": "\ud83d\udc36\ud83d\udc31\ud83c\udf34\ud83c\udf32 | Amante de la naturaleza\n\ud83d\ude24\ud83d\ude20\ud83d\ude21\ud83e\udd2f | No me gusta hacer cola.\n\ud83e\uddf2\u2699\ud83d\udcdd\ud83d\udcc8 | Ingeniero y Emprendedor \n\ud83e\udd1d\ud83d\udcaa\ud83c\udfd6\ud83d\udcb8 | Ense\u00f1o a crear Libertad de Tiempo",
+        "url": "https://t.co/53bVSIEmxT",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/53bVSIEmxT",
+                        "expanded_url": "https://linktr.ee/JulioEspejoM_Emprendedor",
+                        "display_url": "linktr.ee/JulioEspejoM_E\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 172,
+        "friends_count": 771,
+        "listed_count": 0,
+        "created_at": "Thu Aug 20 04:14:51 +0000 2009",
+        "favourites_count": 19547,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7927,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1305280279221866499/aS4QHS30_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305280279221866499/aS4QHS30_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/67224932/1478667698",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 20:11:01 +0000 2021",
+        "id": 1414678704240971784,
+        "id_str": "1414678704240971784",
+        "full_text": "Gianluca Lapadula ha sido elegido como el Mejor Jugador peruano en la Copa Am\u00e9rica, por la Conmebol. \n\nPretends to be shocked (?). https://t.co/304xUbuv2A",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            130
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414678700403089412,
+                    "id_str": "1414678700403089412",
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HyyGDWYAQ8Mpq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HyyGDWYAQ8Mpq.jpg",
+                    "url": "https://t.co/304xUbuv2A",
+                    "display_url": "pic.twitter.com/304xUbuv2A",
+                    "expanded_url": "https://twitter.com/ErrorArbitralTR/status/1414678704240971784/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1010,
+                            "h": 1262,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414678700403089412,
+                    "id_str": "1414678700403089412",
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HyyGDWYAQ8Mpq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HyyGDWYAQ8Mpq.jpg",
+                    "url": "https://t.co/304xUbuv2A",
+                    "display_url": "pic.twitter.com/304xUbuv2A",
+                    "expanded_url": "https://twitter.com/ErrorArbitralTR/status/1414678704240971784/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1010,
+                            "h": 1262,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1291860085388582918,
+            "id_str": "1291860085388582918",
+            "name": "Error ArbitraI",
+            "screen_name": "ErrorArbitralTR",
+            "location": "Lima, Peru",
+            "description": "F\u00fatbol peruano y f\u00fatbol, en ese orden.\n\nSeguimos esperando que Twitter nos devuelva @ErrorArbitral . Si quieres que te respondamos algo: DM.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12330,
+            "friends_count": 49,
+            "listed_count": 12,
+            "created_at": "Fri Aug 07 22:14:25 +0000 2020",
+            "favourites_count": 2737,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4110,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399789469964898312/z2cLE-RV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399789469964898312/z2cLE-RV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291860085388582918/1620255796",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 119,
+        "favorite_count": 2126,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 119,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

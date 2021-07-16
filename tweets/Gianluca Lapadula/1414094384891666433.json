@@ -1,0 +1,142 @@
+{
+    "created_at": "Sun Jul 11 05:29:08 +0000 2021",
+    "id": 1414094384891666433,
+    "id_str": "1414094384891666433",
+    "full_text": "@CopaAmerica #CopaAmerica2021 #Brasil2021 #OnceIdeal\n\nEmiliano Mart\u00ednez \ud83c\udde6\ud83c\uddf7\n\nDanilo \ud83c\udde7\ud83c\uddf7\nChristian Romero \ud83c\udde6\ud83c\uddf7\nPiero Hincapi\u00e9 \ud83c\uddea\ud83c\udde8\nEugenio Mena \ud83c\udde8\ud83c\uddf1\n\nRodrigo De Paul \ud83c\udde6\ud83c\uddf7\nAndr\u00e9 Carrillo \ud83c\uddf5\ud83c\uddea\nLuis D\u00edaz \ud83c\udde8\ud83c\uddf4\n\nNeymar Jr. \ud83c\udde7\ud83c\uddf7\nLionel Messi \ud83c\udde6\ud83c\uddf7\nGianluca Lapadula \ud83c\uddf5\ud83c\uddea",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        242
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CopaAmerica2021",
+                "indices": [
+                    13,
+                    29
+                ]
+            },
+            {
+                "text": "Brasil2021",
+                "indices": [
+                    30,
+                    41
+                ]
+            },
+            {
+                "text": "OnceIdeal",
+                "indices": [
+                    42,
+                    52
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CopaAmerica",
+                "name": "Copa Am\u00e9rica",
+                "id": 3159711265,
+                "id_str": "3159711265",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 3159711265,
+    "in_reply_to_user_id_str": "3159711265",
+    "in_reply_to_screen_name": "CopaAmerica",
+    "user": {
+        "id": 198053180,
+        "id_str": "198053180",
+        "name": "Andr\u00e9s Rodr\u00edguez O.",
+        "screen_name": "andyrodriguez8a",
+        "location": "Guayaquil, Ecuador",
+        "description": "Guayaquile\u00f1o de nacimiento y manabita de corazon. Futbolero y emelecista. La vida sin vaivenes es aburrida. \nInstagram: https://t.co/g4DCaNVeWA",
+        "url": "https://t.co/TedAkb4pba",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/TedAkb4pba",
+                        "expanded_url": "http://www.facebook.com/profile.php?id=100001198957626",
+                        "display_url": "facebook.com/profile.php?id\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/g4DCaNVeWA",
+                        "expanded_url": "https://www.instagram.com/arodriguez.8a/",
+                        "display_url": "instagram.com/arodriguez.8a/",
+                        "indices": [
+                            120,
+                            143
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1035,
+        "friends_count": 5002,
+        "listed_count": 17,
+        "created_at": "Sun Oct 03 06:17:59 +0000 2010",
+        "favourites_count": 16634,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 108509,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401713225905942529/DGqV5tXz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401713225905942529/DGqV5tXz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/198053180/1616448211",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

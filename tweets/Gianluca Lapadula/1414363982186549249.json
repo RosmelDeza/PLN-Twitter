@@ -1,0 +1,275 @@
+{
+    "created_at": "Sun Jul 11 23:20:25 +0000 2021",
+    "id": 1414363982186549249,
+    "id_str": "1414363982186549249",
+    "full_text": "RT @sondatos_noop: Futbolistas m\u00e1s INFLUYENTES en partidos OFICIALES en ERA GARECA.\n\n20 = Paolo Guerrero (38 partidos)\n15 = Christian Cueva\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "sondatos_noop",
+                "name": "Son Datos No Opiniones (Jes\u00fas Chirinos)",
+                "id": 1093454389304545280,
+                "id_str": "1093454389304545280",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 106130160,
+        "id_str": "106130160",
+        "name": "Pablo",
+        "screen_name": "pabloRatedU",
+        "location": "Bellavista, Callao- Per\u00fa",
+        "description": "U. Soda&Beatles. #BulletClub\ud83e\udd18",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1011,
+        "friends_count": 656,
+        "listed_count": 24,
+        "created_at": "Mon Jan 18 15:59:32 +0000 2010",
+        "favourites_count": 160916,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 127387,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5ED96",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1343757054176096256/22u8Svgs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1343757054176096256/22u8Svgs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106130160/1498451489",
+        "profile_link_color": "E67A33",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 02:00:45 +0000 2021",
+        "id": 1413679554032541701,
+        "id_str": "1413679554032541701",
+        "full_text": "Futbolistas m\u00e1s INFLUYENTES en partidos OFICIALES en ERA GARECA.\n\n20 = Paolo Guerrero (38 partidos)\n15 = Christian Cueva (50)\n13 = Andr\u00e9 Carrillo (34)\n10 = Edison Flores (29)\n7 = Yoshimar Yot\u00fan (46)\n6 = GIANLUCA LAPADULA (11)\n6 = Jefferson Farf\u00e1n (19)\n\nIMPRESIONANTE LAPADULA \ud83d\udc4f\ud83c\udffb https://t.co/XmAkA0K1wM",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413679410935439363,
+                    "id_str": "1413679410935439363",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55l7ysXIAMVxoo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55l7ysXIAMVxoo.jpg",
+                    "url": "https://t.co/XmAkA0K1wM",
+                    "display_url": "pic.twitter.com/XmAkA0K1wM",
+                    "expanded_url": "https://twitter.com/sondatos_noop/status/1413679554032541701/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413679410935439363,
+                    "id_str": "1413679410935439363",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55l7ysXIAMVxoo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55l7ysXIAMVxoo.jpg",
+                    "url": "https://t.co/XmAkA0K1wM",
+                    "display_url": "pic.twitter.com/XmAkA0K1wM",
+                    "expanded_url": "https://twitter.com/sondatos_noop/status/1413679554032541701/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1093454389304545280,
+            "id_str": "1093454389304545280",
+            "name": "Son Datos No Opiniones (Jes\u00fas Chirinos)",
+            "screen_name": "sondatos_noop",
+            "location": "Lima, Peru",
+            "description": "Datos estad\u00edsticos y veraces del f\u00fatbol nacional e internacional.",
+            "url": "https://t.co/2BN7pPvnFp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2BN7pPvnFp",
+                            "expanded_url": "http://www.sondatosnoopiniones.com",
+                            "display_url": "sondatosnoopiniones.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 21622,
+            "friends_count": 645,
+            "listed_count": 44,
+            "created_at": "Thu Feb 07 10:20:16 +0000 2019",
+            "favourites_count": 4656,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 8480,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1337124576388648970/V9yPBQjE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337124576388648970/V9yPBQjE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093454389304545280/1582588640",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 109,
+        "favorite_count": 1071,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 109,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

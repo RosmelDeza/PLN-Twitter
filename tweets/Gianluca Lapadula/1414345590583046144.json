@@ -1,0 +1,180 @@
+{
+    "created_at": "Sun Jul 11 22:07:20 +0000 2021",
+    "id": 1414345590583046144,
+    "id_str": "1414345590583046144",
+    "full_text": "Cuarto lugar con Per\u00fa y campe\u00f3n con Italia. Un todoterreno Gianluca Lapadula. \n\n#Euro2020Final #EURO2020 https://t.co/AuY2EljL2L",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        104
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Euro2020Final",
+                "indices": [
+                    80,
+                    94
+                ]
+            },
+            {
+                "text": "EURO2020",
+                "indices": [
+                    95,
+                    104
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414345584027254787,
+                "id_str": "1414345584027254787",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6DD0K2WQAMzEaY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6DD0K2WQAMzEaY.jpg",
+                "url": "https://t.co/AuY2EljL2L",
+                "display_url": "pic.twitter.com/AuY2EljL2L",
+                "expanded_url": "https://twitter.com/JosO60739449/status/1414345590583046144/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 390,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 731,
+                        "h": 419,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 731,
+                        "h": 419,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414345584027254787,
+                "id_str": "1414345584027254787",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6DD0K2WQAMzEaY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6DD0K2WQAMzEaY.jpg",
+                "url": "https://t.co/AuY2EljL2L",
+                "display_url": "pic.twitter.com/AuY2EljL2L",
+                "expanded_url": "https://twitter.com/JosO60739449/status/1414345590583046144/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 390,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 731,
+                        "h": 419,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 731,
+                        "h": 419,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1412207070066135044,
+        "id_str": "1412207070066135044",
+        "name": "Jos\u00e9-O",
+        "screen_name": "blanquiazul96",
+        "location": "",
+        "description": "Nacido en 1996 - Alianza Lima por sobre todas las cosas. F\u00fatbol y rock. El espect\u00e1culo es ganar.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1,
+        "friends_count": 12,
+        "listed_count": 0,
+        "created_at": "Tue Jul 06 00:29:47 +0000 2021",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412207249880145920/KVlohVcJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412207249880145920/KVlohVcJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1412207070066135044/1626334054",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,277 @@
+{
+    "created_at": "Sun Jul 11 21:58:23 +0000 2021",
+    "id": 1414343338833154049,
+    "id_str": "1414343338833154049",
+    "full_text": "RT @paless04: Gianluca Lapadula merec\u00eda celebrar algo. No pudo ser con Per\u00fa, pero si celebra con Italia. \n\nLa grandeza de Italiana sali\u00f3 a\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "paless04",
+                "name": "La CriptoPiedra",
+                "id": 223692432,
+                "id_str": "223692432",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1391098765323481093,
+        "id_str": "1391098765323481093",
+        "name": "Romi \ud83c\udf53",
+        "screen_name": "tanniesxforever",
+        "location": "",
+        "description": "fan acc - only army \n@BTS_twt",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 64,
+        "friends_count": 186,
+        "listed_count": 0,
+        "created_at": "Sat May 08 18:33:00 +0000 2021",
+        "favourites_count": 3404,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3094,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409595102092275713/K9sQSC_b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409595102092275713/K9sQSC_b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391098765323481093/1626112344",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 21:58:10 +0000 2021",
+        "id": 1414343282251997188,
+        "id_str": "1414343282251997188",
+        "full_text": "Gianluca Lapadula merec\u00eda celebrar algo. No pudo ser con Per\u00fa, pero si celebra con Italia. \n\nLa grandeza de Italiana sali\u00f3 a relucir. #Euro2020Final #EURO2020 https://t.co/kS3cGbEpM4",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            158
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Euro2020Final",
+                    "indices": [
+                        134,
+                        148
+                    ]
+                },
+                {
+                    "text": "EURO2020",
+                    "indices": [
+                        149,
+                        158
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414343280016429056,
+                    "id_str": "1414343280016429056",
+                    "indices": [
+                        159,
+                        182
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6DBuDvXEAAOT5U.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6DBuDvXEAAOT5U.jpg",
+                    "url": "https://t.co/kS3cGbEpM4",
+                    "display_url": "pic.twitter.com/kS3cGbEpM4",
+                    "expanded_url": "https://twitter.com/paless04/status/1414343282251997188/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 753,
+                            "h": 407,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 368,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 753,
+                            "h": 407,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414343280016429056,
+                    "id_str": "1414343280016429056",
+                    "indices": [
+                        159,
+                        182
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6DBuDvXEAAOT5U.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6DBuDvXEAAOT5U.jpg",
+                    "url": "https://t.co/kS3cGbEpM4",
+                    "display_url": "pic.twitter.com/kS3cGbEpM4",
+                    "expanded_url": "https://twitter.com/paless04/status/1414343282251997188/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 753,
+                            "h": 407,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 368,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 753,
+                            "h": 407,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 223692432,
+            "id_str": "223692432",
+            "name": "La CriptoPiedra",
+            "screen_name": "paless04",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 90,
+            "friends_count": 444,
+            "listed_count": 1,
+            "created_at": "Tue Dec 07 02:24:12 +0000 2010",
+            "favourites_count": 1244,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2265,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407102954679717889/KvOPJj7n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407102954679717889/KvOPJj7n_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/223692432/1416362723",
+            "profile_link_color": "2FA0EB",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 54,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

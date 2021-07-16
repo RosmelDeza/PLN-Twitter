@@ -1,0 +1,196 @@
+{
+    "created_at": "Mon Jul 12 19:36:04 +0000 2021",
+    "id": 1414669908063965184,
+    "id_str": "1414669908063965184",
+    "full_text": "RT @2010MisterChip: Jugadores NO nacidos en Sudam\u00e9rica que van a disputar la Copa Am\u00e9rica 2021:\n\n\ud83c\uddec\ud83c\udde7 Ben Brereton \ud83c\udde8\ud83c\uddf1\n\ud83c\uddfa\ud83c\uddf8 Adri\u00e1n Jusino \ud83c\udde7\ud83c\uddf4\n\ud83c\uddf5\ud83c\uddf9\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "2010MisterChip",
+                "name": "MisterChip (Alexis)",
+                "id": 69962890,
+                "id_str": "69962890",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2374352671,
+        "id_str": "2374352671",
+        "name": "David Camarena/\u0414\u044d\u0432\u0438\u0434 \u041a\u0430\u043c\u0430\u0440\u0435\u043d\u0430",
+        "screen_name": "David2095_Sport",
+        "location": "IN MY COUNTRY",
+        "description": "Keep fighthing! A #Madrilista, #Miraculer, #Bielsista, Fan Writer and enthusiastic! #NaruHina fan and future professional...Paname\u00f1o\n#VamosCAI",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1582,
+        "friends_count": 5001,
+        "listed_count": 105,
+        "created_at": "Wed Mar 05 21:05:49 +0000 2014",
+        "favourites_count": 485415,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 462860,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "077AB0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362128536346255362/kssrqDPO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362128536346255362/kssrqDPO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2374352671/1543110172",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jun 12 03:47:45 +0000 2021",
+        "id": 1403559622447931392,
+        "id_str": "1403559622447931392",
+        "full_text": "Jugadores NO nacidos en Sudam\u00e9rica que van a disputar la Copa Am\u00e9rica 2021:\n\n\ud83c\uddec\ud83c\udde7 Ben Brereton \ud83c\udde8\ud83c\uddf1\n\ud83c\uddfa\ud83c\uddf8 Adri\u00e1n Jusino \ud83c\udde7\ud83c\uddf4\n\ud83c\uddf5\ud83c\uddf9 Erwin S\u00e1nchez \ud83c\udde7\ud83c\uddf4\n\ud83c\uddea\ud83c\udde6 Jaume Cu\u00e9llar \ud83c\udde7\ud83c\uddf4\n\ud83c\uddee\ud83c\uddf9 Gianluca Lapadula \ud83c\uddf5\ud83c\uddea\n\ud83c\uddf2\ud83c\uddfd Santiago Orme\u00f1o \ud83c\uddf5\ud83c\uddea",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            201
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 69962890,
+            "id_str": "69962890",
+            "name": "MisterChip (Alexis)",
+            "screen_name": "2010MisterChip",
+            "location": "All\u00e1 donde haya un bal\u00f3n",
+            "description": "Los secretos y la magia del f\u00fatbol al descubierto! Estoy en Onda Cero, ESPN y AS. English @MisterChiping Instagram @2010misterchip Soy un tipo muy feliz \ud83d\ude0a",
+            "url": "https://t.co/qyQHI05Q56",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/qyQHI05Q56",
+                            "expanded_url": "https://www.twitch.tv/2010MisterChip",
+                            "display_url": "twitch.tv/2010MisterChip",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3238894,
+            "friends_count": 672,
+            "listed_count": 12860,
+            "created_at": "Sat Aug 29 21:07:08 +0000 2009",
+            "favourites_count": 1848,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 135357,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1322690411647913986/qXVTsL-8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322690411647913986/qXVTsL-8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/69962890/1385099852",
+            "profile_link_color": "088253",
+            "profile_sidebar_border_color": "D3D2CF",
+            "profile_sidebar_fill_color": "E3E2DE",
+            "profile_text_color": "634047",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 946,
+        "favorite_count": 10629,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 946,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

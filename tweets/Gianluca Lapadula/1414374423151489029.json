@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 12 00:01:54 +0000 2021",
+    "id": 1414374423151489029,
+    "id_str": "1414374423151489029",
+    "full_text": "Mi top 10 de los mejores jugadores de la #CopaAmerica2021 \u2935\ufe0f\n-\n1. Lionel Messi\ud83c\udde6\ud83c\uddf7\n2. Neymar\ud83c\udde7\ud83c\uddf7 \n3. Luis D\u00edaz \ud83c\udde8\ud83c\uddf4 \n4. Rodrigo De Paul\ud83c\udde6\ud83c\uddf7\n5. Dibu Mart\u00ednez\ud83c\udde6\ud83c\uddf7\n-\n-\n6. Lucas Paquet\u00e1\ud83c\udde7\ud83c\uddf7\n7. Gianluca Lapadula \ud83c\uddf5\ud83c\uddea \n8. Sebasti\u00e1n J. M\u00e9ndez \ud83c\uddea\ud83c\udde8 \n9. Erick Pulgar \ud83c\udde8\ud83c\uddf1 \n10. Marquinhos\ud83c\udde7\ud83c\uddf7\n\n\u00bfY los suyos?",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        277
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CopaAmerica2021",
+                "indices": [
+                    41,
+                    57
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 214561361,
+        "id_str": "214561361",
+        "name": "Pilu Meneses E.",
+        "screen_name": "pilumeneses",
+        "location": "",
+        "description": "F\u00fatbol y deportes. M\u00e1ster en Marketing y Gesti\u00f3n Deportiva. Periodista, marketera, emprendedora y abogada. Iniesta y Federer. \ud83c\udf99\u26bd\ufe0f @caravana750 y @radiodiblufm",
+        "url": "https://t.co/caNZEHjiyF",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/caNZEHjiyF",
+                        "expanded_url": "http://www.instagram.com/pilumeneses",
+                        "display_url": "instagram.com/pilumeneses",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 15564,
+        "friends_count": 3682,
+        "listed_count": 95,
+        "created_at": "Thu Nov 11 18:01:12 +0000 2010",
+        "favourites_count": 111175,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 67178,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414079741603221508/kjJ6TpwU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414079741603221508/kjJ6TpwU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214561361/1586739417",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

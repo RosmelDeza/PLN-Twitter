@@ -1,0 +1,236 @@
+{
+    "created_at": "Tue Jul 13 20:26:35 +0000 2021",
+    "id": 1415045011465457668,
+    "id_str": "1415045011465457668",
+    "full_text": "RT @DeportesLR: #FOTO | Lapadula felicita a Yot\u00fan por quedar en el once ideal de la Copa Am\u00e9rica 2021\n\nAplaude el logro de su \u201chermano\u201d de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FOTO",
+                "indices": [
+                    16,
+                    21
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DeportesLR",
+                "name": "DeportesLR",
+                "id": 329302657,
+                "id_str": "329302657",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1315400918385467397,
+        "id_str": "1315400918385467397",
+        "name": "Andre Farfan",
+        "screen_name": "AndreFarfan10",
+        "location": "Huaral - Per\u00fa",
+        "description": "Welcome to Andre Farfan living in Huaral - Per\u00fa",
+        "url": "https://t.co/hVWWvOdL4E",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/hVWWvOdL4E",
+                        "expanded_url": "https://www.google.com.pe/",
+                        "display_url": "google.com.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 106,
+        "friends_count": 108,
+        "listed_count": 0,
+        "created_at": "Sun Oct 11 21:16:48 +0000 2020",
+        "favourites_count": 63476,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 51952,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401479212188540929/8r-GYl4Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401479212188540929/8r-GYl4Z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315400918385467397/1622979651",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 20:25:05 +0000 2021",
+        "id": 1415044632107438085,
+        "id_str": "1415044632107438085",
+        "full_text": "#FOTO | Lapadula felicita a Yot\u00fan por quedar en el once ideal de la Copa Am\u00e9rica 2021\n\nAplaude el logro de su \u201chermano\u201d de la selecci\u00f3n. Lapadula le dedic\u00f3 un fraternal mensaje a Yot\u00fan por integrar el 11 ideal de la Copa Am\u00e9rica junto a Messi y Neymar.\nhttps://t.co/qZmscnDGZy",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FOTO",
+                    "indices": [
+                        0,
+                        5
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/qZmscnDGZy",
+                    "expanded_url": "https://larepublica.pe/deportes/2021/07/13/gianluca-lapadula-felicita-a-yotun-por-quedar-en-el-once-ideal-de-la-copa-america-2021/",
+                    "display_url": "larepublica.pe/deportes/2021/\u2026",
+                    "indices": [
+                        253,
+                        276
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 329302657,
+            "id_str": "329302657",
+            "name": "DeportesLR",
+            "screen_name": "DeportesLR",
+            "location": "",
+            "description": "La Rep\u00fablica tambi\u00e9n te informa en Twitter sobre todo lo que ocurre en el mundo de los deportes nacionales e internacionales.",
+            "url": "http://t.co/Z1lJHGgHHI",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/Z1lJHGgHHI",
+                            "expanded_url": "http://www.larepublica.pe/deportes/",
+                            "display_url": "larepublica.pe/deportes/",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33084,
+            "friends_count": 482,
+            "listed_count": 279,
+            "created_at": "Mon Jul 04 21:14:33 +0000 2011",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 134900,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/948901205132169216/L_mrZJ67_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/948901205132169216/L_mrZJ67_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/329302657/1564875022",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 39,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

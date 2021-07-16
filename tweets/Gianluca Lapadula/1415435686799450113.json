@@ -1,0 +1,294 @@
+{
+    "created_at": "Wed Jul 14 22:18:59 +0000 2021",
+    "id": 1415435686799450113,
+    "id_str": "1415435686799450113",
+    "full_text": "RT @GOLPERUoficial: \u00a1LA FE! Gianluca Lapadula \ud83c\udf6b\ud83c\uddf5\ud83c\uddea emple\u00f3 sus redes sociales \ud83d\udcf1 para enviar un esperanzador mensaje \ud83d\ude4f tras la participaci\u00f3n d\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GOLPERUoficial",
+                "name": "GOLPERU",
+                "id": 721832788983484416,
+                "id_str": "721832788983484416",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 96655373,
+        "id_str": "96655373",
+        "name": "dr Strange",
+        "screen_name": "EquidadMd",
+        "location": "San Miguel Lima Per\u00fa",
+        "description": "Solo con quien est\u00e1 del lado de la salud!! M\u00e9dico cirujano Peruano CAS COVID sin estabilidad Laboral.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 527,
+        "friends_count": 1031,
+        "listed_count": 10,
+        "created_at": "Mon Dec 14 00:17:50 +0000 2009",
+        "favourites_count": 21200,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 66128,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406042562020978690/d1O1iebI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406042562020978690/d1O1iebI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96655373/1598750617",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 12:20:38 +0000 2021",
+        "id": 1413835551980068864,
+        "id_str": "1413835551980068864",
+        "full_text": "\u00a1LA FE! Gianluca Lapadula \ud83c\udf6b\ud83c\uddf5\ud83c\uddea emple\u00f3 sus redes sociales \ud83d\udcf1 para enviar un esperanzador mensaje \ud83d\ude4f tras la participaci\u00f3n de @SeleccionPeru \ud83c\uddf5\ud83c\uddea en la Copa Am\u00e9rica \ud83c\udfc6. #AlientaDesdeCasa https://t.co/5vrkQG5BN3",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            178
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlientaDesdeCasa",
+                    "indices": [
+                        161,
+                        178
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SeleccionPeru",
+                    "name": "Selecci\u00f3n Peruana \ud83c\uddf5\ud83c\uddea",
+                    "id": 1170209287,
+                    "id_str": "1170209287",
+                    "indices": [
+                        121,
+                        135
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413835044351774724,
+                    "id_str": "1413835044351774724",
+                    "indices": [
+                        179,
+                        202
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E57ze2WWEAQptyc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E57ze2WWEAQptyc.jpg",
+                    "url": "https://t.co/5vrkQG5BN3",
+                    "display_url": "pic.twitter.com/5vrkQG5BN3",
+                    "expanded_url": "https://twitter.com/GOLPERUoficial/status/1413835551980068864/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1790,
+                            "h": 1599,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1072,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 607,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413835044351774724,
+                    "id_str": "1413835044351774724",
+                    "indices": [
+                        179,
+                        202
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E57ze2WWEAQptyc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E57ze2WWEAQptyc.jpg",
+                    "url": "https://t.co/5vrkQG5BN3",
+                    "display_url": "pic.twitter.com/5vrkQG5BN3",
+                    "expanded_url": "https://twitter.com/GOLPERUoficial/status/1413835551980068864/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1790,
+                            "h": 1599,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1072,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 607,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 721832788983484416,
+            "id_str": "721832788983484416",
+            "name": "GOLPERU",
+            "screen_name": "GOLPERUoficial",
+            "location": "Peru",
+            "description": "Cuenta oficial de GOLPERU, el canal del f\u00fatbol. \ud83d\udcfa 14 - 714 HD de Movistar FB: GOLPERU14 TW: GOLPERUoficial IG: golperuoficial YT: GOLPERUoficial",
+            "url": "https://t.co/4zFNOOXHGs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4zFNOOXHGs",
+                            "expanded_url": "http://www.golperu.pe",
+                            "display_url": "golperu.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 169250,
+            "friends_count": 320,
+            "listed_count": 278,
+            "created_at": "Sun Apr 17 22:48:42 +0000 2016",
+            "favourites_count": 5487,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 108861,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/721832788983484416/1626354940",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 186,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

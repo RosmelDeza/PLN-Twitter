@@ -1,0 +1,285 @@
+{
+    "created_at": "Tue Jul 13 00:28:32 +0000 2021",
+    "id": 1414743513682661379,
+    "id_str": "1414743513682661379",
+    "full_text": "Me gustar\u00eda que Gianluca Lapadula \ud83c\uddf5\ud83c\uddea pudiera ganarse un lugar en la @premierleague, tiene todas las condiciones \ud83d\udcaa\u26bd\ufe0f.\n\nLos resultados hoy en #10x10 por @GOLPERUoficial con @SalvatoreCaro, @SergioMoreno11 y @Ggranda7. https://t.co/wVyOpkvWgb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        215
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "10x10",
+                "indices": [
+                    140,
+                    146
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "premierleague",
+                "name": "Premier League",
+                "id": 343627165,
+                "id_str": "343627165",
+                "indices": [
+                    68,
+                    82
+                ]
+            },
+            {
+                "screen_name": "GOLPERUoficial",
+                "name": "GOLPERU",
+                "id": 721832788983484416,
+                "id_str": "721832788983484416",
+                "indices": [
+                    151,
+                    166
+                ]
+            },
+            {
+                "screen_name": "SalvatoreCaro",
+                "name": "Carolina Salvatore",
+                "id": 109099383,
+                "id_str": "109099383",
+                "indices": [
+                    171,
+                    185
+                ]
+            },
+            {
+                "screen_name": "SergioMoreno11",
+                "name": "Sergio Moreno",
+                "id": 329953223,
+                "id_str": "329953223",
+                "indices": [
+                    187,
+                    202
+                ]
+            },
+            {
+                "screen_name": "Ggranda7",
+                "name": "Giancarlo Granda",
+                "id": 79207292,
+                "id_str": "79207292",
+                "indices": [
+                    205,
+                    214
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/wVyOpkvWgb",
+                "expanded_url": "https://twitter.com/GOLPERUoficial/status/1414740264812429313",
+                "display_url": "twitter.com/GOLPERUoficial\u2026",
+                "indices": [
+                    216,
+                    239
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 375442104,
+        "id_str": "375442104",
+        "name": "Juan Carlos Panizo",
+        "screen_name": "juanpanizo23",
+        "location": "Lima, Peru",
+        "description": "Periodista deportivo.\n5.12 \u221e",
+        "url": "https://t.co/huhw4BczWD",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/huhw4BczWD",
+                        "expanded_url": "https://www.instagram.com/juancarlospanizo23/?hl=es-la",
+                        "display_url": "instagram.com/juancarlospani\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 216,
+        "friends_count": 791,
+        "listed_count": 5,
+        "created_at": "Sun Sep 18 04:20:15 +0000 2011",
+        "favourites_count": 4674,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6779,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251947200495652864/1XzPQXqY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251947200495652864/1XzPQXqY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/375442104/1587228665",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414740264812429313,
+    "quoted_status_id_str": "1414740264812429313",
+    "quoted_status": {
+        "created_at": "Tue Jul 13 00:15:38 +0000 2021",
+        "id": 1414740264812429313,
+        "id_str": "1414740264812429313",
+        "full_text": "\u00bfEn qu\u00e9 equipo deber\u00eda continuar su carrera Gianluca Lapadula \u26bd\ud83c\uddf5\ud83c\uddea? \n\nLos resultados hoy en #10X10 \ud83d\udcfa desde las 10:00 PM.\n\n#AlientaDesdeCasa",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            138
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "10X10",
+                    "indices": [
+                        91,
+                        97
+                    ]
+                },
+                {
+                    "text": "AlientaDesdeCasa",
+                    "indices": [
+                        121,
+                        138
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 721832788983484416,
+            "id_str": "721832788983484416",
+            "name": "GOLPERU",
+            "screen_name": "GOLPERUoficial",
+            "location": "Peru",
+            "description": "Cuenta oficial de GOLPERU, el canal del f\u00fatbol. \ud83d\udcfa 14 - 714 HD de Movistar FB: GOLPERU14 TW: GOLPERUoficial IG: golperuoficial YT: GOLPERUoficial",
+            "url": "https://t.co/4zFNOOXHGs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4zFNOOXHGs",
+                            "expanded_url": "http://www.golperu.pe",
+                            "display_url": "golperu.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 169250,
+            "friends_count": 320,
+            "listed_count": 278,
+            "created_at": "Sun Apr 17 22:48:42 +0000 2016",
+            "favourites_count": 5487,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 108861,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/721832788983484416/1626354940",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 1,
+    "favorite_count": 31,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

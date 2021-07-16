@@ -1,0 +1,139 @@
+{
+    "created_at": "Tue Jul 13 02:28:58 +0000 2021",
+    "id": 1414773820230094851,
+    "id_str": "1414773820230094851",
+    "full_text": "@_NARRYL0VE @G_Lapadula cuida a tu hermosa familia. Nuestros futbolistas peruanos tiene ese tal\u00f3n de Aquiles, les gusta m\u00e1s la diversi\u00f3n q trabajar para ser exitosos y ejemplo d toda una naci\u00f3n. Como t\u00fa lo eres ahora!T queremos Gianluca, gracias x ense\u00f1ar disciplina y entrega a los nuestros!",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        292
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_NARRYL0VE",
+                "name": "\u2654",
+                "id": 2354187793,
+                "id_str": "2354187793",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "G_Lapadula",
+                "name": "GLapadula",
+                "id": 2493053869,
+                "id_str": "2493053869",
+                "indices": [
+                    12,
+                    23
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414736422150582274,
+    "in_reply_to_status_id_str": "1414736422150582274",
+    "in_reply_to_user_id": 2354187793,
+    "in_reply_to_user_id_str": "2354187793",
+    "in_reply_to_screen_name": "_NARRYL0VE",
+    "user": {
+        "id": 3295294040,
+        "id_str": "3295294040",
+        "name": "Luis Espinoza",
+        "screen_name": "Luis_Spinoza_20",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 33,
+        "friends_count": 164,
+        "listed_count": 0,
+        "created_at": "Sun Jul 26 13:57:11 +0000 2015",
+        "favourites_count": 2573,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 878,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/630186774896189441/R60_XC3T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/630186774896189441/R60_XC3T_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0169e8f30556416d",
+        "url": "https://api.twitter.com/1.1/geo/id/0169e8f30556416d.json",
+        "place_type": "city",
+        "name": "Ate",
+        "full_name": "Ate, Peru",
+        "country_code": "PE",
+        "country": "Peru",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -76.9977230389369,
+                        -12.0877319713358
+                    ],
+                    [
+                        -76.7837768396263,
+                        -12.0877319713358
+                    ],
+                    [
+                        -76.7837768396263,
+                        -11.9934700172237
+                    ],
+                    [
+                        -76.9977230389369,
+                        -11.9934700172237
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

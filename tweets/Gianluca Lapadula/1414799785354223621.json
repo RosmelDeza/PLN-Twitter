@@ -1,0 +1,311 @@
+{
+    "created_at": "Tue Jul 13 04:12:09 +0000 2021",
+    "id": 1414799785354223621,
+    "id_str": "1414799785354223621",
+    "full_text": "RT @DIRECTVPeru: \u201cCreo que Per\u00fa hizo una gran #CopaAmericaDIRECTV y espero que sigamos adelante con todo\u201d.\n\n\ud83d\udde3\ufe0f Gianluca Lapadula previo a s\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CopaAmericaDIRECTV",
+                "indices": [
+                    46,
+                    65
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DIRECTVPeru",
+                "name": "DIRECTV Per\u00fa",
+                "id": 296818308,
+                "id_str": "296818308",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 183016994,
+        "id_str": "183016994",
+        "name": "David Pebe Perez",
+        "screen_name": "DavidPbPrz10",
+        "location": "San Borja, Lima, Per\u00fa",
+        "description": "Contador P\u00fablico pero no tan p\u00fablico. T\u00edo de Joaqu\u00edn Nicol\u00e1s \ud83d\udc76\ud83c\udffb Peruano\ud83c\uddf5\ud83c\uddea \u2665 Instagram-Snapchat-Discord-Twitch @davidpbprz10 @Universitario #YDaleU",
+        "url": "https://t.co/zyz5MaavgB",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/zyz5MaavgB",
+                        "expanded_url": "https://www.instagram.com/davidpbprz10/",
+                        "display_url": "instagram.com/davidpbprz10/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 873,
+        "friends_count": 323,
+        "listed_count": 83,
+        "created_at": "Wed Aug 25 23:32:36 +0000 2010",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 447894,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0F518A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1344889739065909248/-UD8WCB__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344889739065909248/-UD8WCB__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/183016994/1561558382",
+        "profile_link_color": "F50808",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7DA93",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 03:41:22 +0000 2021",
+        "id": 1414792038273388544,
+        "id_str": "1414792038273388544",
+        "full_text": "\u201cCreo que Per\u00fa hizo una gran #CopaAmericaDIRECTV y espero que sigamos adelante con todo\u201d.\n\n\ud83d\udde3\ufe0f Gianluca Lapadula previo a su regreso a Italia.\n#CONEXI\u00d3NDIRECTVPE \ud83c\udf10 https://t.co/GpHT7dX5E7",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            162
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CopaAmericaDIRECTV",
+                    "indices": [
+                        29,
+                        48
+                    ]
+                },
+                {
+                    "text": "CONEXI\u00d3NDIRECTVPE",
+                    "indices": [
+                        142,
+                        160
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414791310075121668,
+                    "id_str": "1414791310075121668",
+                    "indices": [
+                        163,
+                        186
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6JZM1xWUAQmhqd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6JZM1xWUAQmhqd.jpg",
+                    "url": "https://t.co/GpHT7dX5E7",
+                    "display_url": "pic.twitter.com/GpHT7dX5E7",
+                    "expanded_url": "https://twitter.com/DIRECTVPeru/status/1414792038273388544/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1452,
+                            "h": 833,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 390,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 688,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414791310075121668,
+                    "id_str": "1414791310075121668",
+                    "indices": [
+                        163,
+                        186
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6JZM1xWUAQmhqd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6JZM1xWUAQmhqd.jpg",
+                    "url": "https://t.co/GpHT7dX5E7",
+                    "display_url": "pic.twitter.com/GpHT7dX5E7",
+                    "expanded_url": "https://twitter.com/DIRECTVPeru/status/1414792038273388544/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1452,
+                            "h": 833,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 390,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 688,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 296818308,
+            "id_str": "296818308",
+            "name": "DIRECTV Per\u00fa",
+            "screen_name": "DIRECTVPeru",
+            "location": "Per\u00fa",
+            "description": "Cuenta oficial de DIRECTV Per\u00fa \u00a1Todas las novedades de deportes, entretenimiento y la mejor programaci\u00f3n! M\u00e1s informaci\u00f3n por WhatsApp +51993560000",
+            "url": "http://t.co/8DqI8VeQnt",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/8DqI8VeQnt",
+                            "expanded_url": "http://www.directv.com.pe/",
+                            "display_url": "directv.com.pe",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 21381,
+            "friends_count": 1135,
+            "listed_count": 120,
+            "created_at": "Wed May 11 13:12:34 +0000 2011",
+            "favourites_count": 2727,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 52107,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329459136480808960/L7JG1aYs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329459136480808960/L7JG1aYs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/296818308/1622675324",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 33,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

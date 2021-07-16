@@ -1,0 +1,338 @@
+{
+    "created_at": "Sun Jul 11 16:41:48 +0000 2021",
+    "id": 1414263668364218369,
+    "id_str": "1414263668364218369",
+    "full_text": "RT @ESPNPeru: \u00bfEl goleador de la #Copa Am\u00e9rica? \u26bd\u26bd\u26bd\u26bd \ud83c\udde6\ud83c\uddf7 Leo #Messi. \n\nEl gran \ud83c\uddf5\ud83c\uddea Gianluca #Lapadula se luci\u00f3 con \u26bd\u26bd\u26bd gritos. https://t.co/X\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Copa",
+                "indices": [
+                    33,
+                    38
+                ]
+            },
+            {
+                "text": "Messi",
+                "indices": [
+                    60,
+                    66
+                ]
+            },
+            {
+                "text": "Lapadula",
+                "indices": [
+                    90,
+                    99
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ESPNPeru",
+                "name": "ESPN Per\u00fa",
+                "id": 965695221634920448,
+                "id_str": "965695221634920448",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2863417072,
+        "id_str": "2863417072",
+        "name": "Katti",
+        "screen_name": "mafer20923",
+        "location": "",
+        "description": "Beatles 4ever \u2764\u270c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1821,
+        "friends_count": 587,
+        "listed_count": 12,
+        "created_at": "Wed Nov 05 22:49:54 +0000 2014",
+        "favourites_count": 127493,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 81701,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1285100397967933440/TaO2mXAU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285100397967933440/TaO2mXAU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2863417072/1496107527",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 02:30:26 +0000 2021",
+        "id": 1414049412071006209,
+        "id_str": "1414049412071006209",
+        "full_text": "\u00bfEl goleador de la #Copa Am\u00e9rica? \u26bd\u26bd\u26bd\u26bd \ud83c\udde6\ud83c\uddf7 Leo #Messi. \n\nEl gran \ud83c\uddf5\ud83c\uddea Gianluca #Lapadula se luci\u00f3 con \u26bd\u26bd\u26bd gritos. https://t.co/Xlj18Lh9Nu",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            110
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Copa",
+                    "indices": [
+                        19,
+                        24
+                    ]
+                },
+                {
+                    "text": "Messi",
+                    "indices": [
+                        46,
+                        52
+                    ]
+                },
+                {
+                    "text": "Lapadula",
+                    "indices": [
+                        76,
+                        85
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414049404579876872,
+                    "id_str": "1414049404579876872",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5-2cQbWEAgj1Qu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5-2cQbWEAgj1Qu.jpg",
+                    "url": "https://t.co/Xlj18Lh9Nu",
+                    "display_url": "pic.twitter.com/Xlj18Lh9Nu",
+                    "expanded_url": "https://twitter.com/ESPNPeru/status/1414049412071006209/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414049404579876872,
+                    "id_str": "1414049404579876872",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5-2cQbWEAgj1Qu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5-2cQbWEAgj1Qu.jpg",
+                    "url": "https://t.co/Xlj18Lh9Nu",
+                    "display_url": "pic.twitter.com/Xlj18Lh9Nu",
+                    "expanded_url": "https://twitter.com/ESPNPeru/status/1414049412071006209/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 965695221634920448,
+            "id_str": "965695221634920448",
+            "name": "ESPN Per\u00fa",
+            "screen_name": "ESPNPeru",
+            "location": "Peru",
+            "description": "Cuenta oficial de ESPN: la mayor comunidad de fan\u00e1ticos del deporte. S\u00edguenos en https://t.co/z1o8e45Q4a  . https://t.co/ysbzEklsPD",
+            "url": "https://t.co/7xwx2FgJpe",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7xwx2FgJpe",
+                            "expanded_url": "https://www.espn.com.pe/",
+                            "display_url": "espn.com.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/z1o8e45Q4a",
+                            "expanded_url": "http://facebook.com/ESPNFans",
+                            "display_url": "facebook.com/ESPNFans",
+                            "indices": [
+                                81,
+                                104
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/ysbzEklsPD",
+                            "expanded_url": "http://terminosdeuso.espn-la.com",
+                            "display_url": "terminosdeuso.espn-la.com",
+                            "indices": [
+                                108,
+                                131
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 57453,
+            "friends_count": 23,
+            "listed_count": 141,
+            "created_at": "Mon Feb 19 21:10:57 +0000 2018",
+            "favourites_count": 5,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 31688,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255618974181724160/d9V1Vowu_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255618974181724160/d9V1Vowu_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/965695221634920448/1588197886",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 115,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

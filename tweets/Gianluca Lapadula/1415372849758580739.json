@@ -1,0 +1,209 @@
+{
+    "created_at": "Wed Jul 14 18:09:18 +0000 2021",
+    "id": 1415372849758580739,
+    "id_str": "1415372849758580739",
+    "full_text": "Jajaja mejor hablemos de Gianluca  \nLapadula https://t.co/PqXe9LsLAV",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        44
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/PqXe9LsLAV",
+                "expanded_url": "https://twitter.com/ganador92/status/1415363233981009920",
+                "display_url": "twitter.com/ganador92/stat\u2026",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 371984729,
+        "id_str": "371984729",
+        "name": "Violeta",
+        "screen_name": "vhuacachi",
+        "location": "Lima - Peru",
+        "description": "No le tengas miedo al futuro.\nDios ya est\u00e1 all\u00ed.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 181,
+        "friends_count": 125,
+        "listed_count": 0,
+        "created_at": "Sun Sep 11 22:13:02 +0000 2011",
+        "favourites_count": 49407,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11802,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978835428282388480/C3-JuA1H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978835428282388480/C3-JuA1H_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/371984729/1613409790",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415363233981009920,
+    "quoted_status_id_str": "1415363233981009920",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 17:31:05 +0000 2021",
+        "id": 1415363233981009920,
+        "id_str": "1415363233981009920",
+        "full_text": "Im\u00e1genes exclusivas de @G_Lapadula cuando jugaba en menores. https://t.co/f38SgM30hQ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            60
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "G_Lapadula",
+                    "name": "GLapadula",
+                    "id": 2493053869,
+                    "id_str": "2493053869",
+                    "indices": [
+                        23,
+                        34
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/f38SgM30hQ",
+                    "expanded_url": "https://twitter.com/EdgardoMuguerza/status/1415332389711196160",
+                    "display_url": "twitter.com/EdgardoMuguerz\u2026",
+                    "indices": [
+                        61,
+                        84
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1098658842727063552,
+            "id_str": "1098658842727063552",
+            "name": "E.",
+            "screen_name": "ganador92",
+            "location": "\u00bfImporta?",
+            "description": "Me dicen ganador. \nOpinologo independiente de asuntos sin importancia.\nAlianza lima, hermanos y ron.\nTengo un gato de huesos anchos de 10 a\u00f1os\n#PBA\n#LBDT\n#UNALM",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 271,
+            "friends_count": 638,
+            "listed_count": 2,
+            "created_at": "Thu Feb 21 19:00:54 +0000 2019",
+            "favourites_count": 25497,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 13741,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1373339415368568833/Ce-UVOfe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373339415368568833/Ce-UVOfe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098658842727063552/1550790372",
+            "profile_link_color": "003153",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415332389711196160,
+        "quoted_status_id_str": "1415332389711196160",
+        "retweet_count": 3,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

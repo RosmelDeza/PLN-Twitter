@@ -1,0 +1,231 @@
+{
+    "created_at": "Tue Jul 13 01:13:26 +0000 2021",
+    "id": 1414754809664659465,
+    "id_str": "1414754809664659465",
+    "full_text": "RT @PTV_Noticias: Se gan\u00f3 a la hinchada: Gianluca Lapadula fue causado en centro comercial y caus\u00f3 alboroto https://t.co/4bNhZnfS6R",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PTV_Noticias",
+                "name": "Panamericana Noticias",
+                "id": 527506722,
+                "id_str": "527506722",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/4bNhZnfS6R",
+                "expanded_url": "http://ptv.pe/327086",
+                "display_url": "ptv.pe/327086",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://panamericana.pe\" rel=\"nofollow\">PanamericanaTV</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 49339195,
+        "id_str": "49339195",
+        "name": "panamericanatv",
+        "screen_name": "PanamericanaTV",
+        "location": "Per\u00fa",
+        "description": "Pionero de la televisi\u00f3n Peruana. Primeros en la informaci\u00f3n con nuestros programas Buenos D\u00edas Per\u00fa, 24 Horas y @PanoramaPTV. Todo v\u00eda @PTV_Noticias",
+        "url": "https://t.co/DCFLGwuwYK",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/DCFLGwuwYK",
+                        "expanded_url": "http://www.panamericana.pe",
+                        "display_url": "panamericana.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1119514,
+        "friends_count": 103,
+        "listed_count": 1669,
+        "created_at": "Sun Jun 21 15:22:46 +0000 2009",
+        "favourites_count": 31636,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 363234,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0059A3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1344877967424552961/JZud4q4f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344877967424552961/JZud4q4f_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49339195/1624659113",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFD208",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 01:13:25 +0000 2021",
+        "id": 1414754808821657602,
+        "id_str": "1414754808821657602",
+        "full_text": "Se gan\u00f3 a la hinchada: Gianluca Lapadula fue causado en centro comercial y caus\u00f3 alboroto https://t.co/4bNhZnfS6R",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            113
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/4bNhZnfS6R",
+                    "expanded_url": "http://ptv.pe/327086",
+                    "display_url": "ptv.pe/327086",
+                    "indices": [
+                        90,
+                        113
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://panamericana.pe\" rel=\"nofollow\">PanamericanaTV</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 527506722,
+            "id_str": "527506722",
+            "name": "Panamericana Noticias",
+            "screen_name": "PTV_Noticias",
+            "location": "Lima, Per\u00fa",
+            "description": "\ud83d\udccc Cuenta oficial de noticias de Panamericana Televisi\u00f3n. Ent\u00e9rate lo que sucede en #Panorama #24Horas #BuenosD\u00edasPer\u00fa #ElDominical #Teledeportes",
+            "url": "https://t.co/EmGTesL52V",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EmGTesL52V",
+                            "expanded_url": "https://panamericana.pe/",
+                            "display_url": "panamericana.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 361235,
+            "friends_count": 77,
+            "listed_count": 577,
+            "created_at": "Sat Mar 17 14:28:10 +0000 2012",
+            "favourites_count": 2068,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 163266,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "004890",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1344879209601241089/x2b1i9Hi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344879209601241089/x2b1i9Hi_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/527506722/1625872552",
+            "profile_link_color": "004890",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 23,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

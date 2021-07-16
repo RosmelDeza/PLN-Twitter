@@ -1,0 +1,110 @@
+{
+    "created_at": "Tue Jul 13 13:22:02 +0000 2021",
+    "id": 1414938169439625218,
+    "id_str": "1414938169439625218",
+    "full_text": "Selecci\u00f3n Peruana: Gianluca Lapadula podr\u00eda ser nuevo fichaje de Torino de la Serie A de Italia, seg\u00fan Tuttosport | FUTBOL-PERUANO | DEPOR https://t.co/aiVSJwPIcb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        162
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/aiVSJwPIcb",
+                "expanded_url": "https://depor.com/futbol-peruano/seleccion-peruana/seleccion-peruana-gianluca-lapadula-podria-ser-nuevo-fichaje-de-torino-de-la-serie-a-de-italia-segun-tuttosport-noticia/",
+                "display_url": "depor.com/futbol-peruano\u2026",
+                "indices": [
+                    139,
+                    162
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 935538686640435200,
+        "id_str": "935538686640435200",
+        "name": "ingenieroleonidas",
+        "screen_name": "lgteinforma",
+        "location": "Lima, Peru",
+        "description": "Desde ni\u00f1o he admirado a JFK, fue un excelente Presidente de los Estados Unidos de Am\u00e9rica. Con noticias que vienen desde Internet.",
+        "url": "https://t.co/rmqy61aFtd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/rmqy61aFtd",
+                        "expanded_url": "https://lgingenierocivil.wixsite.com/iniciar",
+                        "display_url": "lgingenierocivil.wixsite.com/iniciar",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 114,
+        "friends_count": 1446,
+        "listed_count": 0,
+        "created_at": "Tue Nov 28 15:59:39 +0000 2017",
+        "favourites_count": 14756,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16645,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1359747701164937216/AbfONtjw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359747701164937216/AbfONtjw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/935538686640435200/1604770280",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

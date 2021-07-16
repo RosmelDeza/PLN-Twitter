@@ -1,0 +1,308 @@
+{
+    "created_at": "Sun Jul 11 04:08:47 +0000 2021",
+    "id": 1414074162730225664,
+    "id_str": "1414074162730225664",
+    "full_text": "RT @Ricky_Figueroa: COPA AM\u00c9RICA. Jugadores m\u00e1s decisivos (goles+asistencias)\n\n9 LIONEL MESSI \ud83c\udde6\ud83c\uddf7 \n\n5 Neymar \ud83c\udde7\ud83c\uddf7 \n\n4 GIANLUCA LAPADULA \ud83c\uddf5\ud83c\uddea \nLu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ricky_Figueroa",
+                "name": "Ricardo Figueroa",
+                "id": 215346785,
+                "id_str": "215346785",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 889371303442034689,
+        "id_str": "889371303442034689",
+        "name": "FSILVA",
+        "screen_name": "AlonzSilva",
+        "location": "Lima, Per\u00fa",
+        "description": "idealista, cultural y futbolista.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 103,
+        "friends_count": 639,
+        "listed_count": 0,
+        "created_at": "Mon Jul 24 06:26:57 +0000 2017",
+        "favourites_count": 5251,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 79695,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/933709014336237568/bP-bUqS1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/933709014336237568/bP-bUqS1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/889371303442034689/1503265790",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 03:57:24 +0000 2021",
+        "id": 1414071298897088513,
+        "id_str": "1414071298897088513",
+        "full_text": "COPA AM\u00c9RICA. Jugadores m\u00e1s decisivos (goles+asistencias)\n\n9 LIONEL MESSI \ud83c\udde6\ud83c\uddf7 \n\n5 Neymar \ud83c\udde7\ud83c\uddf7 \n\n4 GIANLUCA LAPADULA \ud83c\uddf5\ud83c\uddea \nLuis D\u00edaz \ud83c\udde8\ud83c\uddf4 \n\n3 YOSHIMAR YOT\u00daN \ud83c\uddf5\ud83c\uddea \nANDR\u00c9 CARRILLO \ud83c\uddf5\ud83c\uddea \nLautaro Mart\u00ednez \ud83c\udde6\ud83c\uddf7 \nEduardo Vargas \ud83c\udde8\ud83c\uddf1 https://t.co/Z1SDdt1qgn",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            210
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414071285563416577,
+                    "id_str": "1414071285563416577",
+                    "indices": [
+                        211,
+                        234
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_KV5cWYAEWSWl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_KV5cWYAEWSWl.jpg",
+                    "url": "https://t.co/Z1SDdt1qgn",
+                    "display_url": "pic.twitter.com/Z1SDdt1qgn",
+                    "expanded_url": "https://twitter.com/Ricky_Figueroa/status/1414071298897088513/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 434,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 434,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 434,
+                            "h": 452,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414071285563416577,
+                    "id_str": "1414071285563416577",
+                    "indices": [
+                        211,
+                        234
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_KV5cWYAEWSWl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_KV5cWYAEWSWl.jpg",
+                    "url": "https://t.co/Z1SDdt1qgn",
+                    "display_url": "pic.twitter.com/Z1SDdt1qgn",
+                    "expanded_url": "https://twitter.com/Ricky_Figueroa/status/1414071298897088513/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 434,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 434,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 434,
+                            "h": 452,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414071285571850241,
+                    "id_str": "1414071285571850241",
+                    "indices": [
+                        211,
+                        234
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5_KV5eXEAEMzPp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5_KV5eXEAEMzPp.jpg",
+                    "url": "https://t.co/Z1SDdt1qgn",
+                    "display_url": "pic.twitter.com/Z1SDdt1qgn",
+                    "expanded_url": "https://twitter.com/Ricky_Figueroa/status/1414071298897088513/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1365,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 215346785,
+            "id_str": "215346785",
+            "name": "Ricardo Figueroa",
+            "screen_name": "Ricky_Figueroa",
+            "location": "Lima, Per\u00fa",
+            "description": "Periodista y Estad\u00edstico.\nMe apasiona la historia del f\u00fatbol peruano y la selecci\u00f3n.\n\u00a1Todo se puede! \n\nhttps://t.co/ej27HzMiFo\nrfigueroa1980@gmail.com",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ej27HzMiFo",
+                            "expanded_url": "http://www.instagram.com/rfigueroa1980",
+                            "display_url": "instagram.com/rfigueroa1980",
+                            "indices": [
+                                103,
+                                126
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 7462,
+            "friends_count": 1117,
+            "listed_count": 62,
+            "created_at": "Sat Nov 13 17:42:42 +0000 2010",
+            "favourites_count": 404,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 47928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1013091353968947200/0GONnlr7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013091353968947200/0GONnlr7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/215346785/1540910859",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 33,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

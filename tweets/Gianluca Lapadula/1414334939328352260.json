@@ -1,0 +1,97 @@
+{
+    "created_at": "Sun Jul 11 21:25:01 +0000 2021",
+    "id": 1414334939328352260,
+    "id_str": "1414334939328352260",
+    "full_text": "@fedebottalo Cuadrado no jug\u00f3 de 4. Para mi los laterales de la copa fueron los dos de ecuador. Preciado y Estupi\u00f1an. Sobre todo Estupi\u00f1an. Di maria fue el mejor revulsivo e hizo el gol de la final, pero la copa tuvo un 9 que la rompio toda: Gianluca Lapadula",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        259
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "fedebottalo",
+                "name": "Federic\u00f8",
+                "id": 193654722,
+                "id_str": "193654722",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414254951602208773,
+    "in_reply_to_status_id_str": "1414254951602208773",
+    "in_reply_to_user_id": 193654722,
+    "in_reply_to_user_id_str": "193654722",
+    "in_reply_to_screen_name": "fedebottalo",
+    "user": {
+        "id": 2652476147,
+        "id_str": "2652476147",
+        "name": "Vasilij Nikolaevi\u010d Kajurov",
+        "screen_name": "VNkajurov",
+        "location": "Viborg",
+        "description": "Con la tripa del \u00faltimo stalina colgaremos al \u00faltimo burgu\u00e9s",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 211,
+        "friends_count": 191,
+        "listed_count": 1,
+        "created_at": "Sun Jun 29 06:53:47 +0000 2014",
+        "favourites_count": 93068,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43264,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1395016477498085387/-MOT5IhV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395016477498085387/-MOT5IhV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2652476147/1544407360",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

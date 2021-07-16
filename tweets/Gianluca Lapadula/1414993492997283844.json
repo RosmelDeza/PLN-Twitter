@@ -1,0 +1,275 @@
+{
+    "created_at": "Tue Jul 13 17:01:52 +0000 2021",
+    "id": 1414993492997283844,
+    "id_str": "1414993492997283844",
+    "full_text": "RT @stylexhardy: Ahora que Lapadula esta de regreso a Italia falta que lo quieran de nuevo pa ellos. JAAAAAAA, Gianluca ya est\u00e1... https://\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "stylexhardy",
+                "name": "anya \ud83c\uddf5\ud83c\uddea",
+                "id": 1113161330,
+                "id_str": "1113161330",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1324593977274867712,
+        "id_str": "1324593977274867712",
+        "name": "Juanpa \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83e\udde3 \ud83c\uddf5\ud83c\uddea",
+        "screen_name": "TheLuckyOne03",
+        "location": "Holy Ground",
+        "description": "And they tell you that you're lucky/But you're so confused/'Cause you don't feel pretty, you just feel used",
+        "url": "https://t.co/auyO5f7tbm",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/auyO5f7tbm",
+                        "expanded_url": "https://luckyjuanpa.carrd.co/",
+                        "display_url": "luckyjuanpa.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 338,
+        "friends_count": 368,
+        "listed_count": 6,
+        "created_at": "Fri Nov 06 06:06:45 +0000 2020",
+        "favourites_count": 6304,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3519,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405976464999305226/CsOwhrDg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405976464999305226/CsOwhrDg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324593977274867712/1624047397",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 16:58:32 +0000 2021",
+        "id": 1414992655403126786,
+        "id_str": "1414992655403126786",
+        "full_text": "Ahora que Lapadula esta de regreso a Italia falta que lo quieran de nuevo pa ellos. JAAAAAAA, Gianluca ya est\u00e1... https://t.co/SqFDXpKtEn",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            113
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414992651368247301,
+                    "id_str": "1414992651368247301",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MQUciXsAUOgdL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MQUciXsAUOgdL.jpg",
+                    "url": "https://t.co/SqFDXpKtEn",
+                    "display_url": "pic.twitter.com/SqFDXpKtEn",
+                    "expanded_url": "https://twitter.com/stylexhardy/status/1414992655403126786/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1080,
+                            "h": 590,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 371,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 590,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414992651368247301,
+                    "id_str": "1414992651368247301",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MQUciXsAUOgdL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MQUciXsAUOgdL.jpg",
+                    "url": "https://t.co/SqFDXpKtEn",
+                    "display_url": "pic.twitter.com/SqFDXpKtEn",
+                    "expanded_url": "https://twitter.com/stylexhardy/status/1414992655403126786/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1080,
+                            "h": 590,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 371,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 590,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1113161330,
+            "id_str": "1113161330",
+            "name": "anya \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "stylexhardy",
+            "location": "",
+            "description": "\u210b\u2661\naveces me pregunto porqu\u00e9 tanta gente buena me rodea, pero luego pienso que si estoy en su vida... tal vez no son tan buenas personas.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7196,
+            "friends_count": 4480,
+            "listed_count": 37,
+            "created_at": "Wed Jan 23 01:54:36 +0000 2013",
+            "favourites_count": 32578,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 61131,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411508343173230596/gEpAdHEF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411508343173230596/gEpAdHEF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1113161330/1625468176",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 80,
+        "favorite_count": 384,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 80,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,383 @@
+{
+    "created_at": "Thu Jul 15 00:19:29 +0000 2021",
+    "id": 1415466011088859138,
+    "id_str": "1415466011088859138",
+    "full_text": "RT @MagdNoticias: Con otra exhibici\u00f3n del CRACK Luis D\u00edaz, Colombia venci\u00f3 3-2 a Per\u00fa y termin\u00f3 en el tercer puesto de la Copa Am\u00e9rica.\n\n\u26bd\ufe0f\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MagdNoticias",
+                "name": "Magdalena Noticias",
+                "id": 1215477257579433990,
+                "id_str": "1215477257579433990",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1877119796,
+        "id_str": "1877119796",
+        "name": "Migue Brieva D\u00edaz",
+        "screen_name": "MigueBrieva",
+        "location": "Plato, Colombia",
+        "description": "Publicista, Asesor de artistas y Director de Magdalena Noticias",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 37,
+        "friends_count": 17,
+        "listed_count": 0,
+        "created_at": "Tue Sep 17 22:19:39 +0000 2013",
+        "favourites_count": 1959,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2277,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1398424328384004097/sQF3Y3SQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398424328384004097/sQF3Y3SQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877119796/1606566559",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 03:24:48 +0000 2021",
+        "id": 1413700707203518467,
+        "id_str": "1413700707203518467",
+        "full_text": "Con otra exhibici\u00f3n del CRACK Luis D\u00edaz, Colombia venci\u00f3 3-2 a Per\u00fa y termin\u00f3 en el tercer puesto de la Copa Am\u00e9rica.\n\n\u26bd\ufe0f COL: Juan Guillermo Cuadrado (49') y Luis D\u00edaz (66' y 90'+4')\n\u26bd\ufe0f PER: Yoshimar Yot\u00fan (45') y Gianluca Lapadula (82') https://t.co/sEAXUG3P5C",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            238
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413700690040573953,
+                    "id_str": "1413700690040573953",
+                    "indices": [
+                        239,
+                        262
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E555SZiX0AE2uyL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E555SZiX0AE2uyL.jpg",
+                    "url": "https://t.co/sEAXUG3P5C",
+                    "display_url": "pic.twitter.com/sEAXUG3P5C",
+                    "expanded_url": "https://twitter.com/MagdNoticias/status/1413700707203518467/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 719,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 719,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413700690040573953,
+                    "id_str": "1413700690040573953",
+                    "indices": [
+                        239,
+                        262
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E555SZiX0AE2uyL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E555SZiX0AE2uyL.jpg",
+                    "url": "https://t.co/sEAXUG3P5C",
+                    "display_url": "pic.twitter.com/sEAXUG3P5C",
+                    "expanded_url": "https://twitter.com/MagdNoticias/status/1413700707203518467/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 719,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 719,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1413700692557053952,
+                    "id_str": "1413700692557053952",
+                    "indices": [
+                        239,
+                        262
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E555Si6WQAAkv8d.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E555Si6WQAAkv8d.jpg",
+                    "url": "https://t.co/sEAXUG3P5C",
+                    "display_url": "pic.twitter.com/sEAXUG3P5C",
+                    "expanded_url": "https://twitter.com/MagdNoticias/status/1413700707203518467/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1413700696709423112,
+                    "id_str": "1413700696709423112",
+                    "indices": [
+                        239,
+                        262
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E555SyYWYAgNIBo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E555SyYWYAgNIBo.jpg",
+                    "url": "https://t.co/sEAXUG3P5C",
+                    "display_url": "pic.twitter.com/sEAXUG3P5C",
+                    "expanded_url": "https://twitter.com/MagdNoticias/status/1413700707203518467/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 719,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 719,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1413700700836597763,
+                    "id_str": "1413700700836597763",
+                    "indices": [
+                        239,
+                        262
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E555TBwWEAM42i0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E555TBwWEAM42i0.jpg",
+                    "url": "https://t.co/sEAXUG3P5C",
+                    "display_url": "pic.twitter.com/sEAXUG3P5C",
+                    "expanded_url": "https://twitter.com/MagdNoticias/status/1413700707203518467/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 454,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1366,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1215477257579433990,
+            "id_str": "1215477257579433990",
+            "name": "Magdalena Noticias",
+            "screen_name": "MagdNoticias",
+            "location": "Magdalena, Colombia",
+            "description": "Somos un medio de comunicaci\u00f3n digital, \u00fatil para mantenerse informado de lo que acontece en el Magdalena, Colombia y el Mundo                \ud83d\udcf2\ud83d\udcde: 3008237209",
+            "url": "https://t.co/8fPMoZyXDk",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/8fPMoZyXDk",
+                            "expanded_url": "https://www.facebook.com/MagdalenaNoticiass/",
+                            "display_url": "facebook.com/MagdalenaNotic\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 143,
+            "friends_count": 20,
+            "listed_count": 1,
+            "created_at": "Fri Jan 10 03:35:49 +0000 2020",
+            "favourites_count": 2117,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3230,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1320545182241165312/b2pWg_gu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1320545182241165312/b2pWg_gu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1215477257579433990/1603677480",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

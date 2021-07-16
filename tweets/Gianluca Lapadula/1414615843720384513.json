@@ -1,0 +1,203 @@
+{
+    "created_at": "Mon Jul 12 16:01:14 +0000 2021",
+    "id": 1414615843720384513,
+    "id_str": "1414615843720384513",
+    "full_text": "Gianluca #Lapadula en los plantes del #Torino de \ud83c\uddee\ud83c\uddf9 Italia.\n\n\u2714\ufe0f Seg\u00fan Tuttosport, el delantero le ha dicho a su agente que desea regresar a Tur\u00edn, su ciudad natal; y que existe un contacto \"informal\" con el club.\n\n\ud83d\udcf7 Getty Images https://t.co/M4i6e7GC8J",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        228
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Lapadula",
+                "indices": [
+                    9,
+                    18
+                ]
+            },
+            {
+                "text": "Torino",
+                "indices": [
+                    38,
+                    45
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414615842537578501,
+                "id_str": "1414615842537578501",
+                "indices": [
+                    229,
+                    252
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6G5nSQXoAUtG2A.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6G5nSQXoAUtG2A.jpg",
+                "url": "https://t.co/M4i6e7GC8J",
+                "display_url": "pic.twitter.com/M4i6e7GC8J",
+                "expanded_url": "https://twitter.com/RETAbet_pe/status/1414615843720384513/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414615842537578501,
+                "id_str": "1414615842537578501",
+                "indices": [
+                    229,
+                    252
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6G5nSQXoAUtG2A.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6G5nSQXoAUtG2A.jpg",
+                "url": "https://t.co/M4i6e7GC8J",
+                "display_url": "pic.twitter.com/M4i6e7GC8J",
+                "expanded_url": "https://twitter.com/RETAbet_pe/status/1414615843720384513/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1132670057765642241,
+        "id_str": "1132670057765642241",
+        "name": "RETAbet.pe",
+        "screen_name": "RETAbet_pe",
+        "location": "Per\u00fa",
+        "description": "Casa de apuestas deportivas en Per\u00fa. Noticias deportivas, promociones y las mejores cuotas. App: https://t.co/7vnL4GLKPT Patrocinador Digital Sport Boys. +18",
+        "url": "https://t.co/N4I36khqsf",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/N4I36khqsf",
+                        "expanded_url": "https://www.retabet.pe/",
+                        "display_url": "retabet.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/7vnL4GLKPT",
+                        "expanded_url": "https://www.retabet.pe/app",
+                        "display_url": "retabet.pe/app",
+                        "indices": [
+                            97,
+                            120
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 93,
+        "friends_count": 32,
+        "listed_count": 0,
+        "created_at": "Sun May 26 15:29:20 +0000 2019",
+        "favourites_count": 110,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 596,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1168661418947883009/kLytzzjR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168661418947883009/kLytzzjR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132670057765642241/1615477993",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

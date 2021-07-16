@@ -1,0 +1,290 @@
+{
+    "created_at": "Sun Jul 11 17:45:53 +0000 2021",
+    "id": 1414279793206562819,
+    "id_str": "1414279793206562819",
+    "full_text": "Sorry, pero m\u00e1ximo goleador no es, Luis D\u00edaz y Gianluca Lapadula tienen los mismos con un partido menos. \nSon datos y hay que darlos. https://t.co/4YC5Ad6cw2",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/4YC5Ad6cw2",
+                "expanded_url": "https://twitter.com/FOXSoccer/status/1414269832904601604",
+                "display_url": "twitter.com/FOXSoccer/stat\u2026",
+                "indices": [
+                    134,
+                    157
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 712998991,
+        "id_str": "712998991",
+        "name": "\ud83d\udc9aA N A\ud83d\udc9a",
+        "screen_name": "AnaCogolloB",
+        "location": "Colombia",
+        "description": "Mi spirit animal es el h\u00edbrido entre Tony Stark, Tyrion Lannister y Thomas Shelby.                                                       Madridista\u2661",
+        "url": "https://t.co/rvMH6BOHtp",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/rvMH6BOHtp",
+                        "expanded_url": "http://anic79.blogspot.com/",
+                        "display_url": "anic79.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 363,
+        "friends_count": 833,
+        "listed_count": 1,
+        "created_at": "Mon Jul 23 19:47:49 +0000 2012",
+        "favourites_count": 13288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 32512,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0EF50E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1323461720648622082/J7gGgpUN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323461720648622082/J7gGgpUN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/712998991/1599593275",
+        "profile_link_color": "0DF72C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414269832904601604,
+    "quoted_status_id_str": "1414269832904601604",
+    "quoted_status": {
+        "created_at": "Sun Jul 11 17:06:18 +0000 2021",
+        "id": 1414269832904601604,
+        "id_str": "1414269832904601604",
+        "full_text": "Messi was unstoppable in this year's Copa America tournament \ud83d\udd25 https://t.co/AnOmuwAlaq",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            62
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414269539051655169,
+                    "id_str": "1414269539051655169",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6B-pxPUUAExYFf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6B-pxPUUAExYFf.jpg",
+                    "url": "https://t.co/AnOmuwAlaq",
+                    "display_url": "pic.twitter.com/AnOmuwAlaq",
+                    "expanded_url": "https://twitter.com/FOXSoccer/status/1414269832904601604/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414269539051655169,
+                    "id_str": "1414269539051655169",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6B-pxPUUAExYFf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6B-pxPUUAExYFf.jpg",
+                    "url": "https://t.co/AnOmuwAlaq",
+                    "display_url": "pic.twitter.com/AnOmuwAlaq",
+                    "expanded_url": "https://twitter.com/FOXSoccer/status/1414269832904601604/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 119593082,
+            "id_str": "119593082",
+            "name": "FOX Soccer",
+            "screen_name": "FOXSoccer",
+            "location": "Los Angeles, CA",
+            "description": "Home of the 2021 Copa America, Gold Cup and MLS All-Star Game \u26bd",
+            "url": "https://t.co/2qP5yLnGEY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2qP5yLnGEY",
+                            "expanded_url": "https://tinyurl.com/y4uouolb",
+                            "display_url": "tinyurl.com/y4uouolb",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1376952,
+            "friends_count": 1404,
+            "listed_count": 6220,
+            "created_at": "Thu Mar 04 02:57:00 +0000 2010",
+            "favourites_count": 2413,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 126210,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F5E9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1401966548730847253/SepAqgMc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401966548730847253/SepAqgMc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/119593082/1625085067",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1137,
+        "favorite_count": 6594,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,318 @@
+{
+    "created_at": "Mon Jul 12 07:15:51 +0000 2021",
+    "id": 1414483630215372800,
+    "id_str": "1414483630215372800",
+    "full_text": "RT @CopaAmerica: El goleador \ud83c\uddf5\ud83c\uddea ante la muralla \ud83c\uddfb\ud83c\uddea\nGianluca Lapadula \u2694 Wuilker Fari\u00f1ez\n\n#VibraElContinente #CopaAm\u00e9rica \ud83c\udfc6 https://t.co/uhyi\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "VibraElContinente",
+                "indices": [
+                    88,
+                    106
+                ]
+            },
+            {
+                "text": "CopaAm\u00e9rica",
+                "indices": [
+                    107,
+                    119
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CopaAmerica",
+                "name": "Copa Am\u00e9rica",
+                "id": 3159711265,
+                "id_str": "3159711265",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2376650185,
+        "id_str": "2376650185",
+        "name": "\u25e4El Polaco de Lan\u00fas\u25e2",
+        "screen_name": "ElConfy16",
+        "location": "Argentina/Bs.As./Lan\u00fas Este.",
+        "description": "#Belifan,#Bostero,#Cumbiero me dicen el #Confy amo a #Gilda #SoyGildero @belindapop @BocaJrsOficial Fan d @laliespos @lalimusica  @PabloR_StyloPro \u1d2c\u1dbb\u1d58\u02e1 \u1d39\u1d49\u1d48\u2071\u207f\u1d43 \u0950",
+        "url": "http://t.co/XEEBlUKLmN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/XEEBlUKLmN",
+                        "expanded_url": "http://BelindaPop.Net",
+                        "display_url": "BelindaPop.Net",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 978,
+        "friends_count": 4986,
+        "listed_count": 14,
+        "created_at": "Fri Mar 07 05:49:10 +0000 2014",
+        "favourites_count": 283676,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 270579,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "4B11EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/441815458858016768/HljDtkAD_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/441815458858016768/HljDtkAD_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2376650185/1394173116",
+        "profile_link_color": "14FF08",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jun 27 22:02:30 +0000 2021",
+        "id": 1409270942195453959,
+        "id_str": "1409270942195453959",
+        "full_text": "El goleador \ud83c\uddf5\ud83c\uddea ante la muralla \ud83c\uddfb\ud83c\uddea\nGianluca Lapadula \u2694 Wuilker Fari\u00f1ez\n\n#VibraElContinente #CopaAm\u00e9rica \ud83c\udfc6 https://t.co/uhyi3FbP2D",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            104
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "VibraElContinente",
+                    "indices": [
+                        71,
+                        89
+                    ]
+                },
+                {
+                    "text": "CopaAm\u00e9rica",
+                    "indices": [
+                        90,
+                        102
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1409270855369166849,
+                    "id_str": "1409270855369166849",
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E468YFaXEAEZZgY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E468YFaXEAEZZgY.jpg",
+                    "url": "https://t.co/uhyi3FbP2D",
+                    "display_url": "pic.twitter.com/uhyi3FbP2D",
+                    "expanded_url": "https://twitter.com/CopaAmerica/status/1409270942195453959/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 776,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1325,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 440,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1409270855369166849,
+                    "id_str": "1409270855369166849",
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E468YFaXEAEZZgY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E468YFaXEAEZZgY.jpg",
+                    "url": "https://t.co/uhyi3FbP2D",
+                    "display_url": "pic.twitter.com/uhyi3FbP2D",
+                    "expanded_url": "https://twitter.com/CopaAmerica/status/1409270942195453959/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 776,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1325,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 440,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3159711265,
+            "id_str": "3159711265",
+            "name": "Copa Am\u00e9rica",
+            "screen_name": "CopaAmerica",
+            "location": "Paraguay",
+            "description": "Conta oficial do torneio continental mais antigo do mundo. Desde 1916.\n\nCuenta oficial del torneo continental m\u00e1s antiguo del mundo. Desde 1916.",
+            "url": "https://t.co/Tx7lTXbAMh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Tx7lTXbAMh",
+                            "expanded_url": "https://copaamerica.com",
+                            "display_url": "copaamerica.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 556469,
+            "friends_count": 227,
+            "listed_count": 1542,
+            "created_at": "Thu Apr 16 13:26:19 +0000 2015",
+            "favourites_count": 1405,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 8505,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1397566412164681732/pu-65keH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397566412164681732/pu-65keH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3159711265/1623554405",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 332,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 41,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

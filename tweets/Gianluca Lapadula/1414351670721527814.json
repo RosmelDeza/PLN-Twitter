@@ -1,0 +1,110 @@
+{
+    "created_at": "Sun Jul 11 22:31:30 +0000 2021",
+    "id": 1414351670721527814,
+    "id_str": "1414351670721527814",
+    "full_text": "@YUK10Q Gianluca lapadula es un futbolista italiano que hace poco fue tra\u00eddo a nuestra selecci\u00f3n para jugar por la copa Am\u00e9rica, la cosa es que se llev\u00f3 el coraz\u00f3n de muchos pq el tipo es bien dulce y humilde.",
+    "truncated": false,
+    "display_text_range": [
+        8,
+        209
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "YUK10Q",
+                "name": "kaito luvs yato",
+                "id": 1283222889764986881,
+                "id_str": "1283222889764986881",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414350999410647048,
+    "in_reply_to_status_id_str": "1414350999410647048",
+    "in_reply_to_user_id": 1283222889764986881,
+    "in_reply_to_user_id_str": "1283222889764986881",
+    "in_reply_to_screen_name": "YUK10Q",
+    "user": {
+        "id": 1164264918360756224,
+        "id_str": "1164264918360756224",
+        "name": "\ud835\uddb5\ud835\uddce\ud835\uddc4\ud835\uddc6\ud835\uddc2\ud835\uddcb \ud835\uddae\ud835\uddcb\ud835\uddc5\ud835\uddc8\ud835\uddcf.",
+        "screen_name": "vlastqian",
+        "location": "\u26e7 orlov & NARA.",
+        "description": "Chico poseedor de bellos esmeraldas, nacido una noche de Abril del 92, de ra\u00edces peruanas y fiel seguidor de Soda Stereo.",
+        "url": "https://t.co/SYOPVCumrC",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/SYOPVCumrC",
+                        "expanded_url": "https://open.spotify.com/track/5GQzpkYQg95Agcwhn9eA3q?si=6jSMFaPZSL2GyOkv9Nma0w",
+                        "display_url": "open.spotify.com/track/5GQzpkYQ\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3716,
+        "friends_count": 3622,
+        "listed_count": 54,
+        "created_at": "Wed Aug 21 19:56:21 +0000 2019",
+        "favourites_count": 70755,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 42953,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414298795068768257/o1InAPp3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414298795068768257/o1InAPp3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1164264918360756224/1625953875",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

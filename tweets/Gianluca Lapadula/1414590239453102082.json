@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 12 14:19:29 +0000 2021",
+    "id": 1414590239453102082,
+    "id_str": "1414590239453102082",
+    "full_text": "@giraltpablo @SofaScoreLA Gianluca Lapadula por Cavani.\nWilmar Barrios por Vecino.",
+    "truncated": false,
+    "display_text_range": [
+        26,
+        82
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "giraltpablo",
+                "name": "Pablo Giralt",
+                "id": 143843372,
+                "id_str": "143843372",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "SofaScoreLA",
+                "name": "SofaScore Latin America",
+                "id": 1255198687741071360,
+                "id_str": "1255198687741071360",
+                "indices": [
+                    13,
+                    25
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1414587064713154561,
+    "in_reply_to_status_id_str": "1414587064713154561",
+    "in_reply_to_user_id": 143843372,
+    "in_reply_to_user_id_str": "143843372",
+    "in_reply_to_screen_name": "giraltpablo",
+    "user": {
+        "id": 383248517,
+        "id_str": "383248517",
+        "name": "Juliana Salazar Meza",
+        "screen_name": "julisalazarmeza",
+        "location": "Bogot\u00e1, Colombia",
+        "description": "Periodista Deportiva de @caracolradio. La m\u00fasica y el deporte, mis grandes pasiones. El cielo es el l\u00edmite\u201d. Manizale\u00f1a en Bogot\u00e1!!\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f\u26bd\ufe0f\ud83d\udcfb\ud83c\udfa4\ud83c\udfa7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 55881,
+        "friends_count": 2842,
+        "listed_count": 105,
+        "created_at": "Sat Oct 01 14:53:02 +0000 2011",
+        "favourites_count": 29287,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19354,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414410829538242564/rwUdivc-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414410829538242564/rwUdivc-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/383248517/1530576485",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 80,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

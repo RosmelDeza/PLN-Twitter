@@ -1,0 +1,220 @@
+{
+    "created_at": "Tue Jul 13 00:10:02 +0000 2021",
+    "id": 1414738856407089159,
+    "id_str": "1414738856407089159",
+    "full_text": "RT @RPPDeportes: \ud83c\udf99\ufe0f Raziel Garc\u00eda: \"Gianluca Lapadula habla muy bien el espa\u00f1ol, medio masticado, pero bien. No se nos ha complicado en ese\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RPPDeportes",
+                "name": "F\u00fatbol Como Cancha - Oficial",
+                "id": 41609283,
+                "id_str": "41609283",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1215236134835572736,
+        "id_str": "1215236134835572736",
+        "name": "Pollito Broasther \ud83c\udf57",
+        "screen_name": "jmjkgy",
+        "location": "\ud83c\uddf5\ud83c\uddea// Ot7// Jikuka",
+        "description": "",
+        "url": "https://t.co/QvM1agS01o",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/QvM1agS01o",
+                        "expanded_url": "http://Jikook.com",
+                        "display_url": "Jikook.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1151,
+        "friends_count": 3170,
+        "listed_count": 5,
+        "created_at": "Thu Jan 09 11:37:40 +0000 2020",
+        "favourites_count": 26196,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10641,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414414088751484929/aXtmxXVI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414414088751484929/aXtmxXVI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1215236134835572736/1626057572",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 17:46:44 +0000 2021",
+        "id": 1414642396453818368,
+        "id_str": "1414642396453818368",
+        "full_text": "\ud83c\udf99\ufe0f Raziel Garc\u00eda: \"Gianluca Lapadula habla muy bien el espa\u00f1ol, medio masticado, pero bien. No se nos ha complicado en ese tema. Me daba tips para entenderlo en su estilo de juego, que el siempre va al espacio, eso ayud\u00f3 mucho\"\n\n@RPPNoticias",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            241
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RPPNoticias",
+                    "name": "RPP Noticias",
+                    "id": 9075022,
+                    "id_str": "9075022",
+                    "indices": [
+                        229,
+                        241
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 41609283,
+            "id_str": "41609283",
+            "name": "F\u00fatbol Como Cancha - Oficial",
+            "screen_name": "RPPDeportes",
+            "location": "Lima - Per\u00fa",
+            "description": "",
+            "url": "https://t.co/5b6XwMPrsK",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/5b6XwMPrsK",
+                            "expanded_url": "https://rpp.pe/deportes",
+                            "display_url": "rpp.pe/deportes",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 492218,
+            "friends_count": 994,
+            "listed_count": 1141,
+            "created_at": "Thu May 21 15:37:38 +0000 2009",
+            "favourites_count": 125,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 157837,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1270821471187808258/kNWKcWNK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270821471187808258/kNWKcWNK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41609283/1617385068",
+            "profile_link_color": "FFD100",
+            "profile_sidebar_border_color": "0F8F19",
+            "profile_sidebar_fill_color": "FAC919",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 252,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Tue Jul 13 17:45:21 +0000 2021",
+    "id": 1415004435118440451,
+    "id_str": "1415004435118440451",
+    "full_text": "Gianluca Lapadula estando por encima de delanteros como Roberto Firmino, Duvan Zapata, Luis Muriel, Luis Suarez o el mismo Edison Cavani con respecto a los goles, no fue m\u00e9rito suficiente para @CONMEBOL al momento de elegirlo en el XI ideal. \n\nAnot\u00f3 3 goles y dio 1 asistencia",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        276
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CONMEBOL",
+                "name": "CONMEBOL.com",
+                "id": 1265260098,
+                "id_str": "1265260098",
+                "indices": [
+                    193,
+                    202
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1325321404993171457,
+        "id_str": "1325321404993171457",
+        "name": "Jhoseph Fajardo",
+        "screen_name": "jhoseph_fajardo",
+        "location": "",
+        "description": "18. Amante del f\u00fatbol y futuro Periodista Deportivo. Redes en Barrio F\u00fatbol. Soy @garra_futbolera \ud83d\udc48\ud83c\udffd",
+        "url": "https://t.co/f8JKubEBX7",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/f8JKubEBX7",
+                        "expanded_url": "https://www.instagram.com/jhofafer_03/?hl=es-la",
+                        "display_url": "instagram.com/jhofafer_03/?h\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 53,
+        "friends_count": 107,
+        "listed_count": 0,
+        "created_at": "Sun Nov 08 06:17:13 +0000 2020",
+        "favourites_count": 988,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 384,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1371194750255128576/ah_eH0xo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371194750255128576/ah_eH0xo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1325321404993171457/1604941280",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

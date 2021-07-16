@@ -1,0 +1,194 @@
+{
+    "created_at": "Thu Jul 15 23:58:42 +0000 2021",
+    "id": 1415823166409220097,
+    "id_str": "1415823166409220097",
+    "full_text": "#SagastiGolpistaCTM Interbank Plaza San Mart\u00edn Gianluca Lapadula Marco Sifuentes #LaEncerrona #laencerrona yahaira #AuditoriaInternacionalYa Merino Sinopharm https://t.co/PPIE3SrOsR",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        157
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    0,
+                    19
+                ]
+            },
+            {
+                "text": "LaEncerrona",
+                "indices": [
+                    81,
+                    93
+                ]
+            },
+            {
+                "text": "laencerrona",
+                "indices": [
+                    94,
+                    106
+                ]
+            },
+            {
+                "text": "AuditoriaInternacionalYa",
+                "indices": [
+                    115,
+                    140
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415822906509217801,
+                "id_str": "1415822906509217801",
+                "indices": [
+                    158,
+                    181
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YDbp9X0AkrUjf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YDbp9X0AkrUjf.jpg",
+                "url": "https://t.co/PPIE3SrOsR",
+                "display_url": "pic.twitter.com/PPIE3SrOsR",
+                "expanded_url": "https://twitter.com/OswerMickey/status/1415823166409220097/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1284,
+                        "h": 724,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 677,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415822906509217801,
+                "id_str": "1415822906509217801",
+                "indices": [
+                    158,
+                    181
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YDbp9X0AkrUjf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YDbp9X0AkrUjf.jpg",
+                "url": "https://t.co/PPIE3SrOsR",
+                "display_url": "pic.twitter.com/PPIE3SrOsR",
+                "expanded_url": "https://twitter.com/OswerMickey/status/1415823166409220097/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1284,
+                        "h": 724,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 677,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1369948748961488900,
+        "id_str": "1369948748961488900",
+        "name": "Mickey Oswer",
+        "screen_name": "OswerMickey",
+        "location": "",
+        "description": "Pol\u00edtica, noticias medi\u00e1ticas, calumnias, insultos, joda y todo lo que no te dice la prensa basura. \n\ud83d\udc49\ud83c\udffcEstamos de vuelta\ud83d\udc48\ud83c\udffc\ud83d\ude05",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 81,
+        "listed_count": 0,
+        "created_at": "Thu Mar 11 09:50:38 +0000 2021",
+        "favourites_count": 386,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 840,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1369957157194653697/bFSsOGnk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369957157194653697/bFSsOGnk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369948748961488900/1618107376",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

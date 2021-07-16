@@ -1,0 +1,262 @@
+{
+    "created_at": "Tue Jul 13 13:52:23 +0000 2021",
+    "id": 1414945808974290947,
+    "id_str": "1414945808974290947",
+    "full_text": "RT @guslopezinfo: \u26a0\ufe0f Los jugadores m\u00e1s destacados de cada una de las selecciones de la Copa Am\u00e9rica:\n\nLionel Messi \ud83c\udde6\ud83c\uddf7 \nNeymar da Silva \ud83c\udde7\ud83c\uddf7\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "guslopezinfo",
+                "name": "Gustavo L\u00f3pez",
+                "id": 978084829987332097,
+                "id_str": "978084829987332097",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 27519026,
+        "id_str": "27519026",
+        "name": "Claudia Lampe Anez",
+        "screen_name": "ClaudiaLampe",
+        "location": "Florida, USA",
+        "description": "UTEP Alumni- Miners \u26cf former basketball player, renegona, intensa y tortillera de equipos de f\u00fatbol por culpa de @carloslampe1 \ud83c\udde7\ud83c\uddf4\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10951,
+        "friends_count": 570,
+        "listed_count": 45,
+        "created_at": "Sun Mar 29 22:22:09 +0000 2009",
+        "favourites_count": 12468,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17530,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397330700764856322/Ls98_z6Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397330700764856322/Ls98_z6Z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27519026/1621475515",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 12:25:10 +0000 2021",
+        "id": 1414923859678089219,
+        "id_str": "1414923859678089219",
+        "full_text": "\u26a0\ufe0f Los jugadores m\u00e1s destacados de cada una de las selecciones de la Copa Am\u00e9rica:\n\nLionel Messi \ud83c\udde6\ud83c\uddf7 \nNeymar da Silva \ud83c\udde7\ud83c\uddf7 \nEduardo Vargas \ud83c\udde8\ud83c\uddf1 \nGianluca Lapadula \ud83c\uddf5\ud83c\uddea \nCarlos Lampe \ud83c\udde7\ud83c\uddf4 \nLuis D\u00edaz \ud83c\udde8\ud83c\uddf4 \nNahitan N\u00e1ndez \ud83c\uddfa\ud83c\uddfe \nWuilker Far\u00ed\u00f1ez \ud83c\uddfb\ud83c\uddea \nMiguel Almir\u00f3n \ud83c\uddf5\ud83c\uddfe \nGonzalo Plata \ud83c\uddea\ud83c\udde8 https://t.co/MywQJEBE5P",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            267
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414923853252411398,
+                    "id_str": "1414923853252411398",
+                    "indices": [
+                        268,
+                        291
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6LRv3lWQAYnjCN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6LRv3lWQAYnjCN.jpg",
+                    "url": "https://t.co/MywQJEBE5P",
+                    "display_url": "pic.twitter.com/MywQJEBE5P",
+                    "expanded_url": "https://twitter.com/guslopezinfo/status/1414923859678089219/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 576,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1016,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1122,
+                            "h": 1325,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414923853252411398,
+                    "id_str": "1414923853252411398",
+                    "indices": [
+                        268,
+                        291
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6LRv3lWQAYnjCN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6LRv3lWQAYnjCN.jpg",
+                    "url": "https://t.co/MywQJEBE5P",
+                    "display_url": "pic.twitter.com/MywQJEBE5P",
+                    "expanded_url": "https://twitter.com/guslopezinfo/status/1414923859678089219/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 576,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1016,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1122,
+                            "h": 1325,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 978084829987332097,
+            "id_str": "978084829987332097",
+            "name": "Gustavo L\u00f3pez",
+            "screen_name": "guslopezinfo",
+            "location": "Florida, USA",
+            "description": "Ac\u00e1 expreso lo que yo pienso y comparto lo que a mi me parece importante. Si a alguno(s) le(s) molesta, deje(n) de seguir sin ning\u00fan problema.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8251,
+            "friends_count": 718,
+            "listed_count": 24,
+            "created_at": "Mon Mar 26 01:42:50 +0000 2018",
+            "favourites_count": 10405,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4456,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1370087207768358912/4Gl5qusa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370087207768358912/4Gl5qusa_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/978084829987332097/1541339586",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 102,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

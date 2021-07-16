@@ -1,0 +1,228 @@
+{
+    "created_at": "Mon Jul 12 18:31:30 +0000 2021",
+    "id": 1414653660336885763,
+    "id_str": "1414653660336885763",
+    "full_text": "RT @garyale29: Esta vez toc\u00f3 escoger al equipo de ensue\u00f1o del torneo continental.\n\nCopa Am\u00e9rica 2021: el once ideal con Lionel Messi, Neyma\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "garyale29",
+                "name": "G a r y",
+                "id": 2947566353,
+                "id_str": "2947566353",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 94175232,
+        "id_str": "94175232",
+        "name": "Shirley Marcelo Manzanedo",
+        "screen_name": "ShirleyMarceloM",
+        "location": "Lima/ Peru",
+        "description": "Periodista en @liberoperu y @DeportesLR",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 436,
+        "friends_count": 840,
+        "listed_count": 2,
+        "created_at": "Wed Dec 02 21:03:16 +0000 2009",
+        "favourites_count": 11727,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3961,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/797965658852118529/Gaot0syu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/797965658852118529/Gaot0syu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94175232/1570641016",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 15:20:04 +0000 2021",
+        "id": 1414605487371431937,
+        "id_str": "1414605487371431937",
+        "full_text": "Esta vez toc\u00f3 escoger al equipo de ensue\u00f1o del torneo continental.\n\nCopa Am\u00e9rica 2021: el once ideal con Lionel Messi, Neymar y Gianluca Lapadula https://t.co/RCGywCuAJk a trav\u00e9s de @larepublica_pe",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            197
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "larepublica_pe",
+                    "name": "Diario La Rep\u00fablica",
+                    "id": 66746614,
+                    "id_str": "66746614",
+                    "indices": [
+                        182,
+                        197
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/RCGywCuAJk",
+                    "expanded_url": "https://larepublica.pe/deportes/2021/07/12/copa-america-2021-el-once-ideal-con-lionel-messi-neymar-y-gianluca-lapadula/",
+                    "display_url": "larepublica.pe/deportes/2021/\u2026",
+                    "indices": [
+                        146,
+                        169
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2947566353,
+            "id_str": "2947566353",
+            "name": "G a r y",
+            "screen_name": "garyale29",
+            "location": "Santiago de Surco, Peru",
+            "description": "Periodista deportivo. @DeportesLR @larepublica_pe. Entrevist\u00e9 a Bruce Wayne de Gotham | https://t.co/X8nUGrsYJN\u2026",
+            "url": "https://t.co/wcEIDAf6dn",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wcEIDAf6dn",
+                            "expanded_url": "https://www.behance.net/garyhriverc51b",
+                            "display_url": "behance.net/garyhriverc51b",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X8nUGrsYJN",
+                            "expanded_url": "http://larepublica.pe/autor/gary-hua",
+                            "display_url": "larepublica.pe/autor/gary-hua",
+                            "indices": [
+                                88,
+                                111
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1373,
+            "friends_count": 977,
+            "listed_count": 4,
+            "created_at": "Mon Dec 29 01:29:42 +0000 2014",
+            "favourites_count": 45223,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 39843,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1345882995752906752/gIHEkzcD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345882995752906752/gIHEkzcD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2947566353/1620588151",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

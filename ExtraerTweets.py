@@ -19,10 +19,15 @@ trends = data["trends"]
 names = list(set([trend["name"] for trend in trends]))
 
 # top 5
-names = names[:3]
+#names = names[:10]
+print(len(names))
 print(names)
 
-ntweets = 300
+a = input("Tema: ")
+names = [a]
+print(names)
+
+ntweets = 2000
 for key in names:
     # separamos temas por carpetas
     carpeta = 'tweets/' + str(key)

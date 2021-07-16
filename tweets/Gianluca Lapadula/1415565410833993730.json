@@ -1,0 +1,275 @@
+{
+    "created_at": "Thu Jul 15 06:54:28 +0000 2021",
+    "id": 1415565410833993730,
+    "id_str": "1415565410833993730",
+    "full_text": "RT @tocaypasaperu: \ud83d\udea8\u00a1LAPADULA SUENA EN TURQU\u00cdA!\ud83d\udea8\n\n\u27a1\ufe0f Los goles de Gianluca Lapadula \ud83c\uddee\ud83c\uddf9\ud83c\uddf5\ud83c\uddea en la Copa Am\u00e9rica 2021 \ud83c\udde7\ud83c\uddf7, siguen generando admir\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tocaypasaperu",
+                "name": "TOCA Y PASA PER\u00da",
+                "id": 1321818573430575104,
+                "id_str": "1321818573430575104",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 111643077,
+        "id_str": "111643077",
+        "name": "\u2606Adri \ud83d\udd25 17/01/21 \ud83c\uddf5\ud83c\uddea\ud83d\udc97\ud83c\udf2e\ud83c\udf38\ud83c\udf51\ud83d\udd2b\ud83c\uddf9\ud83c\uddf7",
+        "screen_name": "_duraznitos",
+        "location": "Turqu\u00eda",
+        "description": "\ud83d\udc9cPeter, Euge,Mike,Cagatay, Hazal,Aras,Erkan,Oner,Burak bebesito... PoliAmor, series turcas, Paolo G, loki.. Fan Account ..  Si hablo cojudeces no t ofendas..",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3006,
+        "friends_count": 627,
+        "listed_count": 20,
+        "created_at": "Fri Feb 05 17:10:27 +0000 2010",
+        "favourites_count": 183488,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 235325,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410680550675947524/WJuO7l1f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410680550675947524/WJuO7l1f_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111643077/1623210699",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 04:26:57 +0000 2021",
+        "id": 1415165900244848646,
+        "id_str": "1415165900244848646",
+        "full_text": "\ud83d\udea8\u00a1LAPADULA SUENA EN TURQU\u00cdA!\ud83d\udea8\n\n\u27a1\ufe0f Los goles de Gianluca Lapadula \ud83c\uddee\ud83c\uddf9\ud83c\uddf5\ud83c\uddea en la Copa Am\u00e9rica 2021 \ud83c\udde7\ud83c\uddf7, siguen generando admiraci\u00f3n de propios y extra\u00f1os.Tras el conocido inter\u00e9s de Torino \ud83d\udd34, ahora se suma el\u00a0Trabzonspor \ud83d\udd35\ud83d\udd34 de Turqu\u00eda \ud83c\uddf9\ud83c\uddf7. https://t.co/kWpD3H7eDw",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            232
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415165897124233219,
+                    "id_str": "1415165897124233219",
+                    "indices": [
+                        233,
+                        256
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ot4rRWQAMGYh1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ot4rRWQAMGYh1.jpg",
+                    "url": "https://t.co/kWpD3H7eDw",
+                    "display_url": "pic.twitter.com/kWpD3H7eDw",
+                    "expanded_url": "https://twitter.com/tocaypasaperu/status/1415165900244848646/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1920,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415165897124233219,
+                    "id_str": "1415165897124233219",
+                    "indices": [
+                        233,
+                        256
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ot4rRWQAMGYh1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ot4rRWQAMGYh1.jpg",
+                    "url": "https://t.co/kWpD3H7eDw",
+                    "display_url": "pic.twitter.com/kWpD3H7eDw",
+                    "expanded_url": "https://twitter.com/tocaypasaperu/status/1415165900244848646/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1920,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1321818573430575104,
+            "id_str": "1321818573430575104",
+            "name": "TOCA Y PASA PER\u00da",
+            "screen_name": "tocaypasaperu",
+            "location": "Lima, Peru",
+            "description": "\ud83c\uddf5\ud83c\uddea Per\u00fa\n\u26bd F\u00fatbol nacional e internacional\n\ud83d\udccc Twitter | Facebook: @tocaypasaperu\n\ud83c\udf99\ufe0f @gracenolalc | @DMontalvan | @angelfloresguty",
+            "url": "https://t.co/WEOdVzPZpF",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/WEOdVzPZpF",
+                            "expanded_url": "https://instagram.com/tocaypasaperu?igshid=6hc8bwkh7hwb",
+                            "display_url": "instagram.com/tocaypasaperu?\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 881,
+            "friends_count": 122,
+            "listed_count": 3,
+            "created_at": "Thu Oct 29 14:18:42 +0000 2020",
+            "favourites_count": 422,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 5623,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1330166625182625797/k0J1KJ8z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330166625182625797/k0J1KJ8z_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1321818573430575104/1622566379",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

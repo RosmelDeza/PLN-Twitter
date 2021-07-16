@@ -1,0 +1,109 @@
+{
+    "created_at": "Sun Jul 11 22:10:46 +0000 2021",
+    "id": 1414346451916922888,
+    "id_str": "1414346451916922888",
+    "full_text": "Para Italia no existe Lapadula. As\u00ed que no empiecen\ud83d\udd25\ud83d\ude42. \n\nGianluca ahora juega para Per\u00fa \ud83c\uddf5\ud83c\uddea",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        90
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 249002533,
+        "id_str": "249002533",
+        "name": "Yamily Albrecht",
+        "screen_name": "YamilyAlbrecht",
+        "location": "Chimbote, Peru",
+        "description": "Enfermera. Creativa y Fot\u00f3grafa. Amo el Arte.\nFan del Pop y de Internet. Instagram: https://t.co/1Bpbei2O66",
+        "url": "https://t.co/vnE4azwN34",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/vnE4azwN34",
+                        "expanded_url": "https://linktr.ee/yamilyalbrecht",
+                        "display_url": "linktr.ee/yamilyalbrecht",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1Bpbei2O66",
+                        "expanded_url": "http://instagram.com/yamilyalbrecht",
+                        "display_url": "instagram.com/yamilyalbrecht",
+                        "indices": [
+                            84,
+                            107
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 960,
+        "friends_count": 343,
+        "listed_count": 49,
+        "created_at": "Tue Feb 08 04:29:37 +0000 2011",
+        "favourites_count": 6523,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22817,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410891974824054787/TIZ8CnCI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410891974824054787/TIZ8CnCI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/249002533/1623575790",
+        "profile_link_color": "039183",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

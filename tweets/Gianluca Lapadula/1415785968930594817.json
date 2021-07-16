@@ -1,0 +1,202 @@
+{
+    "created_at": "Thu Jul 15 21:30:53 +0000 2021",
+    "id": 1415785968930594817,
+    "id_str": "1415785968930594817",
+    "full_text": "@G_Lapadula Datos de los 3 seleccionados:\n\nClaudio Pizarro - 20 Goles con Per\u00fa\ud83c\uddf5\ud83c\uddea\n85 partidos \n\nRuid\u00edaz - 4 Goles con Per\u00fa \ud83c\uddf5\ud83c\uddea 48 partidos \n\nGianluca Lapadula - 3 Goles - 8 presencia con Per\u00fa \ud83c\uddf5\ud83c\uddea\n\nLAPADULA MARCO LA DIFERENCIA EN 8 PARTIDOS JUGADOS 100% EFECTIVO\n\nEL EFECTO LAPAGOL - 2021 \ud83c\uddf5\ud83c\uddea\ud83d\udc4f\ud83c\udffb\ud83e\udd73 https://t.co/CkMbvmAi3s",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        290
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "G_Lapadula",
+                "name": "GLapadula",
+                "id": 2493053869,
+                "id_str": "2493053869",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415785960604831744,
+                "id_str": "1415785960604831744",
+                "indices": [
+                    291,
+                    314
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/E6Xh1HvWEAAW0Km.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6Xh1HvWEAAW0Km.jpg",
+                "url": "https://t.co/CkMbvmAi3s",
+                "display_url": "pic.twitter.com/CkMbvmAi3s",
+                "expanded_url": "https://twitter.com/Camilita_evans/status/1415785968930594817/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 220,
+                        "h": 180,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 220,
+                        "h": 180,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 220,
+                        "h": 180,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415785960604831744,
+                "id_str": "1415785960604831744",
+                "indices": [
+                    291,
+                    314
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/E6Xh1HvWEAAW0Km.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6Xh1HvWEAAW0Km.jpg",
+                "url": "https://t.co/CkMbvmAi3s",
+                "display_url": "pic.twitter.com/CkMbvmAi3s",
+                "expanded_url": "https://twitter.com/Camilita_evans/status/1415785968930594817/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 220,
+                        "h": 180,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 220,
+                        "h": 180,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 220,
+                        "h": 180,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        11,
+                        9
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/E6Xh1HvWEAAW0Km.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415749014109270030,
+    "in_reply_to_status_id_str": "1415749014109270030",
+    "in_reply_to_user_id": 2493053869,
+    "in_reply_to_user_id_str": "2493053869",
+    "in_reply_to_screen_name": "G_Lapadula",
+    "user": {
+        "id": 1013532290377506816,
+        "id_str": "1013532290377506816",
+        "name": "\u2b50\ud83c\udf1fCamila\ud83c\udf1f\u2b50",
+        "screen_name": "Camilita_evans",
+        "location": "",
+        "description": "Licenciada \ud83c\udfeb\u200d\ud83d\udc69\ud83c\udffb\ncuenta de pol\u00edtica \n16/ she/ her/ \ud83d\udc71\u200d\u2640\ufe0f\ud83d\udc69\u200d\ud83e\uddb0\ud83d\udc69\ud83d\udc78",
+        "url": "https://t.co/FJhfe8IFYG",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/FJhfe8IFYG",
+                        "expanded_url": "https://www.instagram.com/camilita_evans/",
+                        "display_url": "instagram.com/camilita_evans/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 12171,
+        "friends_count": 1533,
+        "listed_count": 6,
+        "created_at": "Sun Jul 01 21:18:23 +0000 2018",
+        "favourites_count": 83543,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 46062,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397653026794577923/-Iy0PXEo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397653026794577923/-Iy0PXEo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013532290377506816/1579883878",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 28,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

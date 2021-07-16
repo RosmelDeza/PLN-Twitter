@@ -1,0 +1,304 @@
+{
+    "created_at": "Tue Jul 13 02:08:07 +0000 2021",
+    "id": 1414768572656668675,
+    "id_str": "1414768572656668675",
+    "full_text": "RT @Qedine: Gianluca Lapadula sali\u00f3 de un centro comercial con seguridad en medio de un tumulto de hinchas - https://t.co/oQfSiCr444 https:\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Qedine",
+                "name": "Qedine",
+                "id": 742460214679605248,
+                "id_str": "742460214679605248",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/oQfSiCr444",
+                "expanded_url": "https://qedine.com/gianluca-lapadula-salio-de-un-centro-comercial-con-seguridad-en-medio-de-un-tumulto-de-hinchas/",
+                "display_url": "qedine.com/gianluca-lapad\u2026",
+                "indices": [
+                    109,
+                    132
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1369856087709650949,
+        "id_str": "1369856087709650949",
+        "name": "Sassita.",
+        "screen_name": "ximenixgatubela",
+        "location": "",
+        "description": "Pasional y temperamental.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5,
+        "friends_count": 7,
+        "listed_count": 0,
+        "created_at": "Thu Mar 11 03:42:05 +0000 2021",
+        "favourites_count": 75,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1794,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 21:16:19 +0000 2021",
+        "id": 1414695140028043271,
+        "id_str": "1414695140028043271",
+        "full_text": "Gianluca Lapadula sali\u00f3 de un centro comercial con seguridad en medio de un tumulto de hinchas - https://t.co/oQfSiCr444 https://t.co/4FTtnBLbsA",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            120
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/oQfSiCr444",
+                    "expanded_url": "https://qedine.com/gianluca-lapadula-salio-de-un-centro-comercial-con-seguridad-en-medio-de-un-tumulto-de-hinchas/",
+                    "display_url": "qedine.com/gianluca-lapad\u2026",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414695138295754752,
+                    "id_str": "1414695138295754752",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6IBu5-XMAAGqDh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6IBu5-XMAAGqDh.jpg",
+                    "url": "https://t.co/4FTtnBLbsA",
+                    "display_url": "pic.twitter.com/4FTtnBLbsA",
+                    "expanded_url": "https://twitter.com/Qedine/status/1414695140028043271/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 706,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1250,
+                            "h": 735,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414695138295754752,
+                    "id_str": "1414695138295754752",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6IBu5-XMAAGqDh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6IBu5-XMAAGqDh.jpg",
+                    "url": "https://t.co/4FTtnBLbsA",
+                    "display_url": "pic.twitter.com/4FTtnBLbsA",
+                    "expanded_url": "https://twitter.com/Qedine/status/1414695140028043271/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 706,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1250,
+                            "h": 735,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.qedine.com\" rel=\"nofollow\">Qedine</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 742460214679605248,
+            "id_str": "742460214679605248",
+            "name": "Qedine",
+            "screen_name": "Qedine",
+            "location": "",
+            "description": "Hablamos sobre toda la actualidad deportiva. S\u00f3lo nos hace falta conocer tu opini\u00f3n. \u00bfTe animas? https://t.co/H1BnRQnOPm",
+            "url": "https://t.co/eL3O3IxtGh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/eL3O3IxtGh",
+                            "expanded_url": "http://www.qedine.com",
+                            "display_url": "qedine.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/H1BnRQnOPm",
+                            "expanded_url": "https://www.Facebook.com/QEDINE/",
+                            "display_url": "Facebook.com/QEDINE/",
+                            "indices": [
+                                97,
+                                120
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 7523,
+            "friends_count": 13,
+            "listed_count": 3,
+            "created_at": "Mon Jun 13 20:54:44 +0000 2016",
+            "favourites_count": 31,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2491,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1184288457193148417/0Ne1rkkx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184288457193148417/0Ne1rkkx_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 12 01:59:17 +0000 2021",
+    "id": 1414403963043123200,
+    "id_str": "1414403963043123200",
+    "full_text": "@_elio14 Gianluca Lapadula es de @imalejandrabl",
+    "truncated": false,
+    "display_text_range": [
+        9,
+        47
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_elio14",
+                "name": "elio paki pero no mucho",
+                "id": 1318669233207771136,
+                "id_str": "1318669233207771136",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "imalejandrabl",
+                "name": "Alee | loki era \u096a | BTR IS BACK",
+                "id": 299880996,
+                "id_str": "299880996",
+                "indices": [
+                    33,
+                    47
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414402919768772611,
+    "in_reply_to_status_id_str": "1414402919768772611",
+    "in_reply_to_user_id": 1318669233207771136,
+    "in_reply_to_user_id_str": "1318669233207771136",
+    "in_reply_to_screen_name": "_elio14",
+    "user": {
+        "id": 299880996,
+        "id_str": "299880996",
+        "name": "Alee \u096a | BTR IS BACK",
+        "screen_name": "imalejandrabl",
+        "location": "she/her",
+        "description": "\ud83c\uddf5\ud83c\uddea | fangirl life | for marvel, BTR and Greys Anatomy | Benedict Cumberbatch\u2661",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1366,
+        "friends_count": 1018,
+        "listed_count": 24,
+        "created_at": "Mon May 16 20:46:33 +0000 2011",
+        "favourites_count": 15759,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15320,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "AA9846",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415792261284069381/mpqC_lzL_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415792261284069381/mpqC_lzL_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/299880996/1626226823",
+        "profile_link_color": "7D716B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F0E7CC",
+        "profile_text_color": "EB8B5B",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,349 @@
+{
+    "created_at": "Wed Jul 14 20:08:10 +0000 2021",
+    "id": 1415402762326708230,
+    "id_str": "1415402762326708230",
+    "full_text": "RT @moritalima: GIANLUCA LAPADULA MI DIOS. RECUPERA ARICA POR FAVOR. GOL. VAMOS CARAJO, POR EL 3 A 2 PER\u00da. \ud83c\uddf5\ud83c\uddea https://t.co/AlhWu6thuI",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "moritalima",
+                "name": "Morita",
+                "id": 1187216848045117440,
+                "id_str": "1187216848045117440",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1413675279655096320,
+                "id_str": "1413675279655096320",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/E55iLUeX0AAMt1T.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E55iLUeX0AAMt1T.jpg",
+                "url": "https://t.co/AlhWu6thuI",
+                "display_url": "pic.twitter.com/AlhWu6thuI",
+                "expanded_url": "https://twitter.com/moritalima/status/1413675282372997120/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 501,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1075,
+                        "h": 792,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1075,
+                        "h": 792,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1413675282372997120,
+                "source_status_id_str": "1413675282372997120",
+                "source_user_id": 1187216848045117440,
+                "source_user_id_str": "1187216848045117440"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1413675279655096320,
+                "id_str": "1413675279655096320",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/E55iLUeX0AAMt1T.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E55iLUeX0AAMt1T.jpg",
+                "url": "https://t.co/AlhWu6thuI",
+                "display_url": "pic.twitter.com/AlhWu6thuI",
+                "expanded_url": "https://twitter.com/moritalima/status/1413675282372997120/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 501,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1075,
+                        "h": 792,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1075,
+                        "h": 792,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1413675282372997120,
+                "source_status_id_str": "1413675282372997120",
+                "source_user_id": 1187216848045117440,
+                "source_user_id_str": "1187216848045117440"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1299076519151755266,
+        "id_str": "1299076519151755266",
+        "name": "Kiomy",
+        "screen_name": "kiomibm",
+        "location": "Trujillo, Peru",
+        "description": "Peruana de \ud83e\udd0d\ud83c\uddf5\ud83c\uddea",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 68,
+        "friends_count": 211,
+        "listed_count": 0,
+        "created_at": "Thu Aug 27 20:09:56 +0000 2020",
+        "favourites_count": 9288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3895,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412180699159859203/h-Hre9pA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412180699159859203/h-Hre9pA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1299076519151755266/1615434480",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 01:43:46 +0000 2021",
+        "id": 1413675282372997120,
+        "id_str": "1413675282372997120",
+        "full_text": "GIANLUCA LAPADULA MI DIOS. RECUPERA ARICA POR FAVOR. GOL. VAMOS CARAJO, POR EL 3 A 2 PER\u00da. \ud83c\uddf5\ud83c\uddea https://t.co/AlhWu6thuI",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            93
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413675279655096320,
+                    "id_str": "1413675279655096320",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55iLUeX0AAMt1T.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55iLUeX0AAMt1T.jpg",
+                    "url": "https://t.co/AlhWu6thuI",
+                    "display_url": "pic.twitter.com/AlhWu6thuI",
+                    "expanded_url": "https://twitter.com/moritalima/status/1413675282372997120/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 501,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1075,
+                            "h": 792,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1075,
+                            "h": 792,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413675279655096320,
+                    "id_str": "1413675279655096320",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55iLUeX0AAMt1T.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55iLUeX0AAMt1T.jpg",
+                    "url": "https://t.co/AlhWu6thuI",
+                    "display_url": "pic.twitter.com/AlhWu6thuI",
+                    "expanded_url": "https://twitter.com/moritalima/status/1413675282372997120/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 501,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1075,
+                            "h": 792,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1075,
+                            "h": 792,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1187216848045117440,
+            "id_str": "1187216848045117440",
+            "name": "Morita",
+            "screen_name": "moritalima",
+            "location": "Lima ",
+            "description": "Comunicadora, ambientalista, cin\u00e9fila. Centro \ud83d\udc9c No despierten mi ira. \ud83d\ude08\ud83c\uddf5\ud83c\uddea",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 571,
+            "friends_count": 63,
+            "listed_count": 1,
+            "created_at": "Thu Oct 24 03:58:56 +0000 2019",
+            "favourites_count": 7218,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2293,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415400771894587393/YjMZY8XL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415400771894587393/YjMZY8XL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1187216848045117440/1625691706",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 149,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

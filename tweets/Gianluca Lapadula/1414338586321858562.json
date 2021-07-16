@@ -1,0 +1,381 @@
+{
+    "created_at": "Sun Jul 11 21:39:30 +0000 2021",
+    "id": 1414338586321858562,
+    "id_str": "1414338586321858562",
+    "full_text": "RT @PTV_Noticias: \u00bfGianluca Lapadula se ir\u00e1 a la Ligue 1 de Francia? https://t.co/FWxf2VvbP2 https://t.co/yIRT1ukaQf",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        116
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PTV_Noticias",
+                "name": "Panamericana Noticias",
+                "id": 527506722,
+                "id_str": "527506722",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/FWxf2VvbP2",
+                "expanded_url": "http://ptv.pe/326998",
+                "display_url": "ptv.pe/326998",
+                "indices": [
+                    69,
+                    92
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1414335552397139969,
+                "id_str": "1414335552397139969",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6C6sQHWYAEHuCg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6C6sQHWYAEHuCg.jpg",
+                "url": "https://t.co/yIRT1ukaQf",
+                "display_url": "pic.twitter.com/yIRT1ukaQf",
+                "expanded_url": "https://twitter.com/PTV_Noticias/status/1414335554058170375/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 600,
+                        "h": 353,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 353,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 353,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414335554058170375,
+                "source_status_id_str": "1414335554058170375",
+                "source_user_id": 527506722,
+                "source_user_id_str": "527506722"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414335552397139969,
+                "id_str": "1414335552397139969",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6C6sQHWYAEHuCg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6C6sQHWYAEHuCg.jpg",
+                "url": "https://t.co/yIRT1ukaQf",
+                "display_url": "pic.twitter.com/yIRT1ukaQf",
+                "expanded_url": "https://twitter.com/PTV_Noticias/status/1414335554058170375/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 600,
+                        "h": 353,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 353,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 353,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414335554058170375,
+                "source_status_id_str": "1414335554058170375",
+                "source_user_id": 527506722,
+                "source_user_id_str": "527506722"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 287772056,
+        "id_str": "287772056",
+        "name": "ELCHE",
+        "screen_name": "DONQUEJA",
+        "location": "Sumatra Meridional, Indonesia",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 125,
+        "listed_count": 0,
+        "created_at": "Mon Apr 25 17:06:59 +0000 2011",
+        "favourites_count": 13,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5062,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1325128213/Che_Guevara1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1325128213/Che_Guevara1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 21:27:27 +0000 2021",
+        "id": 1414335554058170375,
+        "id_str": "1414335554058170375",
+        "full_text": "\u00bfGianluca Lapadula se ir\u00e1 a la Ligue 1 de Francia? https://t.co/FWxf2VvbP2 https://t.co/yIRT1ukaQf",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            74
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/FWxf2VvbP2",
+                    "expanded_url": "http://ptv.pe/326998",
+                    "display_url": "ptv.pe/326998",
+                    "indices": [
+                        51,
+                        74
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414335552397139969,
+                    "id_str": "1414335552397139969",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6C6sQHWYAEHuCg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6C6sQHWYAEHuCg.jpg",
+                    "url": "https://t.co/yIRT1ukaQf",
+                    "display_url": "pic.twitter.com/yIRT1ukaQf",
+                    "expanded_url": "https://twitter.com/PTV_Noticias/status/1414335554058170375/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 600,
+                            "h": 353,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 600,
+                            "h": 353,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 353,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414335552397139969,
+                    "id_str": "1414335552397139969",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6C6sQHWYAEHuCg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6C6sQHWYAEHuCg.jpg",
+                    "url": "https://t.co/yIRT1ukaQf",
+                    "display_url": "pic.twitter.com/yIRT1ukaQf",
+                    "expanded_url": "https://twitter.com/PTV_Noticias/status/1414335554058170375/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 600,
+                            "h": 353,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 600,
+                            "h": 353,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 353,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://panamericana.pe\" rel=\"nofollow\">PanamericanaTV</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 527506722,
+            "id_str": "527506722",
+            "name": "Panamericana Noticias",
+            "screen_name": "PTV_Noticias",
+            "location": "Lima, Per\u00fa",
+            "description": "\ud83d\udccc Cuenta oficial de noticias de Panamericana Televisi\u00f3n. Ent\u00e9rate lo que sucede en #Panorama #24Horas #BuenosD\u00edasPer\u00fa #ElDominical #Teledeportes",
+            "url": "https://t.co/EmGTesL52V",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EmGTesL52V",
+                            "expanded_url": "https://panamericana.pe/",
+                            "display_url": "panamericana.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 361235,
+            "friends_count": 77,
+            "listed_count": 577,
+            "created_at": "Sat Mar 17 14:28:10 +0000 2012",
+            "favourites_count": 2068,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 163266,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "004890",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1344879209601241089/x2b1i9Hi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344879209601241089/x2b1i9Hi_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/527506722/1625872552",
+            "profile_link_color": "004890",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 29,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

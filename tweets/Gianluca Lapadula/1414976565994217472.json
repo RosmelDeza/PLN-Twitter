@@ -1,0 +1,189 @@
+{
+    "created_at": "Tue Jul 13 15:54:36 +0000 2021",
+    "id": 1414976565994217472,
+    "id_str": "1414976565994217472",
+    "full_text": "Y Gianluca Lapadula? El mejor 9 de la @CopaAmerica no est\u00e1 en el XI Ideal. Por otro lado Yot\u00fan \ud83c\uddf5\ud83c\uddea es el mejor volante por izquierda. FELICITACIONES YOSHI! https://t.co/KtnTCsoH0P",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        154
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CopaAmerica",
+                "name": "Copa Am\u00e9rica",
+                "id": 3159711265,
+                "id_str": "3159711265",
+                "indices": [
+                    38,
+                    50
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414976563683147786,
+                "id_str": "1414976563683147786",
+                "indices": [
+                    155,
+                    178
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6MBsBPWQAofwkp.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6MBsBPWQAofwkp.jpg",
+                "url": "https://t.co/KtnTCsoH0P",
+                "display_url": "pic.twitter.com/KtnTCsoH0P",
+                "expanded_url": "https://twitter.com/Aldasantacruz/status/1414976565994217472/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414976563683147786,
+                "id_str": "1414976563683147786",
+                "indices": [
+                    155,
+                    178
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6MBsBPWQAofwkp.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6MBsBPWQAofwkp.jpg",
+                "url": "https://t.co/KtnTCsoH0P",
+                "display_url": "pic.twitter.com/KtnTCsoH0P",
+                "expanded_url": "https://twitter.com/Aldasantacruz/status/1414976565994217472/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 994041606,
+        "id_str": "994041606",
+        "name": "Aldair Santa Cruz Padilla",
+        "screen_name": "Aldasantacruz",
+        "location": "Barranco, Peru",
+        "description": "J\u00f3ven Periodista con muchos sue\u00f1os por cumplir. \nPrensa en Radio @ovacionweb.\nProductor de @nochesencancha.\nAmante de los deportes \u26bd\ufe0f\ud83c\udfc0\ud83c\udfd0\u26be\ufe0f",
+        "url": "https://t.co/jk5f6Dqhyj",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/jk5f6Dqhyj",
+                        "expanded_url": "https://instagram.com/alda.santacruz?utm_source=ig_profile_share&igshid=1i77sqb6kys6j",
+                        "display_url": "instagram.com/alda.santacruz\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 746,
+        "friends_count": 950,
+        "listed_count": 4,
+        "created_at": "Fri Dec 07 00:00:22 +0000 2012",
+        "favourites_count": 9120,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5521,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413713617669742594/eOgN93lx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413713617669742594/eOgN93lx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/994041606/1559521602",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

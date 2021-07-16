@@ -1,0 +1,410 @@
+{
+    "created_at": "Tue Jul 13 14:28:53 +0000 2021",
+    "id": 1414954993610862599,
+    "id_str": "1414954993610862599",
+    "full_text": "RT @RenzoGaliano: Yoshimar Yot\u00fan, el \u00fanico peruano elegido por el Comit\u00e9 T\u00e9cnico de la Copa Am\u00e9rica para integrar el once ideal de la edici\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RenzoGaliano",
+                "name": "Renzo Galiano",
+                "id": 1403416080,
+                "id_str": "1403416080",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1535427618,
+        "id_str": "1535427618",
+        "name": "Piero Brandes G",
+        "screen_name": "pierobrandes",
+        "location": "casa",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 295,
+        "friends_count": 2165,
+        "listed_count": 0,
+        "created_at": "Fri Jun 21 01:28:57 +0000 2013",
+        "favourites_count": 6755,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7938,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/419134534819397632/H6klD_GW_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/419134534819397632/H6klD_GW_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 14:23:44 +0000 2021",
+        "id": 1414953695675027464,
+        "id_str": "1414953695675027464",
+        "full_text": "Yoshimar Yot\u00fan, el \u00fanico peruano elegido por el Comit\u00e9 T\u00e9cnico de la Copa Am\u00e9rica para integrar el once ideal de la edici\u00f3n 2021.\n\nCausa sorpresa la ausencia de Gianluca Lapadula, el goleador incaico en el certamen. https://t.co/c9Ajq0gUR4",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            215
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/c9Ajq0gUR4",
+                    "expanded_url": "https://twitter.com/CopaAmerica/status/1414950103480143887",
+                    "display_url": "twitter.com/CopaAmerica/st\u2026",
+                    "indices": [
+                        216,
+                        239
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1403416080,
+            "id_str": "1403416080",
+            "name": "Renzo Galiano",
+            "screen_name": "RenzoGaliano",
+            "location": "Lima, Peru",
+            "description": "Periodista. Corresponsal en Per\u00fa para @diarioas \ud83d\uddde | Colaborador en @ovacionweb \ud83d\udcfb | Coordinador web en Migrantes del Bal\u00f3n \ud83d\udcbb | Forjado en El Comercio \ud83d\udcdd",
+            "url": "https://t.co/lWQKIbYkEJ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/lWQKIbYkEJ",
+                            "expanded_url": "https://peru.as.com/autor/renzo_galiano_sedan/a/",
+                            "display_url": "peru.as.com/autor/renzo_ga\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6284,
+            "friends_count": 662,
+            "listed_count": 47,
+            "created_at": "Sat May 04 21:28:44 +0000 2013",
+            "favourites_count": 230153,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 67684,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1012879603344527361/Qmr5J9Lz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012879603344527361/Qmr5J9Lz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1403416080/1611438540",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414950103480143887,
+        "quoted_status_id_str": "1414950103480143887",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 14:09:27 +0000 2021",
+            "id": 1414950103480143887,
+            "id_str": "1414950103480143887",
+            "full_text": "\u26bd \ud83d\ude4c \u00a1El 11 ideal! As\u00ed qued\u00f3 el equipo conformado por el Grupo de Estudio T\u00e9cnico de la CONMEBOL \n\n\u26bd \ud83d\ude4c O 11 ideal! \u00c9 assim que ficou a equipe conformada pelo Grupo de Estudo T\u00e9cnico da CONMEBOL \n\n#VibraElContinente #VibraOContinente #CopaAm\u00e9rica https://t.co/ao5vQCLUNN",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                244
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "VibraElContinente",
+                        "indices": [
+                            195,
+                            213
+                        ]
+                    },
+                    {
+                        "text": "VibraOContinente",
+                        "indices": [
+                            214,
+                            231
+                        ]
+                    },
+                    {
+                        "text": "CopaAm\u00e9rica",
+                        "indices": [
+                            232,
+                            244
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1414950089899061248,
+                        "id_str": "1414950089899061248",
+                        "indices": [
+                            245,
+                            268
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6LpnCtXMAAD4Jh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6LpnCtXMAAD4Jh.jpg",
+                        "url": "https://t.co/ao5vQCLUNN",
+                        "display_url": "pic.twitter.com/ao5vQCLUNN",
+                        "expanded_url": "https://twitter.com/CopaAmerica/status/1414950103480143887/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 544,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1414950089899061248,
+                        "id_str": "1414950089899061248",
+                        "indices": [
+                            245,
+                            268
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6LpnCtXMAAD4Jh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6LpnCtXMAAD4Jh.jpg",
+                        "url": "https://t.co/ao5vQCLUNN",
+                        "display_url": "pic.twitter.com/ao5vQCLUNN",
+                        "expanded_url": "https://twitter.com/CopaAmerica/status/1414950103480143887/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 544,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3159711265,
+                "id_str": "3159711265",
+                "name": "Copa Am\u00e9rica",
+                "screen_name": "CopaAmerica",
+                "location": "Paraguay",
+                "description": "Conta oficial do torneio continental mais antigo do mundo. Desde 1916.\n\nCuenta oficial del torneo continental m\u00e1s antiguo del mundo. Desde 1916.",
+                "url": "https://t.co/Tx7lTXbAMh",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Tx7lTXbAMh",
+                                "expanded_url": "https://copaamerica.com",
+                                "display_url": "copaamerica.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 556467,
+                "friends_count": 227,
+                "listed_count": 1542,
+                "created_at": "Thu Apr 16 13:26:19 +0000 2015",
+                "favourites_count": 1405,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 8505,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1397566412164681732/pu-65keH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397566412164681732/pu-65keH_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3159711265/1623554405",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2476,
+            "favorite_count": 15129,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 2,
+        "favorite_count": 13,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414950103480143887,
+    "quoted_status_id_str": "1414950103480143887",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

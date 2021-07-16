@@ -1,0 +1,141 @@
+{
+    "created_at": "Mon Jul 12 17:02:26 +0000 2021",
+    "id": 1414631245615714309,
+    "id_str": "1414631245615714309",
+    "full_text": "Las opciones de Gareca para suplir la ausencia de Lapadula ante Uruguay https://t.co/V5Sn8jJoAM v\u00eda @liberoperu El Diezmado Guerrero ya no deber\u00eda tomarse en cuenta , ya cumpli\u00f3 su ciclo",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        186
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "liberoperu",
+                "name": "L\u00edbero Per\u00fa",
+                "id": 1095458060041039872,
+                "id_str": "1095458060041039872",
+                "indices": [
+                    100,
+                    111
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/V5Sn8jJoAM",
+                "expanded_url": "https://libero.pe/futbol-peruano/seleccion-peruana/2021/07/11/seleccion-peruana-gianluca-lapadula-opciones-suplir-su-ausencia-uruguay-paolo-guerrero-8579",
+                "display_url": "libero.pe/futbol-peruano\u2026",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 732405489384992772,
+        "id_str": "732405489384992772",
+        "name": "Richard Montoya",
+        "screen_name": "RichardMontoyaR",
+        "location": "San Isidro Lima , Peru \ud83c\uddf5\ud83c\uddea",
+        "description": "Anti Caviar , Derechista",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9811,
+        "friends_count": 3120,
+        "listed_count": 10,
+        "created_at": "Tue May 17 03:00:50 +0000 2016",
+        "favourites_count": 233472,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 168575,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401772132737208321/vU34nATd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401772132737208321/vU34nATd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/732405489384992772/1586102188",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0142b843100f190a",
+        "url": "https://api.twitter.com/1.1/geo/id/0142b843100f190a.json",
+        "place_type": "city",
+        "name": "La victoria",
+        "full_name": "La victoria, Peru",
+        "country_code": "PE",
+        "country": "Peru",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.031610923325,
+                        -12.091643996437
+                    ],
+                    [
+                        -76.9955061609883,
+                        -12.091643996437
+                    ],
+                    [
+                        -76.9955061609883,
+                        -12.05844597003
+                    ],
+                    [
+                        -77.031610923325,
+                        -12.05844597003
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

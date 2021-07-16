@@ -1,0 +1,98 @@
+{
+    "created_at": "Sun Jul 11 09:59:14 +0000 2021",
+    "id": 1414162358201720835,
+    "id_str": "1414162358201720835",
+    "full_text": "Lo + le\u00eddo 10 jul 2021: Luis Fernando D\u00edaz [101k], Copa Am\u00e9rica [88k], Copa Am\u00e9rica 2021 [39k], Black Widow (pel\u00edcula) [36k], Pilar Alegr\u00eda [34k], Gianluca Lapadula [32k], Diana Morant [30k], F\u00e9lix Bola\u00f1os [27k], Raffaella Carr\u00e0 [27k], Alfonso Zayas [27k].",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        256
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://twitter.com/botwikipedia\" rel=\"nofollow\">botwikipedia</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1093820944919990273,
+        "id_str": "1093820944919990273",
+        "name": "Lo m\u00e1s le\u00eddo en Wikipedia",
+        "screen_name": "BotWikipedia",
+        "location": "",
+        "description": "Tuiteo cada d\u00eda con los art\u00edculos m\u00e1s le\u00eddos de Wikipedia en espa\u00f1ol. Soy un bot creado por @dredondosanchez en R que vive dentro de una Raspberry Pi.",
+        "url": "https://t.co/5vsMAE12dh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/5vsMAE12dh",
+                        "expanded_url": "https://danielredondo.com",
+                        "display_url": "danielredondo.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 512,
+        "friends_count": 1,
+        "listed_count": 4,
+        "created_at": "Fri Feb 08 10:36:50 +0000 2019",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 762,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093829388964192256/qXrRkghr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093829388964192256/qXrRkghr_normal.jpg",
+        "profile_link_color": "FFFFFF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

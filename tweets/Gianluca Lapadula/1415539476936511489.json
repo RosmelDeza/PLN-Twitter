@@ -1,0 +1,285 @@
+{
+    "created_at": "Thu Jul 15 05:11:25 +0000 2021",
+    "id": 1415539476936511489,
+    "id_str": "1415539476936511489",
+    "full_text": "RT @elpopular_pe: \u00bfZumbalover? Gianluca Lapadula tuvo peculiar reacci\u00f3n al hablar con Zumba por primera vez | VIDEO \u25bahttps://t.co/9wHEVncD3\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elpopular_pe",
+                "name": "El Popular",
+                "id": 204962679,
+                "id_str": "204962679",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 133873461,
+        "id_str": "133873461",
+        "name": "BaekMin_Love\u2665\u2665\u2606:-)",
+        "screen_name": "bblumi",
+        "location": "Lima Peru",
+        "description": "Fan #1 de Nu'est, Chris Evans, BSB Mis Amores: Baekho, Ren, Minhyun, JR, Aron Nick,AJ,Kevin,Howie,Brian \u2665.\u2665 Dejenme vivir mi vida..... yo no soy mala con nadie",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 440,
+        "friends_count": 990,
+        "listed_count": 3,
+        "created_at": "Fri Apr 16 21:37:39 +0000 2010",
+        "favourites_count": 16384,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33489,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406264400437207043/95Fw7RAS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406264400437207043/95Fw7RAS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133873461/1608925593",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 22:25:02 +0000 2021",
+        "id": 1415437207062601732,
+        "id_str": "1415437207062601732",
+        "full_text": "\u00bfZumbalover? Gianluca Lapadula tuvo peculiar reacci\u00f3n al hablar con Zumba por primera vez | VIDEO \u25bahttps://t.co/9wHEVncD3T https://t.co/8oAkTi7skO",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            122
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/9wHEVncD3T",
+                    "expanded_url": "https://buff.ly/3B3o0cj",
+                    "display_url": "buff.ly/3B3o0cj",
+                    "indices": [
+                        99,
+                        122
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415437203866595335,
+                    "id_str": "1415437203866595335",
+                    "indices": [
+                        123,
+                        146
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6SkozpXMAcaqv5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6SkozpXMAcaqv5.jpg",
+                    "url": "https://t.co/8oAkTi7skO",
+                    "display_url": "pic.twitter.com/8oAkTi7skO",
+                    "expanded_url": "https://twitter.com/elpopular_pe/status/1415437207062601732/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 660,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 374,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 660,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415437203866595335,
+                    "id_str": "1415437203866595335",
+                    "indices": [
+                        123,
+                        146
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6SkozpXMAcaqv5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6SkozpXMAcaqv5.jpg",
+                    "url": "https://t.co/8oAkTi7skO",
+                    "display_url": "pic.twitter.com/8oAkTi7skO",
+                    "expanded_url": "https://twitter.com/elpopular_pe/status/1415437207062601732/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 660,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 374,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 660,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 204962679,
+            "id_str": "204962679",
+            "name": "El Popular",
+            "screen_name": "elpopular_pe",
+            "location": "Per\u00fa",
+            "description": "Tu diario El Popular tambi\u00e9n te informa y entretiene en Twitter. S\u00edguenos y participa de las promociones que tenemos para ti.",
+            "url": "http://t.co/03RS2e13Ob",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/03RS2e13Ob",
+                            "expanded_url": "http://www.elpopular.pe/",
+                            "display_url": "elpopular.pe",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 96019,
+            "friends_count": 973,
+            "listed_count": 361,
+            "created_at": "Tue Oct 19 21:23:44 +0000 2010",
+            "favourites_count": 287,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 240085,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F0DB3E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1345342589944418307/3jlV7C6e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345342589944418307/3jlV7C6e_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/204962679/1624546873",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,405 @@
+{
+    "created_at": "Tue Jul 13 02:31:11 +0000 2021",
+    "id": 1414774376344473600,
+    "id_str": "1414774376344473600",
+    "full_text": "RT @GOLPERUoficial: @maximend92 @jkieffersolari @milenamerino @Club_Cienciano \u23f0 #Ahora Raziel Garc\u00eda \ud83c\uddf5\ud83c\uddea, volante de @Club_Cienciano, luego\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Ahora",
+                "indices": [
+                    80,
+                    86
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GOLPERUoficial",
+                "name": "GOLPERU",
+                "id": 721832788983484416,
+                "id_str": "721832788983484416",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "maximend92",
+                "name": "Maxi Menda\u00f1a",
+                "id": 721009491307851777,
+                "id_str": "721009491307851777",
+                "indices": [
+                    20,
+                    31
+                ]
+            },
+            {
+                "screen_name": "jkieffersolari",
+                "name": "Jorge Kieffer Solari",
+                "id": 157031257,
+                "id_str": "157031257",
+                "indices": [
+                    32,
+                    47
+                ]
+            },
+            {
+                "screen_name": "milenamerino",
+                "name": "Milena Merino",
+                "id": 208101726,
+                "id_str": "208101726",
+                "indices": [
+                    48,
+                    61
+                ]
+            },
+            {
+                "screen_name": "Club_Cienciano",
+                "name": "Club Cienciano",
+                "id": 221601822,
+                "id_str": "221601822",
+                "indices": [
+                    62,
+                    77
+                ]
+            },
+            {
+                "screen_name": "Club_Cienciano",
+                "name": "Club Cienciano",
+                "id": 221601822,
+                "id_str": "221601822",
+                "indices": [
+                    116,
+                    131
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1267301138459693072,
+        "id_str": "1267301138459693072",
+        "name": "Jean Otiniano Sandoval",
+        "screen_name": "JeanOtinianoSa1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 54,
+        "friends_count": 591,
+        "listed_count": 0,
+        "created_at": "Mon Jun 01 03:45:22 +0000 2020",
+        "favourites_count": 35704,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4395,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 02:29:54 +0000 2021",
+        "id": 1414774056235278344,
+        "id_str": "1414774056235278344",
+        "full_text": "@maximend92 @jkieffersolari @milenamerino @Club_Cienciano \u23f0 #Ahora Raziel Garc\u00eda \ud83c\uddf5\ud83c\uddea, volante de @Club_Cienciano, luego de participar en la Copa Am\u00e9rica en #C\u00d3DIGOF\u00daTBOL \ud83d\udcfa: \"Gianluca Lapadula es muy efectivo, hay jugadas donde \u00e9l resolv\u00eda solo. Tiene formaci\u00f3n europea, pero tambi\u00e9n se junta a hacer chocolate\". #AlientaDesdeCasa https://t.co/uT6CowF5aE",
+        "truncated": false,
+        "display_text_range": [
+            58,
+            328
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Ahora",
+                    "indices": [
+                        60,
+                        66
+                    ]
+                },
+                {
+                    "text": "C\u00d3DIGOF\u00daTBOL",
+                    "indices": [
+                        155,
+                        168
+                    ]
+                },
+                {
+                    "text": "AlientaDesdeCasa",
+                    "indices": [
+                        311,
+                        328
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "maximend92",
+                    "name": "Maxi Menda\u00f1a",
+                    "id": 721009491307851777,
+                    "id_str": "721009491307851777",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "jkieffersolari",
+                    "name": "Jorge Kieffer Solari",
+                    "id": 157031257,
+                    "id_str": "157031257",
+                    "indices": [
+                        12,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "milenamerino",
+                    "name": "Milena Merino",
+                    "id": 208101726,
+                    "id_str": "208101726",
+                    "indices": [
+                        28,
+                        41
+                    ]
+                },
+                {
+                    "screen_name": "Club_Cienciano",
+                    "name": "Club Cienciano",
+                    "id": 221601822,
+                    "id_str": "221601822",
+                    "indices": [
+                        42,
+                        57
+                    ]
+                },
+                {
+                    "screen_name": "Club_Cienciano",
+                    "name": "Club Cienciano",
+                    "id": 221601822,
+                    "id_str": "221601822",
+                    "indices": [
+                        96,
+                        111
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414774012291452931,
+                    "id_str": "1414774012291452931",
+                    "indices": [
+                        329,
+                        352
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6JJd-gWEAM81xw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6JJd-gWEAM81xw.jpg",
+                    "url": "https://t.co/uT6CowF5aE",
+                    "display_url": "pic.twitter.com/uT6CowF5aE",
+                    "expanded_url": "https://twitter.com/GOLPERUoficial/status/1414774056235278344/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 650,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1648,
+                            "h": 893,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 368,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414774012291452931,
+                    "id_str": "1414774012291452931",
+                    "indices": [
+                        329,
+                        352
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6JJd-gWEAM81xw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6JJd-gWEAM81xw.jpg",
+                    "url": "https://t.co/uT6CowF5aE",
+                    "display_url": "pic.twitter.com/uT6CowF5aE",
+                    "expanded_url": "https://twitter.com/GOLPERUoficial/status/1414774056235278344/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 650,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1648,
+                            "h": 893,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 368,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1414772726527635465,
+        "in_reply_to_status_id_str": "1414772726527635465",
+        "in_reply_to_user_id": 721832788983484416,
+        "in_reply_to_user_id_str": "721832788983484416",
+        "in_reply_to_screen_name": "GOLPERUoficial",
+        "user": {
+            "id": 721832788983484416,
+            "id_str": "721832788983484416",
+            "name": "GOLPERU",
+            "screen_name": "GOLPERUoficial",
+            "location": "Peru",
+            "description": "Cuenta oficial de GOLPERU, el canal del f\u00fatbol. \ud83d\udcfa 14 - 714 HD de Movistar FB: GOLPERU14 TW: GOLPERUoficial IG: golperuoficial YT: GOLPERUoficial",
+            "url": "https://t.co/4zFNOOXHGs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4zFNOOXHGs",
+                            "expanded_url": "http://www.golperu.pe",
+                            "display_url": "golperu.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 169250,
+            "friends_count": 320,
+            "listed_count": 278,
+            "created_at": "Sun Apr 17 22:48:42 +0000 2016",
+            "favourites_count": 5487,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 108861,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/721832788983484416/1626354940",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 17,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

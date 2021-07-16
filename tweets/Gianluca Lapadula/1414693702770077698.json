@@ -1,0 +1,220 @@
+{
+    "created_at": "Mon Jul 12 21:10:37 +0000 2021",
+    "id": 1414693702770077698,
+    "id_str": "1414693702770077698",
+    "full_text": "Gianluca Lapadula sali\u00f3 de un centro comercial con seguridad en medio de un tumulto de hinchas \ud83d\ude31 @ChinoyAdolfo @JoseAngelesFm https://t.co/KqO6C2DSPP",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        125
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ChinoyAdolfo",
+                "name": "ChinoyAdolfo",
+                "id": 55701007,
+                "id_str": "55701007",
+                "indices": [
+                    97,
+                    110
+                ]
+            },
+            {
+                "screen_name": "JoseAngelesFm",
+                "name": "Jose Angeles.",
+                "id": 94946821,
+                "id_str": "94946821",
+                "indices": [
+                    111,
+                    125
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414693645782028291,
+                "id_str": "1414693645782028291",
+                "indices": [
+                    126,
+                    149
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414693645782028291/pu/img/ZHqCW270f8MyHT_7.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414693645782028291/pu/img/ZHqCW270f8MyHT_7.jpg",
+                "url": "https://t.co/KqO6C2DSPP",
+                "display_url": "pic.twitter.com/KqO6C2DSPP",
+                "expanded_url": "https://twitter.com/MARKO_FREE/status/1414693702770077698/video/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414693645782028291,
+                "id_str": "1414693645782028291",
+                "indices": [
+                    126,
+                    149
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414693645782028291/pu/img/ZHqCW270f8MyHT_7.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414693645782028291/pu/img/ZHqCW270f8MyHT_7.jpg",
+                "url": "https://t.co/KqO6C2DSPP",
+                "display_url": "pic.twitter.com/KqO6C2DSPP",
+                "expanded_url": "https://twitter.com/MARKO_FREE/status/1414693702770077698/video/1",
+                "type": "video",
+                "sizes": {
+                    "small": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 28800,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1414693645782028291/pu/vid/270x480/F_JXfCDSswF4cgcf.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1414693645782028291/pu/pl/Drb-KBrysmpVD1du.m3u8?tag=12&container=fmp4"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1102702430,
+        "id_str": "1102702430",
+        "name": "Mark Monkey Per\u00fa \ud83c\uddf5\ud83c\uddea \ud83d\udc99",
+        "screen_name": "MARKO_FREE",
+        "location": "Texas City, TX",
+        "description": "100% Grone!!..  \n\n  que miras?  Sapasoooo \ud83d\udc38",
+        "url": "https://t.co/qNuGtucTVA",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/qNuGtucTVA",
+                        "expanded_url": "https://www.facebook.com/MC-Videos-Virales-101852028717699",
+                        "display_url": "facebook.com/MC-Videos-Vira\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 135,
+        "friends_count": 169,
+        "listed_count": 1,
+        "created_at": "Sat Jan 19 03:44:27 +0000 2013",
+        "favourites_count": 10153,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11301,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "08198A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1077061232287469568/Zyul0aci_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077061232287469568/Zyul0aci_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1102702430/1504841337",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}
