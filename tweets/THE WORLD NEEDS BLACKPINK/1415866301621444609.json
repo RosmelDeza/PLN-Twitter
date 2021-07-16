@@ -1,0 +1,314 @@
+{
+    "created_at": "Fri Jul 16 02:50:06 +0000 2021",
+    "id": 1415866301621444609,
+    "id_str": "1415866301621444609",
+    "full_text": "RT @ismilexlisa: Que ganas de salir y encontrarme con la cara de lisa en publicidad, pero...\nFact: vivo en latam \n\nTHE WORLD NEEDS BLACKPIN\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ismilexlisa",
+                "name": "M \ud83e\uddca || Team KTL",
+                "id": 1388365897585340417,
+                "id_str": "1388365897585340417",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1388635383869628416,
+        "id_str": "1388635383869628416",
+        "name": "G.\ud83e\udd1f\ud83c\udffb",
+        "screen_name": "Addicted_jennie",
+        "location": "Jennie mi mujer /\ud83c\udde6\ud83c\uddf7",
+        "description": "If you mad, stay mad, we not alike.",
+        "url": "https://t.co/Iax5H6jMax",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Iax5H6jMax",
+                        "expanded_url": "https://youtube.com/c/BLACKPINKOFFICIAL",
+                        "display_url": "youtube.com/c/BLACKPINKOFF\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1137,
+        "friends_count": 1631,
+        "listed_count": 2,
+        "created_at": "Sat May 01 23:25:28 +0000 2021",
+        "favourites_count": 10377,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22335,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413932941307219968/EwPxX_l8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413932941307219968/EwPxX_l8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1388635383869628416/1625942856",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:44:20 +0000 2021",
+        "id": 1415864850513809408,
+        "id_str": "1415864850513809408",
+        "full_text": "Que ganas de salir y encontrarme con la cara de lisa en publicidad, pero...\nFact: vivo en latam \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/TTFD4xKCPB",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        124,
+                        129
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        130,
+                        140
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        141,
+                        151
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415864847737180165,
+                    "id_str": "1415864847737180165",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ypk9NWUAUFgCI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ypk9NWUAUFgCI.jpg",
+                    "url": "https://t.co/TTFD4xKCPB",
+                    "display_url": "pic.twitter.com/TTFD4xKCPB",
+                    "expanded_url": "https://twitter.com/ismilexlisa/status/1415864850513809408/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 442,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1079,
+                            "h": 701,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1079,
+                            "h": 701,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415864847737180165,
+                    "id_str": "1415864847737180165",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ypk9NWUAUFgCI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ypk9NWUAUFgCI.jpg",
+                    "url": "https://t.co/TTFD4xKCPB",
+                    "display_url": "pic.twitter.com/TTFD4xKCPB",
+                    "expanded_url": "https://twitter.com/ismilexlisa/status/1415864850513809408/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 442,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1079,
+                            "h": 701,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1079,
+                            "h": 701,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1388365897585340417,
+            "id_str": "1388365897585340417",
+            "name": "M \ud83e\uddca || Team KTL",
+            "screen_name": "ismilexlisa",
+            "location": "she/her ",
+            "description": "\ud835\udc22 \ud835\udc25\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc1b\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc21 \ud835\udc28\ud835\udc27\ud835\udc25\ud835\udc32 \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc1b\ud835\udc25\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc29\ud835\udc22\ud835\udc27\ud835\udc24 - \u2744",
+            "url": "https://t.co/FkPjJ1NesX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FkPjJ1NesX",
+                            "expanded_url": "https://lsnls1.carrd.co/",
+                            "display_url": "lsnls1.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2487,
+            "friends_count": 1969,
+            "listed_count": 3,
+            "created_at": "Sat May 01 05:33:37 +0000 2021",
+            "favourites_count": 1807,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 33864,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410803790505205760/rF4_HrHu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410803790505205760/rF4_HrHu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1388365897585340417/1626317610",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

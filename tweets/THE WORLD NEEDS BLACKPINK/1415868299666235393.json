@@ -1,0 +1,155 @@
+{
+    "created_at": "Fri Jul 16 02:58:02 +0000 2021",
+    "id": 1415868299666235393,
+    "id_str": "1415868299666235393",
+    "full_text": "@Am_lvs @BLACKPINK @965TDY Ella eres t\u00fa interactuando contigo misma desde tus otras cuentas\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        27,
+        146
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    119,
+                    124
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    125,
+                    135
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Am_lvs",
+                "name": "Ami | \ud83d\udcda ia",
+                "id": 1409895401927458817,
+                "id_str": "1409895401927458817",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    8,
+                    18
+                ]
+            },
+            {
+                "screen_name": "965TDY",
+                "name": "96.5 TDY",
+                "id": 40099803,
+                "id_str": "40099803",
+                "indices": [
+                    19,
+                    26
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    136,
+                    146
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415867153190899724,
+    "in_reply_to_status_id_str": "1415867153190899724",
+    "in_reply_to_user_id": 1409895401927458817,
+    "in_reply_to_user_id_str": "1409895401927458817",
+    "in_reply_to_screen_name": "Am_lvs",
+    "user": {
+        "id": 1247248258587594753,
+        "id_str": "1247248258587594753",
+        "name": "Akse",
+        "screen_name": "akseannepark",
+        "location": "Dreaming with Duapink 2.0",
+        "description": "physical and lovesick girls",
+        "url": "https://t.co/CZQ2P9KGGL",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/CZQ2P9KGGL",
+                        "expanded_url": "http://rosie.pop.kr",
+                        "display_url": "rosie.pop.kr",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 546,
+        "friends_count": 512,
+        "listed_count": 1,
+        "created_at": "Mon Apr 06 19:42:41 +0000 2020",
+        "favourites_count": 7629,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16144,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409629272835334147/UCxQLXz0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409629272835334147/UCxQLXz0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247248258587594753/1625977931",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

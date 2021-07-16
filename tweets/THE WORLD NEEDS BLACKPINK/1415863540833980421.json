@@ -1,0 +1,224 @@
+{
+    "created_at": "Fri Jul 16 02:39:08 +0000 2021",
+    "id": 1415863540833980421,
+    "id_str": "1415863540833980421",
+    "full_text": "Hay que ser humildes xd pero Blackpink \u00fanico grupo con 20 billones de stream\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/NO6tWfsAtk",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    104,
+                    109
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    110,
+                    120
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    121,
+                    131
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/NO6tWfsAtk",
+                "expanded_url": "https://twitter.com/love4jl23/status/1415831834190036992",
+                "display_url": "twitter.com/love4jl23/stat\u2026",
+                "indices": [
+                    132,
+                    155
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4831302313,
+        "id_str": "4831302313",
+        "name": "Micaela\u2074\u207a\u00b9\u2614\ud83c\udde9\ud83c\uddf4",
+        "screen_name": "lalalisaceline",
+        "location": "BLACKPINK PAVED THEIR OWN WAY ",
+        "description": "When I am sad I only think of you, my pinks, I love you.\n@BLACKPINK",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1411,
+        "friends_count": 1359,
+        "listed_count": 0,
+        "created_at": "Fri Jan 29 17:30:32 +0000 2016",
+        "favourites_count": 8636,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18422,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412720999771127813/tzC5tNHg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412720999771127813/tzC5tNHg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4831302313/1625653907",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415831834190036992,
+    "quoted_status_id_str": "1415831834190036992",
+    "quoted_status": {
+        "created_at": "Fri Jul 16 00:33:08 +0000 2021",
+        "id": 1415831834190036992,
+        "id_str": "1415831834190036992",
+        "full_text": "no digan que blackpink es el \u00fanico grupo con 20 billones de stream, porque blackpink es el \u00fanico grupo con 20 billones de stream, aparte no est\u00e1 bueno presumir que blackpink es el \u00fanico grupo con 20 billones de stream, en fin blackpink es el \u00fanico grupo con 20 billones de stream",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1325991256959442944,
+            "id_str": "1325991256959442944",
+            "name": "Kat\u2074+\u00b9|| LS1 \ud83d\udd25",
+            "screen_name": "love4jl23",
+            "location": "\ud83d\udc22\ud83d\udc07",
+            "description": "mi esposa KIM JISOO \ud83d\udc22\ud83d\udc07\n\n\u2728bp Stan \u2728",
+            "url": "https://t.co/o205TAuQP6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/o205TAuQP6",
+                            "expanded_url": "https://katchichi.carrd.co",
+                            "display_url": "katchichi.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1026,
+            "friends_count": 1414,
+            "listed_count": 3,
+            "created_at": "Tue Nov 10 02:38:57 +0000 2020",
+            "favourites_count": 22489,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 22672,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410492552516677632/HVjB2_y__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410492552516677632/HVjB2_y__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1325991256959442944/1625122605",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

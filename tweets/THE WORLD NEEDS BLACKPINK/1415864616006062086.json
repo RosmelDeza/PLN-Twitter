@@ -1,0 +1,224 @@
+{
+    "created_at": "Fri Jul 16 02:43:24 +0000 2021",
+    "id": 1415864616006062086,
+    "id_str": "1415864616006062086",
+    "full_text": "lo soy cuando las personas son bastante extrovertidas, le temo a un futuro no deseado, convertirme en una persona horrenda, elegir caminos incorrectos\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/uVNrgokkEO",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        205
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    178,
+                    183
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    184,
+                    194
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    195,
+                    205
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/uVNrgokkEO",
+                "expanded_url": "https://twitter.com/namuhadita/status/1412825708045475848",
+                "display_url": "twitter.com/namuhadita/sta\u2026",
+                "indices": [
+                    206,
+                    229
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1381030526987997185,
+        "id_str": "1381030526987997185",
+        "name": "&",
+        "screen_name": "iforbrina",
+        "location": "",
+        "description": "votos, \ud83e\uddfc\ud83d\udd0e, request, etc. main: @prfctblink",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 271,
+        "friends_count": 278,
+        "listed_count": 0,
+        "created_at": "Sat Apr 10 23:45:19 +0000 2021",
+        "favourites_count": 321,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4894,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415750207430701058/v9cTX4cJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415750207430701058/v9cTX4cJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1381030526987997185/1626403743",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1412825708045475848,
+    "quoted_status_id_str": "1412825708045475848",
+    "quoted_status": {
+        "created_at": "Wed Jul 07 17:27:52 +0000 2021",
+        "id": 1412825708045475848,
+        "id_str": "1412825708045475848",
+        "full_text": "- \u00bferes timidx? \u00bfa qu\u00e9 le temes?",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            32
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1412825701787525120,
+        "in_reply_to_status_id_str": "1412825701787525120",
+        "in_reply_to_user_id": 1311758357741670400,
+        "in_reply_to_user_id_str": "1311758357741670400",
+        "in_reply_to_screen_name": "namuhadita",
+        "user": {
+            "id": 1311758357741670400,
+            "id_str": "1311758357741670400",
+            "name": "\u2661",
+            "screen_name": "namuhadita",
+            "location": "jk's fairy n yoon's muse side",
+            "description": "hobi: taehyung-ah, i like you. i like your existence",
+            "url": "https://t.co/72h9Y25ye0",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/72h9Y25ye0",
+                            "expanded_url": "https://www.twitter.com/namyoonshope",
+                            "display_url": "twitter.com/namyoonshope",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 137,
+            "friends_count": 29,
+            "listed_count": 0,
+            "created_at": "Thu Oct 01 20:02:35 +0000 2020",
+            "favourites_count": 186,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 347,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411431308505620483/SAX61XW2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411431308505620483/SAX61XW2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311758357741670400/1625346421",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 62,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

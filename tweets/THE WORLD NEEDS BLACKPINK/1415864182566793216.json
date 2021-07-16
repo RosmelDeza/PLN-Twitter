@@ -1,0 +1,112 @@
+{
+    "created_at": "Fri Jul 16 02:41:41 +0000 2021",
+    "id": 1415864182566793216,
+    "id_str": "1415864182566793216",
+    "full_text": "Necesito contenido de blackpink :(, pero aunque sea verlas en fotos me alivia eso \nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    109,
+                    114
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    115,
+                    125
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    126,
+                    136
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1323328806246121472,
+        "id_str": "1323328806246121472",
+        "name": "T\u0105wash\u012f\u30a2\u30ea\u30cf\u30b9",
+        "screen_name": "Twash33129126",
+        "location": "MARLEY\ud83d\udc79",
+        "description": "\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2218\u00b0\u2749\u00b0\u2218 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n       \u2728               \u0299\u029f\u1d00\u1d04\u1d0b\u1d18\u026a\u0274k \n\u0299\u029f\u026a\u0274\u1d0b\n\u2022\u2726\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2022\u2727\n\u028f\u1d00\u1d05\u1d0f\u1d0d\n\u2022\u2726\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2022\u2727\n \u1d00\u0274\u1d05 \u0262\u1d0f\u1d1b7\n\u2022\u2726\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2022\u2727\n=} anime\u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 121,
+        "friends_count": 134,
+        "listed_count": 0,
+        "created_at": "Mon Nov 02 18:21:36 +0000 2020",
+        "favourites_count": 21919,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2293,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405966470593630210/RGUWcaAh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405966470593630210/RGUWcaAh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1323328806246121472/1613756631",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

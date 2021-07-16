@@ -1,0 +1,209 @@
+{
+    "created_at": "Fri Jul 16 02:58:53 +0000 2021",
+    "id": 1415868510316732417,
+    "id_str": "1415868510316732417",
+    "full_text": "RT @Chiken_pinks: \u00bfQu\u00e9 onda con las personas que le dicen palta al aguacate? Vayan d\u00e1ndome bloqueo soy team aguacate\n\nTHE WORLD NEEDS BLACK\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Chiken_pinks",
+                "name": "La mejor jisoonista \ud83d\udc23",
+                "id": 1396985546120040456,
+                "id_str": "1396985546120040456",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1403160229928394757,
+        "id_str": "1403160229928394757",
+        "name": "\ud83c\uddf2\ud83c\uddfdSofia\ud83c\uddf2\ud83c\uddfd",
+        "screen_name": "Sofia08_pedroza",
+        "location": "Monterrey, Nuevo Le\u00f3n",
+        "description": "Blink \u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 10,
+        "listed_count": 0,
+        "created_at": "Fri Jun 11 01:21:01 +0000 2021",
+        "favourites_count": 51,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415793621039828992/G0IC5hk5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415793621039828992/G0IC5hk5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1403160229928394757/1626386518",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:51:43 +0000 2021",
+        "id": 1415866707416072193,
+        "id_str": "1415866707416072193",
+        "full_text": "\u00bfQu\u00e9 onda con las personas que le dicen palta al aguacate? Vayan d\u00e1ndome bloqueo soy team aguacate\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico \n@BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            154
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        126,
+                        131
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        132,
+                        142
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        144,
+                        154
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1396985546120040456,
+            "id_str": "1396985546120040456",
+            "name": "La mejor jisoonista \ud83d\udc23",
+            "screen_name": "Chiken_pinks",
+            "location": "BLACKPINK IN YOUR AREA",
+            "description": "She/Her\n\nSeamos felices no importa si somos algo o no \ud83e\udd7a\n\n~ Din\u00e1micas y stream para las pinks ~",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 265,
+            "friends_count": 282,
+            "listed_count": 0,
+            "created_at": "Tue May 25 00:24:55 +0000 2021",
+            "favourites_count": 474,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1484,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414401554963128323/T0OEORQs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414401554963128323/T0OEORQs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396985546120040456/1625595135",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

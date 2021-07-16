@@ -1,0 +1,209 @@
+{
+    "created_at": "Fri Jul 16 03:13:05 +0000 2021",
+    "id": 1415872085361152002,
+    "id_str": "1415872085361152002",
+    "full_text": "RT @Belzlissa: No sigan difundiendo eso, ya van varias veces que pasa y no aprendemos, respetemos el trabajo de las chicas, aunque estemos\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Belzlissa",
+                "name": "Bel'\u2606 4+1",
+                "id": 1352263481765093380,
+                "id_str": "1352263481765093380",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3726199032,
+        "id_str": "3726199032",
+        "name": "\ud835\udc74\ud835\udc90\ud835\udc90\ud835\udc8f\ud83c\udf19",
+        "screen_name": "KillThisLove26",
+        "location": "",
+        "description": "\ud835\udc69\ud835\udc73\ud835\udc68\ud835\udc6a\ud835\udc72\ud835\udc77\ud835\udc70\ud835\udc75\ud835\udc72 \ud835\udc70\ud835\udc75 \ud835\udc80\ud835\udc76\ud835\udc7c\ud835\udc79 \ud835\udc68\ud835\udc79\ud835\udc6c\ud835\udc68 // \ud835\udc76\ud835\udc8f\ud835\udc8d\ud835\udc9a \ud835\udc69\ud835\udc8d\ud835\udc8a\ud835\udc8f\ud835\udc8c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 598,
+        "friends_count": 491,
+        "listed_count": 1,
+        "created_at": "Tue Sep 29 13:43:29 +0000 2015",
+        "favourites_count": 4731,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9785,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414392347211743232/ImQ5KBU4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414392347211743232/ImQ5KBU4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3726199032/1625462796",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:11:28 +0000 2021",
+        "id": 1415871679281176582,
+        "id_str": "1415871679281176582",
+        "full_text": "No sigan difundiendo eso, ya van varias veces que pasa y no aprendemos, respetemos el trabajo de las chicas, aunque estemos ansiosos por contenido:(\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            203
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        176,
+                        181
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        182,
+                        192
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        193,
+                        203
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1352263481765093380,
+            "id_str": "1352263481765093380",
+            "name": "Bel'\u2606 4+1",
+            "screen_name": "Belzlissa",
+            "location": "only Blink, ot4",
+            "description": "Le estoy llorando a Blackpink no importa cuando leas esto\ud83d\udda4",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1164,
+            "friends_count": 867,
+            "listed_count": 2,
+            "created_at": "Thu Jan 21 14:35:37 +0000 2021",
+            "favourites_count": 10433,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 16975,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1402106744726302727/iK2Pg62H_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402106744726302727/iK2Pg62H_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352263481765093380/1623123324",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

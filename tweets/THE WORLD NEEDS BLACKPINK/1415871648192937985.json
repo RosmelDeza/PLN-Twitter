@@ -1,0 +1,122 @@
+{
+    "created_at": "Fri Jul 16 03:11:21 +0000 2021",
+    "id": 1415871648192937985,
+    "id_str": "1415871648192937985",
+    "full_text": "@camixxLisa Si la encuentras p\u00e1salo \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        91
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    64,
+                    69
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    70,
+                    80
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "camixxLisa",
+                "name": "\u2728 Cami/ \ud83c\udde8\ud83c\uddf4",
+                "id": 1058101555436625920,
+                "id_str": "1058101555436625920",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    81,
+                    91
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415871118670446598,
+    "in_reply_to_status_id_str": "1415871118670446598",
+    "in_reply_to_user_id": 1058101555436625920,
+    "in_reply_to_user_id_str": "1058101555436625920",
+    "in_reply_to_screen_name": "camixxLisa",
+    "user": {
+        "id": 1100607578910978048,
+        "id_str": "1100607578910978048",
+        "name": "Majo\u2074\u207a\u2075 \ud83d\udf32 \ud83c\uddf5\ud83c\uddea//",
+        "screen_name": "Majomuhis",
+        "location": "",
+        "description": "Le voy a todo // \n2021.08.04 //\n2021.09.03",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 560,
+        "friends_count": 776,
+        "listed_count": 5,
+        "created_at": "Wed Feb 27 04:04:29 +0000 2019",
+        "favourites_count": 116195,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20503,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410710152408358919/R0UAQZtF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410710152408358919/R0UAQZtF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100607578910978048/1625635757",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}
