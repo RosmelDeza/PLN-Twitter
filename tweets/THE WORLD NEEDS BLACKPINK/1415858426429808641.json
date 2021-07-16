@@ -1,0 +1,125 @@
+{
+    "created_at": "Fri Jul 16 02:18:48 +0000 2021",
+    "id": 1415858426429808641,
+    "id_str": "1415858426429808641",
+    "full_text": "Mi orientaci\u00f3n sexual es hacia donde las Pinks vayan \ud83d\uded0\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        109
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    82,
+                    87
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    88,
+                    98
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    99,
+                    109
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1386145067266494464,
+        "id_str": "1386145067266494464",
+        "name": "\u22c6 \u08ea. Sailor \u26a2 Blink \u02d6 \u08ea\u2b51",
+        "screen_name": "SooyaConArroz",
+        "location": "BL\u039b\u0186KPI\u0418K IN YOUR AREA",
+        "description": "I don't want a boy, I need a woman \u26a2 \u2022 \ud83d\udda4OT4\ud83d\udc97 \u2022 Good vibes only \u2022 Stan iKON, B.I, TREASURE, IU, Olivia & Taylor \u2022 Vegana por los animales",
+        "url": "https://t.co/6q4BzPnbBZ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6q4BzPnbBZ",
+                        "expanded_url": "https://www.kcamexico.com/vota/bomba-k-pop",
+                        "display_url": "kcamexico.com/vota/bomba-k-p\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 556,
+        "friends_count": 560,
+        "listed_count": 1,
+        "created_at": "Sun Apr 25 02:28:48 +0000 2021",
+        "favourites_count": 1917,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4792,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413755367889195008/DtndgRDz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413755367889195008/DtndgRDz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1386145067266494464/1625899531",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

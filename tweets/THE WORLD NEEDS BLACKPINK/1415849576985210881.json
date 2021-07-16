@@ -1,0 +1,204 @@
+{
+    "created_at": "Fri Jul 16 01:43:39 +0000 2021",
+    "id": 1415849576985210881,
+    "id_str": "1415849576985210881",
+    "full_text": "El s\u00e1bado ir\u00e9 a comprar mi entrada para THE MOVIE, con suerte espero no tener que ver o encontrarme con alg\u00fan conocido o amigo. \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico \n@BLACKPINK https://t.co/4xf88Ph6H2",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        184
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    156,
+                    161
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    162,
+                    172
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    174,
+                    184
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415849467677450242,
+                "id_str": "1415849467677450242",
+                "indices": [
+                    185,
+                    208
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YbluBXIAIOrM4.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6YbluBXIAIOrM4.png",
+                "url": "https://t.co/4xf88Ph6H2",
+                "display_url": "pic.twitter.com/4xf88Ph6H2",
+                "expanded_url": "https://twitter.com/FerTRKim/status/1415849576985210881/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 460,
+                        "h": 307,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 460,
+                        "h": 307,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 460,
+                        "h": 307,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415849467677450242,
+                "id_str": "1415849467677450242",
+                "indices": [
+                    185,
+                    208
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YbluBXIAIOrM4.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6YbluBXIAIOrM4.png",
+                "url": "https://t.co/4xf88Ph6H2",
+                "display_url": "pic.twitter.com/4xf88Ph6H2",
+                "expanded_url": "https://twitter.com/FerTRKim/status/1415849576985210881/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 460,
+                        "h": 307,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 460,
+                        "h": 307,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 460,
+                        "h": 307,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1227366455404122127,
+        "id_str": "1227366455404122127",
+        "name": "FER",
+        "screen_name": "FerTRKim",
+        "location": "Colombia, Macondo",
+        "description": "\ud83d\udda4\ud83d\udc97 OT4 OR NOTHING",
+        "url": "https://t.co/RYNHFHKdgm",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/RYNHFHKdgm",
+                        "expanded_url": "https://m.tiktok.com/h5/share/usr/6944859805144777734.html?_d=dhkk1ie4f1hmhc&language=es&sec_uid=MS4",
+                        "display_url": "m.tiktok.com/h5/share/usr/6\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1278,
+        "friends_count": 770,
+        "listed_count": 3,
+        "created_at": "Tue Feb 11 22:59:15 +0000 2020",
+        "favourites_count": 28403,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19227,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408582834630037505/bNE0eLVF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408582834630037505/bNE0eLVF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227366455404122127/1625379736",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

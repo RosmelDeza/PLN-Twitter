@@ -1,0 +1,348 @@
+{
+    "created_at": "Fri Jul 16 02:22:12 +0000 2021",
+    "id": 1415859280398503939,
+    "id_str": "1415859280398503939",
+    "full_text": "RT @diorxjichu: como dir\u00eda una primita m\u00eda, el que tenga miedo a vivir que no nazca \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    112,
+                    117
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    118,
+                    128
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "diorxjichu",
+                "name": "\u2022",
+                "id": 1144379105267331072,
+                "id_str": "1144379105267331072",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    129,
+                    139
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1267579853550878721,
+        "id_str": "1267579853550878721",
+        "name": "Blinkera encarcelada\u270c\ufe0f",
+        "screen_name": "rosa_farfn5",
+        "location": "",
+        "description": "BLACKPINK IS THE REVOLUTION\ud83d\udcaf\u2665\ufe0f\nLS1 IS COMING\ud83d\udd25\u2665\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 160,
+        "friends_count": 315,
+        "listed_count": 0,
+        "created_at": "Mon Jun 01 22:13:11 +0000 2020",
+        "favourites_count": 707,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4794,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410425563261583361/GmSTr6Lf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410425563261583361/GmSTr6Lf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267579853550878721/1625106673",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:21:57 +0000 2021",
+        "id": 1415859218066952194,
+        "id_str": "1415859218066952194",
+        "full_text": "como dir\u00eda una primita m\u00eda, el que tenga miedo a vivir que no nazca \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/PZdsWrEmFK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            123
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        96,
+                        101
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        102,
+                        112
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        113,
+                        123
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/PZdsWrEmFK",
+                    "expanded_url": "https://twitter.com/namuhadita/status/1412825708045475848",
+                    "display_url": "twitter.com/namuhadita/sta\u2026",
+                    "indices": [
+                        124,
+                        147
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1144379105267331072,
+            "id_str": "1144379105267331072",
+            "name": "\u2022",
+            "screen_name": "diorxjichu",
+            "location": "\u2605,\uff61\uff65:*:\uff65\uff9f\u2661 zayn's chest",
+            "description": "| you're the reason, the only reason | zayn, blackpink",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 347,
+            "friends_count": 372,
+            "listed_count": 0,
+            "created_at": "Thu Jun 27 22:56:55 +0000 2019",
+            "favourites_count": 211,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3949,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412961385546489859/LDGu_tC9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412961385546489859/LDGu_tC9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144379105267331072/1625713472",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1412825708045475848,
+        "quoted_status_id_str": "1412825708045475848",
+        "quoted_status": {
+            "created_at": "Wed Jul 07 17:27:52 +0000 2021",
+            "id": 1412825708045475848,
+            "id_str": "1412825708045475848",
+            "full_text": "- \u00bferes timidx? \u00bfa qu\u00e9 le temes?",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                32
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1412825701787525120,
+            "in_reply_to_status_id_str": "1412825701787525120",
+            "in_reply_to_user_id": 1311758357741670400,
+            "in_reply_to_user_id_str": "1311758357741670400",
+            "in_reply_to_screen_name": "namuhadita",
+            "user": {
+                "id": 1311758357741670400,
+                "id_str": "1311758357741670400",
+                "name": "\u2661",
+                "screen_name": "namuhadita",
+                "location": "jk's fairy n yoon's muse side",
+                "description": "hobi: taehyung-ah, i like you. i like your existence",
+                "url": "https://t.co/72h9Y25ye0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/72h9Y25ye0",
+                                "expanded_url": "https://www.twitter.com/namyoonshope",
+                                "display_url": "twitter.com/namyoonshope",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 137,
+                "friends_count": 29,
+                "listed_count": 0,
+                "created_at": "Thu Oct 01 20:02:35 +0000 2020",
+                "favourites_count": 186,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 347,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1411431308505620483/SAX61XW2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411431308505620483/SAX61XW2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311758357741670400/1625346421",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 62,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1412825708045475848,
+    "quoted_status_id_str": "1412825708045475848",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

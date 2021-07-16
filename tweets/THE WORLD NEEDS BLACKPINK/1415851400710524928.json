@@ -1,0 +1,299 @@
+{
+    "created_at": "Fri Jul 16 01:50:53 +0000 2021",
+    "id": 1415851400710524928,
+    "id_str": "1415851400710524928",
+    "full_text": "Todos son la misma vaina o qu\u00e9?\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/rk8aC4Tgdu",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        86
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    59,
+                    64
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    65,
+                    75
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    76,
+                    86
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415851392409948165,
+                "id_str": "1415851392409948165",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YdVwNWUAU16ia.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YdVwNWUAU16ia.jpg",
+                "url": "https://t.co/rk8aC4Tgdu",
+                "display_url": "pic.twitter.com/rk8aC4Tgdu",
+                "expanded_url": "https://twitter.com/Samblink6/status/1415851400710524928/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 678,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 678,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415851392409948165,
+                "id_str": "1415851392409948165",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YdVwNWUAU16ia.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YdVwNWUAU16ia.jpg",
+                "url": "https://t.co/rk8aC4Tgdu",
+                "display_url": "pic.twitter.com/rk8aC4Tgdu",
+                "expanded_url": "https://twitter.com/Samblink6/status/1415851400710524928/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 678,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 678,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415851394746265602,
+                "id_str": "1415851394746265602",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YdV46XsAImW5a.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YdV46XsAImW5a.jpg",
+                "url": "https://t.co/rk8aC4Tgdu",
+                "display_url": "pic.twitter.com/rk8aC4Tgdu",
+                "expanded_url": "https://twitter.com/Samblink6/status/1415851400710524928/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 681,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 643,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 681,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415851396910485505,
+                "id_str": "1415851396910485505",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YdWA-XEAEIL3u.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YdWA-XEAEIL3u.jpg",
+                "url": "https://t.co/rk8aC4Tgdu",
+                "display_url": "pic.twitter.com/rk8aC4Tgdu",
+                "expanded_url": "https://twitter.com/Samblink6/status/1415851400710524928/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 685,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 647,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 685,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415851398927880198,
+                "id_str": "1415851398927880198",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YdWIfWEAYThEZ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YdWIfWEAYThEZ.jpg",
+                "url": "https://t.co/rk8aC4Tgdu",
+                "display_url": "pic.twitter.com/rk8aC4Tgdu",
+                "expanded_url": "https://twitter.com/Samblink6/status/1415851400710524928/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 682,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 644,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 682,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1343688368899678212,
+        "id_str": "1343688368899678212",
+        "name": "Samu\u1d38\u02e2\u00b9 \ud83c\udde8\ud83c\uddf4",
+        "screen_name": "Samblink6",
+        "location": "Colombia",
+        "description": "Only BL\u039b\u0186KPI\u0418K\nOT4",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1501,
+        "friends_count": 1039,
+        "listed_count": 1,
+        "created_at": "Mon Dec 28 22:40:59 +0000 2020",
+        "favourites_count": 16777,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 38366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411896169324810248/7ArVi9HR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411896169324810248/7ArVi9HR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343688368899678212/1625364187",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

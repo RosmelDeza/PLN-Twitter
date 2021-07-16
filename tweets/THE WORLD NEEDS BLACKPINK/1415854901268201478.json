@@ -1,0 +1,132 @@
+{
+    "created_at": "Fri Jul 16 02:04:48 +0000 2021",
+    "id": 1415854901268201478,
+    "id_str": "1415854901268201478",
+    "full_text": "@wathever_s @BLACKPINK Bueno por lo menos la tienes jjsjjs, pero la de Jap\u00f3n est\u00e1 de pvta madre!\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        23,
+        151
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    124,
+                    129
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    130,
+                    140
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "wathever_s",
+                "name": "vale\u2074 || LS1 \u2730",
+                "id": 1310766439658328070,
+                "id_str": "1310766439658328070",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    12,
+                    22
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    141,
+                    151
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415854364514717697,
+    "in_reply_to_status_id_str": "1415854364514717697",
+    "in_reply_to_user_id": 1310766439658328070,
+    "in_reply_to_user_id_str": "1310766439658328070",
+    "in_reply_to_screen_name": "wathever_s",
+    "user": {
+        "id": 1258113443065929731,
+        "id_str": "1258113443065929731",
+        "name": "Cubalixa1 \ud83c\udf38\ud83c\udf40",
+        "screen_name": "Cubalixa1",
+        "location": "",
+        "description": "Cuenta que no tira hate ning\u00fan grupo \ud83d\udcac blackpink mis reinas \u2764\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 509,
+        "friends_count": 809,
+        "listed_count": 0,
+        "created_at": "Wed May 06 19:16:48 +0000 2020",
+        "favourites_count": 50451,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 35874,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414025365761241096/iOC8zfRq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414025365761241096/iOC8zfRq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1258113443065929731/1625673478",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

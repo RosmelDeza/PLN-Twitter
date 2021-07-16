@@ -1,0 +1,132 @@
+{
+    "created_at": "Fri Jul 16 01:45:23 +0000 2021",
+    "id": 1415850013452869636,
+    "id_str": "1415850013452869636",
+    "full_text": "@la_esposadeLisa @BLACKPINK Todo por las pinks :D y se te quiere tambi\u00e9n &lt;3\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        28,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    106,
+                    111
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    112,
+                    122
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "la_esposadeLisa",
+                "name": "Nicy 2\ud83e\udd95\u2661\ud83c\uddf5\ud83c\uddea",
+                "id": 1408101244758073349,
+                "id_str": "1408101244758073349",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    17,
+                    27
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    123,
+                    133
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415848610894434311,
+    "in_reply_to_status_id_str": "1415848610894434311",
+    "in_reply_to_user_id": 1408101244758073349,
+    "in_reply_to_user_id_str": "1408101244758073349",
+    "in_reply_to_screen_name": "la_esposadeLisa",
+    "user": {
+        "id": 1129419259740925952,
+        "id_str": "1129419259740925952",
+        "name": "\ud835\udd38\ud835\udd5f\ud835\udd52\u2661\ud83e\udd40\ud83e\udd8b | Inactiva por \ud83d\udcda",
+        "screen_name": "Agms_Blink",
+        "location": "\u2661 BLACKPINK & Ariana \u2661 ",
+        "description": "\u2661\u262e~\u2022 \ud835\ude09\ud835\ude13\ud835\ude08\ud835\ude0a\ud835\ude12\ud835\ude17\ud835\ude10\ud835\ude15\ud835\ude12 \ud835\ude10\ud835\ude1a \ud835\ude1b\ud835\ude0f\ud835\ude0c \ud835\ude19\ud835\ude0c\ud835\ude1d\ud835\ude16\ud835\ude13\ud835\ude1c\ud835\ude1b\ud835\ude10\ud835\ude16\ud835\ude15 \u2022~\u262e\u2661 OT4 \u2661 LS1 IS COMING!!\n\nCuenta secundaria: @Blink_AKMP",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 548,
+        "friends_count": 511,
+        "listed_count": 1,
+        "created_at": "Fri May 17 16:11:49 +0000 2019",
+        "favourites_count": 1650,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16907,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414784554326499330/5_Lp5Trx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414784554326499330/5_Lp5Trx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129419259740925952/1624726859",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

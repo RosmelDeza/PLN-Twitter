@@ -1,0 +1,235 @@
+{
+    "created_at": "Fri Jul 16 02:35:24 +0000 2021",
+    "id": 1415862600613695488,
+    "id_str": "1415862600613695488",
+    "full_text": "RT @lesblinkot4: Adoreulisoo no solo tiene m\u00e1s cuentas q la cantidad de canciones q tienen las pinks sino q tambi\u00e9n tiene m\u00e1s comebacks q l\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lesblinkot4",
+                "name": "les | ls1",
+                "id": 1303353360054132736,
+                "id_str": "1303353360054132736",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1257159805036306432,
+        "id_str": "1257159805036306432",
+        "name": "Leonardo \u2605",
+        "screen_name": "LisaIsArt_",
+        "location": "In Your Area",
+        "description": "\u2800\u2800\u2800  \u2800 \u2800\u2800\u27a4\ud835\ude3d\ud835\ude61\ud835\ude56\ud835\ude58\ud835\ude60\ud835\ude4b\ud835\ude5e\ud835\ude63\ud835\ude60 \ud835\ude44\ud835\ude63 \ud835\ude54\ud835\ude64\ud835\ude6a\ud835\ude67 \ud835\ude3c\ud835\ude67\ud835\ude5a\ud835\ude56\u21b2\u2661\n \n \u2800 \u2800\u2800\u2800\u2800\u2800\u279b\ud835\ude4a\ud835\ude61\ud835\ude5e\ud835\ude6b\ud835\ude5e\ud835\ude56 \ud835\ude4d\ud835\ude64\ud835\ude59\ud835\ude67\ud835\ude5e\ud835\ude5c\ud835\ude64 \ud835\ude4e\ud835\ude6a\ud835\ude65\ud835\ude67\ud835\ude5a\ud835\ude62\ud835\ude56\ud835\ude58\ud835\ude6e\u2661\u2800\u2800  \u2800\u2800\n\n\u2800\u2800\u2800\u2800\u2800\u2800 \u279b\ud835\ude3c\ud835\ude67\ud835\ude5e\ud835\ude56\ud835\ude63\ud835\ude56 \ud835\ude42\ud835\ude67\ud835\ude56\ud835\ude63\ud835\ude59\ud835\ude5a\u2661",
+        "url": "https://t.co/TuPe6kCoUI",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/TuPe6kCoUI",
+                        "expanded_url": "http://lili.xn--c6h/",
+                        "display_url": "lili.\u2661",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 938,
+        "friends_count": 838,
+        "listed_count": 6,
+        "created_at": "Mon May 04 04:07:14 +0000 2020",
+        "favourites_count": 63507,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28220,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413619250447671299/bnPRe5D1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413619250447671299/bnPRe5D1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257159805036306432/1625868067",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:24:06 +0000 2021",
+        "id": 1415859758435799041,
+        "id_str": "1415859758435799041",
+        "full_text": "Adoreulisoo no solo tiene m\u00e1s cuentas q la cantidad de canciones q tienen las pinks sino q tambi\u00e9n tiene m\u00e1s comebacks q las pinks, mal jajaja \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            198
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        171,
+                        176
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        177,
+                        187
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        188,
+                        198
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1303353360054132736,
+            "id_str": "1303353360054132736",
+            "name": "les | ls1",
+            "screen_name": "lesblinkot4",
+            "location": "only \u00a0\ube14\ub799 \ud551\ud06c",
+            "description": "21\u2014 @blackpink we some bitches you can't manage",
+            "url": "https://t.co/0QSRiEapGp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0QSRiEapGp",
+                            "expanded_url": "https://curiouscat.qa/lesblinkot4",
+                            "display_url": "curiouscat.qa/lesblinkot4",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4610,
+            "friends_count": 3348,
+            "listed_count": 15,
+            "created_at": "Tue Sep 08 15:24:11 +0000 2020",
+            "favourites_count": 5270,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9159,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414772870555832323/K1nNhSFc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414772870555832323/K1nNhSFc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303353360054132736/1626143111",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 24,
+        "favorite_count": 28,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

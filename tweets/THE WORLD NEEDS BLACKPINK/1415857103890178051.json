@@ -1,0 +1,209 @@
+{
+    "created_at": "Fri Jul 16 02:13:33 +0000 2021",
+    "id": 1415857103890178051,
+    "id_str": "1415857103890178051",
+    "full_text": "RT @lisooxchaennie: Porque todo el mundo extra\u00f1a a BLACKPINK. \nHAY NUEVO TAG\u203c\ufe0f Comenta todas las veces que quieras, tenemos que ser tendenc\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lisooxchaennie",
+                "name": "Jore Mnbn \ud83c\uddf5\ud83c\uddea|| LS1",
+                "id": 1334683530421538817,
+                "id_str": "1334683530421538817",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1100607578910978048,
+        "id_str": "1100607578910978048",
+        "name": "Majo\u2074\u207a\u2075 \ud83d\udf32 \ud83c\uddf5\ud83c\uddea//",
+        "screen_name": "Majomuhis",
+        "location": "",
+        "description": "Le voy a todo // \n2021.08.04 //\n2021.09.03",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 560,
+        "friends_count": 776,
+        "listed_count": 5,
+        "created_at": "Wed Feb 27 04:04:29 +0000 2019",
+        "favourites_count": 116195,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20503,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410710152408358919/R0UAQZtF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410710152408358919/R0UAQZtF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100607578910978048/1625635757",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:00:13 +0000 2021",
+        "id": 1415838646821871617,
+        "id_str": "1415838646821871617",
+        "full_text": "Porque todo el mundo extra\u00f1a a BLACKPINK. \nHAY NUEVO TAG\u203c\ufe0f Comenta todas las veces que quieras, tenemos que ser tendencia YA!\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            180
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        153,
+                        158
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        159,
+                        169
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        170,
+                        180
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1334683530421538817,
+            "id_str": "1334683530421538817",
+            "name": "Jore Mnbn \ud83c\uddf5\ud83c\uddea|| LS1",
+            "screen_name": "lisooxchaennie",
+            "location": "Lima, Peru",
+            "description": "OT4 II Yo solo quer\u00eda ver el documental de esas 4 chicas, ahora les lloro esperando por un comeback \u2728",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1332,
+            "friends_count": 1153,
+            "listed_count": 0,
+            "created_at": "Fri Dec 04 02:18:55 +0000 2020",
+            "favourites_count": 6070,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10151,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413653160418238474/tH7B20Bp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413653160418238474/tH7B20Bp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1334683530421538817/1623346842",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 36,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

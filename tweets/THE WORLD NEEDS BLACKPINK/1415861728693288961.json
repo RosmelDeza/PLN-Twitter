@@ -1,0 +1,568 @@
+{
+    "created_at": "Fri Jul 16 02:31:56 +0000 2021",
+    "id": 1415861728693288961,
+    "id_str": "1415861728693288961",
+    "full_text": "RT @Lxn4y: Se me hab\u00eda olvidado que tengo fancam\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK\nhttps://t.co/5Uy7HT3GP4",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        126
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    75,
+                    80
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    81,
+                    91
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Lxn4y",
+                "name": "Nini - LS1",
+                "id": 1371288163897999360,
+                "id_str": "1371288163897999360",
+                "indices": [
+                    3,
+                    9
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    92,
+                    102
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415499443781128193,
+                "id_str": "1415499443781128193",
+                "indices": [
+                    103,
+                    126
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415499443781128193/pu/img/wvyLuUrTNizzyhEf.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415499443781128193/pu/img/wvyLuUrTNizzyhEf.jpg",
+                "url": "https://t.co/5Uy7HT3GP4",
+                "display_url": "pic.twitter.com/5Uy7HT3GP4",
+                "expanded_url": "https://twitter.com/Lxn4y/status/1415499640775008257/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415499640775008257,
+                "source_status_id_str": "1415499640775008257",
+                "source_user_id": 1371288163897999360,
+                "source_user_id_str": "1371288163897999360"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415499443781128193,
+                "id_str": "1415499443781128193",
+                "indices": [
+                    103,
+                    126
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415499443781128193/pu/img/wvyLuUrTNizzyhEf.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415499443781128193/pu/img/wvyLuUrTNizzyhEf.jpg",
+                "url": "https://t.co/5Uy7HT3GP4",
+                "display_url": "pic.twitter.com/5Uy7HT3GP4",
+                "expanded_url": "https://twitter.com/Lxn4y/status/1415499640775008257/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415499640775008257,
+                "source_status_id_str": "1415499640775008257",
+                "source_user_id": 1371288163897999360,
+                "source_user_id_str": "1371288163897999360",
+                "video_info": {
+                    "aspect_ratio": [
+                        4,
+                        5
+                    ],
+                    "duration_millis": 16799,
+                    "variants": [
+                        {
+                            "bitrate": 950000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415499443781128193/pu/vid/480x600/85CE9z2ZBRu9vp7W.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415499443781128193/pu/vid/320x400/uVE6YGByMnlDFKM9.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415499443781128193/pu/pl/yKB9eKzxVCr9yBHv.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415499443781128193/pu/vid/720x900/LHJFXJKwKm0QXPNK.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 1371288163897999360,
+                        "id_str": "1371288163897999360",
+                        "name": "Nini - LS1",
+                        "screen_name": "Lxn4y",
+                        "location": "",
+                        "description": "Fan account\u3164\u3164\u3164\u3164\u3164 #BLACKPINK\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164",
+                        "url": null,
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 147,
+                        "friends_count": 190,
+                        "listed_count": 0,
+                        "created_at": "Mon Mar 15 02:32:39 +0000 2021",
+                        "favourites_count": 32,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 125,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1414306015017897992/KyFNholf_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414306015017897992/KyFNholf_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1371288163897999360/1626031097",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1280371149663342592,
+        "id_str": "1280371149663342592",
+        "name": "\ud835\uddc6\ud835\uddba\ud835\uddcc\ud835\uddba\ud835\uddc9\ud835\uddba\ud835\uddc6\ud83c\udf86",
+        "screen_name": "CamiilaCP_",
+        "location": "",
+        "description": "La verdad desde que conozco \u00e9l k-pop mi vida es mejor AAAA\ud83d\udc9e",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 162,
+        "friends_count": 422,
+        "listed_count": 0,
+        "created_at": "Tue Jul 07 05:21:59 +0000 2020",
+        "favourites_count": 5299,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2848,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396537350923210752/jpXlIKsP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396537350923210752/jpXlIKsP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280371149663342592/1614285416",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:19:15 +0000 2021",
+        "id": 1415843438227070976,
+        "id_str": "1415843438227070976",
+        "full_text": "Se me hab\u00eda olvidado que tengo fancam\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK\nhttps://t.co/5Uy7HT3GP4",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            115
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        64,
+                        69
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        70,
+                        80
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        81,
+                        91
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415499443781128193,
+                    "id_str": "1415499443781128193",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415499443781128193/pu/img/wvyLuUrTNizzyhEf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415499443781128193/pu/img/wvyLuUrTNizzyhEf.jpg",
+                    "url": "https://t.co/5Uy7HT3GP4",
+                    "display_url": "pic.twitter.com/5Uy7HT3GP4",
+                    "expanded_url": "https://twitter.com/Lxn4y/status/1415499640775008257/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415499640775008257,
+                    "source_status_id_str": "1415499640775008257",
+                    "source_user_id": 1371288163897999360,
+                    "source_user_id_str": "1371288163897999360"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415499443781128193,
+                    "id_str": "1415499443781128193",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415499443781128193/pu/img/wvyLuUrTNizzyhEf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415499443781128193/pu/img/wvyLuUrTNizzyhEf.jpg",
+                    "url": "https://t.co/5Uy7HT3GP4",
+                    "display_url": "pic.twitter.com/5Uy7HT3GP4",
+                    "expanded_url": "https://twitter.com/Lxn4y/status/1415499640775008257/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415499640775008257,
+                    "source_status_id_str": "1415499640775008257",
+                    "source_user_id": 1371288163897999360,
+                    "source_user_id_str": "1371288163897999360",
+                    "video_info": {
+                        "aspect_ratio": [
+                            4,
+                            5
+                        ],
+                        "duration_millis": 16799,
+                        "variants": [
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415499443781128193/pu/vid/480x600/85CE9z2ZBRu9vp7W.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415499443781128193/pu/vid/320x400/uVE6YGByMnlDFKM9.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415499443781128193/pu/pl/yKB9eKzxVCr9yBHv.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415499443781128193/pu/vid/720x900/LHJFXJKwKm0QXPNK.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false,
+                        "source_user": {
+                            "id": 1371288163897999360,
+                            "id_str": "1371288163897999360",
+                            "name": "Nini - LS1",
+                            "screen_name": "Lxn4y",
+                            "location": "",
+                            "description": "Fan account\u3164\u3164\u3164\u3164\u3164 #BLACKPINK\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164",
+                            "url": null,
+                            "entities": {
+                                "description": {
+                                    "urls": []
+                                }
+                            },
+                            "protected": false,
+                            "followers_count": 147,
+                            "friends_count": 190,
+                            "listed_count": 0,
+                            "created_at": "Mon Mar 15 02:32:39 +0000 2021",
+                            "favourites_count": 32,
+                            "utc_offset": null,
+                            "time_zone": null,
+                            "geo_enabled": false,
+                            "verified": false,
+                            "statuses_count": 125,
+                            "lang": null,
+                            "contributors_enabled": false,
+                            "is_translator": false,
+                            "is_translation_enabled": false,
+                            "profile_background_color": "F5F8FA",
+                            "profile_background_image_url": null,
+                            "profile_background_image_url_https": null,
+                            "profile_background_tile": false,
+                            "profile_image_url": "http://pbs.twimg.com/profile_images/1414306015017897992/KyFNholf_normal.jpg",
+                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414306015017897992/KyFNholf_normal.jpg",
+                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1371288163897999360/1626031097",
+                            "profile_link_color": "1DA1F2",
+                            "profile_sidebar_border_color": "C0DEED",
+                            "profile_sidebar_fill_color": "DDEEF6",
+                            "profile_text_color": "333333",
+                            "profile_use_background_image": true,
+                            "has_extended_profile": false,
+                            "default_profile": true,
+                            "default_profile_image": false,
+                            "following": false,
+                            "follow_request_sent": false,
+                            "notifications": false,
+                            "translator_type": "none",
+                            "withheld_in_countries": []
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1371288163897999360,
+            "id_str": "1371288163897999360",
+            "name": "Nini - LS1",
+            "screen_name": "Lxn4y",
+            "location": "",
+            "description": "Fan account\u3164\u3164\u3164\u3164\u3164 #BLACKPINK\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 147,
+            "friends_count": 190,
+            "listed_count": 0,
+            "created_at": "Mon Mar 15 02:32:39 +0000 2021",
+            "favourites_count": 32,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 125,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414306015017897992/KyFNholf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414306015017897992/KyFNholf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1371288163897999360/1626031097",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

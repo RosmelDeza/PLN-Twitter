@@ -1,0 +1,224 @@
+{
+    "created_at": "Fri Jul 16 02:01:02 +0000 2021",
+    "id": 1415853955536543745,
+    "id_str": "1415853955536543745",
+    "full_text": "Vuelvo y repito deber\u00edan de verse el concierto del festival de Jap\u00f3n THE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/Lu4uzSVebf",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        122
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    95,
+                    100
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    101,
+                    111
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    112,
+                    122
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Lu4uzSVebf",
+                "expanded_url": "https://twitter.com/joonsfreedom/status/1415830928971157514",
+                "display_url": "twitter.com/joonsfreedom/s\u2026",
+                "indices": [
+                    123,
+                    146
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1387817129098031108,
+        "id_str": "1387817129098031108",
+        "name": "Liss \ud83d\udda4\ud83d\udc96",
+        "screen_name": "jenlischasoo",
+        "location": "",
+        "description": "The pinks my happiness/ ONLY BLINK",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 223,
+        "friends_count": 132,
+        "listed_count": 0,
+        "created_at": "Thu Apr 29 17:13:00 +0000 2021",
+        "favourites_count": 661,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4962,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1387817354554449926/uwOfKAqt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387817354554449926/uwOfKAqt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387817129098031108/1619722543",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415830928971157514,
+    "quoted_status_id_str": "1415830928971157514",
+    "quoted_status": {
+        "created_at": "Fri Jul 16 00:29:32 +0000 2021",
+        "id": 1415830928971157514,
+        "id_str": "1415830928971157514",
+        "full_text": "acaso olvidaron que una en espec\u00edfico de sus ni\u00f1as en su concierto virtual en el que necesit\u00f3 0 esfuerzo f\u00edsico no pudo pegar a ni 1 sola nota \ud83e\udd14",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            144
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415830926890786816,
+        "in_reply_to_status_id_str": "1415830926890786816",
+        "in_reply_to_user_id": 1392378331107049472,
+        "in_reply_to_user_id_str": "1392378331107049472",
+        "in_reply_to_screen_name": "joonsfreedom",
+        "user": {
+            "id": 1392378331107049472,
+            "id_str": "1392378331107049472",
+            "name": "\u064b",
+            "screen_name": "joonsfreedom",
+            "location": "",
+            "description": "i understand that you don't like me, but you must also understand that i don't care",
+            "url": "https://t.co/YldhYaKaRr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/YldhYaKaRr",
+                            "expanded_url": "https://joonsfreedom.carrd.co/",
+                            "display_url": "joonsfreedom.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 452,
+            "friends_count": 214,
+            "listed_count": 0,
+            "created_at": "Wed May 12 07:18:10 +0000 2021",
+            "favourites_count": 4430,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4814,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413334981091467270/ITeNz64Q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413334981091467270/ITeNz64Q_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392378331107049472/1625800302",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 73,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

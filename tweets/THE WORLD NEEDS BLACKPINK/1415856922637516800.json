@@ -1,0 +1,112 @@
+{
+    "created_at": "Fri Jul 16 02:12:50 +0000 2021",
+    "id": 1415856922637516800,
+    "id_str": "1415856922637516800",
+    "full_text": "yo no cazo 1, lit m podes estar poniendo un cartel en frente mio q diga \"m gustas\" y yo voy a pensar q es para otra persona. \nhasta cuando m pidieron para ser novia yo pens\u00e9 q m estaban haciendo una joda \ud83d\ude2d\n THE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico \n@BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        261
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    233,
+                    238
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    239,
+                    249
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    251,
+                    261
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1391089740166877184,
+        "id_str": "1391089740166877184",
+        "name": "luki lv's hika \ud83c\udde6\ud83c\uddf7",
+        "screen_name": "cry4lili",
+        "location": "\ud83c\udde6\ud83c\uddf7 \u2022 minor ",
+        "description": "i like dance, my gf and bp. || he/she",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 457,
+        "friends_count": 487,
+        "listed_count": 1,
+        "created_at": "Sat May 08 17:57:02 +0000 2021",
+        "favourites_count": 3538,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16960,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414106246437818372/ZAyE7kuv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414106246437818372/ZAyE7kuv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391089740166877184/1624236388",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

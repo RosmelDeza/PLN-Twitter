@@ -1,0 +1,316 @@
+{
+    "created_at": "Fri Jul 16 02:24:03 +0000 2021",
+    "id": 1415859744812773376,
+    "id_str": "1415859744812773376",
+    "full_text": "Lamentablemente a\u00fan no tengo, pero me estoy esforzando para poder conseguir.\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/9aq6yWOCk5",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    104,
+                    109
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    110,
+                    120
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    121,
+                    131
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/9aq6yWOCk5",
+                "expanded_url": "https://twitter.com/BlinkClown20/status/1415820080219410433",
+                "display_url": "twitter.com/BlinkClown20/s\u2026",
+                "indices": [
+                    132,
+                    155
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1240745422894829569,
+        "id_str": "1240745422894829569",
+        "name": "KASS\ud83d\udcab | Project 4+1 \ud83d\udc9b",
+        "screen_name": "dosantos_karen",
+        "location": "Latinoam\u00e9rica ",
+        "description": "BLACKPINK IN YOUR AREA \ud83d\udda4\ud83d\udc97\nP\u00e1gina 100% dedicada @BLACKPINK. Soy OnlyBlink, pero no me gusta el bardo o tirar hate a otros grupos o artistas.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 339,
+        "friends_count": 523,
+        "listed_count": 0,
+        "created_at": "Thu Mar 19 21:02:57 +0000 2020",
+        "favourites_count": 11419,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6640,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410803457620074498/sXUyUqFo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410803457620074498/sXUyUqFo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240745422894829569/1625196730",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415820080219410433,
+    "quoted_status_id_str": "1415820080219410433",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 23:46:26 +0000 2021",
+        "id": 1415820080219410433,
+        "id_str": "1415820080219410433",
+        "full_text": "\u00bfTienen Merch del Grupo? Si la respuesta es si \u00bfQue tienen?\n\nSTAY WITH BLACKPINK \n#Rose #KCAMexico @BLACKPINK https://t.co/qggt0YUrlO",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            109
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        82,
+                        87
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        88,
+                        98
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        99,
+                        109
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415820076528381953,
+                    "id_str": "1415820076528381953",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YA27dXMAEkOpF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YA27dXMAEkOpF.jpg",
+                    "url": "https://t.co/qggt0YUrlO",
+                    "display_url": "pic.twitter.com/qggt0YUrlO",
+                    "expanded_url": "https://twitter.com/BlinkClown20/status/1415820080219410433/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 629,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 629,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 629,
+                            "h": 354,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415820076528381953,
+                    "id_str": "1415820076528381953",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YA27dXMAEkOpF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YA27dXMAEkOpF.jpg",
+                    "url": "https://t.co/qggt0YUrlO",
+                    "display_url": "pic.twitter.com/qggt0YUrlO",
+                    "expanded_url": "https://twitter.com/BlinkClown20/status/1415820080219410433/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 629,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 629,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 629,
+                            "h": 354,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415820074020134918,
+        "in_reply_to_status_id_str": "1415820074020134918",
+        "in_reply_to_user_id": 1391197082279682048,
+        "in_reply_to_user_id_str": "1391197082279682048",
+        "in_reply_to_screen_name": "BlinkClown20",
+        "user": {
+            "id": 1391197082279682048,
+            "id_str": "1391197082279682048",
+            "name": "\ud835\uddd7\ud835\uddee\ud835\uddfb\ud835\uddf6\ud835\uddf6\u0c0c \ud83c\udde8\ud83c\uddf4 // SIN INTERNET\ud83d\ude2d",
+            "screen_name": "BlinkClown20",
+            "location": "En tu Corazon Bebe",
+            "description": "\ud835\udc10\ud835\udc2e\ud835\udc22\ud835\udc1e\ud835\udc2b\ud835\udc28 \ud835\udc1e\ud835\udc26\ud835\udc29\ud835\udc1a\ud835\udc27\ud835\udc1a\ud835\udc1d\ud835\udc1a, \ud835\udc27\ud835\udc2e\ud835\udc1e\ud835\udc2f\ud835\udc28 \ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc1e\ud835\udc1b\ud835\udc1a\ud835\udc1c\ud835\udc24 \ud835\udc1d\ud835\udc1e \ud835\udc01\ud835\udc25\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc29\ud835\udc22\ud835\udc27\ud835\udc24 \ud835\udc32 \ud835\udc0b\ud835\udc12\ud835\udfcf \ud835\udc2c\ud835\udc22 \ud835\udc27\ud835\udc28 \ud835\udc1e\ud835\udc2c \ud835\udc26\ud835\udc2e\ud835\udc1c\ud835\udc21\ud835\udc28 \ud835\udc29\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2b, \ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc1c\ud835\udc22\ud835\udc1a\ud835\udc2c .",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1071,
+            "friends_count": 788,
+            "listed_count": 2,
+            "created_at": "Sun May 09 01:04:53 +0000 2021",
+            "favourites_count": 640,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3686,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407900518186422281/BBsysYzx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407900518186422281/BBsysYzx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391197082279682048/1623790363",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

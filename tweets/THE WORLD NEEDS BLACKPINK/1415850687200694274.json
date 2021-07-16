@@ -1,0 +1,132 @@
+{
+    "created_at": "Fri Jul 16 01:48:03 +0000 2021",
+    "id": 1415850687200694274,
+    "id_str": "1415850687200694274",
+    "full_text": "@camixxLisa @BLACKPINK Maldita sea por qu\u00e9 Colombia no es Jap\u00f3n \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        23,
+        119
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    92,
+                    97
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    98,
+                    108
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "camixxLisa",
+                "name": "\u2728 Cami/ \ud83c\udde8\ud83c\uddf4",
+                "id": 1058101555436625920,
+                "id_str": "1058101555436625920",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    12,
+                    22
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    109,
+                    119
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415847662692220928,
+    "in_reply_to_status_id_str": "1415847662692220928",
+    "in_reply_to_user_id": 1058101555436625920,
+    "in_reply_to_user_id_str": "1058101555436625920",
+    "in_reply_to_screen_name": "camixxLisa",
+    "user": {
+        "id": 1034583899958124544,
+        "id_str": "1034583899958124544",
+        "name": "Gabriela asprilla #Sialkpopnoaluribismo \ud83c\udde8\ud83c\uddf4",
+        "screen_name": "gabrielaaspril1",
+        "location": "Barranquilla, Colombia",
+        "description": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 \u2696\ufe0f Blink, \nEstudiante-Derecho  \nOpinar y Defender con argumentos.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 116,
+        "friends_count": 552,
+        "listed_count": 0,
+        "created_at": "Tue Aug 28 23:29:58 +0000 2018",
+        "favourites_count": 14187,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1829,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1274035723721637896/XjqunSV8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1274035723721637896/XjqunSV8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1034583899958124544/1601424242",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

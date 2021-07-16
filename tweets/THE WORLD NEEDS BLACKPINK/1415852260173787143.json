@@ -1,0 +1,385 @@
+{
+    "created_at": "Fri Jul 16 01:54:18 +0000 2021",
+    "id": 1415852260173787143,
+    "id_str": "1415852260173787143",
+    "full_text": "RT @JisoocristoTu: Nadie en esta vida es perfecto pero Jennie Kim es la excepci\u00f3n \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK h\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    110,
+                    115
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    116,
+                    126
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JisoocristoTu",
+                "name": "Luciana\ud83c\uddf5\ud83c\uddea",
+                "id": 1346487422792704002,
+                "id_str": "1346487422792704002",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    127,
+                    137
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 865611078323011584,
+        "id_str": "865611078323011584",
+        "name": "LIZET\ud83d\udc9c\ufe0f",
+        "screen_name": "lizet2118",
+        "location": "Mexico",
+        "description": "All you need is love",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 346,
+        "friends_count": 299,
+        "listed_count": 1,
+        "created_at": "Fri May 19 16:52:18 +0000 2017",
+        "favourites_count": 35335,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31313,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406421348088483842/ssLjrTVE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406421348088483842/ssLjrTVE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/865611078323011584/1618533056",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:14:30 +0000 2021",
+        "id": 1415842244431646721,
+        "id_str": "1415842244431646721",
+        "full_text": "Nadie en esta vida es perfecto pero Jennie Kim es la excepci\u00f3n \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/hvBCQHH7Xe",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            118
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        91,
+                        96
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        97,
+                        107
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        108,
+                        118
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415842150500208641,
+                    "id_str": "1415842150500208641",
+                    "indices": [
+                        119,
+                        142
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YU7zaXEAEubJi.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YU7zaXEAEubJi.png",
+                    "url": "https://t.co/hvBCQHH7Xe",
+                    "display_url": "pic.twitter.com/hvBCQHH7Xe",
+                    "expanded_url": "https://twitter.com/JisoocristoTu/status/1415842244431646721/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 512,
+                            "h": 679,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 512,
+                            "h": 679,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 512,
+                            "h": 679,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415842150500208641,
+                    "id_str": "1415842150500208641",
+                    "indices": [
+                        119,
+                        142
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YU7zaXEAEubJi.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YU7zaXEAEubJi.png",
+                    "url": "https://t.co/hvBCQHH7Xe",
+                    "display_url": "pic.twitter.com/hvBCQHH7Xe",
+                    "expanded_url": "https://twitter.com/JisoocristoTu/status/1415842244431646721/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 512,
+                            "h": 679,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 512,
+                            "h": 679,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 512,
+                            "h": 679,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                },
+                {
+                    "id": 1415842191637979138,
+                    "id_str": "1415842191637979138",
+                    "indices": [
+                        119,
+                        142
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YU-MqXoAIzLmI.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YU-MqXoAIzLmI.png",
+                    "url": "https://t.co/hvBCQHH7Xe",
+                    "display_url": "pic.twitter.com/hvBCQHH7Xe",
+                    "expanded_url": "https://twitter.com/JisoocristoTu/status/1415842244431646721/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 360,
+                            "h": 260,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 360,
+                            "h": 260,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 360,
+                            "h": 260,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415842227935490051,
+                    "id_str": "1415842227935490051",
+                    "indices": [
+                        119,
+                        142
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YVAT4XsAMgiDd.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YVAT4XsAMgiDd.png",
+                    "url": "https://t.co/hvBCQHH7Xe",
+                    "display_url": "pic.twitter.com/hvBCQHH7Xe",
+                    "expanded_url": "https://twitter.com/JisoocristoTu/status/1415842244431646721/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 360,
+                            "h": 234,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 360,
+                            "h": 234,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 360,
+                            "h": 234,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1346487422792704002,
+            "id_str": "1346487422792704002",
+            "name": "Luciana\ud83c\uddf5\ud83c\uddea",
+            "screen_name": "JisoocristoTu",
+            "location": "Sullana, Per\u00fa",
+            "description": "Y EL SOLO DE LISA PA CUANDO?\nBLACKPINK Y OLIVA \nOT4",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1235,
+            "friends_count": 976,
+            "listed_count": 1,
+            "created_at": "Tue Jan 05 16:03:26 +0000 2021",
+            "favourites_count": 50329,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 54971,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404906603774623755/_idZqzp8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404906603774623755/_idZqzp8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346487422792704002/1620228314",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,145 @@
+{
+    "created_at": "Fri Jul 16 01:46:43 +0000 2021",
+    "id": 1415850349143986176,
+    "id_str": "1415850349143986176",
+    "full_text": "@rswhistle @BLACKPINK JAJAJAJA YO PC DE ALGUIEN? \nOJAL\u00c1 \nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        22,
+        110
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    83,
+                    88
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    89,
+                    99
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "rswhistle",
+                "name": "laura",
+                "id": 1375930370517037057,
+                "id_str": "1375930370517037057",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    11,
+                    21
+                ]
+            },
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    100,
+                    110
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415850166649819137,
+    "in_reply_to_status_id_str": "1415850166649819137",
+    "in_reply_to_user_id": 1375930370517037057,
+    "in_reply_to_user_id_str": "1375930370517037057",
+    "in_reply_to_screen_name": "rswhistle",
+    "user": {
+        "id": 1091081600417312769,
+        "id_str": "1091081600417312769",
+        "name": "Kler \u2118",
+        "screen_name": "iParkLs97",
+        "location": "\uae40\uc81c\ub2c8 \u2661",
+        "description": "\u2730 97'\ud835\uddcc \u2014 it girl, \ud835\udd91\ud835\udd86\ud835\udd91\ud835\udd8e\ud835\udd98\ud835\udd86 \ud835\udd92\ud835\udd86\ud835\udd93\ud835\udd94\ud835\udd87\ud835\udd86\ud835\udd93\n\n\n                                     \n                              -we were born to be alone",
+        "url": "https://t.co/gF9qKUcL4Y",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/gF9qKUcL4Y",
+                        "expanded_url": "http://lsnls1.carrd.co",
+                        "display_url": "lsnls1.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 210,
+        "friends_count": 500,
+        "listed_count": 1,
+        "created_at": "Thu Jan 31 21:11:39 +0000 2019",
+        "favourites_count": 52397,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16856,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415118704854065156/G7DgFEFO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415118704854065156/G7DgFEFO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1091081600417312769/1626225491",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

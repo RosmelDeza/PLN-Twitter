@@ -1,0 +1,365 @@
+{
+    "created_at": "Fri Jul 16 01:58:40 +0000 2021",
+    "id": 1415853358636732424,
+    "id_str": "1415853358636732424",
+    "full_text": "creo que voy a imprimir la entrada bkn y si llego a ir al cine voy a guardar la boleta jahfjfj \n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/S38gCn9AHG",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        150
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    123,
+                    128
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    129,
+                    139
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    140,
+                    150
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/S38gCn9AHG",
+                "expanded_url": "https://twitter.com/saveurtears4bp/status/1415844055112687624",
+                "display_url": "twitter.com/saveurtears4bp\u2026",
+                "indices": [
+                    151,
+                    174
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1311436836129181696,
+        "id_str": "1311436836129181696",
+        "name": "Vzarate | LISA SOLO SOON\ud83d\udd25",
+        "screen_name": "Vzarate8",
+        "location": "",
+        "description": "BL\u039b\u0186KPI\u0418K IN MY AREA\ud83d\udda4\ud83d\udc97 ||\n\n\ud83e\udd84\ud83c\udfb6\ud83c\udfad\ud83c\udfac ||\nmultifandom siksi ||\n\ud83d\udc99\ud83d\udc9a ||\nShe/Her \ud83c\udff3\ufe0f\u200d\ud83c\udf08 ||",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 142,
+        "friends_count": 155,
+        "listed_count": 0,
+        "created_at": "Wed Sep 30 22:45:16 +0000 2020",
+        "favourites_count": 2542,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3216,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415166087096905731/pQq0_Bgg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415166087096905731/pQq0_Bgg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311436836129181696/1623602417",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415844055112687624,
+    "quoted_status_id_str": "1415844055112687624",
+    "quoted_status": {
+        "created_at": "Fri Jul 16 01:21:42 +0000 2021",
+        "id": 1415844055112687624,
+        "id_str": "1415844055112687624",
+        "full_text": "los boletos para            los boletos para\nthe movie en                      the movie en\njapon                                               latam\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK https://t.co/AXJKCmbHj9",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            204
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rose",
+                    "indices": [
+                        177,
+                        182
+                    ]
+                },
+                {
+                    "text": "KCAMexico",
+                    "indices": [
+                        183,
+                        193
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BLACKPINK",
+                    "name": "BLACKPINKOFFICIAL",
+                    "id": 1273850774380883975,
+                    "id_str": "1273850774380883975",
+                    "indices": [
+                        194,
+                        204
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415844051576786944,
+                    "id_str": "1415844051576786944",
+                    "indices": [
+                        205,
+                        228
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YWqdeVkAASWGc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YWqdeVkAASWGc.jpg",
+                    "url": "https://t.co/AXJKCmbHj9",
+                    "display_url": "pic.twitter.com/AXJKCmbHj9",
+                    "expanded_url": "https://twitter.com/saveurtears4bp/status/1415844055112687624/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415844051576786944,
+                    "id_str": "1415844051576786944",
+                    "indices": [
+                        205,
+                        228
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YWqdeVkAASWGc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YWqdeVkAASWGc.jpg",
+                    "url": "https://t.co/AXJKCmbHj9",
+                    "display_url": "pic.twitter.com/AXJKCmbHj9",
+                    "expanded_url": "https://twitter.com/saveurtears4bp/status/1415844055112687624/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 636,
+                            "h": 633,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415844051576754176,
+                    "id_str": "1415844051576754176",
+                    "indices": [
+                        205,
+                        228
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YWqdeVEAAkflJ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YWqdeVEAAkflJ.jpg",
+                    "url": "https://t.co/AXJKCmbHj9",
+                    "display_url": "pic.twitter.com/AXJKCmbHj9",
+                    "expanded_url": "https://twitter.com/saveurtears4bp/status/1415844055112687624/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 204,
+                            "h": 200,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 204,
+                            "h": 200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 204,
+                            "h": 200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1360284686266863616,
+            "id_str": "1360284686266863616",
+            "name": "\u064e",
+            "screen_name": "saveurtears4bp",
+            "location": "  she/her | \ube14\ub799 \ud551\ud06c",
+            "description": "i mean,we\u2019re all a little bit gay, aren\u2019t we ? \u2800",
+            "url": "https://t.co/4YtpeXodAo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4YtpeXodAo",
+                            "expanded_url": "https://lsnls1.carrd.co",
+                            "display_url": "lsnls1.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1471,
+            "friends_count": 1543,
+            "listed_count": 2,
+            "created_at": "Fri Feb 12 17:48:49 +0000 2021",
+            "favourites_count": 6892,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5095,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415083170056183809/2rHFK4_p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415083170056183809/2rHFK4_p_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360284686266863616/1626217080",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 189,
+        "favorite_count": 505,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

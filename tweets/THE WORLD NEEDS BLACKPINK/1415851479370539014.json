@@ -1,0 +1,112 @@
+{
+    "created_at": "Fri Jul 16 01:51:12 +0000 2021",
+    "id": 1415851479370539014,
+    "id_str": "1415851479370539014",
+    "full_text": "Si me ven en la calle, no sean t\u00edmidos. Atropellenme con toda confianza uwu.\n\nTHE WORLD NEEDS BLACKPINK\n#Rose #KCAMexico @BLACKPINK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rose",
+                "indices": [
+                    104,
+                    109
+                ]
+            },
+            {
+                "text": "KCAMexico",
+                "indices": [
+                    110,
+                    120
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BLACKPINK",
+                "name": "BLACKPINKOFFICIAL",
+                "id": 1273850774380883975,
+                "id_str": "1273850774380883975",
+                "indices": [
+                    121,
+                    131
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1391293123918286849,
+        "id_str": "1391293123918286849",
+        "name": "Blink-ku",
+        "screen_name": "corazonblinku",
+        "location": "tu coraz\u00f3n uwur",
+        "description": "blink OT4\n\n\u2661Eres la estrella que ilumin\u00f3 mi cielo\u2661",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 256,
+        "friends_count": 238,
+        "listed_count": 0,
+        "created_at": "Sun May 09 07:25:20 +0000 2021",
+        "favourites_count": 2908,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6429,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414451033770807298/4JtI_A7P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414451033770807298/4JtI_A7P_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391293123918286849/1624849629",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}
